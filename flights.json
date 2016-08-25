@@ -1,0 +1,20 @@
+[
+	{
+		"from": "BUD",
+		"to": "MUC",
+		"departure": 1384064700,
+		"arrival": 1384069500,
+		"airline": "CLH",
+		"aircraft": "A320",
+		"business": true
+	},
+	{
+		"from": "MUC",
+		"to": "LUX",
+		"departure": 1384080900,
+		"arrival": 1384085100,
+		"airline": "DLH",
+		"aircraft": "CRJ9",
+		"business": true
+	}
+]
