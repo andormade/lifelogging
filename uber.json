@@ -1,0 +1,25 @@
+[
+	{
+		"timestamp": 2454332,
+		"from": {
+			"address": "9800-9998 Vickburgs Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "United States of America"
+		},
+		"to": {
+			"address": "6906 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "United States of America"
+		},
+		"price": 20.28,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Corolla"
+		}
+	}
+]
