@@ -34,5 +34,23 @@
 		"airline": "SWR",
 		"aircraft": "E190",
 		"business": false
+	},
+	{
+		"from": "VIE",
+		"to": "ZRH",
+		"departure": 1401889500,
+		"arrival": 1401894600,
+		"airline": "SWR",
+		"aircraft": "A319",
+		"business": false
+	},
+	{
+		"from": "ZRH",
+		"to": "LUX",
+		"departure": 1401899100,
+		"arrival": 1401902700,
+		"airline": "SWR",
+		"aircraft": "RJ1H",
+		"business": false
 	}
 ]
