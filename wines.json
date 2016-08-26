@@ -3,12 +3,36 @@
 		"name": "El Pino Monastrell",
 		"vineyard": "Juan Gil",
 		"grape": ["Mourvèdre", "Shiraz"],
-		"color": "red",
+		"type": "red",
 		"vintage": 2014,
 		"country": "ES",
 		"region": "Jumilla",
 		"rating": 0.6,
 		"price": 5.59,
+		"currency": "EUR"
+	},
+	{
+		"name": "Trocken Riesling",
+		"vineyard": "Maybach",
+		"grape": ["Riesling"],
+		"type": "white",
+		"vintage": 2013,
+		"country": "DE",
+		"region": "Pfalz",
+		"rating": 0.6,
+		"price": 4.99,
+		"currency": "EUR"
+	},
+	{
+		"name": "Mosel Rosé",
+		"vineyard": "Deutschherrenhof",
+		"grape": ["Pinot noir", "Dornfelder"],
+		"type": "rosé",
+		"vintage": 2014,
+		"country": "DE",
+		"region": "Mosel",
+		"rating": 0.6,
+		"price": 11,
 		"currency": "EUR"
 	}
 ]
