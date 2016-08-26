@@ -6,14 +6,14 @@
 			"city": "Los Angeles",
 			"state": "California",
 			"zip": 90038,
-			"country": "United States of America"
+			"country": "US"
 		},
 		"to": {
 			"address": "6906 Melrose Ave",
 			"city": "Los Angeles",
 			"state": "California",
 			"zip": 90038,
-			"country": "United States of America"
+			"country": "US"
 		},
 		"price": 20.28,
 		"currency": "USD",
@@ -29,20 +29,43 @@
 			"city": "Los Angeles",
 			"state": "California",
 			"zip": 90038,
-			"country": "United States of America"
+			"country": "US"
 		},
 		"to": {
 			"address": "1746 N Orange Dr",
 			"city": "Los Angeles",
 			"state": "California",
 			"zip": 90028,
-			"country": "United States of America"
+			"country": "US"
 		},
 		"price": 2.50,
 		"currency": "USD",
 		"car": {
 			"manufacturer": "Kia",
 			"model": "Soul"
+		}
+	},
+	{
+		"timestamp": 1470469740,
+		"from": {
+			"address": "6857-6867 Hollywood Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "6909 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 5.15,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
 		}
 	}
 ]
