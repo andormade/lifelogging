@@ -34,5 +34,17 @@
 		"rating": 0.6,
 		"price": 11,
 		"currency": "EUR"
+	},
+	{
+		"name": "Sangre de Toro",
+		"vineyard": "Miguel Torres",
+		"grape": ["Grenache"],
+		"type": "red",
+		"vintage": 2014,
+		"country": "ES",
+		"region": "Catalunya",
+		"rating": 0.6,
+		"price": 6.84,
+		"currency": "EUR"
 	}
 ]
