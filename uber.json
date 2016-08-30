@@ -67,5 +67,74 @@
 			"manufacturer": "Toyota",
 			"model": "Prius"
 		}
+	},
+	{
+		"timestamp": 1470600360,
+		"from": {
+			"address": "6906 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "151-199 E Magnolia Blvd",
+			"city": "Burbank",
+			"state": "California",
+			"zip": 91502,
+			"country": "US"
+		},
+		"price": 17.61,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
+		}
+	},
+	{
+		"timestamp": 1470610860,
+		"from": {
+			"address": "205-231 E Magnolia Blvd",
+			"city": "Burbank",
+			"state": "California",
+			"zip": 91502,
+			"country": "US"
+		},
+		"to": {
+			"address": "577-599 S Alexandria Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90020,
+			"country": "US"
+		},
+		"price": 11.48,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
+		}
+	},
+	{
+		"timestamp": 1470628620,
+		"from": {
+			"address": "534 S Alexandria Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90020,
+			"country": "US"
+		},
+		"to": {
+			"address": "6909 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 9.90,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
+		}
 	}
 ]
