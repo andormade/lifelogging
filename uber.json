@@ -182,5 +182,97 @@
 			"manufacturer": "Toyota",
 			"model": "Prius"
 		}
+	},
+	{
+		"timestamp": 1471130640,
+		"from": {
+			"address": "6906 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "610 S Kenmore Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90005,
+			"country": "US"
+		},
+		"price": 9.88,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
+		}
+	},
+	{
+		"timestamp": 1471133520,
+		"from": {
+			"address": "3470 W 6th St",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90020,
+			"country": "US"
+		},
+		"to": {
+			"address": "1338 S Grand Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90015,
+			"country": "US"
+		},
+		"price": 6.53,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Nissan",
+			"model": "Versa"
+		}
+	},
+	{
+		"timestamp": 1471130640,
+		"from": {
+			"address": "1336 S Grand Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90015,
+			"country": "US"
+		},
+		"to": {
+			"address": "6920 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 23.32,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Chevrolet",
+			"model": "Malibu"
+		}
+	},
+	{
+		"timestamp": 1471130640,
+		"from": {
+			"address": "712-720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "Sunset Gate",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90012,
+			"country": "US"
+		},
+		"price": 13.04,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Scion",
+			"model": "iM"
+		}
 	}
 ]
