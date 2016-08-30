@@ -297,5 +297,143 @@
 			"manufacturer": "Toyota",
 			"model": "Corolla"
 		}
+	},
+	{
+		"timestamp": "2016-08-22T22:36:00-07:00",
+		"from": {
+			"address": "730 Lillian Way",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "638 1/2 N Orange Dr",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90036,
+			"country": "US"
+		},
+		"price": 4.88,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Corolla"
+		}
+	},
+	{
+		"timestamp": "2016-08-26T22:26:00-07:00",
+		"from": {
+			"address": "1233 Vine St",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "6919-6935 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 3.19,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
+		}
+	},
+	{
+		"timestamp": "2016-08-27T12:06:00-07:00",
+		"from": {
+			"address": "6906 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1660 Highland Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 5.15,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Camry"
+		}
+	},
+	{
+		"timestamp": "2016-08-27T18:23:00-07:00",
+		"from": {
+			"address": "1453-1465 Ivar Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "675-699 N Orange Dr",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90036,
+			"country": "US"
+		},
+		"price": 3.44,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
+		}
+	},
+	{
+		"timestamp": "2016-08-28T14:10:00-07:00",
+		"from": {
+			"address": "6908 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "6020 Santa Monica Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 1.67,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Ford",
+			"model": "Fusion"
+		}
+	},
+	{
+		"timestamp": "2016-08-28T22:32:00-07:00",
+		"from": {
+			"address": "700-750 Lillian Way",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "6920 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 3.19,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
+		}
 	}
 ]
