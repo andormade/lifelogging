@@ -1,6 +1,6 @@
 [
 	{
-		"timestamp": 1470113760,
+		"timestamp": "2016-08-01T21:56:00-07:00",
 		"from": {
 			"address": "9800-9998 Vickburgs Ave",
 			"city": "Los Angeles",
@@ -23,7 +23,7 @@
 		}
 	},
 	{
-		"timestamp": 1470447420,
+		"timestamp": "2016-08-05T18:37:00-07:00",
 		"from": {
 			"address": "712-720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -46,7 +46,7 @@
 		}
 	},
 	{
-		"timestamp": 1470469740,
+		"timestamp": "2016-08-06T00:49:00-07:00",
 		"from": {
 			"address": "6857-6867 Hollywood Blvd",
 			"city": "Los Angeles",
@@ -69,7 +69,7 @@
 		}
 	},
 	{
-		"timestamp": 1470600360,
+		"timestamp": "2016-08-07T13:06:00-07:00",
 		"from": {
 			"address": "6906 Melrose Ave",
 			"city": "Los Angeles",
@@ -92,7 +92,7 @@
 		}
 	},
 	{
-		"timestamp": 1470610860,
+		"timestamp": "2016-08-07T16:01:00-07:00",
 		"from": {
 			"address": "205-231 E Magnolia Blvd",
 			"city": "Burbank",
@@ -115,7 +115,7 @@
 		}
 	},
 	{
-		"timestamp": 1470628620,
+		"timestamp": "2016-08-07T20:57:00-07:00",
 		"from": {
 			"address": "534 S Alexandria Ave",
 			"city": "Los Angeles",
@@ -138,7 +138,7 @@
 		}
 	},
 	{
-		"timestamp": 1470972360,
+		"timestamp": "2016-08-11T20:26:00-07:00",
 		"from": {
 			"address": "712 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -161,7 +161,7 @@
 		}
 	},
 	{
-		"timestamp": 1470973020,
+		"timestamp": "2016-08-11T20:37:00-07:00",
 		"from": {
 			"address": "6906 Melrose Ave",
 			"city": "Los Angeles",
@@ -184,7 +184,7 @@
 		}
 	},
 	{
-		"timestamp": 1471130640,
+		"timestamp": "2016-08-13T16:24:00-07:00",
 		"from": {
 			"address": "6906 Melrose Ave",
 			"city": "Los Angeles",
@@ -207,7 +207,7 @@
 		}
 	},
 	{
-		"timestamp": 1471133520,
+		"timestamp": "2016-08-13T17:12:00-07:00",
 		"from": {
 			"address": "3470 W 6th St",
 			"city": "Los Angeles",
@@ -230,7 +230,7 @@
 		}
 	},
 	{
-		"timestamp": 1471130640,
+		"timestamp": "2016-08-14T02:10:00-07:00",
 		"from": {
 			"address": "1336 S Grand Ave",
 			"city": "Los Angeles",
@@ -253,7 +253,7 @@
 		}
 	},
 	{
-		"timestamp": 1440028920,
+		"timestamp": "2016-08-19T17:02:00-07:00",
 		"from": {
 			"address": "712-720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -276,30 +276,7 @@
 		}
 	},
 	{
-		"timestamp": 1471677540,
-		"from": {
-			"address": "820 N Hill St",
-			"city": "Los Angeles",
-			"state": "California",
-			"zip": 90012,
-			"country": "US"
-		},
-		"to": {
-			"address": "675-699 N Orange Dr",
-			"city": "Los Angeles",
-			"state": "California",
-			"zip": 90036,
-			"country": "US"
-		},
-		"price": 11.93,
-		"currency": "USD",
-		"car": {
-			"manufacturer": "Toyota",
-			"model": "Corolla"
-		}
-	},
-	{
-		"timestamp": 1471677540,
+		"timestamp": "2016-08-20T00:19:00-07:00,
 		"from": {
 			"address": "820 N Hill St",
 			"city": "Los Angeles",
