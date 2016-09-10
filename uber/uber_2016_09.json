@@ -1,1 +1,48 @@
-[]
+[
+	{
+		"timestamp": "2016-09-02T20:41:00-07:00",
+		"from": {
+			"address": "6908 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1427 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 4.25,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Hyundai",
+			"model": "Elantra"
+		}
+	},
+	{
+		"timestamp": "2016-09-02T20:54:00-07:00",
+		"from": {
+			"address": "1421 Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "812-818 E Colorado St",
+			"city": "Glendale",
+			"state": "California",
+			"zip": 91205,
+			"country": "US"
+		},
+		"price": 10.55,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Corolla"
+		}
+	}
+]
