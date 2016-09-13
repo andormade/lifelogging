@@ -26,14 +26,14 @@
 	{
 		"timestamp": "2016-09-02T20:54:00-07:00",
 		"from": {
-			"address": "1421 Bronson Ave",
+			"address": "1421 N Bronson Ave",
 			"city": "Los Angeles",
 			"state": "California",
 			"zip": 90028,
 			"country": "US"
 		},
 		"to": {
-			"address": "812-818 E Colorado St",
+			"address": "6912 ",
 			"city": "Glendale",
 			"state": "California",
 			"zip": 91205,
@@ -44,6 +44,30 @@
 		"car": {
 			"manufacturer": "Toyota",
 			"model": "Corolla"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-09-03T02:31:00-07:00",
+		"from": {
+			"address": "1417 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "6912 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 2.72,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
 		},
 		"tnc": "uber"
 	}
