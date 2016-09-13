@@ -20,7 +20,8 @@
 		"car": {
 			"manufacturer": "Hyundai",
 			"model": "Elantra"
-		}
+		},
+		"tnc": "uber"
 	},
 	{
 		"timestamp": "2016-09-02T20:54:00-07:00",
@@ -43,6 +44,7 @@
 		"car": {
 			"manufacturer": "Toyota",
 			"model": "Corolla"
-		}
+		},
+		"tnc": "uber"
 	}
 ]
