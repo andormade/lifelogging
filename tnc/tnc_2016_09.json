@@ -70,5 +70,53 @@
 			"model": "Prius"
 		},
 		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-09-05T16:42:00-07:00",
+		"from": {
+			"address": "701 N Orange Dr",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "Western Canyon Rd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90068,
+			"country": "US"
+		},
+		"price": 2.65,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Infiniti",
+			"model": "G Sedan"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-09-05T20:57:00-07:00",
+		"from": {
+			"address": "730 Lillian Way",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "6910 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 3.09,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "BMW",
+			"model": "5-series"
+		},
+		"tnc": "uber"
 	}
 ]
