@@ -190,5 +190,45 @@
 			"model": "Insight Hybrid"
 		},
 		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-09-14T19:22:00-07:00",
+		"from": {
+			"address": "6992 W Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "LAX, Bradley International Terminal",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90045,
+			"country": "US"
+		},
+		"price": 23.90,
+		"currency": "USD",
+		"tnc": "lyft"
+	},
+	{
+		"timestamp": "2016-09-14T20:55:00-07:00",
+		"from": {
+			"address": "Jenny Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90045,
+			"country": "US"
+		},
+		"to": {
+			"address": "6910 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 15.80,
+		"currency": "USD",
+		"tnc": "lyft"
 	}
 ]
