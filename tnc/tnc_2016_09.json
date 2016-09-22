@@ -230,5 +230,65 @@
 		"price": 15.80,
 		"currency": "USD",
 		"tnc": "lyft"
+	},
+	{
+		"timestamp": "2016-09-17T09:58:00-07:00",
+		"from": {
+			"address": "7082 Willoughby Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90046,
+			"country": "US"
+		},
+		"to": {
+			"address": "13717 Fiji Way",
+			"city": "Marina Del Rey",
+			"state": "California",
+			"zip": 90292,
+			"country": "US"
+		},
+		"price": 17.22,
+		"currency": "USD",
+		"tnc": "lyft"
+	},
+	{
+		"timestamp": "2016-09-17T14:21:00-07:00",
+		"from": {
+			"address": "Admiralty Way",
+			"city": "Marina Del Rey",
+			"state": "California",
+			"zip": 90292,
+			"country": "US"
+		},
+		"to": {
+			"address": "15 Washington Blvd",
+			"city": "Marina Del Rey",
+			"state": "California",
+			"zip": 90292,
+			"country": "US"
+		},
+		"price": 2.00,
+		"currency": "USD",
+		"tnc": "lyft"
+	},
+	{
+		"timestamp": "2016-09-17T17:58:00-07:00",
+		"from": {
+			"address": "3179 Pacific Ave",
+			"city": "Marina Del Rey",
+			"state": "California",
+			"zip": 90292,
+			"country": "US"
+		},
+		"to": {
+			"address": "6910 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 17.24,
+		"currency": "USD",
+		"tnc": "lyft"
 	}
 ]
