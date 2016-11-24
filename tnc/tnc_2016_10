@@ -1,0 +1,26 @@
+[
+	{
+		"timestamp": "2016-10-30T11:37:00+01:00",
+		"from": {
+			"address": "Karl-Liebknecht-Sr. 8",
+			"city": "Berlin",
+			"state": "Berlin",
+			"zip": 10117,
+			"country": "DE"
+		},
+		"to": {
+			"address": "Unter den Linden 80",
+			"city": "Berlin",
+			"state": "Berlin",
+			"zip": 10117,
+			"country": "DE"
+		},
+		"price": 12.90,
+		"currency": "EUR",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
+		},
+		"tnc": "uber"
+	}
+]
