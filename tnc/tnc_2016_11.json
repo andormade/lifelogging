@@ -1,25 +1,49 @@
 [
 	{
-		"timestamp": "2016-11-23T11:21:00-08:00",
+		"timestamp": "2016-11-20T14:49:00-08:00",
 		"from": {
-			"address": "733 N Cahuenga Blvd",
+			"address": "512 Jenny Ave",
 			"city": "Los Angeles",
 			"state": "California",
-			"zip": 90038,
+			"zip": 90045,
 			"country": "US"
 		},
 		"to": {
-			"address": "4000-4014 Country Club Dr",
+			"address": "1550-1598 N El Centro Ave",
 			"city": "Los Angeles",
 			"state": "California",
-			"zip": 90019,
+			"zip": 90028,
 			"country": "US"
 		},
-		"price": 2.79,
+		"price": 24.56,
 		"currency": "USD",
 		"car": {
-			"manufacturer": "Honda",
-			"model": "Accord"
+			"manufacturer": "Mercedes-Benz",
+			"model": "C-Class"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-11-20T15:53:00-08:00",
+		"from": {
+			"address": "1501-1599 N El Centro Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "1565-1595 N Van Ness Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 5.15,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Mercedes-Benz",
+			"model": "C-Class"
 		},
 		"tnc": "uber"
 	},
@@ -48,26 +72,26 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-20T15:53:00-08:00",
+		"timestamp": "2016-11-23T11:21:00-08:00",
 		"from": {
-			"address": "1501-1599 N El Centro Ave",
+			"address": "733 N Cahuenga Blvd",
 			"city": "Los Angeles",
 			"state": "California",
-			"zip": 90028,
+			"zip": 90038,
 			"country": "US"
 		},
 		"to": {
-			"address": "1565-1595 N Van Ness Ave",
+			"address": "4000-4014 Country Club Dr",
 			"city": "Los Angeles",
 			"state": "California",
-			"zip": 90028,
+			"zip": 90019,
 			"country": "US"
 		},
-		"price": 14.37,
+		"price": 2.79,
 		"currency": "USD",
 		"car": {
-			"manufacturer": "Mercedes-Benz",
-			"model": "C-Class"
+			"manufacturer": "Honda",
+			"model": "Accord"
 		},
 		"tnc": "uber"
 	}
