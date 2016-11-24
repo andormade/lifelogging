@@ -1,0 +1,26 @@
+[
+	{
+		"timestamp": "2016-11-23T11:21:00-08:00",
+		"from": {
+			"address": "733 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "4000-4014 Country Club Dr",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90019,
+			"country": "US"
+		},
+		"price": 2.79,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Honda",
+			"model": "Accord"
+		},
+		"tnc": "uber"
+	}
+]
