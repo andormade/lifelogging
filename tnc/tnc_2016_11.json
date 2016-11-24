@@ -22,5 +22,53 @@
 			"model": "Accord"
 		},
 		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-11-22T11:18:00-08:00",
+		"from": {
+			"address": "2011 N Brighton St",
+			"city": "Burbank",
+			"state": "California",
+			"zip": 91504,
+			"country": "US"
+		},
+		"to": {
+			"address": "1700-1710 Highland Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 14.37,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Honda",
+			"model": "Civic"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-11-20T15:53:00-08:00",
+		"from": {
+			"address": "1501-1599 N El Centro Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "1565-1595 N Van Ness Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 14.37,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Mercedes-Benz",
+			"model": "C-Class"
+		},
+		"tnc": "uber"
 	}
 ]
