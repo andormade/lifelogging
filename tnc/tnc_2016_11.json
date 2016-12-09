@@ -262,5 +262,149 @@
 			"model": "Prius"
 		},
 		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-11-27T11:44:00-08:00",
+		"from": {
+			"address": "1477-1495 Vine St",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "Windsor Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 3.22,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Nissan",
+			"model": "Versa"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-11-27T11:57:00-08:00",
+		"from": {
+			"address": "Windsor Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "686-689 N Genesee Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90036,
+			"country": "US"
+		},
+		"price": 3.27,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Hyundai",
+			"model": "Sonata"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-11-27T14:21:00-08:00",
+		"from": {
+			"address": "629 N Vista St",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90036,
+			"country": "US"
+		},
+		"to": {
+			"address": "5800 Harold Way",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 3.88,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Lexus",
+			"model": "IS"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-11-28T18:43:00-08:00",
+		"from": {
+			"address": "712-720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1415 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 4.64,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-11-29T08:35:00-08:00",
+		"from": {
+			"address": "5812 Harold Way",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 4.64,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-11-30T12:06:00-08:00",
+		"from": {
+			"address": "5800 Harold Way",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 5.15,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Corolla"
+		},
+		"tnc": "uber"
 	}
 ]
