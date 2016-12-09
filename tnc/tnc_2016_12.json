@@ -1,0 +1,74 @@
+[
+	{
+		"timestamp": "2016-12-01T08:31:00-08:00",
+		"from": {
+			"address": "5851 Harold Way",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "733 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 4.64,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Honda",
+			"model": "Civic"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-01T18:06:00-08:00",
+		"from": {
+			"address": "720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1415 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 4.64,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Honda",
+			"model": "Accord"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-01T18:49:00-08:00",
+		"from": {
+			"address": "5807-5811 Harold Way",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "80 The Grove Dr",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90036,
+			"country": "US"
+		},
+		"price": 7.26,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Camry"
+		},
+		"tnc": "uber"
+	}
+]
