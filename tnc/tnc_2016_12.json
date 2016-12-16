@@ -70,5 +70,125 @@
 			"model": "Camry"
 		},
 		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-01T23:21:00-08:00",
+		"from": {
+			"address": "6329-6333 W 3rd St",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90036,
+			"country": "US"
+		},
+		"to": {
+			"address": "5800 Harold Way",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 3.49,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Honda",
+			"model": "Civic"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-02T07:32:00-08:00",
+		"from": {
+			"address": "5807-5811 Harold Way",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 6.35,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Camry"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-03T10:31:00-08:00",
+		"from": {
+			"address": "5761-5799 Sunset Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "120 S Western Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90004,
+			"country": "US"
+		},
+		"price": 5.15,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Mazda",
+			"model": "MAZDA6"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-03T17:16:00-08:00",
+		"from": {
+			"address": "111 S Oxford Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90004,
+			"country": "US"
+		},
+		"to": {
+			"address": "1427 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 5.15,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Honda",
+			"model": "Fit"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-04T12:20:00-08:00",
+		"from": {
+			"address": "1415 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "1031-1061 N La Brea Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 3.49,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Chevrolet",
+			"model": "Suburban"
+		},
+		"tnc": "uber"
 	}
 ]
