@@ -190,5 +190,125 @@
 			"model": "Suburban"
 		},
 		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-04T14:32:00-08:00",
+		"from": {
+			"address": "7100 Santa Monica Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90046,
+			"country": "US"
+		},
+		"to": {
+			"address": "1415 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 4.64,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Nissan",
+			"model": "Sentra"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-05T08:40:00-08:00",
+		"from": {
+			"address": "1415 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "712 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 5.67,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Corolla"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-06T18:18:00-08:00",
+		"from": {
+			"address": "712-720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1417 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 4.64,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Nissan",
+			"model": "Altima"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-08T19:59:00-08:00",
+		"from": {
+			"address": "712-720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1421 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 4.64,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Lexus",
+			"model": "ES"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-09T13:32:00-08:00",
+		"from": {
+			"address": "1477-1495 Vine St",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "726 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 3.49,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Corolla"
+		},
+		"tnc": "uber"
 	}
 ]
