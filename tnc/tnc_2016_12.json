@@ -310,5 +310,341 @@
 			"model": "Corolla"
 		},
 		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-09T18:40:00-08:00",
+		"from": {
+			"address": "720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1421 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 6.68,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Chevrolet",
+			"model": "Cruze"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-10T17:52:00-08:00",
+		"from": {
+			"address": "753-755 Lillian way",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1407 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 5.67,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Chrysler",
+			"model": "PT Cruiser"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-10T20:13:00-08:00",
+		"from": {
+			"address": "1421 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "1720 N McCadden Pl",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 6.04,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Camry"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-11T02:17:00-08:00",
+		"from": {
+			"address": "1720 N McCadden Pl",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "1415 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 7.95,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Honda",
+			"model": "Civic"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-11T15:37:00-08:00",
+		"from": {
+			"address": "1417 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "2022-2098 N Brighton St",
+			"city": "Burbank",
+			"state": "California",
+			"zip": 91504,
+			"country": "US"
+		},
+		"price": 11.68,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Corolla"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-11T17:00:00-08:00",
+		"from": {
+			"address": "2001-2021 N Brighton St",
+			"city": "Burbank",
+			"state": "California",
+			"zip": 91504,
+			"country": "US"
+		},
+		"to": {
+			"address": "1501-1513 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 10.56,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Dodge",
+			"model": "Dart"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-12T17:04:00-08:00",
+		"from": {
+			"address": "712-720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1316-1398 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 4.64,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Camry"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-13T18:25:00-08:00",
+		"from": {
+			"address": "720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1421 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 4.64,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Honda",
+			"model": "Insight"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-14T18:22:00-08:00",
+		"from": {
+			"address": "720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1416-1482 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 5.21,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Lexus",
+			"model": "CT"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-15T08:49:00-08:00",
+		"from": {
+			"address": "1415 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "726-738 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 6.99,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Cadillac",
+			"model": "DTS"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-15T18:38:00-08:00",
+		"from": {
+			"address": "712-720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1316-1398 N bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 7.79,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Ford",
+			"model": "Fusion"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-16T18:39:00-08:00",
+		"from": {
+			"address": "1421 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 5.66,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-18T08:50:00-08:00",
+		"from": {
+			"address": "1415 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "8477 Santa Monica Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90069,
+			"country": "US"
+		},
+		"price": 4.18,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Corolla"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-18T09:55:00-08:00",
+		"from": {
+			"address": "8477-8491 Santa Monica Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90069,
+			"country": "US"
+		},
+		"to": {
+			"address": "1416-1482 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 3.49,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Camry"
+		},
+		"tnc": "uber"
 	}
 ]
