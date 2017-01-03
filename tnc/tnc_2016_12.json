@@ -790,5 +790,125 @@
 			"model": "Altima"
 		},
 		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-22T12:31:00-08:00",
+		"from": {
+			"address": "1416-1482 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "745 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 2.99,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Nissan",
+			"model": "Altima"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-22T13:57:00-08:00",
+		"from": {
+			"address": "800-836 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1700-1728 N Orange Dr",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 2.99,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "RAV4"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-22T14:38:00-08:00",
+		"from": {
+			"address": "1401-1415 N McCadden Pl",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "1417 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 2.99,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Prius"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-22T15:58:00-08:00",
+		"from": {
+			"address": "1421 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "1253 N La Brea Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 3.49,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Kia",
+			"model": "Optima"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-22T17:17:00-08:00",
+		"from": {
+			"address": "1253 N La Brea Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1345 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 5.66,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Kia",
+			"model": "Soul"
+		},
+		"tnc": "uber"
 	}
 ]
