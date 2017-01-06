@@ -910,5 +910,77 @@
 			"model": "Soul"
 		},
 		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-23T14:08:00-08:00",
+		"from": {
+			"address": "5420 Sunset Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90027,
+			"country": "US"
+		},
+		"to": {
+			"address": "1409 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 5.66,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Chrysler",
+			"model": "300"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-26T19:00:00-08:00",
+		"from": {
+			"address": "1253 N La Brea Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1421 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 5.66,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "RAV4"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-27T12:10:00-08:00",
+		"from": {
+			"address": "6010 Fountain Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "5301-5339 Red Oak Dr",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90068,
+			"country": "US"
+		},
+		"price": 4.64,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Nissan",
+			"model": "Rouge"
+		},
+		"tnc": "uber"
 	}
 ]
