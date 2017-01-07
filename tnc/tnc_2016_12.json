@@ -982,5 +982,173 @@
 			"model": "Rouge"
 		},
 		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-28T16:58:00-08:00",
+		"from": {
+			"address": "1417 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "1602 Ocean Ave",
+			"city": "Santa Monica",
+			"state": "California",
+			"zip": 90401,
+			"country": "US"
+		},
+		"price": 10.84,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Camry"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-28T16:58:00-08:00",
+		"from": {
+			"address": "1417 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "1602 Ocean Ave",
+			"city": "Santa Monica",
+			"state": "California",
+			"zip": 90401,
+			"country": "US"
+		},
+		"price": 10.84,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Camry"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-28T22:49:00-08:00",
+		"from": {
+			"address": "1527 5th St",
+			"city": "Santa Monica",
+			"state": "California",
+			"zip": 90401,
+			"country": "US"
+		},
+		"to": {
+			"address": "1421 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 10.84,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Ford",
+			"model": "C-Max Hybrid"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-29T14:37:00-08:00",
+		"from": {
+			"address": "1417 N Bronson Ace",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "700 Exposition Park Dr",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90037,
+			"country": "US"
+		},
+		"price": 4.68,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Kia",
+			"model": "Forte"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-29T17:52:00-08:00",
+		"from": {
+			"address": "1000 W Jefferson Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90007,
+			"country": "US"
+		},
+		"to": {
+			"address": "1421 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 8.37,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Nissan",
+			"model": "Altima"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-31T20:40:00-08:00",
+		"from": {
+			"address": "1415 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"to": {
+			"address": "727 Vine St",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"price": 4.24,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Honda",
+			"model": "CR-V"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2016-12-31T20:40:00-08:00",
+		"from": {
+			"address": "700-730 Lillian Way",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "923 N Oxford Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90029,
+			"country": "US"
+		},
+		"price": 5.66,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Mitsubishi",
+			"model": "Mirage"
+		},
+		"tnc": "uber"
 	}
 ]
