@@ -1,1 +1,74 @@
-[]
+[
+	{
+		"timestamp": "2017-01-01T01:48:00-08:00",
+		"from": {
+			"address": "923 N Oxford Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90029,
+			"country": "US"
+		},
+		"to": {
+			"address": "1416-1482 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 3.99,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Honda",
+			"model": "Civic"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2017-01-02T17:48:00-08:00",
+		"from": {
+			"address": "1253 N La Brea Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1415 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 5.66,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "GMC",
+			"model": "Terrain"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2017-01-03T18:19:00-08:00",
+		"from": {
+			"address": "726-738 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1400-1414 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 3.62,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Hyundai",
+			"model": "Sonata"
+		},
+		"tnc": "uber"
+	}
+]
