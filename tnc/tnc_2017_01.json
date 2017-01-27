@@ -190,5 +190,29 @@
 			"model": "Yaris"
 		},
 		"tnc": "uber"
+	},
+	{
+		"timestamp": "2017-01-07T20:31:00-08:00",
+		"from": {
+			"address": " 1253 N La Brea Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90038,
+			"country": "US"
+		},
+		"to": {
+			"address": "1417 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "California",
+			"zip": 90028,
+			"country": "US"
+		},
+		"price": 5.66,
+		"currency": "USD",
+		"car": {
+			"manufacturer": "Lexus",
+			"model": "HS"
+		},
+		"tnc": "uber"
 	}
 ]
