@@ -1,1 +1,74 @@
-[]
+[
+	{
+		"timestamp": "2017-03-03T12:14:00-01:00",
+		"from": {
+			"address": "Weesperstraat 65",
+			"city": "Amsterdam",
+			"state": "North Holland",
+			"zip": "1018 VN",
+			"country": "NL"
+		},
+		"to": {
+			"address": "Strawinskylaan 225",
+			"city": "Amsterdam",
+			"state": "North Holland",
+			"zip": "1077 XX",
+			"country": "NL"
+		},
+		"price": 16.67,
+		"currency": "EUR",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Auris"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2017-03-03T13:50:00-01:00",
+		"from": {
+			"address": "Beethovenstraat 190IV",
+			"city": "Amsterdam",
+			"state": "North Holland",
+			"zip": "1077 JX",
+			"country": "NL"
+		},
+		"to": {
+			"address": "Weesperstraat 65",
+			"city": "Amsterdam",
+			"state": "North Holland",
+			"zip": "1018 VN",
+			"country": "NL"
+		},
+		"price": 12.44,
+		"currency": "EUR",
+		"car": {
+			"manufacturer": "Toyota",
+			"model": "Auris"
+		},
+		"tnc": "uber"
+	},
+	{
+		"timestamp": "2017-03-05T02:15:00-01:00",
+		"from": {
+			"address": "Nieuwe Binnenweg 31-15",
+			"city": "Rotterdam",
+			"state": "South Holland",
+			"zip": "3014 GD",
+			"country": "NL"
+		},
+		"to": {
+			"address": "Gordelweg 33C",
+			"city": "Rotterdam",
+			"state": "South Holland",
+			"zip": "3036 AC",
+			"country": "NL"
+		},
+		"price": 10.40,
+		"currency": "EUR",
+		"car": {
+			"manufacturer": "Mercedes-Benz",
+			"model": "C-Class"
+		},
+		"tnc": "uber"
+	}
+]
