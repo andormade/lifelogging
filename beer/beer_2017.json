@@ -1,0 +1,119 @@
+[
+	{
+		"name": "Lighthouse",
+		"date": "2017-04-11",
+		"brewery": {
+			"name": "Pontus Brewing",
+			"size": "micro brewery",
+			"location": "Amsterdam, Netherlands"
+		},
+		"abv": 6.5,
+		"ibu": null,
+		"style": "saison",
+		"rating": 4.0
+	},
+	{
+		"name": "Milkstout / Zwarte Riek",
+		"date": "2017-04-11",
+		"brewery": {
+			"name": "Brouwerij De Prael",
+			"size": "micro brewery",
+			"location": "Amsterdam, Netherlands"
+		},
+		"abv": 4.9,
+		"ibu": null,
+		"style": "stout",
+		"rating": 4.0
+	},
+	{
+		"name": "Malle Babbe",
+		"date": "2017-04-11",
+		"brewery": {
+			"name": "Jopen",
+			"size": "micro brewery",
+			"location": "Haarlem, Netherlands"
+		},
+		"abv": 5.5,
+		"ibu": 12,
+		"style": "dunkelweizen",
+		"rating": 4.0
+	},
+	{
+		"name": "Bock + Sprong",
+		"date": "2017-04-11",
+		"brewery": {
+			"name": "Brouwerij De 7 Deugden",
+			"size": "micro brewery",
+			"location": "Amsterdam, Netherlands"
+		},
+		"abv": 8,
+		"ibu": 30,
+		"style": "bock",
+		"rating": 4.0
+	},
+	{
+		"name": "La Trappe Blond",
+		"date": "2017-04-11",
+		"brewery": {
+			"name": "Brouwerij De Koningshoeven",
+			"size": "micro brewery",
+			"location": "Amsterdam, Netherlands"
+		},
+		"abv": 6.5,
+		"ibu": 20,
+		"style": "blonde ale",
+		"rating": 4.0
+	},
+	{
+		"name": "Arcener Tripel",
+		"date": "2017-04-11",
+		"brewery": {
+			"name": "Hertog Jan",
+			"size": "macro brewery",
+			"location": "Arcen, Limburg Netherlands"
+		},
+		"abv": 8.5,
+		"ibu": null,
+		"style": "belgian tripel",
+		"rating": 4.0
+	},
+	{
+		"name": "Arcener Tripel",
+		"date": "2017-04-13",
+		"brewery": {
+			"name": "Hertog Jan",
+			"size": "macro brewery",
+			"location": "Arcen, Limburg Netherlands"
+		},
+		"abv": 8.5,
+		"ibu": null,
+		"style": "belgian tripel",
+		"rating": 4.0
+	},
+	{
+		"name": "Arcener Tripel",
+		"date": "2017-04-15",
+		"brewery": {
+			"name": "Hertog Jan",
+			"size": "macro brewery",
+			"location": "Arcen, Limburg Netherlands"
+		},
+		"abv": 8.5,
+		"ibu": null,
+		"style": "belgian tripel",
+		"rating": 4.0
+	},
+	{
+		"name": "Straffe Hendrik",
+		"date": "2017-04-16",
+		"brewery": {
+			"name": "De Halve Maan",
+			"size": "micro brewery",
+			"location": "Arcen, Limburg Netherlands"
+		},
+		"abv": 9,
+		"ibu": 35,
+		"style": "belgian tripel",
+		"rating": 3.5
+	}
+]
