@@ -1,0 +1,19 @@
+{
+  "name": "lifelogging",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./lint/lint.js",
+  "scripts": {
+    "test": "node ./lint/lint.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andormade/lifelogging.git"
+  },
+  "author": "Andor Polgar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andormade/lifelogging/issues"
+  },
+  "homepage": "https://github.com/andormade/lifelogging#readme"
+}
