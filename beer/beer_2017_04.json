@@ -115,5 +115,109 @@
 		"ibu": 35,
 		"style": "belgian tripel",
 		"rating": 3.5
+	},
+	{
+		"name": "Allgäuer Büble Bier Edelweissbier",
+		"date": "2017-04-21",
+		"brewery": {
+			"name": "Allgäuer Brauhaus",
+			"size": "micro brewery",
+			"location": "Kempten, Germany"
+		},
+		"abv": 5.3,
+		"ibu": 13,
+		"style": "hefeweizen",
+		"rating": 5.0
+	},
+	{
+		"name": "Extra Stout",
+		"date": "2017-04-26",
+		"brewery": {
+			"name": "Jopen",
+			"size": "micro brewery",
+			"location": "Haarlem, Netherlands"
+		},
+		"abv": 5.5,
+		"ibu": 45,
+		"style": "stout",
+		"rating": 3.5
+	},
+	{
+		"name": "Tropical Ralphie",
+		"date": "2017-04-26",
+		"brewery": {
+			"name": "Two Chefs Brewing",
+			"size": "micro brewery",
+			"location": "Amsterdam, Netherlands"
+		},
+		"abv": 5,
+		"ibu": 20,
+		"style": "hefeweizen",
+		"rating": 4.0
+	},
+	{
+		"name": "Kriek Boon",
+		"date": "2017-04-26",
+		"brewery": {
+			"name": "Brouwerij Boon",
+			"size": "micro brewery",
+			"location": "Lambeek, Belgium"
+		},
+		"abv": 4,
+		"ibu": null,
+		"style": "kriek",
+		"rating": 5.0
+	},
+	{
+		"name": "Thai Thai",
+		"date": "2017-04-26",
+		"brewery": {
+			"name": "Oedipus Brewing",
+			"size": "micro brewery",
+			"location": "Amsterdam, Netherlands"
+		},
+		"abv": 8,
+		"ibu": 20,
+		"style": "belgian tripel",
+		"rating": 2.5
+	},
+	{
+		"name": "Lentebier 2017",
+		"date": "2017-04-27",
+		"brewery": {
+			"name": "Jopen",
+			"size": "micro brewery",
+			"location": "Haarlem, Netherlands"
+		},
+		"abv": 7,
+		"ibu": 40,
+		"style": "pale ale",
+		"rating": 4.5
+	},
+	{
+		"name": "Oude Geuze Boon",
+		"date": "2017-04-29",
+		"brewery": {
+			"name": "Brouwerij Boon",
+			"size": "micro brewery",
+			"location": "Lambeek, Belgium"
+		},
+		"abv": 7,
+		"ibu": null,
+		"style": "gueuze",
+		"rating": 4.5
+	},
+	{
+		"name": "Radler Lemon",
+		"date": "2017-04-30",
+		"brewery": {
+			"name": "Bavaria Brouwerij",
+			"size": "macro brewery",
+			"location": "Lieshout, Netherlands"
+		},
+		"abv": 2,
+		"ibu": null,
+		"style": "shandy",
+		"rating": 4
 	}
 ]
