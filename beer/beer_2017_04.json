@@ -104,8 +104,21 @@
 		"rating": 4.0
 	},
 	{
-		"name": "Straffe Hendrik",
+		"name": "Straffe Hendrik Brugs Tripel Bier 9°",
 		"date": "2017-04-16",
+		"brewery": {
+			"name": "De Halve Maan",
+			"size": "micro brewery",
+			"location": "Arcen, Limburg Netherlands"
+		},
+		"abv": 9,
+		"ibu": 35,
+		"style": "belgian tripel",
+		"rating": 3.5
+	},
+	{
+		"name": "Straffe Hendrik Brugs Tripel Bier 9°",
+		"date": "2017-04-19",
 		"brewery": {
 			"name": "De Halve Maan",
 			"size": "micro brewery",
@@ -206,6 +219,45 @@
 		"ibu": null,
 		"style": "gueuze",
 		"rating": 4.5
+	},
+	{
+		"name": "La Trappe Blond",
+		"date": "2017-04-29",
+		"brewery": {
+			"name": "Bierbrouwerij De Koningshoeven",
+			"size": "micro brewery",
+			"location": "Berkel-Enschot, Netherlands"
+		},
+		"abv": 6.5,
+		"ibu": 20,
+		"style": "blonde ale",
+		"rating": 4
+	},
+	{
+		"name": "Tropical Ralphie",
+		"date": "2017-04-29",
+		"brewery": {
+			"name": "Two Chefs Brewing",
+			"size": "micro brewery",
+			"location": "Amsterdam, Netherlands"
+		},
+		"abv": 5,
+		"ibu": null,
+		"style": "hefeweizen",
+		"rating": 4
+	},
+	{
+		"name": "Radler Lemon",
+		"date": "2017-04-30",
+		"brewery": {
+			"name": "Bavaria Brouwerij",
+			"size": "macro brewery",
+			"location": "Lieshout, Netherlands"
+		},
+		"abv": 2,
+		"ibu": null,
+		"style": "shandy",
+		"rating": 4
 	},
 	{
 		"name": "Radler Lemon",
