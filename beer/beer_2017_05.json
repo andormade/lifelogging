@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Heineken",
+		"date": "2017-05-03",
+		"serving": "draft",
+		"brewery": {
+			"name": "Heineken",
+			"size": "macro brewery",
+			"location": "Zoeterwoude, Netherlands"
+		},
+		"abv": 5,
+		"ibu": 19,
+		"flavor": ["clean", "light"],
+		"style": "lager",
+		"rating": 3.00
+	},
+	{
+		"name": "Heineken",
+		"date": "2017-05-03",
+		"serving": "draft",
+		"brewery": {
+			"name": "Heineken",
+			"size": "macro brewery",
+			"location": "Zoeterwoude, Netherlands"
+		},
+		"abv": 5,
+		"ibu": 19,
+		"flavor": ["clean", "light"],
+		"style": "lager",
+		"rating": 3.00
+	}
+]
