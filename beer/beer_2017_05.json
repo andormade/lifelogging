@@ -1,18 +1,33 @@
 [
 	{
-		"name": "Heineken",
-		"date": "2017-05-03",
-		"serving": "draft",
+		"name": "Radler Lemon",
+		"date": "2017-05-01",
+		"serving": "bottle",
 		"brewery": {
-			"name": "Heineken",
+			"name": "Bavaria Brouwerij",
 			"size": "macro brewery",
-			"location": "Zoeterwoude, Netherlands"
+			"location": "Lieshout, Noord-Brabant Netherlands"
 		},
-		"abv": 5,
-		"ibu": 19,
-		"flavor": ["clean", "light"],
-		"style": "lager",
-		"rating": 3.00
+		"abv": 2,
+		"ibu": null,
+		"flavor": ["lemony", "fruity", "light", "sweet"],
+		"style": "shandy",
+		"rating": 4
+	},
+	{
+		"name": "Radler Lemon",
+		"date": "2017-05-02",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Bavaria Brouwerij",
+			"size": "macro brewery",
+			"location": "Lieshout, Noord-Brabant Netherlands"
+		},
+		"abv": 2,
+		"ibu": null,
+		"flavor": ["lemony", "fruity", "light", "sweet"],
+		"style": "shandy",
+		"rating": 4
 	},
 	{
 		"name": "Heineken",
@@ -27,6 +42,66 @@
 		"ibu": 19,
 		"flavor": ["clean", "light"],
 		"style": "lager",
-		"rating": 3.00
+		"rating": 3
+	},
+	{
+		"name": "Heineken",
+		"date": "2017-05-03",
+		"serving": "draft",
+		"brewery": {
+			"name": "Heineken",
+			"size": "macro brewery",
+			"location": "Zoeterwoude, Netherlands"
+		},
+		"abv": 5,
+		"ibu": 19,
+		"flavor": ["clean", "light"],
+		"style": "lager",
+		"rating": 3
+	},
+	{
+		"name": "Jet Black Heart",
+		"date": "2017-05-13",
+		"serving": "draft",
+		"brewery": {
+			"name": "BrewDog",
+			"size": "micro brewery",
+			"location": "Ellon, Aberdeenshire Scotland"
+		},
+		"abv": 4.7,
+		"ibu": 30,
+		"flavor": ["milk", "smooth", "coffee"],
+		"style": "milk stout",
+		"rating": 4.5
+	},
+	{
+		"name": "Jupiler",
+		"date": "2017-05-13",
+		"serving": "draft",
+		"brewery": {
+			"name": "Brasserie Piedboeuf",
+			"size": "macro brewery",
+			"location": "Jupille, Liège Belgium"
+		},
+		"abv": 5.2,
+		"ibu": 25,
+		"flavor": ["light", "smooth"],
+		"style": "pale lager",
+		"rating": 3
+	},
+	{
+		"name": "Grolsch Premium Lager",
+		"date": "2017-05-13",
+		"serving": "draft",
+		"brewery": {
+			"name": "Koninklijke Grolsch",
+			"size": "macro brewery",
+			"location": "Enschede, Overijssel Netherlands"
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["light", "clean", "smooth"],
+		"style": "pilsner",
+		"rating": 3
 	}
 ]
