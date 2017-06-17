@@ -103,5 +103,69 @@
 		"flavor": ["light", "clean", "smooth"],
 		"style": "pilsner",
 		"rating": 3
+	},
+	{
+		"name": "Kasteel Rouge",
+		"date": "2017-05-13",
+		"serving": "draft",
+		"brewery": {
+			"name": "Brouwerij Van Honsebrouck",
+			"size": "macro brewery",
+			"location": "Ingelmunster, West-Vlaanderen Belgium",
+			"website": "http://vanhonsebrouck.be/"
+		},
+		"abv": 8,
+		"ibu": 8,
+		"flavor": ["fruity", "sweet", "sour"],
+		"style": "fruit beer",
+		"rating": 4
+	},
+	{
+		"name": "St. Louis Kriek",
+		"date": "2017-05-13",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij Van Honsebrouck",
+			"size": "macro brewery",
+			"location": "Ingelmunster, West-Vlaanderen Belgium",
+			"website": "http://vanhonsebrouck.be/"
+		},
+		"abv": 4,
+		"ibu": null,
+		"flavor": ["fruity", "sweet", "sour"],
+		"style": "kriek lambic",
+		"rating": 4
+	},
+	{
+		"name": "Fruitesse",
+		"date": "2017-05-14",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij Liefmans",
+			"size": "macro brewery",
+			"location": "Oudenaarde, Oost-Vlaanderen Belgium",
+			"website": "http://liefmans.be"
+		},
+		"abv": 3.8,
+		"ibu": null,
+		"flavor": ["fruity", "light", "sour", "sweet"],
+		"style": "fruit beer",
+		"rating": 3.5
+	},
+	{
+		"name": "Kriek Brut",
+		"date": "2017-05-14",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij Liefmans",
+			"size": "macro brewery",
+			"location": "Oudenaarde, Oost-Vlaanderen Belgium",
+			"website": "http://liefmans.be"
+		},
+		"abv": 6,
+		"ibu": null,
+		"flavor": ["sour", "sweet"],
+		"style": "fruit beer",
+		"rating": 3
 	}
 ]
