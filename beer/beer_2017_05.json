@@ -167,5 +167,117 @@
 		"flavor": ["sour", "sweet"],
 		"style": "fruit beer",
 		"rating": 3
+	},
+	{
+		"name": "Kriek Brut",
+		"date": "2017-05-14",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij Liefmans",
+			"size": "macro brewery",
+			"location": "Oudenaarde, Oost-Vlaanderen Belgium",
+			"website": "http://liefmans.be"
+		},
+		"abv": 6,
+		"ibu": null,
+		"flavor": ["sour", "sweet"],
+		"style": "fruit beer",
+		"rating": 3
+	},
+	{
+		"name": "Heineken",
+		"date": "2017-05-17",
+		"serving": "draft",
+		"brewery": {
+			"name": "Heineken",
+			"size": "macro brewery",
+			"location": "Zoeterwoude, Zuid Holland Netherlands",
+			"website": "http://heineken.nl"
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["clean", "light", "smooth"],
+		"style": "lager",
+		"rating": 3
+	},
+	{
+		"name": "Heineken",
+		"date": "2017-05-17",
+		"serving": "draft",
+		"brewery": {
+			"name": "Heineken",
+			"size": "macro brewery",
+			"location": "Zoeterwoude, Zuid Holland Netherlands",
+			"website": "http://heineken.nl"
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["clean", "light", "smooth"],
+		"style": "lager",
+		"rating": 3
+	},
+	{
+		"name": "Dubbelbock",
+		"date": "2017-05-17",
+		"serving": "draft",
+		"brewery": {
+			"name": "Koninklijke Brand Bierbrouwerij",
+			"size": "macro brewery",
+			"location": "Wijlre, Limburg Netherlands",
+			"website": "http://brand.nl"
+		},
+		"abv": 7.5,
+		"ibu": 27,
+		"flavor": ["sweet", "dark"],
+		"style": "doppelbock",
+		"rating": 2.5
+	},
+	{
+		"name": "Meggyes Favágó",
+		"date": "2017-05-24",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Szarvasi Kézműves Sörfőzde",
+			"size": "micro brewery",
+			"location": "Szarvas, Hungary",
+			"website": "http://szarvasisor.hu"
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["sweet", "fruity", "cherry", "sour"],
+		"style": "fruit beer",
+		"rating": 3.5
+	},
+	{
+		"name": "Dupla Köleses Sör",
+		"date": "2017-05-24",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Bandusz",
+			"size": "micro brewery",
+			"location": "Hungary",
+			"website": "http://bandusz.hu"
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["light", "creamy", "sweet", "dark"],
+		"style": "fruit beer",
+		"rating": 4
+	},
+	{
+		"name": "Fóti Zwickl",
+		"date": "2017-05-24",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Fóti Kézműves Sörfőzde",
+			"size": "micro brewery",
+			"location": "Fót, Hungary",
+			"website": "http://fotisorfozde.hu"
+		},
+		"abv": 4.5,
+		"ibu": null,
+		"flavor": ["light", "smooth", "malty", "yeasty"],
+		"style": "kellerbier",
+		"rating": 4
 	}
 ]
