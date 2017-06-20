@@ -261,12 +261,12 @@
 		"abv": 5,
 		"ibu": null,
 		"flavor": ["light", "creamy", "sweet", "dark"],
-		"style": "fruit beer",
+		"style": "specialty grain",
 		"rating": 4
 	},
 	{
 		"name": "Fóti Zwickl",
-		"date": "2017-05-24",
+		"date": "2017-05-25",
 		"serving": "bottle",
 		"brewery": {
 			"name": "Fóti Kézműves Sörfőzde",
@@ -279,5 +279,53 @@
 		"flavor": ["light", "smooth", "malty", "yeasty"],
 		"style": "kellerbier",
 		"rating": 4
+	},
+	{
+		"name": "Geisha",
+		"date": "2017-05-25",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Fóti Kézműves Sörfőzde",
+			"size": "micro brewery",
+			"location": "Fót, Hungary",
+			"website": "http://fotisorfozde.hu"
+		},
+		"abv": 4.5,
+		"ibu": null,
+		"flavor": ["light", "watery", "tea"],
+		"style": "herbed beer",
+		"rating": 4.5
+	},
+	{
+		"name": "Almás Favágó",
+		"date": "2017-05-25",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Szarvasi Kézműves Sörfőzde",
+			"size": "micro brewery",
+			"location": "Szarvas, Hungary",
+			"website": "http://szarvasisor.hu"
+		},
+		"abv": 4.0,
+		"ibu": null,
+		"flavor": ["fruity", "sweet", "apple"],
+		"style": "fruit beer",
+		"rating": 3
+	},
+	{
+		"name": "Chicago",
+		"date": "2017-05-26",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Bigfoot Sörfőzde",
+			"size": "micro brewery",
+			"location": "Domony, Hungary",
+			"website": "http://bigfootsorfozde.hu"
+		},
+		"abv": 6.0,
+		"ibu": null,
+		"flavor": ["malty", "full", "dry"],
+		"style": "pale ale",
+		"rating": 3
 	}
 ]
