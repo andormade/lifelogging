@@ -327,5 +327,37 @@
 		"flavor": ["malty", "full", "dry"],
 		"style": "pale ale",
 		"rating": 3
+	},
+	{
+		"name": "Amstel Radler",
+		"date": "2017-05-27",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Amster Bier",
+			"size": "macro brewery",
+			"location": "Zoeterwoude, Zuid Holland, Netherlands",
+			"website": "http://amstel.nl"
+		},
+		"abv": 2.0,
+		"ibu": null,
+		"flavor": ["lemony", "light", "sweet"],
+		"style": "shandy",
+		"rating": 4
+	},
+	{
+		"name": "Heineken",
+		"date": "2017-05-28",
+		"serving": "can",
+		"brewery": {
+			"name": "Heineken",
+			"size": "macro brewery",
+			"location": "Zoeterwoude, Zuid Holland, Netherlands",
+			"website": "http://heineken.nl"
+		},
+		"abv": 5.0,
+		"ibu": null,
+		"flavor": ["light", "smooth", "clean"],
+		"style": "shandy",
+		"rating": 3.25
 	}
 ]
