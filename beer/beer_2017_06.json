@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Peroni Nastro Azzurro",
-		"date": "2017-06-01",
+		"date": "2017-06-02",
 		"serving": "bottle",
 		"brewery": {
 			"name": "Birra Peroni",
@@ -14,5 +14,69 @@
 		"flavor": ["light", "clean", "smooth"],
 		"style": "lager",
 		"rating": 3.75
+	},
+	{
+		"name": "La Chouffe",
+		"date": "2017-06-02",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"size": "micro brewery",
+			"location": "Achouffe, Belgium",
+			"website": "http://achouffe.be"
+		},
+		"abv": 8,
+		"ibu": 20,
+		"flavor": ["fruity", "sweet", "strong", "smooth"],
+		"style": "belgian strong golden ale",
+		"rating": 4
+	},
+	{
+		"name": "Zatte",
+		"date": "2017-06-02",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"size": "micro brewery",
+			"location": "Amsterdam, Noord-Holland, Netherlands",
+			"website": "http://brouwerijhetij.nl"
+		},
+		"abv": 8,
+		"ibu": null,
+		"flavor": ["sweet", "strong"],
+		"style": "belgian tripel",
+		"rating": 3.5
+	},
+	{
+		"name": "Original Pale Ale",
+		"date": "2017-06-02",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Coopers Brewery",
+			"size": "macro brewery",
+			"location": "Regency Park, Australia",
+			"website": "https://coopers.com.au"
+		},
+		"abv": 4.5,
+		"ibu": null,
+		"flavor": ["light", "hoppy"],
+		"style": "pale ale",
+		"rating": 3.5
+	},
+	{
+		"name": "Sparkling Ale",
+		"date": "2017-06-02",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Coopers Brewery",
+			"size": "macro brewery",
+			"location": "Regency Park, Australia",
+			"website": "https://coopers.com.au"
+		},
+		"abv": 5.8,
+		"ibu": 35,
+		"flavor": ["malty", "light"],
+		"style": "pale ale",
+		"rating": 3.25
 	}
 ]
