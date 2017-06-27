@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Peroni Nastro Azzurro",
+		"date": "2017-06-01",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Birra Peroni",
+			"size": "macro brewery",
+			"location": "Roma, Italy",
+			"website": "http://www.birraperoni.it"
+		},
+		"abv": 5.1,
+		"ibu": null,
+		"flavor": ["light", "clean", "smooth"],
+		"style": "lager",
+		"rating": 3.75
+	}
+]
