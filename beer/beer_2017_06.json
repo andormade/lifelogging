@@ -78,5 +78,101 @@
 		"flavor": ["malty", "light"],
 		"style": "pale ale",
 		"rating": 3.25
+	},
+	{
+		"name": "Zatte",
+		"date": "2017-06-03",
+		"serving": "draft",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"size": "micro brewery",
+			"location": "Amsterdam, Noord-Holland, Netherlands",
+			"website": "http://brouwerijhetij.nl"
+		},
+		"abv": 8,
+		"ibu": 19,
+		"flavor": ["sweet", "strong"],
+		"style": "belgian tripel",
+		"rating": 4
+	},
+	{
+		"name": "La Chouffe",
+		"date": "2017-06-03",
+		"serving": "draft",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"size": "micro brewery",
+			"location": "Achouffe, Belgium",
+			"website": "http://achouffe.be"
+		},
+		"abv": 8,
+		"ibu": 20,
+		"flavor": ["sweet", "strong"],
+		"style": "belgian strong golden ale",
+		"rating": 4
+	},
+	{
+		"name": "IKEA Öl Mörk Lager",
+		"date": "2017-06-04",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Krönleins Bryggeri",
+			"size": "macro brewery",
+			"location": "Halmstad, Sweden",
+			"website": "http://kronleins.se"
+		},
+		"abv": 4.7,
+		"ibu": null,
+		"flavor": ["malty", "light", "dry"],
+		"style": "dark lager",
+		"rating": 4
+	},
+	{
+		"name": "Tropical Ralphie",
+		"date": "2017-06-13",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Two Chefs Brewing",
+			"size": "micro brewery",
+			"location": "Amsterdam, Netherlands",
+			"website": "http://twochefsbrewing.com"
+		},
+		"abv": 4.7,
+		"ibu": null,
+		"flavor": ["fruity", "light", "sour"],
+		"style": "hefeweizen",
+		"rating": 4
+	},
+	{
+		"name": "Raging Bitch Belgian IPA",
+		"date": "2017-06-14",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Flying Dog Brewery",
+			"size": "micro brewery",
+			"location": "Frederick, Maryland, United States",
+			"website": "http://flyingdogbrewery.com"
+		},
+		"abv": 8.3,
+		"ibu": 60,
+		"flavor": ["fruity", "smooth", "hoppy"],
+		"style": "belgian IPA",
+		"rating": 3.5
+	},
+	{
+		"name": "IKEA Öl Mörk Lager",
+		"date": "2017-06-16",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Krönleins Bryggeri",
+			"size": "macro brewery",
+			"location": "Halmstad, Sweden",
+			"website": "http://kronleins.se"
+		},
+		"abv": 4.7,
+		"ibu": null,
+		"flavor": ["malty", "light", "dry"],
+		"style": "dark lager",
+		"rating": 4
 	}
 ]
