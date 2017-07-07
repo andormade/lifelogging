@@ -174,5 +174,53 @@
 		"flavor": ["malty", "light", "dry"],
 		"style": "dark lager",
 		"rating": 4
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2017-06-17",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"size": "macro brewery",
+			"location": "Mexico City, Mexico",
+			"website": "https://www.gmodelo.mx"
+		},
+		"abv": 4.5,
+		"ibu": 19,
+		"flavor": ["light", "smooth"],
+		"style": "north american adjunct lager",
+		"rating": 4.5
+	},
+	{
+		"name": "Pilsener",
+		"date": "2017-06-17",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Koninklijke Brand Bierbrouwerij",
+			"size": "macro brewery",
+			"location": "Wijlre, Limburg, Netherlands",
+			"website": "http://brand.nl"
+		},
+		"abv": 5,
+		"ibu": 27,
+		"flavor": ["light", "smooth", "hoppy", "bitter"],
+		"style": "pilsner",
+		"rating": 3
+	},
+	{
+		"name": "Westmalle Trappist Tripel",
+		"date": "2017-06-17",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij der Trappisten van Westmalle",
+			"size": "macro brewery",
+			"location": "Malle, Antwerpen, Belgium",
+			"website": "https://www.trappistwestmalle.be"
+		},
+		"abv": 9.5,
+		"ibu": 36,
+		"flavor": ["light", "smooth", "sweet"],
+		"style": "belgian tripel",
+		"rating": 3.5
 	}
 ]
