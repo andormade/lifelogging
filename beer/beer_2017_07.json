@@ -1,0 +1,33 @@
+[
+	{
+		"name": "Yakima Red",
+		"date": "2017-07-01",
+		"serving": "draft",
+		"brewery": {
+			"name": "Meantime Brewing Company",
+			"size": "macro brewery",
+			"location": "Greenwich, Greater London, England",
+			"website": "https://www.meantimebrewing.com"
+		},
+		"abv": 4.1,
+		"ibu": 45,
+		"flavor": ["fruity", "light", "hoppy"],
+		"style": "american amber ale",
+		"rating": 4
+	},
+	{
+		"name": "Franziskaner Weissbier Dunkel",
+		"date": "2017-07-01",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Spaten-Löwenbrau-Gruppe",
+			"size": "macro brewery",
+			"location": "München, Germany",
+		},
+		"abv": 5,
+		"ibu": 10,
+		"flavor": ["malty", "sweet", "smooth", "dark"],
+		"style": "lager",
+		"rating": 5
+	}
+]
