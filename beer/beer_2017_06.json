@@ -228,7 +228,7 @@
 		"date": "2017-06-20",
 		"serving": "draft",
 		"brewery": {
-			"name": "Het Uiltje"
+			"name": "Het Uiltje",
 			"size": "micro brewery",
 			"location": "Haarlem, Noord-Holland Netherlands",
 			"website": "https://www.uiltjecraftbeer.com"
@@ -244,7 +244,7 @@
 		"date": "2017-06-20",
 		"serving": "draft",
 		"brewery": {
-			"name": "Het Uiltje"
+			"name": "Het Uiltje",
 			"size": "micro brewery",
 			"location": "Haarlem, Noord-Holland Netherlands",
 			"website": "https://www.uiltjecraftbeer.com"
@@ -260,7 +260,7 @@
 		"date": "2017-06-20",
 		"serving": "draft",
 		"brewery": {
-			"name": "The Wild Beer Co"
+			"name": "The Wild Beer Co",
 			"size": "micro brewery",
 			"location": "Evercreech, Somerset, England",
 			"website": "http://wildbeerco.com"
@@ -276,7 +276,7 @@
 		"date": "2017-06-20",
 		"serving": "draft",
 		"brewery": {
-			"name": "Het Uiltje"
+			"name": "Het Uiltje",
 			"size": "micro brewery",
 			"location": "Haarlem, Noord-Holland Netherlands",
 			"website": "https://www.uiltjecraftbeer.com"
@@ -292,7 +292,7 @@
 		"date": "2017-06-20",
 		"serving": "bottle",
 		"brewery": {
-			"name": "Het Uiltje"
+			"name": "Het Uiltje",
 			"size": "micro brewery",
 			"location": "Haarlem, Noord-Holland Netherlands",
 			"website": "https://www.uiltjecraftbeer.com"
