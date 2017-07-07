@@ -222,5 +222,85 @@
 		"flavor": ["light", "smooth", "sweet"],
 		"style": "belgian tripel",
 		"rating": 3.5
+	},
+	{
+		"name": "Crybaby",
+		"date": "2017-06-20",
+		"serving": "draft",
+		"brewery": {
+			"name": "Het Uiltje"
+			"size": "micro brewery",
+			"location": "Haarlem, Noord-Holland Netherlands",
+			"website": "https://www.uiltjecraftbeer.com"
+		},
+		"abv": 2.4,
+		"ibu": null,
+		"flavor": ["light", "sour", "citrus"],
+		"style": "berliner weisse",
+		"rating": 4
+	},
+	{
+		"name": "Mr. Feathers",
+		"date": "2017-06-20",
+		"serving": "draft",
+		"brewery": {
+			"name": "Het Uiltje"
+			"size": "micro brewery",
+			"location": "Haarlem, Noord-Holland Netherlands",
+			"website": "https://www.uiltjecraftbeer.com"
+		},
+		"abv": 4.9,
+		"ibu": 40,
+		"flavor": ["light", "hoppy", "bitter"],
+		"style": "american amber ale",
+		"rating": 4
+	},
+	{
+		"name": "Epic Saison",
+		"date": "2017-06-20",
+		"serving": "draft",
+		"brewery": {
+			"name": "The Wild Beer Co"
+			"size": "micro brewery",
+			"location": "Evercreech, Somerset, England",
+			"website": "http://wildbeerco.com"
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["spicy", "light", "sour"],
+		"style": "saison",
+		"rating": 4.5
+	}
+	{
+		"name": "Matryoshka Doll",
+		"date": "2017-06-20",
+		"serving": "draft",
+		"brewery": {
+			"name": "Het Uiltje"
+			"size": "micro brewery",
+			"location": "Haarlem, Noord-Holland Netherlands",
+			"website": "https://www.uiltjecraftbeer.com"
+		},
+		"abv": 8,
+		"ibu": null,
+		"flavor": ["roasty", "creamy", "dark", "bitter", "caramel"],
+		"style": "baltic porter",
+		"rating": 4
+	},
+	{
+		"name": "Sgt. Night Vision",
+		"date": "2017-06-20",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Het Uiltje"
+			"size": "micro brewery",
+			"location": "Haarlem, Noord-Holland Netherlands",
+			"website": "https://www.uiltjecraftbeer.com"
+		},
+		"abv": 10.5,
+		"ibu": 80,
+		"flavor": ["smoky", "dark", "covfefe", "bitter"],
+		"style": "stout",
+		"rating": 3.5
 	}
 ]
