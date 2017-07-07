@@ -302,5 +302,53 @@
 		"flavor": ["smoky", "dark", "covfefe", "bitter"],
 		"style": "stout",
 		"rating": 3.5
+	},
+	{
+		"name": "Benediktiner Weissbier",
+		"date": "2017-06-25",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Benediktiner Weißbräu",
+			"size": "micro brewery",
+			"location": "Ettal, Germany",
+			"website": "http://benediktiner-weissbier.de"
+		},
+		"abv": 10.5,
+		"ibu": 80,
+		"flavor": ["banana", "light", "smooth"],
+		"style": "hefeweizen",
+		"rating": 4.5
+	},
+	{
+		"name": "Cornet",
+		"date": "2017-06-25",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij De Hoorn",
+			"size": "micro brewery",
+			"location": "Steenhuffel, Vlaams-Brabant, Belgium",
+			"website": "http://dehoorn.eu"
+		},
+		"abv": 8.5,
+		"ibu": 18,
+		"flavor": ["light", "smooth"],
+		"style": "belgian strong golden ale",
+		"rating": 4
+	},
+	{
+		"name": "La Trappe PUUR",
+		"date": "2017-06-25",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij De Hoorn",
+			"size": "micro brewery",
+			"location": "Steenhuffel, Vlaams-Brabant, Belgium",
+			"website": "http://dehoorn.eu"
+		},
+		"abv": 4.7,
+		"ibu": 27,
+		"flavor": ["clean", "light", "smooth", "hoppy", "bitter"],
+		"style": "belgian pale ale",
+		"rating": 3.5
 	}
 ]
