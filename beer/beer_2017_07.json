@@ -29,5 +29,95 @@
 		"flavor": ["malty", "sweet", "smooth", "dark"],
 		"style": "lager",
 		"rating": 5
+	},
+	{
+		"name": "Benediktiner Weissbier Dunkel",
+		"date": "2017-07-01",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Benediktiner Weißbräu",
+			"size": "micro brewery",
+			"location": "Ettal, Germany",
+		},
+		"abv": 5.4,
+		"ibu": null,
+		"flavor": ["dark", "smooth", "light"],
+		"style": "dunkelweizen",
+		"rating": 4.5
+	},
+	{
+		"name": "Tripel Karmeliet",
+		"date": "2017-07-02",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij Bosteels",
+			"size": "micro brewery",
+			"location": "Buggenhout, Oost-Vlaanderen, Belgium",
+		},
+		"abv": 8.4,
+		"ibu": 16,
+		"flavor": ["fruity", "smooth", "light", "strong"],
+		"style": "belgian tripel",
+		"rating": 4
+	},
+	{
+		"name": "Benediktiner Weissbier Dunkel",
+		"date": "2017-07-03",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Benediktiner Weißbräu",
+			"size": "micro brewery",
+			"location": "Ettal, Germany",
+		},
+		"abv": 5.4,
+		"ibu": null,
+		"flavor": ["dark", "smooth", "light"],
+		"style": "dunkelweizen",
+		"rating": 4.5
+	},
+	{
+		"name": "Gin Weizen",
+		"date": "2017-07-07",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Gebrouwen Door Vrouwen",
+			"size": "micro brewery",
+			"location": "Amsterdam, Noord-Holland, Netherlands",
+		},
+		"abv": 6,
+		"ibu": null,
+		"flavor": ["juniper", "fruity", "light"],
+		"style": "hefeweizen",
+		"rating": 4.5
+	},
+	{
+		"name": "Funky Falcon",
+		"date": "2017-07-07",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Two Chefs Brewing",
+			"size": "micro brewery",
+			"location": "Amsterdam, Noord-Holland, Netherlands",
+		},
+		"abv": 5.2,
+		"ibu": 25,
+		"flavor": ["hoppy", "bitter", "light"],
+		"style": "american pale ale",
+		"rating": 3.75
+	},
+	{
+		"name": "Mannenliefde",
+		"date": "2017-07-07",
+		"serving": "draft",
+		"brewery": {
+			"name": "Oedipus Brewing",
+			"size": "micro brewery",
+			"location": "Amsterdam, Noord-Holland, Netherlands",
+		},
+		"abv": 6,
+		"ibu": 25,
+		"flavor": ["hoppy", "bitter", "light"],
+		"style": "saison",
+		"rating": 3.5
 	}
 ]
