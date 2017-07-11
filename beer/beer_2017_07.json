@@ -22,7 +22,7 @@
 		"brewery": {
 			"name": "Spaten-Löwenbrau-Gruppe",
 			"size": "macro brewery",
-			"location": "München, Germany",
+			"location": "München, Germany"
 		},
 		"abv": 5,
 		"ibu": 10,
@@ -37,7 +37,7 @@
 		"brewery": {
 			"name": "Benediktiner Weißbräu",
 			"size": "micro brewery",
-			"location": "Ettal, Germany",
+			"location": "Ettal, Germany"
 		},
 		"abv": 5.4,
 		"ibu": null,
@@ -52,7 +52,7 @@
 		"brewery": {
 			"name": "Brouwerij Bosteels",
 			"size": "micro brewery",
-			"location": "Buggenhout, Oost-Vlaanderen, Belgium",
+			"location": "Buggenhout, Oost-Vlaanderen, Belgium"
 		},
 		"abv": 8.4,
 		"ibu": 16,
@@ -67,7 +67,7 @@
 		"brewery": {
 			"name": "Benediktiner Weißbräu",
 			"size": "micro brewery",
-			"location": "Ettal, Germany",
+			"location": "Ettal, Germany"
 		},
 		"abv": 5.4,
 		"ibu": null,
@@ -82,7 +82,7 @@
 		"brewery": {
 			"name": "Gebrouwen Door Vrouwen",
 			"size": "micro brewery",
-			"location": "Amsterdam, Noord-Holland, Netherlands",
+			"location": "Amsterdam, Noord-Holland, Netherlands"
 		},
 		"abv": 6,
 		"ibu": null,
@@ -97,7 +97,7 @@
 		"brewery": {
 			"name": "Two Chefs Brewing",
 			"size": "micro brewery",
-			"location": "Amsterdam, Noord-Holland, Netherlands",
+			"location": "Amsterdam, Noord-Holland, Netherlands"
 		},
 		"abv": 5.2,
 		"ibu": 25,
@@ -112,7 +112,7 @@
 		"brewery": {
 			"name": "Oedipus Brewing",
 			"size": "micro brewery",
-			"location": "Amsterdam, Noord-Holland, Netherlands",
+			"location": "Amsterdam, Noord-Holland, Netherlands"
 		},
 		"abv": 6,
 		"ibu": 25,
