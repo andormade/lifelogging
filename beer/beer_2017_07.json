@@ -119,5 +119,85 @@
 		"flavor": ["hoppy", "bitter", "light"],
 		"style": "saison",
 		"rating": 3.5
+	},
+	{
+		"name": "La Chouffe",
+		"date": "2017-07-15",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"size": "micro brewery",
+			"location": "Achouffe, Belgium",
+			"website": "http://achouffe.be"	
+		},
+		"abv": 8,
+		"ibu": 20,
+		"flavor": ["sweet", "strong", "smooth"],
+		"style": "belgian golden ale",
+		"rating": 4
+	},
+	{
+		"name": "Premium Pils",
+		"date": "2017-07-16",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Hasseröder Brauerei",
+			"size": "macro brewery",
+			"location": "Wernigerode, Germany",
+			"website": "https://hasseroeder.de"	
+		},
+		"abv": 4.9,
+		"ibu": null,
+		"flavor": ["clean", "light", "smooth"],
+		"style": "pilsner",
+		"rating": 4
+	},
+	{
+		"name": "Dutch Eagle",
+		"date": "2017-07-16",
+		"serving": "draft",
+		"brewery": {
+			"name": "Morebeer Brewing",
+			"size": "micro brewery",
+			"location": "Amsterdam, Noord-Holland, Netherlands",
+			"website": "http://morebeer.nl"	
+		},
+		"abv": 5.5,
+		"ibu": 35,
+		"flavor": ["fruity", "hoppy", "citrus", "bitter"],
+		"style": "pale ale",
+		"rating": 4
+	},
+	{
+		"name": "Gerardus Dubbel",
+		"date": "2017-07-16",
+		"serving": "draft",
+		"brewery": {
+			"name": "Gulpener Bierbrouwerij",
+			"size": "macro brewery",
+			"location": "Gulpen, Limburg, Netherlands",
+			"website": "http://gulpener.nl"	
+		},
+		"abv": 7,
+		"ibu": null,
+		"flavor": ["malty", "sweet", "dark"],
+		"style": "belgian dubbel",
+		"rating": 4.5 
+	},
+	{
+		"name": "Mongozo Coconut",
+		"date": "2017-07-16",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Mongozo BV Netherlands",
+			"size": "micro brewery",
+			"location": "Venray, Limburg, Netherlands",
+			"website": "http://mondogoz.com"	
+		},
+		"abv": 3.6,
+		"ibu": null,
+		"flavor": ["tropical", "fruity", "light", "sweet", "coconut"],
+		"style": "fruit beer",
+		"rating": 4
 	}
 ]
