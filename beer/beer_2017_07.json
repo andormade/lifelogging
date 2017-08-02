@@ -233,7 +233,7 @@
 		"rating": 4
 	},
 	{
-		"name": "Sommerweiße"
+		"name": "Sommerweiße",
 		"date": "2017-07-29",
 		"serving": "bottle",
 		"brewery": {
@@ -249,7 +249,7 @@
 		"rating": 4.5
 	},
 	{
-		"name": "Zundert"
+		"name": "Zundert",
 		"date": "2017-07-29",
 		"serving": "bottle",
 		"brewery": {
@@ -265,7 +265,7 @@
 		"rating": 4.5
 	},
 	{
-		"name": "Op & Top"
+		"name": "Op & Top",
 		"date": "2017-07-30",
 		"serving": "bottle",
 		"brewery": {
@@ -281,7 +281,7 @@
 		"rating": 3.5
 	},
 	{
-		"name": "Vuur & Vlam"
+		"name": "Vuur & Vlam",
 		"date": "2017-07-30",
 		"serving": "bottle",
 		"brewery": {
@@ -297,7 +297,7 @@
 		"rating": 3.5
 	},
 	{
-		"name": "Op & Top"
+		"name": "Op & Top",
 		"date": "2017-07-31",
 		"serving": "bottle",
 		"brewery": {
