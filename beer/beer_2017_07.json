@@ -199,5 +199,117 @@
 		"flavor": ["tropical", "fruity", "light", "sweet", "coconut"],
 		"style": "fruit beer",
 		"rating": 4
+	},
+	{
+		"name": "La Trappe PUUR",
+		"date": "2017-07-20",
+		"serving": "draft",
+		"brewery": {
+			"name": "Bierbrouwerij De Koningshoeven",
+			"size": "micro brewery",
+			"location": "Berkel-Enschot, Noord-Brabant, Netherlands",
+			"website": "http://koningshoeven.nl/producten/brouwerij"	
+		},
+		"abv": 4.7,
+		"ibu": 27,
+		"flavor": ["clean", "smooth", "light"],
+		"style": "belgian pale ale",
+		"rating": 4
+	},
+	{
+		"name": "Malle Babbe",
+		"date": "2017-07-26",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Jopen",
+			"size": "micro brewery",
+			"location": "Haarlem, Noord-Holland, Netherlands",
+			"website": "https://jopenbier.nl"	
+		},
+		"abv": 5.5,
+		"ibu": 12,
+		"flavor": ["fruity", "sweet", "light", "sour"],
+		"style": "dunkelweizen",
+		"rating": 4
+	},
+	{
+		"name": "Sommerweiße"
+		"date": "2017-07-29",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Erdinger Weissbräu",
+			"size": "macro brewery",
+			"location": "Erding, Germany",
+			"website": "https://int.erdinger.de"	
+		},
+		"abv": 4.6,
+		"ibu": 10,
+		"flavor": ["citrusy", "light", "hoppy"],
+		"style": "hefeweizen",
+		"rating": 4.5
+	},
+	{
+		"name": "Zundert"
+		"date": "2017-07-29",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Trappistenbrouwerij de Kievit B.V",
+			"size": "micro brewery",
+			"location": "Klein Zundert, Noord-Brabantm Netherlands",
+			"website": "http://abdijmariatoevlucht.nl/portfolio/brouwerij"	
+		},
+		"abv": 8,
+		"ibu": 34,
+		"flavor": ["fruity", "sweet", "strong", "smooth"],
+		"style": "belgian tripel",
+		"rating": 4.5
+	},
+	{
+		"name": "Op & Top"
+		"date": "2017-07-30",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij De Molen",
+			"size": "micro brewery",
+			"location": "Bodegraven, Zuid Holland, Netherlands",
+			"website": "http://brouwerijdemolen.nl/"	
+		},
+		"abv": 4.5,
+		"ibu": 38,
+		"flavor": ["light", "fruity", "dry", "hoppy", "bitter"],
+		"style": "english bitter",
+		"rating": 3.5
+	},
+	{
+		"name": "Vuur & Vlam"
+		"date": "2017-07-30",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij De Molen",
+			"size": "micro brewery",
+			"location": "Bodegraven, Zuid Holland, Netherlands",
+			"website": "http://brouwerijdemolen.nl/"	
+		},
+		"abv": 6.2,
+		"ibu": 63,
+		"flavor": ["dry", "hoppy", "bitter"],
+		"style": "american IPA",
+		"rating": 3.5
+	},
+	{
+		"name": "Op & Top"
+		"date": "2017-07-31",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij De Molen",
+			"size": "micro brewery",
+			"location": "Bodegraven, Zuid Holland, Netherlands",
+			"website": "http://brouwerijdemolen.nl/"	
+		},
+		"abv": 4.5,
+		"ibu": 38,
+		"flavor": ["light", "fruity", "dry", "hoppy", "bitter"],
+		"style": "english bitter",
+		"rating": 3.5
 	}
 ]
