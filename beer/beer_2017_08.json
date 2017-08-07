@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Bokbier",
+		"date": "2017-08-03",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Jopen",
+			"size": "micro brewery",
+			"location": "Haarlem, Noord-Holland, Netherlands",
+			"website": "https://jopenbier.nl"	
+		},
+		"abv": 6.5,
+		"ibu": 30,
+		"flavor": ["malty", "sweet", "smooth", "dark"],
+		"style": "bock",
+		"rating": 4
+	},
+	{
+		"name": "Chimay Bleue (Grande Réserve 2017)",
+		"date": "2017-08-04",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Bières de Chimay",
+			"size": "micro brewery",
+			"location": "Baileux, Hainaut, Belgium",
+			"website": "http://chimay.com/en/bieres"	
+		},
+		"abv": 9,
+		"ibu": 35,
+		"flavor": ["dark", "creamy", "smooth", "malty"],
+		"style": "belgian strong dark ale",
+		"rating": 4.5
+	},
+	{
+		"name": "Kasteel Donker",
+		"date": "2017-08-04",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij Van Honsebrouck",
+			"size": "macro brewery",
+			"location": "Ingelmunster, West-Vlaanderen, Belgium",
+			"website": "http://vanhonsebrouck.be"	
+		},
+		"abv": 11,
+		"ibu": 14,
+		"flavor": ["dark", "sweet", "strong"],
+		"style": "belgian qad",
+		"rating": 4.5
+	},
+	{
+		"name": "Stary Melnik Iz Bochonka Myagkoe (Старый Мельник Из Бочонка Мягкое)",
+		"date": "2017-08-05",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Moscow-Efes Brewery (Пивоварня Москва-Эфес)",
+			"size": "macro brewery",
+			"location": "Москва, Russia",
+			"website": "http://efesrussia.ru"	
+		},
+		"abv": 4.3,
+		"ibu": null,
+		"flavor": ["soft", "light", "watery"],
+		"style": "euro lager",
+		"rating": 4
+	},
+	{
+		"name": "Диканські Вечори",
+		"date": "2017-08-05",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Полтавпиво (Poltavpivo)",
+			"size": "micro brewery",
+			"location": "Полтава, Ukraine",
+			"website": "http://poltavpivo.com"	
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["watery"],
+		"style": "euro dark lager",
+		"rating": 3.5
+	},
+	{
+		"name": "Adriaan Wit",
+		"date": "2017-08-06",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Jopen",
+			"size": "micro brewery",
+			"location": "Haarlem, Noord-Holland, Netherlands",
+			"website": "https://jopenbier.nl"	
+		},
+		"abv": 5,
+		"ibu": 12,
+		"flavor": ["fruity", "light", "smooth"],
+		"style": "witbier",
+		"rating": 4.5
+	},
+]
