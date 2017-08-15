@@ -94,5 +94,85 @@
 		"flavor": ["fruity", "light", "smooth"],
 		"style": "witbier",
 		"rating": 4.5
+	},
+	{
+		"name": "Peroni Nastro Azzuro",
+		"date": "2017-08-09",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Birra Peroni",
+			"size": "macro brewery",
+			"location": "Roma, Italy",
+			"website": "http://www.birraperoni.it"	
+		},
+		"abv": 5.1,
+		"ibu": null,
+		"flavor": ["clean", "light"],
+		"style": "euro lager",
+		"rating": 3.5
+	},
+	{
+		"name": "Peroni Nastro Azzuro",
+		"date": "2017-08-10",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Birra Peroni",
+			"size": "macro brewery",
+			"location": "Roma, Italy",
+			"website": "http://www.birraperoni.it"	
+		},
+		"abv": 5.1,
+		"ibu": null,
+		"flavor": ["clean", "light"],
+		"style": "euro lager",
+		"rating": 3.5
+	},
+	{
+		"name": "La Trappe Witte Trappist",
+		"date": "2017-08-11",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Bierbrouwerij De Koningshoeven",
+			"size": "micro brewery",
+			"location": "Berkel-Enschot, Noord-Brabant, Netherlands",
+			"website": "http://koningshoeven.nl/producten/brouwerij"	
+		},
+		"abv": 5.5,
+		"ibu": 14,
+		"flavor": ["fruity", "light", "smooth"],
+		"style": "witbier",
+		"rating": 4.5
+	},
+	{
+		"name": "Zatte",
+		"date": "2017-08-11",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"size": "micro brewery",
+			"location": "Amsterdam, Noord-Holland, Netherlands",
+			"website": "http://brouwerijhetij.nl"	
+		},
+		"abv": 8,
+		"ibu": 19,
+		"flavor": ["sweet", "strong", "smooth"],
+		"style": "belgian tripel",
+		"rating": 3.75
+	},
+	{
+		"name": "Westmalle Trappist Dubbel",
+		"date": "2017-08-11",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij der Trappisten van Westmalle",
+			"size": "micro brewery",
+			"location": "Malle, Antwerpen, Belgium",
+			"website": "http://trappistwestmalle.be"	
+		},
+		"abv": 7,
+		"ibu": 24,
+		"flavor": ["sweet", "strong", "malty", "dark"],
+		"style": "belgian dubbel",
+		"rating": 4
 	}
 ]
