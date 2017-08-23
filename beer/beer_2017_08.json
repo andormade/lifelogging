@@ -174,5 +174,53 @@
 		"flavor": ["sweet", "strong", "malty", "dark"],
 		"style": "belgian dubbel",
 		"rating": 4
+	},
+	{
+		"name": "Witte Vrouwen",
+		"date": "2017-08-20",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij De Leckere",
+			"size": "micro brewery",
+			"location": "De Meern, Utrect, Netherlands",
+			"website": "http://deleckere.nl"	
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["light", "sour", "smooth"],
+		"style": "witbier",
+		"rating": 4.5
+	},
+	{
+		"name": "Guinnes Draught",
+		"date": "2017-08-20",
+		"serving": "draft",
+		"brewery": {
+			"name": "Guinness",
+			"size": "macro brewery",
+			"location": "Dublin, Ireland",
+			"website": "https://www.guinness.com"	
+		},
+		"abv": 4.3,
+		"ibu": 45,
+		"flavor": ["creamy", "dark", "smooth"],
+		"style": "irish stout",
+		"rating": 4.5
+	},
+	{
+		"name": "Meesterstuk (2017)",
+		"date": "2017-08-20",
+		"serving": "draft",
+		"brewery": {
+			"name": "Jopen",
+			"size": "micro brewery",
+			"location": "Haarlem, Noord-Holland, Netherlands",
+			"website": "https://jopenbier.nl"	
+		},
+		"abv": 10,
+		"ibu": 30,
+		"flavor": ["spicy", "heavy", "sweet", "smooth"],
+		"style": "imperial porter",
+		"rating": 3.5
 	}
 ]
