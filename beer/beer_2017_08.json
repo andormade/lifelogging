@@ -222,5 +222,85 @@
 		"flavor": ["spicy", "heavy", "sweet", "smooth"],
 		"style": "imperial porter",
 		"rating": 3.5
+	},
+	{
+		"name": "Weizen",
+		"date": "2017-08-22",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Koninklijke Brand Bierbrouwerij",
+			"size": "macro brewery",
+			"location": "Wijlre, Limburg, Netherlands",
+			"website": "http://brand.nl/agecheck"	
+		},
+		"abv": 5.1,
+		"ibu": 12,
+		"flavor": ["light", "banana", "sweet", "smooth", "warm"],
+		"style": "hefeweizen",
+		"rating": 4
+	},
+	{
+		"name": "Wieckse Witte",
+		"date": "2017-08-22",
+		"serving": "draft",
+		"brewery": {
+			"name": "Wieckse",
+			"size": "micro brewery",
+			"location": "Maastricht, Limburg, Netherlands",
+			"website": "http://wieckse.nl/agecheck"	
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["light", "sweet", "fruity", "smooth", "warm"],
+		"style": "witbier",
+		"rating": 3
+	},
+	{
+		"name": "Kingfisher Premium Lager",
+		"date": "2017-08-27",
+		"serving": "bottle",
+		"brewery": {
+			"name": "United Breweries",
+			"size": "micro brewery",
+			"location": "Bangalore, India",
+			"website": "http://unitedbreweries.com"	
+		},
+		"abv": 4.8,
+		"ibu": 20,
+		"flavor": ["light", "smooth", "sweet", "spicy", "malty"],
+		"style": "north american adjunct",
+		"rating": 4
+	},
+	{
+		"name": "Kriek Max",
+		"date": "2017-08-30",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij Omer Vander Ghinste",
+			"size": "micro brewery",
+			"location": "Bellegem, West-Vlaanderen, Belgium",
+			"website": "http://omervanderghinste.be"
+		},
+		"abv": 3.5,
+		"ibu": null,
+		"flavor": ["sweet", "fruity", "sour"],
+		"style": "fruit beer",
+		"rating": 3.5
+	},
+	{
+		"name": "Mežpils Tumšais",
+		"date": "2017-08-31",
+		"serving": "draft",
+		"brewery": {
+			"name": "Aldaris",
+			"size": "macro brewery",
+			"location": "Riga, Latvia",
+			"website": "http://alusdarbnica.lv"
+		},
+		"abv": 5.7,
+		"ibu": 20,
+		"flavor": ["sweet", "malty", "dark", "smooth"],
+		"style": "schwarzbier",
+		"rating": 4
 	}
 ]
