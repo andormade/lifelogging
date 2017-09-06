@@ -1,0 +1,114 @@
+[
+	{
+		"name": "Mežpils",
+		"date": "2017-09-01",
+		"serving": "draft",
+		"brewery": {
+			"name": "Aldaris",
+			"size": "macro brewery",
+			"location": "Rīga, Latvia",
+			"website": "http://mezpilsalus.lv"	
+		},
+		"abv": 5.3,
+		"ibu": null,
+		"flavor": ["malty", "light"],
+		"style": "golden ale",
+		"rating": 3.5
+	},
+	{
+		"name": "Mežpils",
+		"date": "2017-09-01",
+		"serving": "draft",
+		"brewery": {
+			"name": "Aldaris",
+			"size": "macro brewery",
+			"location": "Rīga, Latvia",
+			"website": "http://mezpilsalus.lv"	
+		},
+		"abv": 5.3,
+		"ibu": null,
+		"flavor": ["malty", "light"],
+		"style": "golden ale",
+		"rating": 3.5
+	},
+	{
+		"name": "1865",
+		"date": "2017-09-01",
+		"serving": "draft",
+		"brewery": {
+			"name": "Aldaris",
+			"size": "macro brewery",
+			"location": "Rīga, Latvia",
+			"website": "http://mezpilsalus.lv"	
+		},
+		"abv": 4.8,
+		"ibu": 20,
+		"flavor": ["herbal", "sweet", "smooth"],
+		"style": "pale lager",
+		"rating": 3
+	},
+	{
+		"name": "Tattoo Lager",
+		"date": "2017-09-02",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Gennys Brewing Co.",
+			"size": "nano brewery",
+			"location": "Kaunas, Lithuania",
+			"website": "http://genysbrewing.lt"	
+		},
+		"abv": 4,
+		"ibu": 20,
+		"flavor": ["malty", "earthy", "light", "smooth"],
+		"style": "pale lager",
+		"rating": 3.25
+	},
+	{
+		"name": "Ventspils Tumšais",
+		"date": "2017-09-03",
+		"serving": "draft",
+		"brewery": {
+			"name": "Užavas Alus",
+			"size": "micro brewery",
+			"location": "Užava, Latvia",
+			"website": "http://uzavasalus.eu"	
+		},
+		"abv": 4.9,
+		"ibu": null,
+		"flavor": ["malty", "smooth", "light", "dark"],
+		"style": "munich dunkel",
+		"rating": 4
+	},
+	{
+		"name": "Lielvārdes Gaišais",
+		"date": "2017-09-04",
+		"serving": "draft",
+		"brewery": {
+			"name": "Lāčplēsis",
+			"size": "micro brewery",
+			"location": "Liepāja, Latvia",
+			"website": "http://lacplesisalus.lv"	
+		},
+		"abv": 5.4,
+		"ibu": 22,
+		"flavor": ["malty", "yeasty", "sweet", "sour", "metallic"],
+		"style": "blonde ale",
+		"rating": 3.5
+	},
+	{
+		"name": "Lāčplēsis Ekstra",
+		"date": "2017-09-04",
+		"serving": "draft",
+		"brewery": {
+			"name": "SIA Cido Grupa",
+			"size": "micro brewery",
+			"location": "Rīga, Latvia",
+			"website": "cido.lv"	
+		},
+		"abv": 5.4,
+		"ibu": 20,
+		"flavor": ["light", "smooth", "hoppy", "stale"],
+		"style": "euro lager",
+		"rating": 3.5
+	}
+]
