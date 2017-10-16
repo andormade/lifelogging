@@ -110,5 +110,53 @@
 		"flavor": ["light", "smooth", "hoppy", "stale"],
 		"style": "euro lager",
 		"rating": 3.5
+	},
+	{
+		"name": "Tripel Karmeliet",
+		"date": "2017-09-08",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij Bosteels",
+			"size": "micro brewery",
+			"location": "Buggenhout, Oost-Vlaanderen, Belgium",
+			"website": "http://bestbelgianspecialbeers.be"	
+		},
+		"abv": 8.4,
+		"ibu": 16,
+		"flavor": ["sweet", "smooth", "fruity", "strong", "light"],
+		"style": "belgian tripel",
+		"rating": 4.25
+	},
+	{
+		"name": "Duvel Tripel Hop Citra",
+		"date": "2017-09-08",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Duvel Moortgat",
+			"size": "macro brewery",
+			"location": "Puurs, Antwerpen, Belgium",
+			"website": "http://duvelmoortgat.be"	
+		},
+		"abv": 9.5,
+		"ibu": 48,
+		"flavor": ["citrus", "hoppy", "bitter", "fruity", "strong"],
+		"style": "belgian strong golden ale",
+		"rating": 4
+	},
+	{
+		"name": "Zwaar Blond",
+		"date": "2017-09-08",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Koninklijke Brand Bierbrouwerij",
+			"size": "macro brewery",
+			"location": "Wijlre, Limburg, Netherlands",
+			"website": "http://brand.nl"	
+		},
+		"abv": 8.5,
+		"ibu": 36,
+		"flavor": ["strong", "heavy", "fruity", "sweet", "hoppy"],
+		"style": "belgian strong golden ale",
+		"rating": 3.5
 	}
 ]
