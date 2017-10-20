@@ -158,5 +158,53 @@
 		"flavor": ["strong", "heavy", "fruity", "sweet", "hoppy"],
 		"style": "belgian strong golden ale",
 		"rating": 3.5
+	},
+	{
+		"name": "Southern Pale Ale",
+		"date": "2017-09-16",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Monteith's Brewing Co.",
+			"size": "micro brewery",
+			"location": "Greymouth, West Coast, South Island, New Zealand",
+			"website": "http://monteiths.co.nz"	
+		},
+		"abv": 4.6,
+		"ibu": null,
+		"flavor": ["light", "fruity", "smooth", "sweet", "hoppy"],
+		"style": "pale ale",
+		"rating": 4
+	},
+	{
+		"name": "Witte Vrouwen",
+		"date": "2017-09-16",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij De Leckere",
+			"size": "micro brewery",
+			"location": "De Meern, Utrecht, Netherlands",
+			"website": "http://deleckere.nl"	
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["light", "sour", "smooth"],
+		"style": "witbier",
+		"rating": 4.5
+	},
+	{
+		"name": "Westmalle Trappist Dubbel",
+		"date": "2017-09-16",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij der Trappisten van Westmalle",
+			"size": "micro brewery",
+			"location": "Malle, Antwerpen, Belgium",
+			"website": "http://trappistwestmalle.be"	
+		},
+		"abv": 7,
+		"ibu": 24,
+		"flavor": ["dark", "sweet", "malty", "smooth", "strong"],
+		"style": "belgian dubbel",
+		"rating": 4
 	}
 ]
