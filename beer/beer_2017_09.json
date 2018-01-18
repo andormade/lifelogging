@@ -206,5 +206,53 @@
 		"flavor": ["dark", "sweet", "malty", "smooth", "strong"],
 		"style": "belgian dubbel",
 		"rating": 4
+	},
+	{
+		"name": "La Goudale - Blonde à l'ancienne",
+		"date": "2017-09-16",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Les Brasseurs de Gayant (Brasserie Goudale)",
+			"size": "macro brewery",
+			"location": "Douai, Nord France",
+			"website": null	
+		},
+		"abv": 7.2,
+		"ibu": 28,
+		"flavor": ["sweet", "malty", "smooth", "strong"],
+		"style": "bière de garde",
+		"rating": 4
+	},
+	{
+		"name": "The Last Possession",
+		"date": "2017-09-16",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Butcher's Tears",
+			"size": "micro brewery",
+			"location": "Amsterdam, Noord-Holland, Netherlands",
+			"website": "https://butchers-tears.com/"	
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["sweet", "malty", "smooth", "full", "light"],
+		"style": "red ale",
+		"rating": 4
+	},
+	{
+		"name": "Spencer Trappist Ale",
+		"date": "2017-09-16",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Spencer Brewery",
+			"size": "micro brewery",
+			"location": "Spencer, Massachusetts, United States",
+			"website": "http://spencerbrewery.com/"	
+		},
+		"abv": 6.5,
+		"ibu": 23,
+		"flavor": ["light", "fruity", "smooth", "banana", "dry"],
+		"style": "patersbier",
+		"rating": 4.5
 	}
 ]
