@@ -254,5 +254,85 @@
 		"flavor": ["light", "fruity", "smooth", "banana", "dry"],
 		"style": "patersbier",
 		"rating": 4.5
+	},
+	{
+		"name": "Woodchuck Amber Hard Cider",
+		"date": "2017-09-20",
+		"serving": "draft",
+		"brewery": {
+			"name": "Woodchuck Cidery",
+			"size": null,
+			"location": "Middlebury, Vermont, United States",
+			"website": "http://www.woodchuck.com/"	
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["sweet", "apple", "smooth", "tart", "light"],
+		"style": "cider",
+		"rating": 4.25
+	},
+	{
+		"name": "Cass Fresh",
+		"date": "2017-09-22",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Oriental Brewery",
+			"size": "macro brewery",
+			"location": "Seoul South Korea",
+			"website": "http://www.obbeer.co.kr"	
+		},
+		"abv": 4.5,
+		"ibu": null,
+		"flavor": ["sweet", "clean", "smooth", "light"],
+		"style": "north american adjunct lager",
+		"rating": 3
+	},
+	{
+		"name": "Dos Equis Ambar",
+		"date": "2017-09-23",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.",
+			"size": "macro brewery",
+			"location": "Monterrey, Nuevo León, Mexico",
+			"website": "http://cuamoc.com/"	
+		},
+		"abv": 4.7,
+		"ibu": 25,
+		"flavor": ["light", "dark", "smooth", "sweet", "malty"],
+		"style": "vienna lager",
+		"rating": 4
+	},
+	{
+		"name": "Bud Light",
+		"date": "2017-09-24",
+		"serving": "can",
+		"brewery": {
+			"name": "Anheuser-Busch",
+			"size": "macro brewery",
+			"location": "St. Louis, Missouri, United States",
+			"website": "http://www.anheuser-busch.com/"	
+		},
+		"abv": 4.2,
+		"ibu": 27,
+		"flavor": ["light", "smooth", "sweet", "warm", "full"],
+		"style": "american light lager",
+		"rating": 2.5
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2017-09-26",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"size": "macro brewery",
+			"location": "Mexico City, Distrito Federal Mexico",
+			"website": "https://www.gmodelo.mx/"	
+		},
+		"abv": 4.5,
+		"ibu": 19,
+		"flavor": ["light", "smooth", "sweet", "warm", "full"],
+		"style": "north american adjunct lager",
+		"rating": 4.5
 	}
 ]
