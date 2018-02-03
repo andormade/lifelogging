@@ -334,5 +334,53 @@
 		"flavor": ["light", "smooth", "sweet", "warm", "full"],
 		"style": "north american adjunct lager",
 		"rating": 4.5
+	},
+	{
+		"name": "Puur",
+		"date": "2017-09-27",
+		"serving": "draft",
+		"brewery": {
+			"name": "De Bierfabriek",
+			"size": "brew pub",
+			"location": "Amsterdam, Noord-Holland",
+			"website": "https://www.bierfabriek.com"	
+		},
+		"abv": 5.2,
+		"ibu": null,
+		"flavor": ["light", "smooth", "clean"],
+		"style": "zwickelbier",
+		"rating": 4
+	},
+	{
+		"name": "Nero",
+		"date": "2017-09-27",
+		"serving": "draft",
+		"brewery": {
+			"name": "De Bierfabriek",
+			"size": "brew pub",
+			"location": "Amsterdam, Noord-Holland",
+			"website": "https://www.bierfabriek.com"	
+		},
+		"abv": 5.8,
+		"ibu": 120,
+		"flavor": ["dark", "smooth", "coffee", "sweet"],
+		"style": "porter",
+		"rating": 4
+	},
+	{
+		"name": "Smithwick's",
+		"date": "2017-09-27",
+		"serving": "draft",
+		"brewery": {
+			"name": "Guinness",
+			"size": "macro brewery",
+			"location": "St. James's Gate, Dublin, Ireland",
+			"website": "https://www.guinness.com"	
+		},
+		"abv": 4.5,
+		"ibu": null,
+		"flavor": ["smooth", "malty", "light"],
+		"style": "irish red ale",
+		"rating": 4
 	}
 ]
