@@ -382,5 +382,54 @@
 		"flavor": ["smooth", "malty", "light"],
 		"style": "irish red ale",
 		"rating": 4
+	},
+	{
+		"name": "Goose IPA",
+		"date": "2017-09-28",
+		"serving": "draft",
+		"brewery": {
+			"name": "Goose Island Beer Co.",
+			"size": "macro brewery",
+			"location": "Chicago, Illinois, United States",
+			"website": "http://www.gooseisland.com"	
+		},
+		"abv": 5.9,
+		"ibu": 55,
+		"flavor": ["hoppy", "smooth", "light", "sweet", "fruity"],
+		"style": "english ipa",
+		"rating": 4.25
+	},
+	{
+		"name": "Goose IPA",
+		"date": "2017-09-28",
+		"serving": "draft",
+		"brewery": {
+			"name": "Goose Island Beer Co.",
+			"size": "macro brewery",
+			"location": "Chicago, Illinois, United States",
+			"website": "http://www.gooseisland.com"	
+		},
+		"abv": 5.9,
+		"ibu": 55,
+		"flavor": ["hoppy", "smooth", "light", "sweet", "fruity"],
+		"style": "english ipa",
+		"rating": 4.25
+	},
+	{
+		"name": "Weizen",
+		"date": "2017-09-29",
+		"serving": "draft",
+		"brewery": {
+			"name": "Koninklijke Brand Bierbrouwerij",
+			"size": "macro brewery",
+			"location": "Wijlre, Limburg, Netherlands",
+			"website": "https://www.brand.nl"	
+		},
+		"abv": 5.1,
+		"ibu": 12,
+		"flavor": ["banana", "smooth", "light", "sweet"],
+		"style": "hefeweizen",
+		"rating": 4
 	}
+	
 ]
