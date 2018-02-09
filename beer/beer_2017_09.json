@@ -342,7 +342,7 @@
 		"brewery": {
 			"name": "De Bierfabriek",
 			"size": "brew pub",
-			"location": "Amsterdam, Noord-Holland",
+			"location": "Amsterdam, Noord-Holland, Netherlands",
 			"website": "https://www.bierfabriek.com"	
 		},
 		"abv": 5.2,
@@ -358,7 +358,7 @@
 		"brewery": {
 			"name": "De Bierfabriek",
 			"size": "brew pub",
-			"location": "Amsterdam, Noord-Holland",
+			"location": "Amsterdam, Noord-Holland, Netherlands",
 			"website": "https://www.bierfabriek.com"	
 		},
 		"abv": 5.8,
