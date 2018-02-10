@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Gregorius",
+		"date": "2017-10-02",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Stift Engelszell",
+			"size": "micro brewery",
+			"location": "Engelhartszell, Austria",
+			"website": "http://www.stift-engelszell.at"	
+		},
+		"abv": 10.5,
+		"ibu": null,
+		"flavor": ["dark", "sweet", "strong"],
+		"style": "belgian strong dark ale",
+		"rating": 3
+	},
+	{
+		"name": "Trappist Westvleteren 12",
+		"date": "2017-10-04",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij De Sint-Sixtusabdij van Westvleteren",
+			"size": "micro brewery",
+			"location": "Westvleteren, West-Vlaanderen, Belgium",
+			"website": "http://www.sintsixtus.be"	
+		},
+		"abv": 10.2,
+		"ibu": 38,
+		"flavor": ["dark", "smooth", "strong", "rich", "sweet"],
+		"style": "belgian quad",
+		"rating": 4.5
+	}
+]
