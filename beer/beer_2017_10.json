@@ -30,5 +30,85 @@
 		"flavor": ["dark", "smooth", "strong", "rich", "sweet"],
 		"style": "belgian quad",
 		"rating": 4.5
+	},
+	{
+		"name": "Rote Grütze",
+		"date": "2017-10-07",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Buddelship Brauerei",
+			"size": "micro brewery",
+			"location": "Hamburg, Germany",
+			"website": "http://www.buddelship.de"	
+		},
+		"abv": 4.5,
+		"ibu": 12,
+		"flavor": ["sour", "fruity", "dry", "tart", "sweet"],
+		"style": "sour ale",
+		"rating": 3.5
+	},
+	{
+		"name": "Tree Swing",
+		"date": "2017-10-07",
+		"serving": "draft",
+		"brewery": {
+			"name": "Het Uiltje",
+			"size": "micro brewery",
+			"location": "Haarlem, Netherlands",
+			"website": "https://www.uiltjecraftbeer.com"	
+		},
+		"abv": 2.6,
+		"ibu": 6,
+		"flavor": ["sour", "light", "citrusy", "hoppy", "bitter"],
+		"style": "berliner weisse",
+		"rating": 4
+	},
+	{
+		"name": "Murphy's Irish Red",
+		"date": "2017-10-07",
+		"serving": "draft",
+		"brewery": {
+			"name": "Heineken Brewery Ireland",
+			"size": "macro brewery",
+			"location": "Cork, Ireland",
+			"website": "http://www.heinekenireland.ie"	
+		},
+		"abv": 5,
+		"ibu": null,
+		"flavor": ["smooth", "malty", "light", "sweet", "creamy"],
+		"style": "irish red ale",
+		"rating": 4.5
+	},
+	{
+		"name": "Rijke Herfstbok",
+		"date": "2017-10-07",
+		"serving": "draft",
+		"brewery": {
+			"name": "Koninklijke Grolsch",
+			"size": "macro brewery",
+			"location": "Enschede, Overijssel, Netherlands",
+			"website": "http://www.koninklijkegrolsch.nl"	
+		},
+		"abv": 6.6,
+		"ibu": null,
+		"flavor": ["sweet", "dark", "warm", "rich", "malty"],
+		"style": "bock",
+		"rating": 3.5
+	},
+	{
+		"name": "Filou",
+		"date": "2017-10-07",
+		"serving": "draft",
+		"brewery": {
+			"name": "Brouwerij Van Honsebrouck",
+			"size": "macro brewery",
+			"location": "Enschede, Overijssel, Netherlands",
+			"website": "https://www.vanhonsebrouck.be"	
+		},
+		"abv": 8.5,
+		"ibu": null,
+		"flavor": ["sweet", "light", "strong", "smooth"],
+		"style": "belgian tripel",
+		"rating": 3.5
 	}
 ]
