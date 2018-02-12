@@ -110,5 +110,79 @@
 		"flavor": ["sweet", "light", "strong", "smooth"],
 		"style": "belgian tripel",
 		"rating": 3.5
+	},
+	{
+		"name": "IJwit",
+		"date": "2017-10-19",
+		"serving": "draft",
+		"location": {
+			"name": "Theatercafé De Richer",
+			"category": "bar",
+			"address": "Nes 71, 1012 KD Amsterdam, Netherlands",
+		},
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"size": "micro brewery",
+			"location": "Amsterdam, Noord-Holland",
+			"website": "https://www.brouwerijhetij.nl"	
+		},			
+		"abv": 6.5,
+		"ibu": 18,
+		"flavor": ["sweet", "light", "soft", "smooth", "fruity"],
+		"style": "witbier",
+		"rating": 4
+	},
+	{
+		"name": "Original Pale Ale",
+		"date": "2017-10-20",
+		"serving": "bottle",
+		"location": {
+			"name": "Drovers Dog",
+			"category": "australian restaurant",
+			"address": "Wibautstraat 206, Amsterdam, Netherlands",
+		},
+		"brewery": {
+			"name": "Coopers",
+			"size": "macro brewery",
+			"location": "Regency Park, South Australia, Australia",
+			"website": "https://coopers.com.au"	
+		},			
+		"abv": 4.5,
+		"ibu": 24,
+		"flavor": ["light", "smooth", "hoppy"],
+		"style": "australian pale ale",
+		"rating": 3.5
+	},
+	{
+		"name": "Chouffe Bok 6666",
+		"date": "2017-10-21",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"size": "micro brewery",
+			"location": "Achouffe, Luxembourg, Belgium",
+			"website": "http://www.achouffe.be"	
+		},			
+		"abv": 6.66,
+		"ibu": 19,
+		"flavor": ["dark", "smooth", "sweet"],
+		"style": "bock",
+		"rating": 4.5
+	},
+	{
+		"name": "White Mamba",
+		"date": "2017-10-21",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Two Chefs Brewing",
+			"size": "micro brewery",
+			"location": "Amsterdam, Netherlands",
+			"website": "https://twochefsbrewing.com"	
+		},			
+		"abv": 5,
+		"ibu": 12,
+		"flavor": ["citrus", "light", "fruity", "floral", "hoppy"],
+		"style": "witbier",
+		"rating": 4
 	}
 ]
