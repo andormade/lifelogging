@@ -1,0 +1,344 @@
+[
+	{
+		"name": "Anchor Steam Beer",
+		"date": "2017-11-08 18:44:09",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Anchor Brewing Company",
+			"size": null,
+			"location": "San Francisco, United States",
+			"website": null
+		},
+		"venue": {
+			"name": "Cannibale Royale",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.89028,
+			"latitude": 52.3679
+		},
+		"ibu": 35,
+		"abv": 4,
+		"flavor": [
+			"malty",
+			"light",
+			"sweet",
+			"smooth",
+			"hoppy"
+		],
+		"style": "california common",
+		"rating": 4
+	},
+	{
+		"name": "Lagunitas Sucks",
+		"date": "2017-11-08 19:21:57",
+		"serving": "draft",
+		"brewery": {
+			"name": "Lagunitas Brewing Company",
+			"size": null,
+			"location": "Petaluma, United States",
+			"website": null
+		},
+		"venue": {
+			"name": "Cannibale Royale",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.89028,
+			"latitude": 52.3679
+		},
+		"ibu": 63,
+		"abv": 8,
+		"flavor": [
+			"malty",
+			"sweet",
+			"strong",
+			"smooth",
+			"hoppy"
+		],
+		"style": "ipa - imperial / double",
+		"rating": 4
+	},
+	{
+		"name": "Puur",
+		"date": "2017-11-08 20:49:46",
+		"serving": "",
+		"brewery": {
+			"name": "De Bierfabriek",
+			"size": null,
+			"location": "Amsterdam, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Bierfabriek",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.89346,
+			"latitude": 52.3699
+		},
+		"ibu": null,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"full",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"style": "kellerbier / zwickelbier",
+		"rating": 4
+	},
+	{
+		"name": "IJwit",
+		"date": "2017-11-11 19:22:41",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"size": null,
+			"location": "Amsterdam, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Eten Bij Mama",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.83973,
+			"latitude": 52.3634
+		},
+		"ibu": 18,
+		"abv": 6,
+		"flavor": [
+			"soft",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"style": "witbier",
+		"rating": 4
+	},
+	{
+		"name": "Łomża Miodowe / Honey Beer",
+		"date": "2017-11-11 22:20:21",
+		"serving": "",
+		"brewery": {
+			"name": "Browar Łomża",
+			"size": null,
+			"location": "Łomża, Poland",
+			"website": null
+		},
+		"ibu": null,
+		"abv": 5,
+		"flavor": [
+			"floral",
+			"sweet",
+			"strong",
+			"honey"
+		],
+		"style": "honey beer",
+		"rating": 4
+	},
+	{
+		"name": "N'Ice Chouffe",
+		"date": "2017-11-14 19:46:14",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"size": null,
+			"location": "Achouffe, Belgium",
+			"website": null
+		},
+		"ibu": 25,
+		"abv": 10,
+		"flavor": [
+			"sweet",
+			"strong",
+			"smooth",
+			"dark"
+		],
+		"style": "winter ale",
+		"rating": 4
+	},
+	{
+		"name": "Tripel Karmeliet",
+		"date": "2017-11-14 21:07:50",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij Bosteels",
+			"size": null,
+			"location": "Buggenhout, Belgium",
+			"website": null
+		},
+		"ibu": 16,
+		"abv": 8,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"style": "belgian tripel",
+		"rating": 4
+	},
+	{
+		"name": "Brugge Tripel",
+		"date": "2017-11-14 21:43:56",
+		"serving": "bottle",
+		"brewery": {
+			"name": "De Gouden Boom",
+			"size": null,
+			"location": "Brugge, Belgium",
+			"website": null
+		},
+		"ibu": null,
+		"abv": 8,
+		"flavor": [
+			"spicy",
+			"light",
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"style": "gruit / ancient herbed ale",
+		"rating": 4
+	},
+	{
+		"name": "Grimbergen Blanche",
+		"date": "2017-11-19 23:43:22",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Kronenbourg Brewery",
+			"size": null,
+			"location": "Strasbourg, France",
+			"website": null
+		},
+		"ibu": 13,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"style": "witbier",
+		"rating": 4
+	},
+	{
+		"name": "Chouffe Bok 6666 (2017)",
+		"date": "2017-11-23 22:07:17",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"size": null,
+			"location": "Achouffe, Belgium",
+			"website": null
+		},
+		"ibu": 19,
+		"abv": 6,
+		"flavor": [
+			"malty",
+			"soft",
+			"sweet",
+			"dark"
+		],
+		"style": "bock",
+		"rating": 4
+	},
+	{
+		"name": "De Koninck APA",
+		"date": "2017-11-24 17:56:21",
+		"serving": "draft",
+		"brewery": {
+			"name": "Brouwerij De Koninck",
+			"size": null,
+			"location": "2018 Antwerpen, Belgium",
+			"website": null
+		},
+		"venue": {
+			"name": "Eetcafé Van Beeren",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.90229,
+			"latitude": 52.372
+		},
+		"ibu": 23,
+		"abv": 5,
+		"flavor": [
+			"malty",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"style": "pale ale - belgian",
+		"rating": 4
+	},
+	{
+		"name": "Flink",
+		"date": "2017-11-25 18:37:18",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"size": null,
+			"location": "Amsterdam, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Eten Bij Mama",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.83973,
+			"latitude": 52.3634
+		},
+		"ibu": null,
+		"abv": 4,
+		"flavor": [
+			"light",
+			"hoppy",
+			"citrus",
+			"bitter"
+		],
+		"style": "pale ale - american",
+		"rating": 3
+	},
+	{
+		"name": "Crisp Apple",
+		"date": "2017-11-25 21:46:02",
+		"serving": "",
+		"brewery": {
+			"name": "Apple Bandit Cider",
+			"size": null,
+			"location": "Amsterdam, Netherlands",
+			"website": null
+		},
+		"ibu": null,
+		"abv": 4,
+		"flavor": [
+			"soft",
+			"sweet",
+			"warm",
+			"apple",
+			"pear"
+		],
+		"style": "cider - other",
+		"rating": 3
+	},
+	{
+		"name": "Lowlander Poorter",
+		"date": "2017-11-27 18:49:49",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Lowlander Beer",
+			"size": null,
+			"location": "Amsterdam, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Cannibale Royale",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.89028,
+			"latitude": 52.3679
+		},
+		"ibu": 45,
+		"abv": 6,
+		"flavor": [
+			"sweet",
+			"dark",
+			"coffee",
+			"vanilla"
+		],
+		"style": "porter - other",
+		"rating": 4
+	}
+]
