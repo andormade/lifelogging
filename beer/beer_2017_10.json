@@ -115,7 +115,7 @@
 		"name": "IJwit",
 		"date": "2017-10-19",
 		"serving": "draft",
-		"location": {
+		"venue": {
 			"name": "Theatercafé De Richer",
 			"category": "bar",
 			"address": "Nes 71, 1012 KD Amsterdam, Netherlands",
@@ -136,10 +136,10 @@
 		"name": "Original Pale Ale",
 		"date": "2017-10-20",
 		"serving": "bottle",
-		"location": {
+		"venue": {
 			"name": "Drovers Dog",
 			"category": "australian restaurant",
-			"address": "Wibautstraat 206, Amsterdam, Netherlands",
+			"address": "Wibautstraat 206, Amsterdam, Netherlands"
 		},
 		"brewery": {
 			"name": "Coopers",
