@@ -1,0 +1,532 @@
+[
+	{
+		"name": "White Mamba",
+		"date": "2017-12-08 16:23:25",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Two Chefs Brewing",
+			"size": null,
+			"location": "Amsterdam, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "BRET",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.83682,
+			"latitude": 52.3896
+		},
+		"ibu": 12,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"light",
+			"citrus"
+		],
+		"style": "witbier",
+		"rating": 3
+	},
+	{
+		"name": "Black Flag",
+		"date": "2017-12-08 17:37:21",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Oproer",
+			"size": null,
+			"location": "Utrecht, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "BRET",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.83682,
+			"latitude": 52.3896
+		},
+		"ibu": 75,
+		"abv": 6,
+		"flavor": [
+			"roasty",
+			"hoppy",
+			"dark",
+			"coffee",
+			"bitter"
+		],
+		"style": "ipa - black / cascadian dark ale",
+		"rating": 3
+	},
+	{
+		"name": "Bloesem Blond",
+		"date": "2017-12-08 19:41:27",
+		"serving": "taster",
+		"brewery": {
+			"name": "Gebrouwen Door Vrouwen",
+			"size": null,
+			"location": "Amsterdam, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "BRET",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.83682,
+			"latitude": 52.3896
+		},
+		"ibu": 18,
+		"abv": 6,
+		"flavor": [
+			"floral",
+			"fruity",
+			"light",
+			"sweet"
+		],
+		"style": "blonde ale - belgian blonde / golden",
+		"rating": 4
+	},
+	{
+		"name": "Disco Bitch",
+		"date": "2017-12-08 19:42:42",
+		"serving": "draft",
+		"brewery": {
+			"name": "Jopen",
+			"size": null,
+			"location": "Haarlem, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "BRET",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.83682,
+			"latitude": 52.3896
+		},
+		"ibu": 50,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"dry",
+			"hoppy",
+			"bitter"
+		],
+		"style": "ipa - international",
+		"rating": 3
+	},
+	{
+		"name": "Osiris Farmhouse Ale",
+		"date": "2017-12-15 11:56:13",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Walhalla Brouwerij & Proeflokaal",
+			"size": null,
+			"location": "Amsterdam, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Cannibale Royale",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.89869,
+			"latitude": 52.375
+		},
+		"ibu": 38,
+		"abv": 7,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"dry",
+			"hoppy",
+			"bitter"
+		],
+		"style": "saison / farmhouse ale",
+		"rating": 4
+	},
+	{
+		"name": "Lowlander I.P.A.",
+		"date": "2017-12-15 11:57:34",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Lowlander Beer",
+			"size": null,
+			"location": "Amsterdam, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Cannibale Royale",
+			"location": "Amsterdam, Nederland",
+			"longitude": 4.89869,
+			"latitude": 52.375
+		},
+		"ibu": 70,
+		"abv": 6,
+		"flavor": [
+			"spicy",
+			"fruity",
+			"hoppy",
+			"citrus",
+			"bitter"
+		],
+		"style": "ipa - international",
+		"rating": 4
+	},
+	{
+		"name": "Kruidige Winterbok (2017)",
+		"date": "2017-12-16 20:32:11",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Koninklijke Grolsch",
+			"size": null,
+			"location": "Enschede, Netherlands",
+			"website": null
+		},
+		"ibu": null,
+		"abv": 7,
+		"flavor": [
+			"roasty",
+			"sweet",
+			"warm",
+			"honey",
+			"caramel"
+		],
+		"style": "bock",
+		"rating": 4
+	},
+	{
+		"name": "Sylvester (2017)",
+		"date": "2017-12-16 21:19:01",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Koninklijke Brand Bierbrouwerij",
+			"size": null,
+			"location": "Wijlre, Netherlands",
+			"website": null
+		},
+		"ibu": 26,
+		"abv": 7,
+		"flavor": [
+			"malty",
+			"spicy",
+			"herbal",
+			"sweet"
+		],
+		"style": "winter ale",
+		"rating": 4
+	},
+	{
+		"name": "Dreher Bak",
+		"date": "2017-12-20 21:11:54",
+		"serving": "draft",
+		"brewery": {
+			"name": "Dreher Sörgyárak",
+			"size": null,
+			"location": "Budapest, Hungary",
+			"website": null
+		},
+		"venue": {
+			"name": "Kiadó Kocsma",
+			"location": "Budapest, Magyarország",
+			"longitude": 19.0617,
+			"latitude": 47.5048
+		},
+		"ibu": null,
+		"abv": 7,
+		"flavor": [
+			"malty",
+			"sweet",
+			"dark",
+			"coffee"
+		],
+		"style": "bock",
+		"rating": 3
+	},
+	{
+		"name": "Dr. Béla",
+		"date": "2017-12-20 22:45:09",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Hübris",
+			"size": null,
+			"location": ", Hungary",
+			"website": null
+		},
+		"venue": {
+			"name": "Spíler Shanghai",
+			"location": "Budapest, Magyarország",
+			"longitude": 19.0588,
+			"latitude": 47.4988
+		},
+		"ibu": 19,
+		"abv": 4,
+		"flavor": [
+			"herbal",
+			"grassy",
+			"fruity",
+			"citrus"
+		],
+		"style": "witbier",
+		"rating": 5
+	},
+	{
+		"name": "Ubik Eklektik Herbál IPA",
+		"date": "2017-12-20 23:03:11",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Hübris",
+			"size": null,
+			"location": ", Hungary",
+			"website": null
+		},
+		"venue": {
+			"name": "Spíler Shanghai",
+			"location": "Budapest, Magyarország",
+			"longitude": 19.0588,
+			"latitude": 47.4988
+		},
+		"ibu": 71,
+		"abv": 6,
+		"flavor": [
+			"malty",
+			"herbal",
+			"dry",
+			"hoppy"
+		],
+		"style": "ipa - international",
+		"rating": 3
+	},
+	{
+		"name": "Mantra #3 Sumatra",
+		"date": "2017-12-21 00:27:46",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Hübris",
+			"size": null,
+			"location": ", Hungary",
+			"website": null
+		},
+		"venue": {
+			"name": "Spíler Shanghai",
+			"location": "Budapest,Magyarország",
+			"longitude": 19.0588,
+			"latitude": 47.4988
+		},
+		"ibu": null,
+		"abv": 5,
+		"flavor": [
+			"malty",
+			"sour",
+			"hoppy",
+			"coffee"
+		],
+		"style": "lager - pale",
+		"rating": 4
+	},
+	{
+		"name": "Hofbräu Münchner Weisse / Münchner Kindl / Hefe Weizen",
+		"date": "2017-12-22 21:22:19",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Staatliches Hofbräuhaus München",
+			"size": null,
+			"location": "München, Germany",
+			"website": null
+		},
+		"venue": {
+			"name": "Hummus Bar",
+			"location": ", Magyarország",
+			"longitude": 19.0615,
+			"latitude": 47.5027
+		},
+		"ibu": 14,
+		"abv": 5,
+		"flavor": [
+			"clove",
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"style": "hefeweizen",
+		"rating": 3
+	},
+	{
+		"name": "Pauwel Kwak",
+		"date": "2017-12-23 16:22:02",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij Bosteels",
+			"size": null,
+			"location": "Buggenhout, Belgium",
+			"website": null
+		},
+		"venue": {
+			"name": "Belgian Beer Café",
+			"location": "Győr, Magyarország",
+			"longitude": 17.6351,
+			"latitude": 47.6842
+		},
+		"ibu": null,
+		"abv": 8,
+		"flavor": [
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"style": "belgian strong golden ale",
+		"rating": 4
+	},
+	{
+		"name": "Kőbányai",
+		"date": "2017-12-25 19:23:38",
+		"serving": "draft",
+		"brewery": {
+			"name": "Dreher Sörgyárak",
+			"size": null,
+			"location": "Budapest, Hungary",
+			"website": null
+		},
+		"venue": {
+			"name": "Schmauser Étterem és Söröző",
+			"location": "Sopron, Magyarország",
+			"longitude": 16.576,
+			"latitude": 47.6845
+		},
+		"ibu": null,
+		"abv": 4,
+		"flavor": [
+			"clean",
+			"light",
+			"thin"
+		],
+		"style": "lager - pale",
+		"rating": 3
+	},
+	{
+		"name": "Kéményseprő",
+		"date": "2017-12-25 20:35:28",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Fóti Kézműves Sörfőzde",
+			"size": null,
+			"location": "Fót, Hungary",
+			"website": null
+		},
+		"venue": {
+			"name": "Kégli Kert",
+			"location": "Sopron, Magyarország",
+			"longitude": 16.5718,
+			"latitude": 47.6822
+		},
+		"ibu": null,
+		"abv": 6,
+		"flavor": [
+			"dark",
+			"coffee",
+			"chocolate"
+		],
+		"style": "lager - dark",
+		"rating": 3
+	},
+	{
+		"name": "Soproni Klasszikus",
+		"date": "2017-12-26 16:33:38",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Soproni Sörgyár (Heineken Hungária)",
+			"size": null,
+			"location": "Sopron, Hungary",
+			"website": null
+		},
+		"venue": {
+			"name": "Barátok Asztala",
+			"location": "Kecskéd, Magyarország",
+			"longitude": 18.3072,
+			"latitude": 47.5254
+		},
+		"ibu": null,
+		"abv": 4,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"style": "lager - pale",
+		"rating": 3
+	},
+	{
+		"name": "Zhiguli Barnoe (Жигули Барное)",
+		"date": "2017-12-29 18:48:10",
+		"serving": "can",
+		"brewery": {
+			"name": "Moscow Brewing Company (Московская Пивоваренная Компания)",
+			"size": null,
+			"location": "Moscow, Russia",
+			"website": null
+		},
+		"ibu": null,
+		"abv": 4,
+		"flavor": [
+			"malty",
+			"light",
+			"smooth"
+		],
+		"style": "lager - pale",
+		"rating": 3
+	},
+	{
+		"name": "Igazi Csíki Sör",
+		"date": "2017-12-29 19:44:39",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Csíki Sör Manufaktúra",
+			"size": null,
+			"location": ", Romania",
+			"website": null
+		},
+		"ibu": null,
+		"abv": 6,
+		"flavor": [
+			"malty",
+			"clean",
+			"sweet",
+			"smooth"
+		],
+		"style": "lager - pale",
+		"rating": 3
+	},
+	{
+		"name": "Tesco Finest Unfiltered Wheat",
+		"date": "2017-12-29 20:21:21",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Tesco StoresLtd.",
+			"size": null,
+			"location": "Welwyn Garden City, England",
+			"website": null
+		},
+		"ibu": null,
+		"abv": 5,
+		"flavor": [
+			"bread",
+			"banana",
+			"light",
+			"sweet"
+		],
+		"style": "hefeweizen",
+		"rating": 3
+	},
+	{
+		"name": "Tesco Finest Unfiltered Ale",
+		"date": "2017-12-29 21:23:29",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Tesco Stores Ltd.",
+			"size": null,
+			"location": "Welwyn Garden City, England",
+			"website": null
+		},
+		"ibu": null,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"sour",
+			"hoppy",
+			"bitter"
+		],
+		"style": "pale ale - american",
+		"rating": 4
+	}
+]
