@@ -1,0 +1,599 @@
+[
+	{
+		"name": "Suiyoubi no Neko (水曜日のネコ)",
+		"date": "2018-05-01 21:47:56",
+		"serving": "can",
+		"brewery": {
+			"name": "Yo-Ho Brewing Company",
+			"size": null,
+			"location": "Saku-shi, Japan",
+			"website": null
+		},
+		"venue": {
+			"name": "Ota (大田区)",
+			"location": ", 日本",
+			"longitude": 139.727,
+			"latitude": 35.5603
+		},
+		"ibu": 11,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"style": "witbier",
+		"rating": 4
+	},
+	{
+		"name": "Ichiban (Ichiban Shibori)",
+		"date": "2018-05-02 13:09:14",
+		"serving": "draft",
+		"brewery": {
+			"name": "Kirin Brewery Company",
+			"size": null,
+			"location": "Nakano-ku, Japan",
+			"website": null
+		},
+		"venue": {
+			"name": "とんこつらぁ麺 CHABUTON 京都ヨドバシ店",
+			"location": "京都市, 日本",
+			"longitude": 135.759,
+			"latitude": 34.9882
+		},
+		"ibu": 18,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"style": "lager - pale",
+		"rating": 3
+	},
+	{
+		"name": "Ichii Senshin (一意専心)",
+		"date": "2018-05-02 18:11:33",
+		"serving": "draft",
+		"brewery": {
+			"name": "Kyoto Brewing Company",
+			"size": null,
+			"location": "Kyoto, Japan",
+			"website": null
+		},
+		"venue": {
+			"name": "Man in the Moon 祇園店",
+			"location": "京都市, 日本",
+			"longitude": 135.775,
+			"latitude": 35.0052
+		},
+		"ibu": 55,
+		"abv": 6,
+		"flavor": [
+			"spicy",
+			"fruity",
+			"smooth",
+			"hoppy"
+		],
+		"style": "ipa - belgian",
+		"rating": 4
+	},
+	{
+		"name": "Enoshima Beer",
+		"date": "2018-05-03 18:45:09",
+		"serving": "draft",
+		"brewery": {
+			"name": "Kamakura Beer Brew Co.",
+			"size": null,
+			"location": "Kamakura-shi, Japan",
+			"website": null
+		},
+		"venue": {
+			"name": "Pizzeria&Dining PICO",
+			"location": "藤沢市, 日本",
+			"longitude": 139.486,
+			"latitude": 35.3092
+		},
+		"ibu": null,
+		"abv": 5,
+		"flavor": [
+			""
+		],
+		"style": "kölsch",
+		"rating": 4
+	},
+	{
+		"name": "Kamakura Moon",
+		"date": "2018-05-03 19:34:46",
+		"serving": "draft",
+		"brewery": {
+			"name": "Kamakura Beer Brew Co.",
+			"size": null,
+			"location": "Kamakura-shi, Japan",
+			"website": null
+		},
+		"venue": {
+			"name": "Café LivingRoom",
+			"location": "藤沢市, 日本",
+			"longitude": 139.487,
+			"latitude": 35.3105
+		},
+		"ibu": null,
+		"abv": 5,
+		"flavor": [
+			"malty",
+			"rich",
+			"sweet"
+		],
+		"style": "altbier",
+		"rating": 3
+	},
+	{
+		"name": "Yebisu (Premium)",
+		"date": "2018-05-03 23:16:17",
+		"serving": "can",
+		"brewery": {
+			"name": "Sapporo Breweries",
+			"size": null,
+			"location": "Shibuya-ku, Japan",
+			"website": null
+		},
+		"venue": {
+			"name": "Ota (大田区)",
+			"location": ", 日本",
+			"longitude": 139.727,
+			"latitude": 35.5603
+		},
+		"ibu": null,
+		"abv": 5,
+		"flavor": [
+			"malty",
+			"clean",
+			"light",
+			"smooth"
+		],
+		"style": "lager- dortmunder / export",
+		"rating": 4
+	},
+	{
+		"name": "Hard Cidre",
+		"date": "2018-05-04 14:40:46",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Kirin Brewery Company",
+			"size": null,
+			"location": "Nakano-ku, Japan",
+			"website": null
+		},
+		"venue": {
+			"name": "gram 京都河原町店",
+			"location": "京都市, 日本",
+			"longitude": 135.769,
+			"latitude": 35.0059
+		},
+		"ibu": null,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"sweet",
+			"sour",
+			"apple"
+		],
+		"style": "cider - other",
+		"rating": 4
+	},
+	{
+		"name": "Hitachino Nest White Ale",
+		"date": "2018-05-05 21:04:16",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Kiuchi Brewery",
+			"size": null,
+			"location": "Naka-shi, Japan",
+			"website": null
+		},
+		"venue": {
+			"name": "Mango Tree Cafe & Bar",
+			"location": "東京, 日本",
+			"longitude": 139.737,
+			"latitude": 35.6288
+		},
+		"ibu": 13,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"style": "witbier",
+		"rating": 4
+	},
+	{
+		"name": "Tokyo Craft Pale Ale",
+		"date": "2018-05-06 08:33:21",
+		"serving": "can",
+		"brewery": {
+			"name": "Suntory Beer Limited",
+			"size": null,
+			"location": "Minato-ku, Japan",
+			"website": null
+		},
+		"venue": {
+			"name": "Kansai International Airport (KIX) (関西国際空港)",
+			"location": "泉佐野市, 日本",
+			"longitude": 135.244,
+			"latitude": 34.4353
+		},
+		"ibu": null,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"hoppy",
+			"watery"
+		],
+		"style": "pale ale - american",
+		"rating": 4
+	},
+	{
+		"name": "Gouverneur Blond",
+		"date": "2018-05-06 18:30:31",
+		"serving": "draft",
+		"brewery": {
+			"name": "Lindeboom",
+			"size": null,
+			"location": "Neer, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Baz Zandvoort",
+			"location": "Zandvoort, Nederland",
+			"longitude": 4.52609,
+			"latitude": 52.3756
+		},
+		"ibu": 25,
+		"abv": 6,
+		"flavor": [
+			"light",
+			"sweet"
+		],
+		"style": "blonde ale - belgian blonde / golden",
+		"rating": 4
+	},
+	{
+		"name": "Warsteiner Premium Verum / German Pilsener",
+		"date": "2018-05-06 19:12:53",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Warsteiner",
+			"size": null,
+			"location": "Warstein, Germany",
+			"website": null
+		},
+		"venue": {
+			"name": "La Fontanella",
+			"location": "Zandvoort, Nederland",
+			"longitude": 4.5289,
+			"latitude": 52.3751
+		},
+		"ibu": 27,
+		"abv": 4,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"style": "pilsner - german",
+		"rating": 3
+	},
+	{
+		"name": "Mannenliefde",
+		"date": "2018-05-10 23:56:28",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Oedipus Brewing",
+			"size": null,
+			"location": "Amsterdam, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"location": "Haarlem,Nederland",
+			"longitude": 4.64054,
+			"latitude": 52.3929
+		},
+		"ibu": 25,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"style": "saison / farmhouse ale",
+		"rating": 4
+	},
+	{
+		"name": "Stick A Finger In the Soil.",
+		"date": "2018-05-12 20:15:30",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Mikkeller",
+			"size": null,
+			"location": "Copenhagen, Denmark",
+			"website": null
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.64054,
+			"latitude": 52.3929
+		},
+		"ibu": null,
+		"abv": 4,
+		"flavor": [
+			"fruity",
+			"hoppy",
+			"dry-hop",
+			"citrus"
+		],
+		"style": "pale ale - american",
+		"rating": 5
+	},
+	{
+		"name": "Dr. Raptor",
+		"date": "2018-05-12 22:15:52",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Het Uiltje",
+			"size": null,
+			"location": "Haarlem, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.64054,
+			"latitude": 52.3929
+		},
+		"ibu": 75,
+		"abv": 9,
+		"flavor": [
+			"heavy",
+			"hoppy",
+			"bitter"
+		],
+		"style": "ipa - imperial / double",
+		"rating": 3
+	},
+	{
+		"name": "Dr. Raptor",
+		"date": "2018-05-12 23:51:54",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Het Uiltje",
+			"size": null,
+			"location": "Haarlem, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.64054,
+			"latitude": 52.3929
+		},
+		"ibu": 75,
+		"abv": 9,
+		"flavor": [
+			"heavy",
+			"hoppy",
+			"bitter"
+		],
+		"style": "ipa - imperial / double",
+		"rating": 3
+	},
+	{
+		"name": "Heineken",
+		"date": "2018-05-16 19:29:40",
+		"serving": "",
+		"brewery": {
+			"name": "Heineken",
+			"size": null,
+			"location": "Zoeterwoude, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Toolenburg",
+			"location": "Hoofddorp, Nederland",
+			"longitude": 4.65788,
+			"latitude": 52.3054
+		},
+		"ibu": 19,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"style": "lager - euro",
+		"rating": 3
+	},
+	{
+		"name": "Bloesem Blond",
+		"date": "2018-05-18 22:12:26",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Gebrouwen Door Vrouwen",
+			"size": null,
+			"location": "Amsterdam, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.64054,
+			"latitude": 52.3929
+		},
+		"ibu": 18,
+		"abv": 6,
+		"flavor": [
+			"floral",
+			"fruity",
+			"light"
+		],
+		"style": "blonde ale - belgian blonde / golden",
+		"rating": 4
+	},
+	{
+		"name": "Me Myself & IPA",
+		"date": "2018-05-19 20:23:51",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Het Uiltje",
+			"size": null,
+			"location": "Haarlem, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.64054,
+			"latitude": 52.3929
+		},
+		"ibu": 80,
+		"abv": 7,
+		"flavor": [
+			"fruity",
+			"smooth",
+			"hoppy",
+			"bitter"
+		],
+		"style": "ipa - american",
+		"rating": 4
+	},
+	{
+		"name": "Cawston Press Ginger Beer",
+		"date": "2018-05-20 13:15:59",
+		"serving": "can",
+		"brewery": {
+			"name": "Cawston",
+			"size": null,
+			"location": ", United States",
+			"website": null
+		},
+		"venue": {
+			"name": "Strand Zandvoort aan Zee",
+			"location": "Zandvoort, Nederland",
+			"longitude": 4.52577,
+			"latitude": 52.3755
+		},
+		"ibu": null,
+		"abv": 0,
+		"flavor": [
+			"zippy",
+			"sweet",
+			"apple",
+			"ginger"
+		],
+		"style": "ginger beer",
+		"rating": 3
+	},
+	{
+		"name": "Brouwers Pilsener",
+		"date": "2018-05-20 13:44:35",
+		"serving": "can",
+		"brewery": {
+			"name": "Brouwers Albert Heijn",
+			"size": null,
+			"location": "Zaandam,Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Strand Zandvoort aan Zee",
+			"location": "Zandvoort, Nederland",
+			"longitude": 4.52577,
+			"latitude": 52.3755
+		},
+		"ibu": null,
+		"abv": 4,
+		"flavor": [
+			"malty",
+			"light",
+			"dry"
+		],
+		"style": "pilsner - other",
+		"rating": 3
+	},
+	{
+		"name": "Me Myself & IPA",
+		"date": "2018-05-21 19:46:49",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Het Uiltje",
+			"size": null,
+			"location": "Haarlem, Netherlands",
+			"website": null
+		},
+		"ibu": 80,
+		"abv": 7,
+		"flavor": [
+			"smooth",
+			"hoppy",
+			"bitter"
+		],
+		"style": "ipa - american",
+		"rating": 4
+	},
+	{
+		"name": "Peroni Nastro Azzurro",
+		"date": "2018-05-22 21:54:33",
+		"serving": "draft",
+		"brewery": {
+			"name": "Birra Peroni",
+			"size": null,
+			"location": "Roma, Italy",
+			"website": null
+		},
+		"venue": {
+			"name": "Woodstone Pizza And Wine",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.62989,
+			"latitude": 52.3814
+		},
+		"ibu": null,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"style": "lager - euro",
+		"rating": 3
+	},
+	{
+		"name": "Bird of Prey IPA",
+		"date": "2018-05-22 23:15:29",
+		"serving": "draft",
+		"brewery": {
+			"name": "Het Uiltje",
+			"size": null,
+			"location": "Haarlem, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Café de Vijfhoek",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.6302,
+			"latitude": 52.3789
+		},
+		"ibu": 50,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"hoppy",
+			"citrus",
+			"bitter"
+		],
+		"style": "ipa - international",
+		"rating": 4
+	}
+]
