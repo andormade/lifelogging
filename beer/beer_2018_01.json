@@ -1,0 +1,435 @@
+[
+	{
+		"name": "Hoegaarden Wit / Blanche",
+		"date": "2018-01-03 18:25:11",
+		"serving": "draft",
+		"brewery": {
+			"name": "Brouwerij van Hoegaarden",
+			"size": null,
+			"location": "Hoegaarden, Belgium",
+			"website": null
+		},
+		"venue": {
+			"name": "Flakon",
+			"location": "Budapest, Magyarország",
+			"longitude": 19.1351,
+			"latitude": 47.5046
+		},
+		"ibu": 15,
+		"abv": 4,
+		"flavor": [
+			"fruity",
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"style": "witbier",
+		"rating": 4
+	},
+	{
+		"name": "Staropramen Unfiltered / Nefiltrovaný",
+		"date": "2018-01-03 19:05:26",
+		"serving": "draft",
+		"brewery": {
+			"name": "Pivovary Staropramen",
+			"size": null,
+			"location": "Praha, Czech Republic",
+			"website": null
+		},
+		"venue": {
+			"name": "Flakon",
+			"location": "Budapest, Magyarország",
+			"longitude": 19.1351,
+			"latitude": 47.5046
+		},
+		"ibu": 18,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"style": "lager - pale",
+		"rating": 3
+	},
+	{
+		"name": "Staropramen Dark Beer / Černý ležák",
+		"date": "2018-01-03 20:07:54",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Pivovary Staropramen",
+			"size": null,
+			"location": "Praha, Czech Republic",
+			"website": null
+		},
+		"venue": {
+			"name": "Flakon",
+			"location": "Budapest, Magyarország",
+			"longitude": 19.1351,
+			"latitude": 47.5046
+		},
+		"ibu": null,
+		"abv": 4,
+		"flavor": [
+			"malty",
+			"dark"
+		],
+		"style": "lager - dark",
+		"rating": 3
+	},
+	{
+		"name": "Kasteel Donker",
+		"date": "2018-01-09 23:03:55",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij Van Honsebrouck",
+			"size": null,
+			"location": "Ingelmunster, Belgium",
+			"website": null
+		},
+		"venue": {
+			"name": "Haarlem",
+			"location": ", Nederland",
+			"longitude": 4.63838,
+			"latitude": 52.3892
+		},
+		"ibu": 14,
+		"abv": 11,
+		"flavor": [
+			"sweet",
+			"strong",
+			"smooth",
+			"dark"
+		],
+		"style": "belgian quad",
+		"rating": 3
+	},
+	{
+		"name": "Tonttu",
+		"date": "2018-01-10 19:13:55",
+		"serving": "draft",
+		"brewery": {
+			"name": "Thornbridge Brewery",
+			"size": null,
+			"location": "Bakewell, England",
+			"website": null
+		},
+		"venue": {
+			"name": "Jopenkerk Haarlem",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.63001,
+			"latitude": 52.3812
+		},
+		"ibu": null,
+		"abv": 6,
+		"flavor": [
+			"malty",
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"style": "red ale - american amber / red",
+		"rating": 4
+	},
+	{
+		"name": "Weihenstephaner Hefeweissbier",
+		"date": "2018-01-10 19:54:54",
+		"serving": "draft",
+		"brewery": {
+			"name": "Bayerische Staatsbrauerei Weihenstephan",
+			"size": null,
+			"location": "85354 Freising, Germany",
+			"website": null
+		},
+		"venue": {
+			"name": "Café de Vijfhoek",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.6302,
+			"latitude": 52.3789
+		},
+		"ibu": 14,
+		"abv": 5,
+		"flavor": [
+			"clove",
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"style": "hefeweizen",
+		"rating": 4
+	},
+	{
+		"name": "Schwarzwalder Kirsch",
+		"date": "2018-01-10 20:30:09",
+		"serving": "draft",
+		"brewery": {
+			"name": "Het Uiltje",
+			"size": null,
+			"location": "Haarlem, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Café de Vijfhoek",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.6302,
+			"latitude": 52.3789
+		},
+		"ibu": 65,
+		"abv": 8,
+		"flavor": [
+			"oatmeal",
+			"creamy",
+			"sweet",
+			"dark"
+		],
+		"style": "stout - imperial oatmeal",
+		"rating": 4
+	},
+	{
+		"name": "Grimbergen Blonde",
+		"date": "2018-01-10 21:11:04",
+		"serving": "draft",
+		"brewery": {
+			"name": "Brouwerij Alken-Maes",
+			"size": null,
+			"location": "Mechelen, Belgium",
+			"website": null
+		},
+		"venue": {
+			"name": "Café de Vijfhoek",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.6302,
+			"latitude": 52.3789
+		},
+		"ibu": 22,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"style": "blonde ale - belgian blonde / golden",
+		"rating": 3
+	},
+	{
+		"name": "Witte Vrouwen",
+		"date": "2018-01-12 22:04:22",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij De Leckere",
+			"size": null,
+			"location": "De Meern, Netherlands",
+			"website": null
+		},
+		"venue": {
+			"name": "Haarlem",
+			"location": ", Nederland",
+			"longitude": 4.63838,
+			"latitude": 52.3892
+		},
+		"ibu": 14,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"sour",
+			"smooth"
+		],
+		"style": "witbier",
+		"rating": 4
+	},
+	{
+		"name": "Brugse Zot",
+		"date": "2018-01-14 21:58:48",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brouwerij De Halve Maan",
+			"size": null,
+			"location": "Brugge, Belgium",
+			"website": null
+		},
+		"venue": {
+			"name": "Haarlem",
+			"location": ", Nederland",
+			"longitude": 4.63838,
+			"latitude": 52.3892
+		},
+		"ibu": 23,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"style": "blonde ale - belgian blonde / golden",
+		"rating": 4
+	},
+	{
+		"name": "La Chouffe Blond",
+		"date": "2018-01-19 18:49:56",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"size": null,
+			"location": "Achouffe, Belgium",
+			"website": null
+		},
+		"venue": {
+			"name": "Haarlem",
+			"location": ", Nederland",
+			"longitude": 4.63838,
+			"latitude": 52.3892
+		},
+		"ibu": 20,
+		"abv": 8,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"style": "belgian strong golden ale",
+		"rating": 4
+	},
+	{
+		"name": "La Chouffe Blond",
+		"date": "2018-01-23 21:40:44",
+		"serving": "",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"size": null,
+			"location": "Achouffe, Belgium",
+			"website": null
+		},
+		"venue": {
+			"name": "Haarlem",
+			"location": ", Nederland",
+			"longitude": 4.63838,
+			"latitude": 52.3892
+		},
+		"ibu": 20,
+		"abv": 8,
+		"flavor": [
+			"fruity",
+			"light",
+			"strong",
+			"smooth"
+		],
+		"style": "belgian strong golden ale",
+		"rating": 4
+	},
+	{
+		"name": "Lambrate",
+		"date": "2018-01-27 20:44:55",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Birrificio Lambrate",
+			"size": null,
+			"location": "Milan, Italy",
+			"website": null
+		},
+		"venue": {
+			"name": "De Pizzabakkers",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.63624,
+			"latitude": 52.3856
+		},
+		"ibu": 40,
+		"abv": 7,
+		"flavor": [
+			"malty",
+			"grainy",
+			"fruity",
+			"sweet",
+			"hoppy"
+		],
+		"style": "bock",
+		"rating": 4
+	},
+	{
+		"name": "Asahi Super Dry",
+		"date": "2018-01-28 18:54:26",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Asahi Breweries",
+			"size": null,
+			"location": "Sumida-ku, Japan",
+			"website": null
+		},
+		"venue": {
+			"name": "Sushi Time",
+			"location": ", Nederland",
+			"longitude": 4.63654,
+			"latitude": 52.3869
+		},
+		"ibu": 16,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"dry",
+			"smooth"
+		],
+		"style": "lager - japanese rice",
+		"rating": 4
+	},
+	{
+		"name": "Vedett Extra Blond",
+		"date": "2018-01-30 20:43:34",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Duvel Moortgat",
+			"size": null,
+			"location": "Puurs, Belgium",
+			"website": null
+		},
+		"venue": {
+			"name": "Albert Heijn to go",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.63954,
+			"latitude": 52.3885
+		},
+		"ibu": 26,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"dry",
+			"hoppy"
+		],
+		"style": "lager - pale",
+		"rating": 3
+	},
+	{
+		"name": "Vedett Extra White",
+		"date": "2018-01-31 20:57:42",
+		"serving": "bottle",
+		"brewery": {
+			"name": "Duvel Moortgat",
+			"size": null,
+			"location": "Puurs, Belgium",
+			"website": null
+		},
+		"venue": {
+			"name": "Albert Heijn to go",
+			"location": "Haarlem, Nederland",
+			"longitude": 4.63954,
+			"latitude": 52.3885
+		},
+		"ibu": 4,
+		"abv": 4,
+		"flavor": [
+			"fruity",
+			"light",
+			"sour",
+			"smooth"
+		],
+		"style": "witbier",
+		"rating": 4
+	}
+]
