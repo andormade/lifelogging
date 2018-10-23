@@ -1,0 +1,28 @@
+[
+    {
+        "from": "BUD",
+        "to": "AMS",
+        "flightNumber": "KL1972",
+        "airline": "KLM",
+        "scheduledDeparture": "2018-01-08T06:30-0200",
+        "scheduledArrival": "2018-01-08T08:40-0200",
+        "departure": "2018-01-08T06:32-0200",
+        "arrival": "2018-01-08T08:36-0200",
+        "aircraft": "Boeing 737-800",
+        "registration": null,
+        "seat": null
+    },
+    {
+        "from": "FCN",
+        "to": "HGL",
+        "flightNumber": "OFD076",
+        "airline": "OFD",
+        "sheduledDeparture": "2018-10-05T16:20-0200",
+        "sheduledArrival": "2018-10-05T16:40-0200",
+        "departure": "2018-10-05T16:21-0200",
+        "arrival": "2018-10-05T16:42-0200",
+        "aircraft": "Britten-Norman BN-2B Islander",
+        "registration": "D-IOLK",
+        "seat": null
+    }
+]
