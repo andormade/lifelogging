@@ -1,0 +1,28 @@
+{
+	"$id": "https://example.com/person.schema.json",
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"title": "Flights",
+	"type": "array",
+	"items": {
+		"$ref": "#/definitions/flight"
+	},
+	"definitions": {
+		"flight": {
+			"type": "object",
+			"required": ["from", "to", "isBusiness"],
+			"properties": {
+				"from": {
+					"type": "string",
+					"description": "Airport code"
+				},
+				"to": {
+					"type": "string",
+					"description": "Airport code"
+				},
+				"isBusiness": {
+					"type": "boolean"
+				}
+			}
+		}
+	}
+}

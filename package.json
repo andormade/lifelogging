@@ -4,7 +4,8 @@
   "description": "",
   "main": "./lint/lint.js",
   "scripts": {
-    "test": "node ./lint/lint.js"
+	"test": "node ./lint/lint.js",
+	"validate-flights": "ajv validate -s 'flights/flights.schema.json' -d 'flights/flights_*.json'"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/andormade/lifelogging/issues"
   },
-  "homepage": "https://github.com/andormade/lifelogging#readme"
+  "homepage": "https://github.com/andormade/lifelogging#readme",
+  "dependencies": {
+    "ajv": "^6.5.4",
+    "ajv-cli": "^3.0.0"
+  }
 }
