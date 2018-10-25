@@ -9,15 +9,70 @@
 	"definitions": {
 		"flight": {
 			"type": "object",
-			"required": ["from", "to", "isBusiness"],
+			"required": [
+				"from",
+				"to",
+				"flightNumber",
+				"airline",
+				"scheduledDeparture",
+				"scheduledArrival",
+				"isBusiness"
+			],
 			"properties": {
 				"from": {
 					"type": "string",
-					"description": "Airport code"
+					"description": "IATA airport code"
 				},
 				"to": {
 					"type": "string",
-					"description": "Airport code"
+					"description": "IATA airport code"
+				},
+				"flightNumber": {
+					"type": "string",
+					"description": "IATA or ICAO flight designator"
+				},
+				"airline": {
+					"type": "string",
+					"description": "ICAO airline designator"
+				},
+				"scheduledDeparture": {
+					"type": "string",
+					"description": "Scheduled departure time in ISO 8601 format"
+				},
+				"scheduledArrival": {
+					"type": "string",
+					"description": "Scheduled time of arrival in ISO 8601 format"
+				},
+				"departure": {
+					"type": "string",
+					"description": "Time of departure in ISO 8601 format"
+				},
+				"arrival": {
+					"type": "string",
+					"description": "Time of arrival in ISO 8601 format"
+				},
+				"aircraft": {
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string"
+						},
+						"registration": {
+							"type": "string"
+						},
+						"callsign": {
+							"type": "string"
+						}
+					}
+				},
+				"seat": {
+					"type": "string"
+				},
+				"departureGate": {
+					"type": "string"
+				},
+				"arrivalGate": {
+					"type": "string"
 				},
 				"isBusiness": {
 					"type": "boolean"
