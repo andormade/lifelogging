@@ -15,6 +15,28 @@
 	},
 	{
 		"from": "AMS",
+		"to": "BUD",
+		"flightNumber": "KL1975",
+		"airline": "KLM",
+		"scheduledDeparture": "2018-03-19T10:05-0200",
+		"scheduledArrival": "2018-03-19T12:05-0200",
+		"isBusiness": true,
+		"departureGate": "C13",
+		"seat": "17F"
+	},
+	{
+		"from": "BUD",
+		"to": "AMS",
+		"flightNumber": "KL1976",
+		"airline": "KLM",
+		"scheduledDeparture": "2018-03-25T14:00-0200",
+		"scheduledArrival": "2018-03-25T16:10-0200",
+		"isBusiness": true,
+		"departureTerminal": "2A",
+		"seat": "24F"
+	},
+	{
+		"from": "AMS",
 		"to": "VIE",
 		"flightNumber": "U27945",
 		"airline": "EZY",
@@ -81,6 +103,28 @@
 		"arrivalTerminal": "3",
 		"departureGate": "39",
 		"isBusiness": false
+	},
+	{
+		"from": "AMS",
+		"to": "BUD",
+		"flightNumber": "KL1973",
+		"airline": "KLM",
+		"scheduledDeparture": "2018-06-18T08:55-0200",
+		"scheduledArrival": "2018-06-18T10:45-0200",
+		"isBusiness": true,
+		"departureGate": "C04",
+		"seat": "6F"
+	},
+	{
+		"from": "BUD",
+		"to": "AMS",
+		"flightNumber": "KL1978",
+		"airline": "KLM",
+		"scheduledDeparture": "2018-06-24T17:05-0200",
+		"scheduledArrival": "2018-06-24T19:15-0200",
+		"isBusiness": true,
+		"departureTerminal": "2A",
+		"seat": "4A"
 	},
 	{
 		"from": "AMS",
