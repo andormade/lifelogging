@@ -84,6 +84,34 @@
 	},
 	{
 		"from": "AMS",
+		"to": "FLR",
+		"flightNumber": "KL1647",
+		"airline": "KLM",
+		"scheduledDeparture": "2018-07-21T20:35-0200",
+		"scheduledArrival": "2018-07-21T22:30-0200",
+		"departure": "2018-07-21T20:40-0200",
+		"arrival": "2018-07-21T22:22-0200",
+		"isBusiness": false,
+		"aircraft": {
+			"type": "Embraer ERJ-190STD"
+		},
+		"seat": "3F"
+	},
+	{
+		"from": "FLR",
+		"to": "AMS",
+		"flightNumber": "KL1626",
+		"airline": "KLM",
+		"scheduledDeparture": "2018-07-28T22:00-0200",
+		"scheduledArrival": "2018-07-29T00:00-0200",
+		"isBusiness": false,
+		"aircraft": {
+			"type": "Embraer ERJ-190STD"
+		},
+		"seat": "2A"
+	},
+	{
+		"from": "AMS",
 		"to": "ORY",
 		"flightNumber": "TO4011",
 		"airline": "TRA",
@@ -133,7 +161,7 @@
 		"seat": "2F"
 	},
 	{
-		"from": "VIA",
+		"from": "VIE",
 		"to": "AMS",
 		"flightNumber": "U27946",
 		"airline": "EZY",
