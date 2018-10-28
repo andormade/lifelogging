@@ -114,5 +114,35 @@
 			"registration": "D-IOLK"
 		},
 		"isBusiness": false
+	},
+	{
+		"from": "HGL",
+		"to": "FCN",
+		"flightNumber": "OFD075",
+		"airline": "OFD",
+		"scheduledDeparture": "2018-10-08T15:30-0200",
+		"scheduledArrival": "2018-10-08T15:50-0200",
+		"departure": "2018-10-08T15:07-0200",
+		"arrival": "2018-10-08T15:27-0200",
+		"aircraft": {
+			"type": "Britten-Norman BN-2B Islander"
+		},
+		"isBusiness": false
+	},
+	{
+		"from": "HAM",
+		"to": "AMS",
+		"flightNumber": "KL1776",
+		"airline": "KLM",
+		"scheduledDeparture": "2018-10-09T06:10-0200",
+		"scheduledArrival": "2018-10-09T07:20-0200",
+		"departure": "2018-10-09T06:10-0200",
+		"arrival": "2018-10-09T07:15-0200",
+		"aircraft": {
+			"type": "Boeing 737-8K2",
+			"registration": "PH-BCD",
+			"callsign": "KLM88J"
+		},
+		"isBusiness": false
 	}
 ]
