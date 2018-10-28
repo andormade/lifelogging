@@ -84,6 +84,39 @@
 	},
 	{
 		"from": "AMS",
+		"to": "ORY",
+		"flightNumber": "TO4011",
+		"airline": "TRA",
+		"scheduledDeparture": "2018-09-12T09:45-0200",
+		"scheduledArrival": "2018-09-12T11:10-0200",
+		"departure": "2018-09-12T11:48-0200",
+		"arrival": "2018-09-12T12:41-0200",
+		"isBusiness": false,
+		"aircraft": {
+			"type": "Boeing 737-800",
+			"registration": "F-GZHO",
+			"callsign": "TVF47SQ"
+		},
+		"seat": "3F"
+	},
+	{
+		"from": "ORY",
+		"to": "AMS",
+		"flightNumber": "HV5194",
+		"airline": "TRA",
+		"scheduledDeparture": "2018-09-13T21:45-0200",
+		"scheduledArrival": "2018-09-13T23:00-0200",
+		"departure": "2018-09-13T22:19-0200",
+		"arrival": "2018-09-13T23:08-0200",
+		"isBusiness": false,
+		"aircraft": {
+			"type": "Boeing 737-800",
+			"registration": "PH-HXM",
+			"callsign": "TRA19G"
+		}
+	},
+	{
+		"from": "AMS",
 		"to": "VIE",
 		"flightNumber": "U27945",
 		"airline": "EZY",
@@ -112,7 +145,7 @@
 		"aircraft": {
 			"type": "Airbus A320-214",
 			"registration": "G-EZUO",
-			"callsign": ""
+			"callsign": "EZY21AP"
 		},
 		"seat": "3A"
 	},
