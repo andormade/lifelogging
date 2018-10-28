@@ -1,0 +1,65 @@
+[
+	{
+		"from": "AMS",
+		"to": "MAD",
+		"flightNumber": "IB3721",
+		"airline": "IBE",
+		"scheduledDeparture": "2017-09-19T08:00-0200",
+		"scheduledArrival": "2017-09-19T10:40-0200",
+		"isBusiness": false
+	},
+	{
+		"from": "MAD",
+		"to": "MIA",
+		"flightNumber": "IB6123",
+		"airline": "IBE",
+		"scheduledDeparture": "2017-09-19T11:50-0200",
+		"scheduledArrival": "2017-09-19T15:20+0400",
+		"isBusiness": false
+	},
+	{
+		"from": "FLL",
+		"to": "LAX",
+		"flightNumber": "VX1321",
+		"airline": "VRD",
+		"scheduledDeparture": "2017-09-21T07:05+0400",
+		"scheduledArrival": "2017-09-21T09:31+0700",
+		"isBusiness": false
+	},
+	{
+		"from": "LAX",
+		"to": "FLL",
+		"flightNumber": "VX1334",
+		"airline": "VRD",
+		"scheduledDeparture": "2017-09-22T09:45+0700",
+		"scheduledArrival": "2017-09-22T17:56+0400",
+		"isBusiness": false
+	},
+	{
+		"from": "MIA",
+		"to": "LHR",
+		"flightNumber": "BA1529",
+		"airline": "BAW",
+		"scheduledDeparture": "2017-09-26T19:35+0400",
+		"scheduledArrival": "2017-09-27T09:15-0100",
+		"isBusiness": false
+	},
+	{
+		"from": "LHR",
+		"to": "AMS",
+		"flightNumber": "BA0434",
+		"airline": "BAW",
+		"scheduledDeparture": "2017-09-27T11:45-0100",
+		"scheduledArrival": "2017-09-27T14:05-0200",
+		"isBusiness": false
+	},
+	{
+		"from": "AMS",
+		"to": "BUD",
+		"flightNumber": "KL1979",
+		"airline": "KLM",
+		"scheduledDeparture": "2017-12-19T21:05-0100",
+		"scheduledArrival": "2017-12-19T23:05-0100",
+		"isBusiness": false
+	}
+]
