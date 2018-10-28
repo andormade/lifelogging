@@ -57,7 +57,7 @@
 		"from": "HND",
 		"to": "KIX",
 		"flightNumber": "NH0093",
-		"airline": "KLM",
+		"airline": "NH",
 		"scheduledDeparture": "2018-05-06T07:10-0900",
 		"scheduledArrival": "2018-05-06T08:25-0900",
 		"departure": "2018-05-06T07:09-0900",
@@ -72,7 +72,7 @@
 		"from": "KIX",
 		"to": "AMS",
 		"flightNumber": "KL0868",
-		"airline": "NH",
+		"airline": "KLM",
 		"scheduledDeparture": "2018-05-06T10:25-0900",
 		"scheduledArrival": "2018-05-06T15:00-0200",
 		"departure": "2018-05-06T10:17-0900",
@@ -81,6 +81,39 @@
 		"arrivalTerminal": "3",
 		"departureGate": "39",
 		"isBusiness": false
+	},
+	{
+		"from": "AMS",
+		"to": "BUD",
+		"flightNumber": "KL1981",
+		"airline": "KLM",
+		"scheduledDeparture": "2018-09-30T20:55-0200",
+		"scheduledArrival": "2018-09-30T22:55-0200",
+		"departure": "2018-09-30T21:32-0200",
+		"arrival": "2018-09-30T23:11-0200",
+		"isBusiness": true,
+		"aircraft": {
+			"type": "Boeing 737-800",
+			"registration": "PH-BCA",
+			"callsign": "KLM1981"
+		},
+		"seat": "24F"
+	},
+	{
+		"from": "BUD",
+		"to": "AMS",
+		"flightNumber": "KL1978",
+		"airline": "KLM",
+		"scheduledDeparture": "2018-10-0417:05-0200",
+		"scheduledArrival": "2018-10-04T19:15-0200",
+		"departure": "2018-10-04T17:19-0200",
+		"arrival": "2018-10-04T19:01-0200",
+		"isBusiness": true,
+		"aircraft": {
+			"type": "Boeing 737-800",
+			"registration": "PH-BXH",
+			"callsign": "KLM1978"
+		}
 	},
 	{
 		"from": "AMS",
@@ -98,6 +131,8 @@
 			"registration": "YR-FKA",
 			"callsign": "KLM81V"
 		},
+		"departureTerminal": "1",
+		"arrivalTerminal": "1",
 		"seat": "17F"
 	},
 	{
@@ -143,6 +178,8 @@
 			"registration": "PH-BCD",
 			"callsign": "KLM88J"
 		},
-		"isBusiness": false
+		"isBusiness": false,
+		"departureTerminal": "1",
+		"seat": "26A"
 	}
 ]
