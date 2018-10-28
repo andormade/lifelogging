@@ -84,6 +84,40 @@
 	},
 	{
 		"from": "AMS",
+		"to": "VIE",
+		"flightNumber": "U27945",
+		"airline": "EZY",
+		"scheduledDeparture": "2018-09-14T13:30-0200",
+		"scheduledArrival": "2018-09-14T15:30-0200",
+		"departure": "2018-09-14T14:18-0200",
+		"arrival": "2018-09-14T15:51-0200",
+		"isBusiness": false,
+		"aircraft": {
+			"type": "Airbus A320-214",
+			"registration": "G-EZUO",
+			"callsign": "EZY63RX"
+		},
+		"seat": "2F"
+	},
+	{
+		"from": "VIA",
+		"to": "AMS",
+		"flightNumber": "U27946",
+		"airline": "EZY",
+		"scheduledDeparture": "2018-09-16T16:20-0200",
+		"scheduledArrival": "2018-09-16T18:15-0200",
+		"departure": "2018-09-16T17:13-0200",
+		"arrival": "2018-09-16T18:47-0200",
+		"isBusiness": false,
+		"aircraft": {
+			"type": "Airbus A320-214",
+			"registration": "G-EZUO",
+			"callsign": ""
+		},
+		"seat": "3A"
+	},
+	{
+		"from": "AMS",
 		"to": "BUD",
 		"flightNumber": "KL1981",
 		"airline": "KLM",
@@ -113,7 +147,9 @@
 			"type": "Boeing 737-800",
 			"registration": "PH-BXH",
 			"callsign": "KLM1978"
-		}
+		},
+		"departureTerminal": "2A",
+		"seat": "6A"
 	},
 	{
 		"from": "AMS",
