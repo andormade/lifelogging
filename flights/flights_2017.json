@@ -1,5 +1,82 @@
 [
 	{
+		"from": "LAX",
+		"to": "FRA",
+		"flightNumber": "LH475",
+		"airline": "DLH",
+		"scheduledDeparture": "2017-02-15T15:15+0800",
+		"scheduledArrival": "2017-02-16T11:10-0100",
+		"isBusiness": true,
+		"departureTerminal": "B",
+		"arrivalTerminal": "1",
+		"seat": "66K",
+		"comment": "Moving back from LA"
+	},
+	{
+		"from": "AMS",
+		"to": "SXF",
+		"flightNumber": "EZY4566",
+		"airline": "EZY",
+		"scheduledDeparture": "2017-04-21T18:00",
+		"scheduledArrival": "2017-04-21T19:30",
+		"isBusiness": false,
+		"seat": "20A"
+	},
+	{
+		"from": "SXF",
+		"to": "AMS",
+		"flightNumber": "EZY4561",
+		"airline": "EZY",
+		"scheduledDeparture": "2017-04-23T06:30",
+		"scheduledArrival": "2017-04-23T08:00",
+		"isBusiness": false,
+		"seat": "22A"
+	},
+	{
+		"from": "AMS",
+		"to": "VIE",
+		"flightNumber": "KL1839",
+		"airline": "KLM",
+		"scheduledDeparture": "2017-05-20T06:50-0200",
+		"scheduledArrival": "2017-05-20T08:40-0200",
+		"isBusiness": false,
+		"aircraft": {
+			"type": "Boeing 737-800"
+		}
+	},
+	{
+		"from": "VIE",
+		"to": "AMS",
+		"flightNumber": "KL1846",
+		"airline": "KLM",
+		"scheduledDeparture": "2017-05-27T14:15-0200",
+		"scheduledArrival": "2017-05-27T16:10-0200",
+		"isBusiness": false,
+		"aircraft": {
+			"type": "Boeing 737-800"
+		}
+	},
+	{
+		"from": "EIN",
+		"to": "RIX",
+		"flightNumber": "W62526",
+		"airline": "WZZ",
+		"scheduledDeparture": "2017-08-31T09:10-0200",
+		"scheduledArrival": "2017-08-31T12:20-0300",
+		"seat": "25A",
+		"isBusiness": false
+	},
+	{
+		"from": "RIX",
+		"to": "EIN",
+		"flightNumber": "W62525",
+		"airline": "WZZ",
+		"scheduledDeparture": "2017-09-05T06:55-0300",
+		"scheduledArrival": "2017-09-05T08:20-0200",
+		"seat": "26F",
+		"isBusiness": false
+	},
+	{
 		"from": "AMS",
 		"to": "MAD",
 		"flightNumber": "IB3721",
@@ -24,7 +101,10 @@
 		"airline": "VRD",
 		"scheduledDeparture": "2017-09-21T07:05+0400",
 		"scheduledArrival": "2017-09-21T09:31+0700",
-		"isBusiness": false
+		"isBusiness": false,
+		"seat": "21C",
+		"departureGate": "C9",
+		"group": "A"
 	},
 	{
 		"from": "LAX",
@@ -33,7 +113,10 @@
 		"airline": "VRD",
 		"scheduledDeparture": "2017-09-22T09:45+0700",
 		"scheduledArrival": "2017-09-22T17:56+0400",
-		"isBusiness": false
+		"isBusiness": false,
+		"seat": "18B",
+		"departureGate": "64A",
+		"group": "B"
 	},
 	{
 		"from": "MIA",
@@ -52,6 +135,26 @@
 		"scheduledDeparture": "2017-09-27T11:45-0100",
 		"scheduledArrival": "2017-09-27T14:05-0200",
 		"isBusiness": false
+	},
+	{
+		"from": "AMS",
+		"to": "VIE",
+		"flightNumber": "OS374",
+		"airline": "AUA",
+		"scheduledDeparture": "2017-10-24T17:45-0200",
+		"scheduledArrival": "2017-10-24T19:40-0200",
+		"isBusiness": true,
+		"comment": "Reactive Conf 2017 in Bratislava"
+	},
+	{
+		"from": "VIE",
+		"to": "AMS",
+		"flightNumber": "OS373",
+		"airline": "AUA",
+		"scheduledDeparture": "2017-10-27T15:05-0200",
+		"scheduledArrival": "2017-10-27T17:00-0200",
+		"isBusiness": true,
+		"comment": "Reactive Conf 2017 in Bratislava"
 	},
 	{
 		"from": "AMS",
