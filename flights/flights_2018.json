@@ -6,10 +6,13 @@
 		"airline": "KLM",
 		"scheduledDeparture": "2018-01-08T06:30-0200",
 		"scheduledArrival": "2018-01-08T08:40-0200",
-		"departure": "2018-01-08T06:32-0200",
-		"arrival": "2018-01-08T08:36-0200",
+		"departure": "2018-01-08T06:41-0200",
+		"arrival": "2018-01-08T08:31-0200",
 		"aircraft": {
-			"type": "Boeing 737-800"
+			"type": "Boeing 737-700",
+			"registration": "PH-BGU",
+			"callsign": "KLM28Q",
+			"operator": "KLM"
 		},
 		"isBusiness": false
 	},
@@ -20,6 +23,14 @@
 		"airline": "KLM",
 		"scheduledDeparture": "2018-03-19T10:05-0200",
 		"scheduledArrival": "2018-03-19T12:05-0200",
+		"departure": "2018-03-19T10:35-0200",
+		"arrival": "2018-03-19T12:20-0200",
+		"aircraft": {
+			"type": "Boeing 737-800",
+			"registration": "PH-BXD",
+			"callsign": "KLM67R",
+			"operator": "KLM"
+		},
 		"isBusiness": true,
 		"departureGate": "C13",
 		"seat": "17F"
@@ -31,6 +42,14 @@
 		"airline": "KLM",
 		"scheduledDeparture": "2018-03-25T14:00-0200",
 		"scheduledArrival": "2018-03-25T16:10-0200",
+		"departure": "2018-03-25T14:25-0200",
+		"arrival": "2018-03-25T16:08-0200",
+		"aircraft": {
+			"type": "Boeing 737-800",
+			"registration": "PH-BXM",
+			"callsign": "KLM1976",
+			"operator": "KLM"
+		},
 		"isBusiness": true,
 		"departureTerminal": "2A",
 		"seat": "24F"
@@ -54,20 +73,32 @@
 		"airline": "EZY",
 		"scheduledDeparture": "2018-04-15T16:20-0200",
 		"scheduledArrival": "2018-04-15T18:15-0200",
-		"departure": "2018-04-15T16:28-0200",
-		"arrival": "2018-04-15T18:15-0200",
+		"departure": "2018-04-15T16:41-0200",
+		"arrival": "2018-04-15T18:14-0200",
+		"aircraft": {
+			"type": "Airbus A320-214",
+			"registration": "G-EZOZ",
+			"callsign": "EZY21AP",
+			"operator": "EZY"
+		},
 		"seat": "24A",
 		"isBusiness": false
 	},
 	{
 		"from": "AMS",
 		"to": "NRT",
-		"flightNumber": "KL0861",
+		"flightNumber": "KL861",
 		"airline": "KLM",
 		"scheduledDeparture": "2018-04-26T14:40-0200",
 		"scheduledArrival": "2018-04-27T08:40-0900",
-		"departure": "2018-04-26T14:42-0200",
-		"arrival": "2018-04-27T08:25+0900",
+		"departure": "2018-04-26T14:57-0200",
+		"arrival": "2018-04-27T08:14+0900",
+		"aircraft": {
+			"type": "Boeing 777-306ER",
+			"registration": "PH-BVO",
+			"callsign": "KLM861",
+			"operator": "KLM"
+		},
 		"departureTerminal": "2",
 		"arrivalTerminal": "1",
 		"departureGate": "E24",
@@ -78,12 +109,18 @@
 	{
 		"from": "HND",
 		"to": "KIX",
-		"flightNumber": "NH0093",
-		"airline": "NH",
+		"flightNumber": "NH93",
+		"airline": "ANA",
 		"scheduledDeparture": "2018-05-06T07:10-0900",
 		"scheduledArrival": "2018-05-06T08:25-0900",
-		"departure": "2018-05-06T07:09-0900",
-		"arrival": "2018-05-06T08:17-0900",
+		"departure": "2018-05-06T07:24-0900",
+		"arrival": "2018-05-06T08:18-0900",
+		"aircraft": {
+			"type": "Airbus A320-271N",
+			"registration": "JA213A",
+			"callsign": "ANA93",
+			"operator": "ANA"
+		},
 		"departureTerminal": "2",
 		"arrivalTerminal": "1",
 		"departureGate": "69",
@@ -93,12 +130,18 @@
 	{
 		"from": "KIX",
 		"to": "AMS",
-		"flightNumber": "KL0868",
+		"flightNumber": "KL868",
 		"airline": "KLM",
 		"scheduledDeparture": "2018-05-06T10:25-0900",
 		"scheduledArrival": "2018-05-06T15:00-0200",
-		"departure": "2018-05-06T10:17-0900",
-		"arrival": "2018-05-06T14:43-0200",
+		"departure": "2018-05-06T10:29-0900",
+		"arrival": "2018-05-06T14:32-0200",
+		"aircraft": {
+			"type": "Boeing 787-9 Dreamliner",
+			"registration": "PH-BHI",
+			"callsign": "KLM868",
+			"operator": "KLM"
+		},
 		"departureTerminal": "1",
 		"arrivalTerminal": "3",
 		"departureGate": "39",
@@ -111,6 +154,14 @@
 		"airline": "KLM",
 		"scheduledDeparture": "2018-06-18T08:55-0200",
 		"scheduledArrival": "2018-06-18T10:45-0200",
+		"departure": "2018-06-18T09:12-0200",
+		"arrival": "2018-06-18T10:45-0200",
+		"aircraft": {
+			"type": "Boeing 737-800",
+			"registration": "PH-BXC",
+			"callsign": "KLM1973",
+			"operator": "KLM"
+		},
 		"isBusiness": true,
 		"departureGate": "C04",
 		"seat": "6F"
@@ -122,7 +173,15 @@
 		"airline": "KLM",
 		"scheduledDeparture": "2018-06-24T17:05-0200",
 		"scheduledArrival": "2018-06-24T19:15-0200",
+		"departure": "2018-06-24T18:02-0200",
+		"arrival": "2018-06-24T19:53-0200",
 		"isBusiness": true,
+		"aircraft": {
+			"type": "Boeing 737-800",
+			"registration": "PH-BXC",
+			"callsign": "KLM1978",
+			"operator": "KLM"
+		},
 		"departureTerminal": "2A",
 		"seat": "4A"
 	},
@@ -133,9 +192,15 @@
 		"airline": "DLH",
 		"scheduledDeparture": "2018-07-13T16:05-0200",
 		"scheduledArrival": "2018-07-13T17:25-0200",
-		"departure": "2018-07-13T16:06-0200",
-		"arrival": "2018-07-13T17:29-0200",
+		"departure": "2018-07-13T16:22-0200",
+		"arrival": "2018-07-13T17:24-0200",
 		"isBusiness": false,
+		"aircraft": {
+			"type": "Bombardier CRJ-900LR",
+			"registration": "D-ACNG",
+			"callsign": "DLH1JW",
+			"operator": "CLH"
+		},
 		"seat": "23F",
 		"departureGate": "B23"
 	},
@@ -146,9 +211,15 @@
 		"airline": "DLH",
 		"scheduledDeparture": "2018-07-13T18:40-0200",
 		"scheduledArrival": "2018-07-13T19:50-0200",
-		"departure": "2018-07-13T18:41-0200",
-		"arrival": "2018-07-13T19:49-0200",
+		"departure": "2018-07-13T18:51-0200",
+		"arrival": "2018-07-13T19:46-0200",
 		"isBusiness": false,
+		"aircraft": {
+			"type": "Airbus A320-214",
+			"registration": "D-AIZB",
+			"callsign": "DLH8AM",
+			"operator": "DLH"
+		},
 		"seat": "18F",
 		"departureGate": "K22"
 	},
@@ -159,9 +230,15 @@
 		"airline": "AUA",
 		"scheduledDeparture": "2018-07-15T11:25-0200",
 		"scheduledArrival": "2018-07-15T12:15-0200",
-		"departure": "2018-07-15T11:27-0200",
-		"arrival": "2018-07-15T12:09-0200",
+		"departure": "2018-07-15T11:51-0200",
+		"arrival": "2018-07-15T12:20-0200",
 		"isBusiness": false,
+		"aircraft": {
+			"type": "Bombardier CRJ-900LR",
+			"registration": "S5-AAL",
+			"callsign": "AUA714C",
+			"operator": "ADR"
+		},
 		"seat": "6D"
 	},
 	{
@@ -171,9 +248,15 @@
 		"airline": "AUA",
 		"scheduledDeparture": "2018-07-15T15:05-0200",
 		"scheduledArrival": "2018-07-15T17:00-0200",
-		"departure": "2018-07-15T15:31-0200",
-		"arrival": "2018-07-15T17:22-0200",
+		"departure": "2018-07-15T15:41-0200",
+		"arrival": "2018-07-15T17:24-0200",
 		"isBusiness": false,
+		"aircraft": {
+			"type": "Airbus A320-216",
+			"registration": "OE-LXE",
+			"callsign": "AUA73E",
+			"operator": "AUA"
+		},
 		"seat": "26F"
 	},
 	{
@@ -183,11 +266,14 @@
 		"airline": "KLM",
 		"scheduledDeparture": "2018-07-21T20:35-0200",
 		"scheduledArrival": "2018-07-21T22:30-0200",
-		"departure": "2018-07-21T20:40-0200",
-		"arrival": "2018-07-21T22:22-0200",
+		"departure": "2018-07-21T20:47-0200",
+		"arrival": "2018-07-21T22:18-0200",
 		"isBusiness": false,
 		"aircraft": {
-			"type": "Embraer ERJ-190STD"
+			"type": "Embraer ERJ-190STD",
+			"registration": "PH-EZE",
+			"callsign": "KLM1647",
+			"operator": "KLC"
 		},
 		"seat": "3F"
 	},
@@ -198,9 +284,14 @@
 		"airline": "KLM",
 		"scheduledDeparture": "2018-07-28T22:00-0200",
 		"scheduledArrival": "2018-07-29T00:00-0200",
+		"departure": "2018-07-28T22:17-0200",
+		"arrival": "2018-07-29T00:08-0200",
 		"isBusiness": false,
 		"aircraft": {
-			"type": "Embraer ERJ-190STD"
+			"type": "Embraer ERJ-190STD",
+			"callsign": "KLM1626",
+			"registration": "PH-EZK",
+			"operator": "KLC"
 		},
 		"seat": "2A"
 	},
@@ -217,7 +308,8 @@
 		"aircraft": {
 			"type": "Boeing 737-800",
 			"registration": "F-GZHO",
-			"callsign": "TVF47SQ"
+			"callsign": "TVF47SQ",
+			"operator": "TRA"
 		},
 		"seat": "3F"
 	},
@@ -234,7 +326,8 @@
 		"aircraft": {
 			"type": "Boeing 737-800",
 			"registration": "PH-HXM",
-			"callsign": "TRA19G"
+			"callsign": "TRA19G",
+			"operator": "TRA"
 		}
 	},
 	{
@@ -250,7 +343,8 @@
 		"aircraft": {
 			"type": "Airbus A320-214",
 			"registration": "G-EZUO",
-			"callsign": "EZY63RX"
+			"callsign": "EZY63RX",
+			"operator": "EZY"
 		},
 		"seat": "2F"
 	},
@@ -267,7 +361,8 @@
 		"aircraft": {
 			"type": "Airbus A320-214",
 			"registration": "G-EZUO",
-			"callsign": "EZY21AP"
+			"callsign": "EZY21AP",
+			"operator": "EZY"
 		},
 		"seat": "3A"
 	},
@@ -284,7 +379,8 @@
 		"aircraft": {
 			"type": "Boeing 737-800",
 			"registration": "PH-BCA",
-			"callsign": "KLM1981"
+			"callsign": "KLM1981",
+			"operator": "KLM"
 		},
 		"seat": "24F"
 	},
@@ -301,7 +397,8 @@
 		"aircraft": {
 			"type": "Boeing 737-800",
 			"registration": "PH-BXH",
-			"callsign": "KLM1978"
+			"callsign": "KLM1978",
+			"operator": "KLM"
 		},
 		"departureTerminal": "2A",
 		"seat": "6A"
@@ -320,7 +417,8 @@
 		"aircraft": {
 			"type": "Fokker 100",
 			"registration": "YR-FKA",
-			"callsign": "KLM81V"
+			"callsign": "KLM81V",
+			"operator": "KRP"
 		},
 		"departureTerminal": "1",
 		"arrivalTerminal": "1",
@@ -337,7 +435,8 @@
 		"arrival": "2018-10-05T16:42-0200",
 		"aircraft": {
 			"type": "Britten-Norman BN-2B Islander",
-			"registration": "D-IOLK"
+			"registration": "D-IOLK",
+			"operator": "OFD"
 		},
 		"isBusiness": false
 	},
@@ -351,7 +450,8 @@
 		"departure": "2018-10-08T15:07-0200",
 		"arrival": "2018-10-08T15:27-0200",
 		"aircraft": {
-			"type": "Britten-Norman BN-2B Islander"
+			"type": "Britten-Norman BN-2B Islander",
+			"operator": "OFD"
 		},
 		"isBusiness": false
 	},
@@ -367,7 +467,8 @@
 		"aircraft": {
 			"type": "Boeing 737-8K2",
 			"registration": "PH-BCD",
-			"callsign": "KLM88J"
+			"callsign": "KLM88J",
+			"operator": "KLM"
 		},
 		"isBusiness": false,
 		"departureTerminal": "1",
