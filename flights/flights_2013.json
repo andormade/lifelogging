@@ -1,0 +1,30 @@
+[
+	{
+		"from": "BUD",
+		"to": "MUC",
+		"flightNumber": "LH1685",
+		"airline": "DLH",
+		"scheduledDeparture": "2013-11-10T06:25-0100",
+		"scheduledArrival": "2013-11-10T07:45-0100",
+		"aircraft": {
+			"type": "Airbus A320"
+		},
+		"isBusiness": true,
+		"departureTerminal": "2A",
+		"arrivalTerminal": "2"
+	},
+	{
+		"from": "MUC",
+		"to": "LUX",
+		"flightNumber": "LH2320",
+		"airline": "DLH",
+		"scheduledDeparture": "2013-11-10T10:55-0100",
+		"scheduledArrival": "2013-11-10T12:05-0100",
+		"aircraft": {
+			"type": "Bombardier CRJ 900",
+			"operator": "CLH"
+		},
+		"isBusiness": true,
+		"departureTerminal": "2"
+	}
+]
