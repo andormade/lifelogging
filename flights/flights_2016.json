@@ -1,0 +1,213 @@
+[
+	{
+		"from": "HHN",
+		"to": "STN",
+		"flightNumber": "FR753",
+		"airline": "RYR",
+		"scheduledDeparture": "2016-01-29T06:45-0100",
+		"scheduledArrival": "2016-01-29T07:10-0000",
+		"isBusiness": false
+	},
+	{
+		"from": "STN",
+		"to": "HHN",
+		"flightNumber": "FR758",
+		"airline": "RYR",
+		"scheduledDeparture": "2016-02-01T19:40-0000",
+		"scheduledArrival": "2016-02-01T22:05-0100",
+		"isBusiness": false
+	},
+	{
+		"from": "LUX",
+		"to": "FRA",
+		"flightNumber": "LH395",
+		"airline": "DLH",
+		"scheduledDeparture": "2016-03-04T14:10-0100",
+		"scheduledArrival": "2016-03-04T15:00-0100",
+		"isBusiness": false,
+		"arrivalTerminal": "1"
+	},
+	{
+		"from": "FRA",
+		"to": "HND",
+		"flightNumber": "LH716",
+		"airline": "DLH",
+		"scheduledDeparture": "2016-03-04T17:55-0100",
+		"scheduledArrival": "2016-03-05T13:05-0900",
+		"isBusiness": false,
+		"seat": "30A",
+		"departureTerminal": "1",
+		"arrivalTerminal": "I"
+	},
+	{
+		"from": "HND",
+		"to": "MUC",
+		"flightNumber": "LH715",
+		"airline": "DLH",
+		"scheduledDeparture": "2016-03-13T12:50-0900",
+		"scheduledArrival": "2016-03-13T17:00-0100",
+		"isBusiness": false,
+		"seat": "37A",
+		"departureTerminal": "I",
+		"arrivalTerminal": "2"
+	},
+	{
+		"from": "MUC",
+		"to": "LUX",
+		"flightNumber": "LH2322",
+		"airline": "DLH",
+		"scheduledDeparture": "2016-03-13T18:30-0100",
+		"scheduledArrival": "2016-03-13T19:35-0100",
+		"isBusiness": false,
+		"departureTerminal": "2"
+	},
+	{
+		"from": "LUX",
+		"to": "MUC",
+		"flightNumber": "LH2321",
+		"airline": "DLH",
+		"scheduledDeparture": "2016-05-09T16:45-0200",
+		"scheduledArrival": "2016-05-09T17:55-0200",
+		"isBusiness": true,
+		"aircraft": {
+			"type": "Bombardier CRJ900",
+			"operator": "CLH"
+		},
+		"arrivalTerminal": "2",
+		"comment": "JSConf Budapest 2016"
+	},
+	{
+		"from": "MUC",
+		"to": "BUD",
+		"flightNumber": "LH1680",
+		"airline": "DLH",
+		"scheduledDeparture": "2016-05-09T18:30-0200",
+		"scheduledArrival": "2016-05-09T19:40-0200",
+		"isBusiness": true,
+		"aircraft": {
+			"type": "Embraer 195",
+			"operator": "DLA"
+		},
+		"departureTerminal": "2",
+		"arrivalTerminal": "2A",
+		"comment": "Lufthansa lost my baggage."
+	},
+	{
+		"from": "BUD",
+		"to": "FRA",
+		"flightNumber": "LH1335",
+		"airline": "DLH",
+		"scheduledDeparture": "2016-05-14T09:25-0200",
+		"scheduledArrival": "2016-05-14T11:10-0200",
+		"isBusiness": true,
+		"aircraft": {
+			"type": "Airbus A320 Sharklets",
+			"operator": "DLH"
+		},
+		"departureTerminal": "2A",
+		"arrivalTerminal": "1"
+	},
+	{
+		"from": "BUD",
+		"to": "FRA",
+		"flightNumber": "LH1335",
+		"airline": "DLH",
+		"scheduledDeparture": "2016-05-14T12:55-0200",
+		"scheduledArrival": "2016-05-14T13:45-0200",
+		"isBusiness": true,
+		"aircraft": {
+			"type": "Bombardier CRJ 900",
+			"operator": "CLH"
+		},
+		"departureTerminal": "1"
+	},
+	{
+		"from": "LUX",
+		"to": "VIE",
+		"flightNumber": "LG8857",
+		"airline": "LGL",
+		"scheduledDeparture": "2016-07-02T17:40-0200",
+		"scheduledArrival": "2016-07-02T19:30-0200",
+		"isBusiness": false,
+		"aircraft": {
+			"type": "De Havilland Dash 8 Series 400",
+			"operator": "LGL"
+		}
+	},
+	{
+		"from": "VIE",
+		"to": "LUX",
+		"flightNumber": "LG8852",
+		"airline": "LGL",
+		"scheduledDeparture": "2016-07-10T09:40-0200",
+		"scheduledArrival": "2016-07-10T11:25-0200",
+		"isBusiness": false,
+		"aircraft": {
+			"type": "De Havilland Dash 8 Series 400",
+			"operator": "LGL"
+		}
+	},
+	{
+		"from": "LUX",
+		"to": "LHR",
+		"flightNumber": "BA417",
+		"airline": "BAW",
+		"scheduledDeparture": "2016-08-01T11:30-0200",
+		"scheduledArrival": "2016-08-01T12:00-0100",
+		"isBusiness": true,
+		"aircraft": {
+			"type": "Airbus A320"
+		},
+		"arrivalTerminal": "3"
+	},
+	{
+		"from": "LHR",
+		"to": "LAX",
+		"flightNumber": "NZ001",
+		"airline": "ANZ",
+		"scheduledDeparture": "2016-08-01T16:15-0100",
+		"scheduledArrival": "2016-08-01T19:25+0700",
+		"isBusiness": true,
+		"aircraft": {
+			"type": "Boeing 777-300"
+		},
+		"departureTerminal": "2",
+		"arrivalTerminal": "B"
+	},
+	{
+		"from": "LAX",
+		"to": "LHR",
+		"flightNumber": "NZ002",
+		"airline": "ANZ",
+		"scheduledDeparture": "2016-10-27T17:00-0700",
+		"scheduledArrival": "2016-10-28T11:30-0000",
+		"isBusiness": true,
+		"aircraft": {
+			"type": "Boeing 777-300"
+		},
+		"departureTerminal": "B",
+		"arrivalTerminal": "2"
+	},
+	{
+		"from": "LHR",
+		"to": "LUX",
+		"flightNumber": "BA418",
+		"airline": "ANZ",
+		"scheduledDeparture": "2016-10-28T18:00-0000",
+		"scheduledArrival": "2016-10-28T20:20-0100",
+		"isBusiness": true,
+		"aircraft": {
+			"type": "Airbus A320"
+		},
+		"departureTerminal": "3"
+	},
+	{
+		"from": "LHR",
+		"to": "LUX",
+		"flightNumber": "LH456",
+		"airline": "DLH",
+		"scheduledDeparture": "2016-11-20T10:05-0100",
+		"scheduledArrival": "2016-11-20T12:55-0700",
+		"isBusiness": true
+	}
+]
