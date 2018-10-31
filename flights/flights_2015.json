@@ -1,20 +1,56 @@
 [
 	{
+		"from": "CRL",
+		"to": "BUD",
+		"airline": "RYR",
+		"flightNumber": "FR8416",
+		"scheduledDeparture": "2015-03-28T14:00-0100",
+		"scheduledArrival": "2015-03-28T16:00-0100",
+		"isBusiness": false
+	},
+	{
+		"from": "BUD",
+		"to": "CRL",
+		"airline": "RYR",
+		"flightNumber": "FR8415",
+		"scheduledDeparture": "2015-04-04T18:45-0200",
+		"scheduledArrival": "2015-04-04T20:50-0200",
+		"isBusiness": false
+	},
+	{
+		"from": "BUD",
+		"to": "ATH",
+		"airline": "RYR",
+		"flightNumber": "FR1243",
+		"scheduledDeparture": "2015-08-03T19:45-0200",
+		"scheduledArrival": "2015-08-03T22:45-0300",
+		"isBusiness": false
+	},
+	{
+		"from": "ATH",
+		"to": "BUD",
+		"airline": "RYR",
+		"flightNumber": "FR1242",
+		"scheduledDeparture": "2015-08-07T18:20-0300",
+		"scheduledArrival": "2015-08-07T19:20-0200",
+		"isBusiness": false
+	},
+	{
 		"from": "LUX",
 		"to": "VIE",
-		"flightNumber": "LG7082",
 		"airline": "LGL",
-		"scheduledDeparture": "2015-12-22T06:55-0100",
-		"scheduledArrival": "2015-12-22T08:45-0100",
+		"flightNumber": "LG8855",
+		"scheduledDeparture": "2015-09-23T10:45-0200",
+		"scheduledArrival": "2015-09-23T12:20-0200",
 		"isBusiness": false
 	},
 	{
 		"from": "VIE",
 		"to": "LUX",
-		"flightNumber": "LG8858",
 		"airline": "LGL",
-		"scheduledDeparture": "2015-12-28T20:50-0100",
-		"scheduledArrival": "2015-12-28T22:35-0100",
+		"flightNumber": "LG8856",
+		"scheduledDeparture": "2015-09-23T13:15-0200",
+		"scheduledArrival": "2015-09-23T14:45-0200",
 		"isBusiness": false
 	},
 	{
@@ -51,6 +87,24 @@
 		"airline": "DLH",
 		"scheduledDeparture": "2015-11-10T15:50-0100",
 		"scheduledArrival": "2015-11-10T17:00-0100",
+		"isBusiness": false
+	},
+	{
+		"from": "LUX",
+		"to": "VIE",
+		"flightNumber": "LG7082",
+		"airline": "LGL",
+		"scheduledDeparture": "2015-12-22T06:55-0100",
+		"scheduledArrival": "2015-12-22T08:45-0100",
+		"isBusiness": false
+	},
+	{
+		"from": "VIE",
+		"to": "LUX",
+		"flightNumber": "LG8858",
+		"airline": "LGL",
+		"scheduledDeparture": "2015-12-28T20:50-0100",
+		"scheduledArrival": "2015-12-28T22:35-0100",
 		"isBusiness": false
 	}
 ]
