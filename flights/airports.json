@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Budapest Ferenc Liszt International Airport",
+		"iata": "BUD",
+		"icao": "LHBP",
+		"lat": 47.439444,
+		"lng": 19.261944,
+		"country": "HU"
+	},
+	{
+		"name": "Munich Airport",
+		"iata": "MUC",
+		"icao": "EDDM",
+		"lat": 48.353889,
+		"lng": 11.786111,
+		"country": "DE"
+	},
+	{
+		"name": "Luxembourg Airport",
+		"iata": "LUX",
+		"icao": "ELLX",
+		"lat": 49.623333,
+		"lng": 6.204444,
+		"country": "LU"
+	}
+]
