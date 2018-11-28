@@ -473,5 +473,83 @@
 		"isBusiness": false,
 		"departureTerminal": "1",
 		"seat": "26A"
+	},
+	{
+		"from": "AMS",
+		"to": "MUC",
+		"flightNumber": "LH2301",
+		"airline": "DLH",
+		"scheduledDeparture": "2018-11-23T08:55-0200",
+		"scheduledArrival": "2018-11-23T10:15-0200",
+		"departure": "2018-11-23T09:07-0200",
+		"arrival": "2018-11-23T10:28-0200",
+		"aircraft": {
+			"type": "Airbus A319-132",
+			"registration": "S5-AAP",
+			"callsign": "DLH9EK",
+			"operator": "ADR"
+		},
+		"isBusiness": false,
+		"departureGate": "B27",
+		"arrivalGate": "K14",
+		"arrivalTerminal": "2",
+		"seat": "18A"
+	},
+	{
+		"from": "MUC",
+		"to": "LEJ",
+		"flightNumber": "LH2168",
+		"airline": "DLH",
+		"scheduledDeparture": "2018-11-23T14:20-0200",
+		"scheduledArrival": "2018-11-23T15:15-0200",
+		"departure": "2018-11-23T14:33-0200",
+		"arrival": "2018-11-23T15:11-0200",
+		"aircraft": {
+			"type": "Bombardier CRJ-900LR",
+			"registration": "D-ACNH",
+			"callsign": "DLH1RP",
+			"operator": "CLH"
+		},
+		"isBusiness": false,
+		"departureTerminal": "2"
+	},
+	{
+		"from": "LEJ",
+		"to": "FRA",
+		"flightNumber": "LH161",
+		"airline": "DLH",
+		"scheduledDeparture": "2018-11-25T10:30-0200",
+		"scheduledArrival": "2018-11-25T11:30-0200",
+		"departure": "2018-11-25T10:40-0200",
+		"arrival": "2018-11-25T11:29-0200",
+		"aircraft": {
+			"type": "Embraer ERJ-190LR",
+			"registration": "D-AECB",
+			"callsign": "DLH2HY",
+			"operator": "CLH"
+		},
+		"isBusiness": false,
+		"departureGate": "024",
+		"seat": "26F"
+	},
+	{
+		"from": "FRA",
+		"to": "AMS",
+		"flightNumber": "LH992",
+		"airline": "DLH",
+		"scheduledDeparture": "2018-11-25T12:20-0200",
+		"scheduledArrival": "2018-11-25T13:30-0200",
+		"departure": "2018-11-25T12:37-0200",
+		"arrival": "2018-11-25T13:27-0200",
+		"aircraft": {
+			"type": "Airbus A321-131",
+			"registration": "D-AIRY",
+			"callsign": "DLH2UV",
+			"operator": "DLH"
+		},
+		"isBusiness": false,
+		"departureGate": "A24",
+		"seat": "28A",
+		"comment": "Die Maus Sticker"
 	}
 ]
