@@ -551,5 +551,58 @@
 		"departureGate": "A24",
 		"seat": "28A",
 		"comment": "Die Maus Sticker"
+	},
+	{
+		"from": "AMS",
+		"to": "LUX",
+		"flightNumber": "KL1741",
+		"airline": "KLM",
+		"scheduledDeparture": "2018-12-20T13:15-0200",
+		"scheduledArrival": "2018-12-20T14:14-0200",
+		"departure": "2018-12-20T13:51-0200",
+		"arrival": "2018-12-20T14:30-0200",
+		"aircraft": {
+			"type": "Embraer ERJ-175STD",
+			"registration": "PH-EXM",
+			"callsign": "KLM1741",
+			"operator": "KLC"
+		},
+		"isBusiness": true,
+		"seat": "16F"
+	},
+	{
+		"from": "LUX",
+		"to": "DUB",
+		"flightNumber": "LG4883",
+		"airline": "LGL",
+		"scheduledDeparture": "2018-12-21T17:50-0200",
+		"scheduledArrival": "2018-12-21T18:50-0100",
+		"departure": "2018-12-21T18:14-0200",
+		"arrival": "2018-12-21T18:58-0100",
+		"aircraft": {
+			"type": "Boeing 737-7C9",
+			"registration": "LX-LGS",
+			"callsign": "LGL4883",
+			"operator": "LGL"
+		},
+		"isBusiness": false,
+		"seat": "4F"
+	},
+	{
+		"from": "DUB",
+		"to": "AMS",
+		"flightNumber": "KL936",
+		"airline": "KLM",
+		"scheduledDeparture": "2018-12-28T13:25-0100",
+		"scheduledArrival": "2018-12-28T16:05-0200",
+		"departure": "2018-12-28T13:44-0100",
+		"arrival": "2018-12-28T15:53-0200",
+		"aircraft": {
+			"type": "Boeing 737-8K2",
+			"registration": "PH-BXY",
+			"callsign": "KLM24E",
+			"operator": "KLM"
+		},
+		"isBusiness": false
 	}
 ]
