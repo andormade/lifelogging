@@ -1,0 +1,38 @@
+[
+	{
+		"from": "AMS",
+		"to": "BUD",
+		"flightNumber": "U27915",
+		"airline": "EZY",
+		"scheduledDeparture": "2019-01-14T08:15-0200",
+		"scheduledArrival": "2019-01-14T10:25-0200",
+		"departure": "2019-01-14T08:15-0200",
+		"arrival": "2019-01-14T09:54-0200",
+		"aircraft": {
+			"type": "Airbus A319-111",
+			"registration": "OE-LKK",
+			"callsign": "EZY58XZ",
+			"operator": "EZY"
+		},
+		"isBusiness": true,
+		"seat": "2A"
+	},
+	{
+		"from": "VIE",
+		"to": "AMS",
+		"flightNumber": "U27946",
+		"airline": "EZY",
+		"scheduledDeparture": "2019-01-20T16:05-0200",
+		"scheduledArrival": "2019-01-20T18:05-0200",
+		"departure": "2019-01-20T16:24-0200",
+		"arrival": "2019-01-20T17:54-0200",
+		"aircraft": {
+			"type": "Airbus A320-214",
+			"registration": "G-EZTT",
+			"callsign": "EZY68XA",
+			"operator": "EZY"
+		},
+		"isBusiness": true,
+		"seat": "2F"
+	}
+]
