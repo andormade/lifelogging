@@ -192,7 +192,7 @@
 		"from": "LHR",
 		"to": "LUX",
 		"flightNumber": "BA418",
-		"airline": "ANZ",
+		"airline": "BAW",
 		"scheduledDeparture": "2016-10-28T18:00-0000",
 		"scheduledArrival": "2016-10-28T20:20-0100",
 		"isBusiness": true,
@@ -202,8 +202,8 @@
 		"departureTerminal": "3"
 	},
 	{
-		"from": "LHR",
-		"to": "LUX",
+		"from": "FRA",
+		"to": "LAX",
 		"flightNumber": "LH456",
 		"airline": "DLH",
 		"scheduledDeparture": "2016-11-20T10:05-0100",

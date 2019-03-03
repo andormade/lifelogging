@@ -67,8 +67,8 @@
 		"isBusiness": false
 	},
 	{
-		"from": "AMS",
-		"to": "VIE",
+		"from": "VIE",
+		"to": "AMS",
 		"flightNumber": "U27946",
 		"airline": "EZY",
 		"scheduledDeparture": "2018-04-15T16:20-0200",
