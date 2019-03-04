@@ -40,8 +40,8 @@
 		"to": "VIE",
 		"airline": "LGL",
 		"flightNumber": "LG8855",
-		"scheduledDeparture": "2015-09-23T10:45-0200",
-		"scheduledArrival": "2015-09-23T12:20-0200",
+		"scheduledDeparture": "2015-09-25T10:45-0200",
+		"scheduledArrival": "2015-09-25T12:20-0200",
 		"isBusiness": false
 	},
 	{
@@ -49,8 +49,8 @@
 		"to": "LUX",
 		"airline": "LGL",
 		"flightNumber": "LG8856",
-		"scheduledDeparture": "2015-09-23T13:15-0200",
-		"scheduledArrival": "2015-09-23T14:45-0200",
+		"scheduledDeparture": "2015-09-28T13:15-0200",
+		"scheduledArrival": "2015-09-28T14:45-0200",
 		"isBusiness": false
 	},
 	{

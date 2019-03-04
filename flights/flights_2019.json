@@ -34,5 +34,78 @@
 		},
 		"isBusiness": true,
 		"seat": "2F"
+	},
+	{
+		"from": "AMS",
+		"to": "VIE",
+		"flightNumber": "U27945",
+		"airline": "EZY",
+		"scheduledDeparture": "2019-02-08T18:00-0200",
+		"scheduledArrival": "2019-02-08T19:55-0200",
+		"departure": "2019-02-08T18:24-0200",
+		"arrival": "2019-02-08T19:43-0200",
+		"aircraft": {
+			"type": "Airbus A319-111",
+			"registration": "G-EZAT",
+			"callsign": "EZY31ME",
+			"operator": "EZY"
+		},
+		"isBusiness": true,
+		"seat": "2A"
+	},
+	{
+		"from": "BUD",
+		"to": "AMS",
+		"flightNumber": "KL1972",
+		"airline": "KLM",
+		"scheduledDeparture": "2019-02-13T06:30-0200",
+		"scheduledArrival": "2019-02-13T08:50-0200",
+		"departure": "2019-02-13T06:39-0200",
+		"arrival": "2019-02-13T08:31-0200",
+		"aircraft": {
+			"type": "Boeing 737-800",
+			"registration": "PH-BXI",
+			"callsign": "KLM28Q",
+			"operator": "KLM"
+		},
+		"isBusiness": true,
+		"seat": "2F",
+		"departureTerminal": "2A"
+	},
+	{
+		"from": "AMS",
+		"to": "BCN",
+		"flightNumber": "HV5131",
+		"airline": "TRA",
+		"scheduledDeparture": "2019-02-25T07:00-0200",
+		"scheduledArrival": "2019-02-25T09:15-0200",
+		"departure": "2019-02-25T07:15-0200",
+		"arrival": "2019-02-25T08:58-0200",
+		"aircraft": {
+			"type": "Boeing 737-700",
+			"registration": "PH-XRY",
+			"callsign": "TRA89A",
+			"operator": "TRA"
+		},
+		"isBusiness": true,
+		"seat": "9F"
+	},
+	{
+		"from": "BCN",
+		"to": "AMS",
+		"flightNumber": "VY8319",
+		"airline": "VLG",
+		"scheduledDeparture": "2019-03-01T10:05-0200",
+		"scheduledArrival": "2019-03-01T10:36-0200",
+		"departure": "2019-03-01T12:35-0200",
+		"arrival": "2019-03-01T12:38-0200",
+		"aircraft": {
+			"type": "Airbus A320-232",
+			"registration": "EC-LRM",
+			"callsign": "VLG2XN",
+			"operator": "VLG"
+		},
+		"isBusiness": true,
+		"seat": "23F"
 	}
 ]
