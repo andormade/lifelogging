@@ -1,0 +1,502 @@
+[
+	{
+		"date": "2012-07-01T10:22:34.000Z",
+		"name": "Várkerület",
+		"id": "4d3d55cb44f5a0933e04d4bb"
+	},
+	{
+		"date": "2012-07-01T10:23:14.000Z",
+		"name": "Grandma's Place",
+		"id": "4f5c86b7e4b086681c0fa476"
+	},
+	{
+		"date": "2012-07-01T14:08:44.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-07-02T22:10:32.000Z",
+		"name": "Schmauser Étterem és Söröző",
+		"id": "4d03c11ba2685481edbbb3bd"
+	},
+	{
+		"date": "2012-07-03T01:52:04.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-07-04T15:51:39.000Z",
+		"name": "Sopron vasútállomás",
+		"id": "4bd6fe6529eb9c749dee95e1"
+	},
+	{
+		"date": "2012-07-04T16:44:25.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-07-05T05:14:56.000Z",
+		"name": "BP Österreich",
+		"id": "4e568c7852b12ddfc1e2a43a"
+	},
+	{
+		"date": "2012-07-05T05:15:10.000Z",
+		"name": "Autobahnraststätte Kemmelbach",
+		"id": "4c63ceb34be3b713524deee8"
+	},
+	{
+		"date": "2012-07-05T05:21:44.000Z",
+		"name": "Landzeit Kemmelbach",
+		"id": "4c02bdcb39d476b0c3192fa7"
+	},
+	{
+		"date": "2012-07-05T17:24:20.000Z",
+		"name": "Hasseröder Ferienpark",
+		"id": "4c9339af1221b1f73c1a18e2"
+	},
+	{
+		"date": "2012-07-05T19:47:33.000Z",
+		"name": "Brockenbad",
+		"id": "4e5107498877402b06d96d11"
+	},
+	{
+		"date": "2012-07-06T10:52:00.000Z",
+		"name": "Spielplatz",
+		"id": "4ff6c34ce4b0f1abbb68ce53"
+	},
+	{
+		"date": "2012-07-06T10:55:26.000Z",
+		"name": "Wernigerode",
+		"id": "4de38ad718385df2b03deb78"
+	},
+	{
+		"date": "2012-07-06T11:27:33.000Z",
+		"name": "Hasseröder Ferienpark",
+		"id": "4c9339af1221b1f73c1a18e2"
+	},
+	{
+		"date": "2012-07-06T18:01:56.000Z",
+		"name": "Brockenbad",
+		"id": "4e5107498877402b06d96d11"
+	},
+	{
+		"date": "2012-07-06T18:57:00.000Z",
+		"name": "Hasseröder Ferienpark",
+		"id": "4c9339af1221b1f73c1a18e2"
+	},
+	{
+		"date": "2012-07-07T12:33:01.000Z",
+		"name": "Alter Markt",
+		"id": "4ca72289a6e08cfa85418194"
+	},
+	{
+		"date": "2012-07-07T12:33:14.000Z",
+		"name": "Flair",
+		"id": "4b7ef3a9f964a520cf0b30e3"
+	},
+	{
+		"date": "2012-07-07T14:22:38.000Z",
+		"name": "Alter Markt",
+		"id": "4ca72289a6e08cfa85418194"
+	},
+	{
+		"date": "2012-07-07T18:52:19.000Z",
+		"name": "Hasseröder Ferienpark",
+		"id": "4c9339af1221b1f73c1a18e2"
+	},
+	{
+		"date": "2012-07-07T19:12:34.000Z",
+		"name": "Brockenbad",
+		"id": "4e5107498877402b06d96d11"
+	},
+	{
+		"date": "2012-07-08T10:57:35.000Z",
+		"name": "Hasseröder Ferienpark",
+		"id": "4c9339af1221b1f73c1a18e2"
+	},
+	{
+		"date": "2012-07-08T12:14:48.000Z",
+		"name": "Hasseröder Kramladen",
+		"id": "4ff979b5e4b0b3e699f208d4"
+	},
+	{
+		"date": "2012-07-08T14:58:36.000Z",
+		"name": "Helmstedt",
+		"id": "4db7ded204376df997679c9f"
+	},
+	{
+		"date": "2012-07-08T14:58:55.000Z",
+		"name": "Rathaus Helmstedt",
+		"id": "4e9e9ba64901fd63b81ebe9e"
+	},
+	{
+		"date": "2012-07-08T14:59:36.000Z",
+		"name": "Eiscafé Venezia",
+		"id": "4f8b2e330cd6dbbc4ca72338"
+	},
+	{
+		"date": "2012-07-08T16:56:21.000Z",
+		"name": "Wernigerode",
+		"id": "4de38ad718385df2b03deb78"
+	},
+	{
+		"date": "2012-07-08T16:56:35.000Z",
+		"name": "Brockenbad",
+		"id": "4e5107498877402b06d96d11"
+	},
+	{
+		"date": "2012-07-08T18:51:28.000Z",
+		"name": "Spielplatz",
+		"id": "4ff6c34ce4b0f1abbb68ce53"
+	},
+	{
+		"date": "2012-07-08T19:41:09.000Z",
+		"name": "Hasseröder Ferienpark",
+		"id": "4c9339af1221b1f73c1a18e2"
+	},
+	{
+		"date": "2012-07-09T06:24:45.000Z",
+		"name": "Spielplatz",
+		"id": "4ff6c34ce4b0f1abbb68ce53"
+	},
+	{
+		"date": "2012-07-09T06:25:11.000Z",
+		"name": "Hasseröder Ferienpark",
+		"id": "4c9339af1221b1f73c1a18e2"
+	},
+	{
+		"date": "2012-07-09T16:27:52.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-07-10T11:54:46.000Z",
+		"name": "Sopron vasútállomás",
+		"id": "4bd6fe6529eb9c749dee95e1"
+	},
+	{
+		"date": "2012-07-10T14:41:43.000Z",
+		"name": "Roxxy Music Cafe",
+		"id": "4caf266b1463a143fc0992a9"
+	},
+	{
+		"date": "2012-07-10T16:41:32.000Z",
+		"name": "Vértes Center",
+		"id": "4cf26461e9425481f2f46fc5"
+	},
+	{
+		"date": "2012-07-10T16:57:01.000Z",
+		"name": "Vértes Center",
+		"id": "4cf26461e9425481f2f46fc5"
+	},
+	{
+		"date": "2012-07-10T16:58:15.000Z",
+		"name": "H&M",
+		"id": "4f4e989c6d86379025fdb83b"
+	},
+	{
+		"date": "2012-07-10T16:58:54.000Z",
+		"name": "New Yorker",
+		"id": "4e944bdc61afe52cf39b02b8"
+	},
+	{
+		"date": "2012-07-10T17:03:25.000Z",
+		"name": "Takko Fashion",
+		"id": "4e944f6db63439ea0139a894"
+	},
+	{
+		"date": "2012-07-10T17:05:04.000Z",
+		"name": "Cosmos City",
+		"id": "4ffc60bbe4b07dd22fbe106d"
+	},
+	{
+		"date": "2012-07-10T17:07:23.000Z",
+		"name": "Glo-Jeans",
+		"id": "4ffc6148e4b08049d9ce20d4"
+	},
+	{
+		"date": "2012-07-10T17:10:23.000Z",
+		"name": "H&M",
+		"id": "4f4e989c6d86379025fdb83b"
+	},
+	{
+		"date": "2012-07-10T17:18:47.000Z",
+		"name": "C&A",
+		"id": "4e9444c0be7b8f7220251427"
+	},
+	{
+		"date": "2012-07-10T17:29:00.000Z",
+		"name": "Kenvelo",
+		"id": "4e9448a9722e42857aecceaf"
+	},
+	{
+		"date": "2012-07-10T17:32:37.000Z",
+		"name": "New Yorker",
+		"id": "4e944bdc61afe52cf39b02b8"
+	},
+	{
+		"date": "2012-07-10T17:39:40.000Z",
+		"name": "Tatabánya autóbusz-állomás (Vértes Center)",
+		"id": "4d9231b75cf5236a106e48a3"
+	},
+	{
+		"date": "2012-07-10T17:39:51.000Z",
+		"name": "Tatabánya vasútállomás",
+		"id": "4b7ff81cf964a5209f4730e3"
+	},
+	{
+		"date": "2012-07-11T09:22:30.000Z",
+		"name": "Vértes Center",
+		"id": "4cf26461e9425481f2f46fc5"
+	},
+	{
+		"date": "2012-07-11T09:23:37.000Z",
+		"name": "Tatabánya autóbusz-állomás (Vértes Center)",
+		"id": "4d9231b75cf5236a106e48a3"
+	},
+	{
+		"date": "2012-07-11T09:52:10.000Z",
+		"name": "Gyémánt Strand-és Élményfürdő",
+		"id": "4d73596fd145a1cdd007c2f3"
+	},
+	{
+		"date": "2012-07-11T10:49:33.000Z",
+		"name": "Gyémánt Strand-és Élményfürdő",
+		"id": "4d73596fd145a1cdd007c2f3"
+	},
+	{
+		"date": "2012-07-12T18:12:48.000Z",
+		"name": "Kertvarosi Lakotelep",
+		"id": "4ea1c97cf7909c68ddd42a08"
+	},
+	{
+		"date": "2012-07-13T16:43:19.000Z",
+		"name": "Mordor 2",
+		"id": "4e46adc745dd2955e59aa8ef"
+	},
+	{
+		"date": "2012-07-13T20:03:39.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-07-14T13:19:45.000Z",
+		"name": "Sopron",
+		"id": "4d17aa00f4ee6a31b0224912"
+	},
+	{
+		"date": "2012-07-14T13:20:02.000Z",
+		"name": "Várkerület",
+		"id": "4d3d55cb44f5a0933e04d4bb"
+	},
+	{
+		"date": "2012-07-14T13:20:21.000Z",
+		"name": "Livia áruház",
+		"id": "4f9bda0ae4b02343c8022dec"
+	},
+	{
+		"date": "2012-07-14T15:54:46.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-07-15T10:33:31.000Z",
+		"name": "Grandma's Place",
+		"id": "4f5c86b7e4b086681c0fa476"
+	},
+	{
+		"date": "2012-07-15T11:46:26.000Z",
+		"name": "Várkerület",
+		"id": "4d3d55cb44f5a0933e04d4bb"
+	},
+	{
+		"date": "2012-07-15T12:19:58.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-07-17T08:09:00.000Z",
+		"name": "Universität Wien",
+		"id": "4b0e65f9f964a5205e5723e3"
+	},
+	{
+		"date": "2012-07-17T08:11:58.000Z",
+		"name": "H Schottentor - Universität",
+		"id": "4bbdf9368a4fb713169d3d9d"
+	},
+	{
+		"date": "2012-07-17T08:14:37.000Z",
+		"name": "Rathausplatz",
+		"id": "4b32b480f964a520421225e3"
+	},
+	{
+		"date": "2012-07-17T09:18:13.000Z",
+		"name": "Shopping City Süd",
+		"id": "4b7bd21af964a520676f2fe3"
+	},
+	{
+		"date": "2012-07-17T09:18:40.000Z",
+		"name": "H&M",
+		"id": "4c31f4223896e21e5fb1e790"
+	},
+	{
+		"date": "2012-07-17T09:22:02.000Z",
+		"name": "THOMAS SABO",
+		"id": "4eeca18e8b81bbbf5c2918ed"
+	},
+	{
+		"date": "2012-07-17T09:25:24.000Z",
+		"name": "Kuci Muci",
+		"id": "4db2b8cfa86e8d27075f938c"
+	},
+	{
+		"date": "2012-07-17T09:26:59.000Z",
+		"name": "Schokothek",
+		"id": "4fd1bdc5e4b00095e9ab4d22"
+	},
+	{
+		"date": "2012-07-17T09:41:33.000Z",
+		"name": "Butlers",
+		"id": "4d3aad46979ea143dd1793fc"
+	},
+	{
+		"date": "2012-07-17T09:46:23.000Z",
+		"name": "MYFC",
+		"id": "4eeca679775b3c580c828f1d"
+	},
+	{
+		"date": "2012-07-17T10:12:20.000Z",
+		"name": "Fussl",
+		"id": "4fe1c8bce4b01d6ee80ddf33"
+	},
+	{
+		"date": "2012-07-17T10:17:10.000Z",
+		"name": "Trachten",
+		"id": "50053ba4e4b0859fa7768ca8"
+	},
+	{
+		"date": "2012-07-17T10:25:52.000Z",
+		"name": "Bijou Brigitte",
+		"id": "50053daae4b067e568ed7229"
+	},
+	{
+		"date": "2012-07-17T10:59:26.000Z",
+		"name": "INTERSPAR",
+		"id": "4b6d9153f964a520117d2ce3"
+	},
+	{
+		"date": "2012-07-17T11:01:16.000Z",
+		"name": "I am",
+		"id": "500545f8e4b0594c438e0bb3"
+	},
+	{
+		"date": "2012-07-17T11:01:30.000Z",
+		"name": "Syndikat",
+		"id": "4fc7a16fe4b0647c52b11fe4"
+	},
+	{
+		"date": "2012-07-17T11:10:01.000Z",
+		"name": "Vero Moda",
+		"id": "4c9dfb8f8afca09377d9fb15"
+	},
+	{
+		"date": "2012-07-17T12:19:05.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-07-20T17:14:31.000Z",
+		"name": "Central Park Café",
+		"id": "4ccef459c0378cfaa0ea9648"
+	},
+	{
+		"date": "2012-07-20T17:14:59.000Z",
+		"name": "Deák tér",
+		"id": "4d7cceeb34f7721e4f0acc25"
+	},
+	{
+		"date": "2012-07-20T19:01:51.000Z",
+		"name": "Padlás Club",
+		"id": "4fec5150e4b0b0d53e694563"
+	},
+	{
+		"date": "2012-07-20T20:50:58.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-07-22T10:08:19.000Z",
+		"name": "Várkerület",
+		"id": "4d3d55cb44f5a0933e04d4bb"
+	},
+	{
+		"date": "2012-07-22T10:08:49.000Z",
+		"name": "Grandma's Place",
+		"id": "4f5c86b7e4b086681c0fa476"
+	},
+	{
+		"date": "2012-07-22T11:43:41.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-07-23T15:10:41.000Z",
+		"name": "McDonald's",
+		"id": "4bc829fe15a7ef3bc6a27ada"
+	},
+	{
+		"date": "2012-07-23T15:10:55.000Z",
+		"name": "Belváros",
+		"id": "4df797fcb3adec5a0b9ab55a"
+	},
+	{
+		"date": "2012-07-23T15:11:07.000Z",
+		"name": "Baross Gábor út - Sétálóutca",
+		"id": "4d89b5f61508a143b787131e"
+	},
+	{
+		"date": "2012-07-23T17:07:29.000Z",
+		"name": "Roxxy Music Cafe",
+		"id": "4caf266b1463a143fc0992a9"
+	},
+	{
+		"date": "2012-07-23T17:07:41.000Z",
+		"name": "Tatabánya vasútállomás",
+		"id": "4b7ff81cf964a5209f4730e3"
+	},
+	{
+		"date": "2012-07-23T17:17:09.000Z",
+		"name": "Tatabánya autóbusz-állomás (Vértes Center)",
+		"id": "4d9231b75cf5236a106e48a3"
+	},
+	{
+		"date": "2012-07-24T17:51:14.000Z",
+		"name": "Roxxy Music Cafe",
+		"id": "4caf266b1463a143fc0992a9"
+	},
+	{
+		"date": "2012-07-24T21:50:07.000Z",
+		"name": "Kertvarosi Lakotelep",
+		"id": "4ea1c97cf7909c68ddd42a08"
+	},
+	{
+		"date": "2012-07-27T19:57:17.000Z",
+		"name": "Sopron vasútállomás",
+		"id": "4bd6fe6529eb9c749dee95e1"
+	},
+	{
+		"date": "2012-07-27T20:15:58.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-07-29T10:05:17.000Z",
+		"name": "Grandma's Place",
+		"id": "4f5c86b7e4b086681c0fa476"
+	},
+	{
+		"date": "2012-07-29T12:18:59.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	}
+]

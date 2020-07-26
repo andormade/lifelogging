@@ -1,0 +1,697 @@
+[
+	{
+		"date": "2012-09-02T12:07:37.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-02T15:54:42.000Z",
+		"name": "CBA Príma",
+		"id": "4cd037a59d87224b14ce533b"
+	},
+	{
+		"date": "2012-09-02T18:57:48.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-09-02T18:58:09.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-03T08:09:42.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2012-09-03T08:10:42.000Z",
+		"name": "QII - Heller Farkas nagyelőadó",
+		"id": "4e788fd6c65b409c46d7d0d1"
+	},
+	{
+		"date": "2012-09-03T11:27:58.000Z",
+		"name": "QPOLA menza",
+		"id": "4dbfe5d66a23e5a549de9bfc"
+	},
+	{
+		"date": "2012-09-03T11:40:45.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-09-03T11:41:08.000Z",
+		"name": "IB028 - Kozma László nagyelőadó",
+		"id": "4de4d643d164df857532987b"
+	},
+	{
+		"date": "2012-09-03T12:35:41.000Z",
+		"name": "BME IE007",
+		"id": "4f337489e4b0a2c6ac242aa3"
+	},
+	{
+		"date": "2012-09-03T13:03:36.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-09-03T15:57:20.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2012-09-03T15:57:44.000Z",
+		"name": "QII - Heller Farkas nagyelőadó",
+		"id": "4e788fd6c65b409c46d7d0d1"
+	},
+	{
+		"date": "2012-09-03T17:39:15.000Z",
+		"name": "Deák Ferenc tér",
+		"id": "4d52c0d74015b1f7b1017ecf"
+	},
+	{
+		"date": "2012-09-03T19:16:27.000Z",
+		"name": "Akvárium Klub & Terasz",
+		"id": "50ea02aaf13682952d14873f"
+	},
+	{
+		"date": "2012-09-03T21:20:25.000Z",
+		"name": "Akvárium Klub & Terasz",
+		"id": "50ea02aaf13682952d14873f"
+	},
+	{
+		"date": "2012-09-03T22:28:09.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-09-03T22:28:20.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-04T10:14:15.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-09-04T10:14:42.000Z",
+		"name": "BME IE007",
+		"id": "4f337489e4b0a2c6ac242aa3"
+	},
+	{
+		"date": "2012-09-04T12:31:46.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-04T12:31:46.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-05T08:15:09.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-09-05T08:16:12.000Z",
+		"name": "BME Cisco Oktatólabor",
+		"id": "4e9ff3422c5b9f62faf6f56f"
+	},
+	{
+		"date": "2012-09-05T10:34:29.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2012-09-05T10:34:45.000Z",
+		"name": "Goldmann Menza",
+		"id": "4cb440fd1168a093dd0a4723"
+	},
+	{
+		"date": "2012-09-05T10:44:07.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-09-05T14:05:42.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-09-05T14:49:36.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-09-05T14:49:52.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-06T10:10:06.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2012-09-06T10:37:16.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-06T15:47:03.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-09-07T13:42:24.000Z",
+		"name": "Vértes Center",
+		"id": "4cf26461e9425481f2f46fc5"
+	},
+	{
+		"date": "2012-09-07T13:48:02.000Z",
+		"name": "József Attila Megyei Könyvtár",
+		"id": "4dc9382a2271353fc8edce3b"
+	},
+	{
+		"date": "2012-09-07T14:17:43.000Z",
+		"name": "Tatabánya autóbusz-állomás (Vértes Center)",
+		"id": "4d9231b75cf5236a106e48a3"
+	},
+	{
+		"date": "2012-09-07T15:09:08.000Z",
+		"name": "Ciano Kúria",
+		"id": "502e1ee2e4b00d67edf0008f"
+	},
+	{
+		"date": "2012-09-09T14:19:33.000Z",
+		"name": "Vértes Center",
+		"id": "4cf26461e9425481f2f46fc5"
+	},
+	{
+		"date": "2012-09-09T14:19:55.000Z",
+		"name": "Tatabánya autóbusz-állomás (Vértes Center)",
+		"id": "4d9231b75cf5236a106e48a3"
+	},
+	{
+		"date": "2012-09-09T14:20:11.000Z",
+		"name": "Tatabánya vasútállomás",
+		"id": "4b7ff81cf964a5209f4730e3"
+	},
+	{
+		"date": "2012-09-09T16:39:34.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-09T18:59:10.000Z",
+		"name": "TESCO Extra",
+		"id": "4bb7408a1344b7133b7d9e04"
+	},
+	{
+		"date": "2012-09-09T20:34:51.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-10T18:02:17.000Z",
+		"name": "Eiffel tér",
+		"id": "4bd9d8e23f01c9b6295f53a5"
+	},
+	{
+		"date": "2012-09-10T18:02:45.000Z",
+		"name": "TESCO Expressz",
+		"id": "4c3eae8151dee21ebc01eb6e"
+	},
+	{
+		"date": "2012-09-10T21:51:17.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-09-10T21:51:28.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-11T05:41:41.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-09-11T06:56:39.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2012-09-11T14:07:30.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2012-09-11T14:09:14.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2012-09-12T07:08:01.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-09-12T08:18:12.000Z",
+		"name": "BME Cisco Oktatólabor",
+		"id": "4e9ff3422c5b9f62faf6f56f"
+	},
+	{
+		"date": "2012-09-12T11:19:04.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-12T11:20:05.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-09-13T06:00:15.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-09-13T06:02:47.000Z",
+		"name": "I büfé",
+		"id": "4de4bfebfa7651589f3489b7"
+	},
+	{
+		"date": "2012-09-13T07:51:54.000Z",
+		"name": "Magyar tudósok körútja",
+		"id": "4e86b5a04fc6432751d92f35"
+	},
+	{
+		"date": "2012-09-13T07:54:35.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2012-09-13T08:13:09.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-09-13T08:13:22.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-09-13T08:13:42.000Z",
+		"name": "Harminckettesek tere (9, 83, 109, 909)",
+		"id": "4d45c5681b62b1f7248200e3"
+	},
+	{
+		"date": "2012-09-13T09:10:09.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-13T15:19:32.000Z",
+		"name": "ELTE Északi Tömb",
+		"id": "4bc890c10050b7130c9bba3b"
+	},
+	{
+		"date": "2012-09-13T16:42:16.000Z",
+		"name": "É -1.85 Harmónia terem",
+		"id": "4ec0fcc00cd6d2a16f6eac5d"
+	},
+	{
+		"date": "2012-09-13T17:51:48.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-09-13T17:52:22.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-09-13T17:52:30.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-14T12:56:16.000Z",
+		"name": "Bem tér",
+		"id": "4ca58b7da6e08cfa1b387294"
+	},
+	{
+		"date": "2012-09-14T12:56:31.000Z",
+		"name": "Bem József tér (109, 960)",
+		"id": "4e68e1d414954826addcd06f"
+	},
+	{
+		"date": "2012-09-14T16:29:13.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-09-14T17:16:09.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-09-16T10:07:40.000Z",
+		"name": "Grandma's Place",
+		"id": "4f5c86b7e4b086681c0fa476"
+	},
+	{
+		"date": "2012-09-16T10:36:38.000Z",
+		"name": "Várkerület",
+		"id": "4d3d55cb44f5a0933e04d4bb"
+	},
+	{
+		"date": "2012-09-16T11:57:13.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-09-16T20:10:03.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-17T08:09:36.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2012-09-17T08:10:28.000Z",
+		"name": "QII - Heller Farkas nagyelőadó",
+		"id": "4e788fd6c65b409c46d7d0d1"
+	},
+	{
+		"date": "2012-09-17T09:23:32.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-09-17T19:21:44.000Z",
+		"name": "Rizsa presszó",
+		"id": "4c508560bd099521af86505e"
+	},
+	{
+		"date": "2012-09-17T20:24:10.000Z",
+		"name": "Nagymenő",
+		"id": "4e18ca3bd22d512258874509"
+	},
+	{
+		"date": "2012-09-17T23:32:18.000Z",
+		"name": "Oktogon M (4, 6)",
+		"id": "4d54e68e143ca093235fa9fc"
+	},
+	{
+		"date": "2012-09-18T00:09:48.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-09-18T00:10:05.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-18T06:00:38.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-09-18T06:03:36.000Z",
+		"name": "BME IL504",
+		"id": "50580eb4e4b07e9d89fe1314"
+	},
+	{
+		"date": "2012-09-18T10:34:42.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-18T11:32:19.000Z",
+		"name": "Wesselényi utca (4, 6)",
+		"id": "4c96548b6b35a14324e12cdc"
+	},
+	{
+		"date": "2012-09-18T11:32:37.000Z",
+		"name": "Tunika",
+		"id": "4f58e973e4b098e01dd5a1a0"
+	},
+	{
+		"date": "2012-09-18T15:30:26.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-19T07:59:07.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-09-19T07:59:31.000Z",
+		"name": "BME Cisco Oktatólabor",
+		"id": "4e9ff3422c5b9f62faf6f56f"
+	},
+	{
+		"date": "2012-09-19T11:45:59.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2012-09-19T11:52:02.000Z",
+		"name": "BME IB145",
+		"id": "4f38fdc0e4b0a8274071361b"
+	},
+	{
+		"date": "2012-09-19T11:52:28.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-09-19T15:18:53.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-21T17:54:30.000Z",
+		"name": "Arena Mall",
+		"id": "4b86a275f964a520649331e3"
+	},
+	{
+		"date": "2012-09-21T17:56:34.000Z",
+		"name": "Aréna Pláza étteremszint",
+		"id": "4da9ede0fa8cc7649727c83b"
+	},
+	{
+		"date": "2012-09-21T18:21:48.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4d7143ca722ef04d9fb10e9c"
+	},
+	{
+		"date": "2012-09-21T18:28:20.000Z",
+		"name": "iCentre Arena APR",
+		"id": "4b81682ef964a52035a430e3"
+	},
+	{
+		"date": "2012-09-22T16:11:19.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-09-22T16:11:36.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-24T10:27:04.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-09-24T10:27:20.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-09-24T15:05:20.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-25T13:54:28.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2012-09-25T13:59:33.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2012-09-25T17:12:05.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-26T08:03:50.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-09-26T08:04:01.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-09-26T08:04:11.000Z",
+		"name": "BME Cisco Oktatólabor",
+		"id": "4e9ff3422c5b9f62faf6f56f"
+	},
+	{
+		"date": "2012-09-26T10:23:20.000Z",
+		"name": "Bem József tér (109, 960)",
+		"id": "4e68e1d414954826addcd06f"
+	},
+	{
+		"date": "2012-09-26T10:23:31.000Z",
+		"name": "Bem tér",
+		"id": "4ca58b7da6e08cfa1b387294"
+	},
+	{
+		"date": "2012-09-26T12:11:30.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4d7143ca722ef04d9fb10e9c"
+	},
+	{
+		"date": "2012-09-26T12:11:57.000Z",
+		"name": "Arena Mall",
+		"id": "4b86a275f964a520649331e3"
+	},
+	{
+		"date": "2012-09-26T16:24:22.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-27T06:02:42.000Z",
+		"name": "I büfé",
+		"id": "4de4bfebfa7651589f3489b7"
+	},
+	{
+		"date": "2012-09-27T06:02:56.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-09-27T09:22:58.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-28T11:22:13.000Z",
+		"name": "Losonci tér 3.",
+		"id": "50658860e4b0675fa466d3bb"
+	},
+	{
+		"date": "2012-09-28T13:33:39.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-28T16:31:53.000Z",
+		"name": "Móricz Zsigmond körtér M (6)",
+		"id": "4c814dd8d34ca143ee262180"
+	},
+	{
+		"date": "2012-09-28T16:32:02.000Z",
+		"name": "Madárfészek gyorsétterem és kávézó",
+		"id": "4ba8fed8f964a520b4013ae3"
+	},
+	{
+		"date": "2012-09-28T16:32:25.000Z",
+		"name": "Móricz Zsigmond körtér",
+		"id": "4bbdbe1a8ec3d13a2a5a1c28"
+	},
+	{
+		"date": "2012-09-28T16:57:14.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-09-28T16:57:33.000Z",
+		"name": "Harminckettesek tere (9, 83, 109, 909)",
+		"id": "4d45c5681b62b1f7248200e3"
+	},
+	{
+		"date": "2012-09-28T17:13:47.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-28T17:13:56.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-09-28T17:14:15.000Z",
+		"name": "Losonci tér 3.",
+		"id": "50658860e4b0675fa466d3bb"
+	},
+	{
+		"date": "2012-09-28T18:20:54.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-09-28T18:39:18.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-09-29T12:26:31.000Z",
+		"name": "Function 2012",
+		"id": "5065c939e4b081533920853b"
+	},
+	{
+		"date": "2012-09-29T22:25:31.000Z",
+		"name": "Táncsics Mihály Művelődési Ház",
+		"id": "4fc9022fe4b0686cf76373c5"
+	},
+	{
+		"date": "2012-09-29T22:26:19.000Z",
+		"name": "Soroksár Hősök Tere",
+		"id": "4e71f2fd45dd2c5c1a6ae445"
+	},
+	{
+		"date": "2012-09-30T14:30:31.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-09-30T18:29:25.000Z",
+		"name": "Schönherz Óriáskijelző (Mátrix)",
+		"id": "4e8b4321cc215b036856b8f7"
+	},
+	{
+		"date": "2012-09-30T21:48:35.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-09-30T21:48:43.000Z",
+		"name": "Losonci tér 3.",
+		"id": "50658860e4b0675fa466d3bb"
+	},
+	{
+		"date": "2012-09-30T21:48:57.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	}
+]

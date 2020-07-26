@@ -1,0 +1,1227 @@
+[
+	{
+		"date": "2012-03-01T06:56:51.000Z",
+		"name": "BME IB145",
+		"id": "4f38fdc0e4b0a8274071361b"
+	},
+	{
+		"date": "2012-03-01T06:57:08.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-03-01T08:36:33.000Z",
+		"name": "Magyar tudósok körútja",
+		"id": "4e86b5a04fc6432751d92f35"
+	},
+	{
+		"date": "2012-03-01T08:48:52.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2012-03-01T08:49:18.000Z",
+		"name": "BME R504",
+		"id": "4f45ff29e4b0f8695e0a7a4b"
+	},
+	{
+		"date": "2012-03-01T11:09:37.000Z",
+		"name": "BME F épület",
+		"id": "4c19da436a21c9b68330cb97"
+	},
+	{
+		"date": "2012-03-01T12:03:49.000Z",
+		"name": "BME F29 Zemplén Győző terem",
+		"id": "4f3bafb7e4b0d6152f7a3ad7"
+	},
+	{
+		"date": "2012-03-01T13:04:49.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2012-03-01T13:07:39.000Z",
+		"name": "BME E1.B előadóterem",
+		"id": "4e799da9aeb79f7dab8b437b"
+	},
+	{
+		"date": "2012-03-01T15:06:59.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-03-01T15:07:24.000Z",
+		"name": "I büfé",
+		"id": "4de4bfebfa7651589f3489b7"
+	},
+	{
+		"date": "2012-03-01T16:53:38.000Z",
+		"name": "Magyar tudósok körútja",
+		"id": "4e86b5a04fc6432751d92f35"
+	},
+	{
+		"date": "2012-03-01T17:48:07.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-01T17:49:05.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-01T17:59:00.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-02T18:04:28.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-03-05T19:55:01.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-05T21:03:47.000Z",
+		"name": "Nagymenő",
+		"id": "4e18ca3bd22d512258874509"
+	},
+	{
+		"date": "2012-03-05T23:12:22.000Z",
+		"name": "Cheers",
+		"id": "4bbcdad5a8cf76b0020db1fd"
+	},
+	{
+		"date": "2012-03-06T00:03:52.000Z",
+		"name": "Móricz Zsigmond körtér",
+		"id": "4bbdbe1a8ec3d13a2a5a1c28"
+	},
+	{
+		"date": "2012-03-06T00:04:17.000Z",
+		"name": "Móricz Zsigmond körtér M (6)",
+		"id": "4c814dd8d34ca143ee262180"
+	},
+	{
+		"date": "2012-03-06T00:04:32.000Z",
+		"name": "Móricz Zsigmond körtér M (17, 41, 47, 47B, 48, 56, 56A, 61, 973)",
+		"id": "4c89e8fba92fa093aab28cbf"
+	},
+	{
+		"date": "2012-03-06T00:04:54.000Z",
+		"name": "Móricz Zsigmond körtér M (27, 240, 940, 941, 960, 972, 972B)",
+		"id": "4d7787d6926a6dcb303d4a00"
+	},
+	{
+		"date": "2012-03-06T00:53:09.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-06T00:53:30.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-06T02:18:22.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-06T18:38:32.000Z",
+		"name": "Samsung Forgóóra",
+		"id": "4e9b31658b81c0254ea60b41"
+	},
+	{
+		"date": "2012-03-06T18:38:54.000Z",
+		"name": "Nyugati pályaudvar M (4, 6)",
+		"id": "4bbf6921006dc9b6ae8bfc3f"
+	},
+	{
+		"date": "2012-03-06T23:30:54.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-06T23:31:26.000Z",
+		"name": "Gerusz HQ",
+		"id": "4cddafa269136dcbaeb5d0e6"
+	},
+	{
+		"date": "2012-03-07T10:29:06.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-07T14:26:39.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-03-07T18:21:18.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-03-07T18:21:40.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-03-07T19:10:59.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-07T19:11:17.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-07T19:24:00.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-08T06:32:50.000Z",
+		"name": "Magyar tudósok körútja",
+		"id": "4e86b5a04fc6432751d92f35"
+	},
+	{
+		"date": "2012-03-08T06:35:38.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2012-03-08T06:44:19.000Z",
+		"name": "QI - Simonyi Károly nagyelőadó",
+		"id": "4e78d5bd15207e35d98f9cbb"
+	},
+	{
+		"date": "2012-03-08T08:27:53.000Z",
+		"name": "BME IB145",
+		"id": "4f38fdc0e4b0a8274071361b"
+	},
+	{
+		"date": "2012-03-08T08:28:35.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-03-08T09:00:58.000Z",
+		"name": "BME R504",
+		"id": "4f45ff29e4b0f8695e0a7a4b"
+	},
+	{
+		"date": "2012-03-08T09:02:04.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2012-03-08T11:55:39.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-08T14:11:50.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2012-03-08T14:49:43.000Z",
+		"name": "I büfé",
+		"id": "4de4bfebfa7651589f3489b7"
+	},
+	{
+		"date": "2012-03-08T14:49:58.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-03-08T17:52:51.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-09T01:45:19.000Z",
+		"name": "Móricz Zsigmond körtér M (6)",
+		"id": "4c814dd8d34ca143ee262180"
+	},
+	{
+		"date": "2012-03-09T01:45:38.000Z",
+		"name": "Móricz Zsigmond körtér M (7, 107, 188E, 272, 907, 908, 940, 941, 972, 973)",
+		"id": "4d989f5daf3d236acf4f40c7"
+	},
+	{
+		"date": "2012-03-09T01:45:48.000Z",
+		"name": "Móricz Zsigmond körtér",
+		"id": "4bbdbe1a8ec3d13a2a5a1c28"
+	},
+	{
+		"date": "2012-03-09T02:35:05.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-09T10:41:27.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-03-09T13:14:05.000Z",
+		"name": "Várkerület",
+		"id": "4d3d55cb44f5a0933e04d4bb"
+	},
+	{
+		"date": "2012-03-09T13:15:53.000Z",
+		"name": "Széchenyi tér",
+		"id": "4dc924f11f6e936efe52ac05"
+	},
+	{
+		"date": "2012-03-09T14:22:53.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-03-09T17:21:23.000Z",
+		"name": "Várkerület",
+		"id": "4d3d55cb44f5a0933e04d4bb"
+	},
+	{
+		"date": "2012-03-09T17:23:35.000Z",
+		"name": "Széchenyi tér",
+		"id": "4dc924f11f6e936efe52ac05"
+	},
+	{
+		"date": "2012-03-10T11:34:21.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-03-11T11:02:53.000Z",
+		"name": "Várkerület",
+		"id": "4d3d55cb44f5a0933e04d4bb"
+	},
+	{
+		"date": "2012-03-11T11:04:27.000Z",
+		"name": "Grandma's Place",
+		"id": "4f5c86b7e4b086681c0fa476"
+	},
+	{
+		"date": "2012-03-11T12:39:13.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-03-11T15:55:49.000Z",
+		"name": "Sopron vasútállomás",
+		"id": "4bd6fe6529eb9c749dee95e1"
+	},
+	{
+		"date": "2012-03-11T19:02:10.000Z",
+		"name": "Kelenföld Railway Station (Kelenföld vasútállomás)",
+		"id": "4b7fde66f964a520a34130e3"
+	},
+	{
+		"date": "2012-03-11T19:43:35.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-11T19:43:55.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-11T20:08:33.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-12T06:19:21.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-03-12T06:47:42.000Z",
+		"name": "IB028 - Kozma László nagyelőadó",
+		"id": "4de4d643d164df857532987b"
+	},
+	{
+		"date": "2012-03-12T09:04:54.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-12T15:50:30.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-03-12T15:52:15.000Z",
+		"name": "BME IE007",
+		"id": "4f337489e4b0a2c6ac242aa3"
+	},
+	{
+		"date": "2012-03-12T18:34:57.000Z",
+		"name": "Nyugati pályaudvar M (4, 6)",
+		"id": "4bbf6921006dc9b6ae8bfc3f"
+	},
+	{
+		"date": "2012-03-12T18:35:08.000Z",
+		"name": "Nyugati tér",
+		"id": "4c04bf449a7920a1e5aad179"
+	},
+	{
+		"date": "2012-03-12T18:35:32.000Z",
+		"name": "Costa Coffee",
+		"id": "4bc873626501c9b674194029"
+	},
+	{
+		"date": "2012-03-12T19:11:59.000Z",
+		"name": "Corvin Plaza",
+		"id": "4cc701eabe40a35d1d6a8d4c"
+	},
+	{
+		"date": "2012-03-12T19:40:30.000Z",
+		"name": "CBA Príma",
+		"id": "4cd037a59d87224b14ce533b"
+	},
+	{
+		"date": "2012-03-12T20:36:25.000Z",
+		"name": "Gerusz HQ",
+		"id": "4cddafa269136dcbaeb5d0e6"
+	},
+	{
+		"date": "2012-03-12T20:37:01.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-13T14:34:40.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-03-13T14:34:53.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-03-13T14:49:45.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2012-03-13T14:49:57.000Z",
+		"name": "BME R507",
+		"id": "4f4ce9a8e4b0ef284a88661d"
+	},
+	{
+		"date": "2012-03-13T16:51:47.000Z",
+		"name": "Petőfi híd, budai hídfő (4, 6)",
+		"id": "4de109b322713271e2c261f3"
+	},
+	{
+		"date": "2012-03-13T17:43:31.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-13T17:43:46.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-13T17:58:02.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-14T06:24:31.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-03-14T06:24:51.000Z",
+		"name": "BME IE007",
+		"id": "4f337489e4b0a2c6ac242aa3"
+	},
+	{
+		"date": "2012-03-14T08:52:23.000Z",
+		"name": "Magyar tudósok körútja",
+		"id": "4e86b5a04fc6432751d92f35"
+	},
+	{
+		"date": "2012-03-14T10:31:34.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-14T10:33:42.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-14T10:49:52.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-14T14:34:32.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-03-14T14:34:52.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-03-14T15:11:24.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-14T21:25:20.000Z",
+		"name": "Pepsi ABC",
+		"id": "4ca57bf6a6e08cfa90c87194"
+	},
+	{
+		"date": "2012-03-14T21:32:19.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-14T21:43:47.000Z",
+		"name": "Pepsi ABC",
+		"id": "4ca57bf6a6e08cfa90c87194"
+	},
+	{
+		"date": "2012-03-15T11:17:29.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-16T11:17:43.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2012-03-16T12:20:42.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-16T14:04:45.000Z",
+		"name": "Móricz Zsigmond körtér",
+		"id": "4bbdbe1a8ec3d13a2a5a1c28"
+	},
+	{
+		"date": "2012-03-16T14:05:08.000Z",
+		"name": "McDonald's",
+		"id": "4b7eab6ef964a5203df82fe3"
+	},
+	{
+		"date": "2012-03-16T16:20:07.000Z",
+		"name": "Deák Ferenc tér",
+		"id": "4d52c0d74015b1f7b1017ecf"
+	},
+	{
+		"date": "2012-03-16T17:01:48.000Z",
+		"name": "Váci utca",
+		"id": "4d0407970e49721ecc9c6e7f"
+	},
+	{
+		"date": "2012-03-16T18:40:39.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-16T22:53:42.000Z",
+		"name": "Akvárium Klub & Terasz",
+		"id": "50ea02aaf13682952d14873f"
+	},
+	{
+		"date": "2012-03-16T23:50:47.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-18T18:38:14.000Z",
+		"name": "Móricz Zsigmond körtér M (33)",
+		"id": "4df0f38f88775c5de12963bd"
+	},
+	{
+		"date": "2012-03-18T18:38:29.000Z",
+		"name": "Móricz Zsigmond körtér",
+		"id": "4bbdbe1a8ec3d13a2a5a1c28"
+	},
+	{
+		"date": "2012-03-18T19:23:55.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-18T19:24:10.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-18T19:38:13.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-19T12:46:07.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-19T12:46:22.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-19T13:20:19.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-20T15:18:53.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2012-03-20T16:02:26.000Z",
+		"name": "QI - Simonyi Károly nagyelőadó",
+		"id": "4e78d5bd15207e35d98f9cbb"
+	},
+	{
+		"date": "2012-03-20T19:04:58.000Z",
+		"name": "Nyugati tér",
+		"id": "4c04bf449a7920a1e5aad179"
+	},
+	{
+		"date": "2012-03-20T19:05:17.000Z",
+		"name": "McDonald's",
+		"id": "4bc7386c8b7c9c74b1fb35cf"
+	},
+	{
+		"date": "2012-03-20T19:12:46.000Z",
+		"name": "WestEnd City Center",
+		"id": "4bcc1b343740b71309846365"
+	},
+	{
+		"date": "2012-03-20T19:13:44.000Z",
+		"name": "iSTYLE Westend",
+		"id": "4ecd490f754ac92c12358c6f"
+	},
+	{
+		"date": "2012-03-20T19:47:11.000Z",
+		"name": "Váci utca",
+		"id": "4d0407970e49721ecc9c6e7f"
+	},
+	{
+		"date": "2012-03-20T19:51:39.000Z",
+		"name": "McCafé",
+		"id": "4e9ec138b8f7dc8c48ee71df"
+	},
+	{
+		"date": "2012-03-20T20:05:07.000Z",
+		"name": "Astoria",
+		"id": "4bd4c6e9cfa7b71372d924da"
+	},
+	{
+		"date": "2012-03-20T20:05:22.000Z",
+		"name": "Astoria M (5, 7, 8, 8A, 112, 133E, 178, 233E, 239, 907, 908, 916, 931, 956, 973, 990)",
+		"id": "4db3a30bf7b121c29f3c373c"
+	},
+	{
+		"date": "2012-03-20T20:19:34.000Z",
+		"name": "Blaha Lujza tér",
+		"id": "4b609983f964a5208aef29e3"
+	},
+	{
+		"date": "2012-03-20T20:19:47.000Z",
+		"name": "Blaha Lujza tér M (4, 6)",
+		"id": "4d22d6f95c4ca1cd7801b53d"
+	},
+	{
+		"date": "2012-03-20T20:32:37.000Z",
+		"name": "Nagymenő",
+		"id": "4e18ca3bd22d512258874509"
+	},
+	{
+		"date": "2012-03-20T20:52:09.000Z",
+		"name": "Podmaniczky Frigyes tér",
+		"id": "4cb968084352a1cd8e4c8cf5"
+	},
+	{
+		"date": "2012-03-20T21:01:25.000Z",
+		"name": "Nyugati tér",
+		"id": "4c04bf449a7920a1e5aad179"
+	},
+	{
+		"date": "2012-03-20T21:01:40.000Z",
+		"name": "Costa Coffee",
+		"id": "4bc873626501c9b674194029"
+	},
+	{
+		"date": "2012-03-20T21:08:16.000Z",
+		"name": "TESCO Expressz",
+		"id": "4c3eae8151dee21ebc01eb6e"
+	},
+	{
+		"date": "2012-03-20T21:13:27.000Z",
+		"name": "Samsung Forgóóra",
+		"id": "4e9b31658b81c0254ea60b41"
+	},
+	{
+		"date": "2012-03-20T22:21:20.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-03-20T22:21:36.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-03-20T22:34:42.000Z",
+		"name": "Krúdy söröző",
+		"id": "4be2f4f9d27a20a10ace905b"
+	},
+	{
+		"date": "2012-03-20T22:56:32.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-21T18:53:47.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-22T06:19:42.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-03-22T08:59:52.000Z",
+		"name": "Magyar tudósok körútja",
+		"id": "4e86b5a04fc6432751d92f35"
+	},
+	{
+		"date": "2012-03-22T09:11:26.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2012-03-22T09:12:00.000Z",
+		"name": "BME R504",
+		"id": "4f45ff29e4b0f8695e0a7a4b"
+	},
+	{
+		"date": "2012-03-22T10:55:45.000Z",
+		"name": "BME Központi Tanulmányi Hivatal",
+		"id": "4f059727d3e321b78f7a6655"
+	},
+	{
+		"date": "2012-03-22T12:19:11.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-22T12:19:23.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-22T12:39:56.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-22T12:41:02.000Z",
+		"name": "Andor's Home",
+		"id": "4f6b1ddce4b01cb02e173517"
+	},
+	{
+		"date": "2012-03-22T15:14:23.000Z",
+		"name": "I büfé",
+		"id": "4de4bfebfa7651589f3489b7"
+	},
+	{
+		"date": "2012-03-22T15:14:40.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-03-22T17:11:17.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-03-22T17:11:32.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-03-22T19:12:46.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-23T12:01:18.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-03-23T12:01:30.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-03-23T13:05:13.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-23T13:05:25.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-23T13:18:04.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-23T13:18:16.000Z",
+		"name": "Andor's Home",
+		"id": "4f6b1ddce4b01cb02e173517"
+	},
+	{
+		"date": "2012-03-23T19:31:21.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-03-25T10:05:44.000Z",
+		"name": "Széchenyi tér",
+		"id": "4dc924f11f6e936efe52ac05"
+	},
+	{
+		"date": "2012-03-25T10:05:59.000Z",
+		"name": "Várkerület",
+		"id": "4d3d55cb44f5a0933e04d4bb"
+	},
+	{
+		"date": "2012-03-25T10:06:11.000Z",
+		"name": "Grandma's Place",
+		"id": "4f5c86b7e4b086681c0fa476"
+	},
+	{
+		"date": "2012-03-25T12:24:59.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-03-26T12:33:24.000Z",
+		"name": "McDonald's",
+		"id": "4b5b3cfcf964a52064ed28e3"
+	},
+	{
+		"date": "2012-03-26T12:33:55.000Z",
+		"name": "OMV Bábolna-Dél",
+		"id": "4ddb1ca5d16419ce67324b73"
+	},
+	{
+		"date": "2012-03-26T14:17:40.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-26T14:17:52.000Z",
+		"name": "Andor's Home",
+		"id": "4f6b1ddce4b01cb02e173517"
+	},
+	{
+		"date": "2012-03-26T18:46:48.000Z",
+		"name": "Jókai Mór utca (33, 114, 133E, 138, 150, 213, 214, 233E, 973)",
+		"id": "4e09f6c562e100e58180a7a3"
+	},
+	{
+		"date": "2012-03-26T18:47:40.000Z",
+		"name": "Jókai Mór utca (33, 114, 133E, 138, 150, 213, 214, 233E, 973)",
+		"id": "4e09f6c562e100e58180a7a3"
+	},
+	{
+		"date": "2012-03-26T19:32:27.000Z",
+		"name": "Nyugati tér",
+		"id": "4c04bf449a7920a1e5aad179"
+	},
+	{
+		"date": "2012-03-26T19:33:09.000Z",
+		"name": "Nyugati pályaudvar M (4, 6)",
+		"id": "4bbf6921006dc9b6ae8bfc3f"
+	},
+	{
+		"date": "2012-03-26T19:33:23.000Z",
+		"name": "Samsung Forgóóra",
+		"id": "4e9b31658b81c0254ea60b41"
+	},
+	{
+		"date": "2012-03-26T19:35:42.000Z",
+		"name": "Costa Coffee",
+		"id": "4bc873626501c9b674194029"
+	},
+	{
+		"date": "2012-03-26T20:15:31.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-27T01:33:29.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-03-27T01:36:56.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-03-27T01:52:40.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-27T09:49:31.000Z",
+		"name": "Corvin Plaza",
+		"id": "4cc701eabe40a35d1d6a8d4c"
+	},
+	{
+		"date": "2012-03-27T10:08:50.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2012-03-27T10:09:50.000Z",
+		"name": "BME R büfé",
+		"id": "4dbfb26e1e72dd48b1f7e359"
+	},
+	{
+		"date": "2012-03-27T10:50:28.000Z",
+		"name": "BME Hallgatói Számítógép Központ",
+		"id": "4ea694f07ee5bebc94b27a20"
+	},
+	{
+		"date": "2012-03-27T13:57:29.000Z",
+		"name": "BME R507",
+		"id": "4f4ce9a8e4b0ef284a88661d"
+	},
+	{
+		"date": "2012-03-27T15:54:00.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2012-03-27T16:08:46.000Z",
+		"name": "Corvin Plaza",
+		"id": "4cc701eabe40a35d1d6a8d4c"
+	},
+	{
+		"date": "2012-03-27T16:44:00.000Z",
+		"name": "Alexandra Könyváruház",
+		"id": "4d08aa359232236a4807bf53"
+	},
+	{
+		"date": "2012-03-27T16:46:14.000Z",
+		"name": "H&M",
+		"id": "4d4703341928a35d2f71d270"
+	},
+	{
+		"date": "2012-03-27T16:51:49.000Z",
+		"name": "Euronics MEGA",
+		"id": "4e8ebe76d22d11e244bf3793"
+	},
+	{
+		"date": "2012-03-27T17:06:02.000Z",
+		"name": "Costa Coffee",
+		"id": "4ccaa013b7d9a143b0cefd36"
+	},
+	{
+		"date": "2012-03-27T17:22:33.000Z",
+		"name": "Blaha Lujza tér M (4, 6)",
+		"id": "4d22d6f95c4ca1cd7801b53d"
+	},
+	{
+		"date": "2012-03-27T17:22:46.000Z",
+		"name": "Blaha Lujza tér",
+		"id": "4b609983f964a5208aef29e3"
+	},
+	{
+		"date": "2012-03-27T17:23:25.000Z",
+		"name": "Blaha Lujza tér M (99, 217E)",
+		"id": "4e8e88f0dab454671ec8ce10"
+	},
+	{
+		"date": "2012-03-27T17:29:41.000Z",
+		"name": "Király utca (4, 6)",
+		"id": "4c96542a94a0236af9f59d12"
+	},
+	{
+		"date": "2012-03-27T17:44:44.000Z",
+		"name": "Corvin-negyed M (4, 6)",
+		"id": "4dd174e9e4cd130e16aefe95"
+	},
+	{
+		"date": "2012-03-27T17:45:12.000Z",
+		"name": "Corvin Plaza",
+		"id": "4cc701eabe40a35d1d6a8d4c"
+	},
+	{
+		"date": "2012-03-27T17:45:59.000Z",
+		"name": "New Yorker",
+		"id": "4dbebe550cb691071cd6715c"
+	},
+	{
+		"date": "2012-03-27T17:53:20.000Z",
+		"name": "CBA Príma",
+		"id": "4cd037a59d87224b14ce533b"
+	},
+	{
+		"date": "2012-03-27T18:25:31.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-27T19:52:05.000Z",
+		"name": "Instant",
+		"id": "4b5ba74bf964a520e60d29e3"
+	},
+	{
+		"date": "2012-03-27T22:19:44.000Z",
+		"name": "Podmaniczky Frigyes tér",
+		"id": "4cb968084352a1cd8e4c8cf5"
+	},
+	{
+		"date": "2012-03-27T22:20:58.000Z",
+		"name": "Arany János utca M (9, 72, 73, 914, 914A, 931, 950)",
+		"id": "4d2b07d955a8b60ce032e4c0"
+	},
+	{
+		"date": "2012-03-27T23:13:40.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-28T19:29:06.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-28T19:29:25.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-28T19:47:03.000Z",
+		"name": "Andor's Home",
+		"id": "4f6b1ddce4b01cb02e173517"
+	},
+	{
+		"date": "2012-03-29T06:04:06.000Z",
+		"name": "BME IB145",
+		"id": "4f38fdc0e4b0a8274071361b"
+	},
+	{
+		"date": "2012-03-29T06:04:23.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-03-29T07:57:20.000Z",
+		"name": "Alfa Copy",
+		"id": "4d2c7714f7a9224bfb6518a0"
+	},
+	{
+		"date": "2012-03-29T08:12:28.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2012-03-29T08:13:02.000Z",
+		"name": "BME R504",
+		"id": "4f45ff29e4b0f8695e0a7a4b"
+	},
+	{
+		"date": "2012-03-29T09:56:54.000Z",
+		"name": "Petőfi híd, budai hídfő (4, 6)",
+		"id": "4de109b322713271e2c261f3"
+	},
+	{
+		"date": "2012-03-29T10:43:06.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-29T10:43:28.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-29T10:59:35.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-29T11:05:59.000Z",
+		"name": "Andor's Home",
+		"id": "4f6b1ddce4b01cb02e173517"
+	},
+	{
+		"date": "2012-03-29T14:00:12.000Z",
+		"name": "I büfé",
+		"id": "4de4bfebfa7651589f3489b7"
+	},
+	{
+		"date": "2012-03-29T14:00:35.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-03-29T15:37:50.000Z",
+		"name": "Magyar tudósok körútja",
+		"id": "4e86b5a04fc6432751d92f35"
+	},
+	{
+		"date": "2012-03-29T17:24:15.000Z",
+		"name": "Corvin Plaza",
+		"id": "4cc701eabe40a35d1d6a8d4c"
+	},
+	{
+		"date": "2012-03-29T17:24:43.000Z",
+		"name": "Costa Coffee",
+		"id": "4ccaa013b7d9a143b0cefd36"
+	},
+	{
+		"date": "2012-03-29T17:29:44.000Z",
+		"name": "CBA Príma",
+		"id": "4cd037a59d87224b14ce533b"
+	},
+	{
+		"date": "2012-03-29T18:02:06.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-29T21:26:17.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-03-29T21:26:30.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-03-29T21:51:29.000Z",
+		"name": "Móricz Zsigmond körtér",
+		"id": "4bbdbe1a8ec3d13a2a5a1c28"
+	},
+	{
+		"date": "2012-03-29T21:52:26.000Z",
+		"name": "Móricz Zsigmond körtér M (7, 107, 188E, 272, 907, 908, 940, 941, 972, 973)",
+		"id": "4d989f5daf3d236acf4f40c7"
+	},
+	{
+		"date": "2012-03-29T22:25:53.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-29T22:26:16.000Z",
+		"name": "Andor's Home",
+		"id": "4f6b1ddce4b01cb02e173517"
+	},
+	{
+		"date": "2012-03-30T09:37:15.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-30T09:38:05.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-30T09:53:24.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-30T10:37:11.000Z",
+		"name": "Andor's Home",
+		"id": "4f6b1ddce4b01cb02e173517"
+	},
+	{
+		"date": "2012-03-30T23:20:11.000Z",
+		"name": "Jolly pub",
+		"id": "4c7e8b1c7fd4ef3b86fe90a1"
+	},
+	{
+		"date": "2012-03-30T23:20:26.000Z",
+		"name": "Western Pub",
+		"id": "4c791b90bd346dcb5c27f4ef"
+	},
+	{
+		"date": "2012-03-31T01:31:47.000Z",
+		"name": "Mester utca (Ferenc körút) (51, 51A)",
+		"id": "4ce2ace600166ea8020b4888"
+	},
+	{
+		"date": "2012-03-31T02:41:51.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-03-31T02:57:22.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-03-31T09:48:06.000Z",
+		"name": "Corvin Plaza",
+		"id": "4cc701eabe40a35d1d6a8d4c"
+	},
+	{
+		"date": "2012-03-31T10:05:35.000Z",
+		"name": "CBA Príma",
+		"id": "4cd037a59d87224b14ce533b"
+	},
+	{
+		"date": "2012-03-31T17:12:20.000Z",
+		"name": "Campona Bevásárló és Szórakoztatóközpont",
+		"id": "4bcd9a91937ca593fef0ac92"
+	},
+	{
+		"date": "2012-03-31T17:12:34.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ca4ed7797c8a1cdc05c62a5"
+	},
+	{
+		"date": "2012-03-31T17:31:38.000Z",
+		"name": "Tomori Pál Főiskola",
+		"id": "4dcd4976183899ddfab48695"
+	},
+	{
+		"date": "2012-03-31T18:48:07.000Z",
+		"name": "Andor's Home",
+		"id": "4f6b1ddce4b01cb02e173517"
+	}
+]

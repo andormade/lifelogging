@@ -1,0 +1,727 @@
+[
+	{
+		"date": "2012-10-02T05:48:31.000Z",
+		"name": "BME IL504",
+		"id": "50580eb4e4b07e9d89fe1314"
+	},
+	{
+		"date": "2012-10-02T05:48:43.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-10-02T11:49:09.000Z",
+		"name": "IKEA",
+		"id": "4baf84eff964a520a3063ce3"
+	},
+	{
+		"date": "2012-10-02T13:48:36.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-03T08:09:33.000Z",
+		"name": "BME Cisco Oktatólabor",
+		"id": "4e9ff3422c5b9f62faf6f56f"
+	},
+	{
+		"date": "2012-10-03T08:09:45.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-10-03T12:08:39.000Z",
+		"name": "BME IB145",
+		"id": "4f38fdc0e4b0a8274071361b"
+	},
+	{
+		"date": "2012-10-03T15:28:36.000Z",
+		"name": "Losonci tér 3.",
+		"id": "50658860e4b0675fa466d3bb"
+	},
+	{
+		"date": "2012-10-03T15:29:09.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-03T15:29:17.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-04T10:18:59.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-10-04T10:19:07.000Z",
+		"name": "McDonald's",
+		"id": "4bcb3068511f95214be5b0c7"
+	},
+	{
+		"date": "2012-10-04T10:19:57.000Z",
+		"name": "McCafé",
+		"id": "5020ba15e4b05bc1264292b9"
+	},
+	{
+		"date": "2012-10-04T11:20:08.000Z",
+		"name": "ELTE BTK",
+		"id": "4ca03e46604c76b081ab927b"
+	},
+	{
+		"date": "2012-10-04T11:20:28.000Z",
+		"name": "ELTE BTK Germanisztika Intézet Könyvtára",
+		"id": "4f3ba647e4b082304748e6b0"
+	},
+	{
+		"date": "2012-10-04T11:20:50.000Z",
+		"name": "ELTE BTK A épület",
+		"id": "4cff59060457b1f7295c2b78"
+	},
+	{
+		"date": "2012-10-04T12:48:27.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-04T19:53:54.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-10-04T19:54:02.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-05T07:58:10.000Z",
+		"name": "Bem tér",
+		"id": "4ca58b7da6e08cfa1b387294"
+	},
+	{
+		"date": "2012-10-05T07:58:16.000Z",
+		"name": "Bem József tér (109, 960)",
+		"id": "4e68e1d414954826addcd06f"
+	},
+	{
+		"date": "2012-10-05T13:37:11.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-06T06:54:55.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-10-06T08:38:16.000Z",
+		"name": "Natura fitt",
+		"id": "501bd0b1e4b07af9f3668728"
+	},
+	{
+		"date": "2012-10-06T09:30:00.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-10-07T18:20:19.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-08T06:11:48.000Z",
+		"name": "BME IB026",
+		"id": "4f3b973be4b04e90d76db8d3"
+	},
+	{
+		"date": "2012-10-08T06:12:55.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-10-08T11:23:23.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-08T13:50:47.000Z",
+		"name": "ELTE BTK",
+		"id": "4ca03e46604c76b081ab927b"
+	},
+	{
+		"date": "2012-10-08T13:51:25.000Z",
+		"name": "ELTE BTK A épület",
+		"id": "4cff59060457b1f7295c2b78"
+	},
+	{
+		"date": "2012-10-08T14:51:54.000Z",
+		"name": "Oktogon M (4, 6)",
+		"id": "4d54e68e143ca093235fa9fc"
+	},
+	{
+		"date": "2012-10-08T16:12:21.000Z",
+		"name": "Király utca (4, 6)",
+		"id": "4c96542a94a0236af9f59d12"
+	},
+	{
+		"date": "2012-10-08T16:12:38.000Z",
+		"name": "Presszó 53",
+		"id": "4c7a9b95794e224b7e0a6928"
+	},
+	{
+		"date": "2012-10-09T21:36:04.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-09T21:36:13.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-10T08:03:36.000Z",
+		"name": "BME Cisco Oktatólabor",
+		"id": "4e9ff3422c5b9f62faf6f56f"
+	},
+	{
+		"date": "2012-10-10T08:03:46.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-10-10T12:47:37.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-10T12:47:47.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-10T15:12:14.000Z",
+		"name": "Oktogon M (4, 6)",
+		"id": "4d54e68e143ca093235fa9fc"
+	},
+	{
+		"date": "2012-10-10T15:12:39.000Z",
+		"name": "Lomex Elektro Bolt",
+		"id": "4c6c83eb99b9236a12f1e2c9"
+	},
+	{
+		"date": "2012-10-10T18:41:06.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-11T06:08:48.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-10-11T06:22:31.000Z",
+		"name": "BME IB138",
+		"id": "5075168fe4b05275680b6cf7"
+	},
+	{
+		"date": "2012-10-11T08:02:46.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-10-11T08:02:54.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-10-11T08:03:19.000Z",
+		"name": "Harminckettesek tere (9, 83, 109, 909)",
+		"id": "4d45c5681b62b1f7248200e3"
+	},
+	{
+		"date": "2012-10-11T11:08:09.000Z",
+		"name": "Hotel Regnum Residence",
+		"id": "4c0e6c6ef319b7137f824b9a"
+	},
+	{
+		"date": "2012-10-11T11:08:29.000Z",
+		"name": "Regnum Étterem & Drink Bar",
+		"id": "4ca47868554b236aec2d2f48"
+	},
+	{
+		"date": "2012-10-11T11:08:37.000Z",
+		"name": "Bem tér",
+		"id": "4ca58b7da6e08cfa1b387294"
+	},
+	{
+		"date": "2012-10-11T12:11:12.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-10-11T14:14:27.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-11T14:14:36.000Z",
+		"name": "Losonci tér 3.",
+		"id": "50658860e4b0675fa466d3bb"
+	},
+	{
+		"date": "2012-10-11T14:14:46.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-12T12:01:04.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-12T14:19:51.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-10-12T14:20:01.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-12T16:05:05.000Z",
+		"name": "Szimpla Kert",
+		"id": "4b630e1af964a52020602ae3"
+	},
+	{
+		"date": "2012-10-12T18:50:06.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-10-12T18:50:22.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-10-12T19:06:41.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-12T19:06:47.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-13T09:53:21.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-13T23:16:08.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-14T10:13:39.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-14T10:13:47.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-10-14T11:46:43.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-14T15:45:48.000Z",
+		"name": "WestEnd City Center",
+		"id": "4bcc1b343740b71309846365"
+	},
+	{
+		"date": "2012-10-14T15:46:12.000Z",
+		"name": "Tiszacipő Márkabolt",
+		"id": "4d878e989324236a3da8f80e"
+	},
+	{
+		"date": "2012-10-14T19:06:35.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-14T19:06:41.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-15T07:26:40.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-15T09:03:00.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-15T09:03:12.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-10-16T10:20:44.000Z",
+		"name": "BME IB142",
+		"id": "4f6af375e4b08858d5e23449"
+	},
+	{
+		"date": "2012-10-16T10:21:49.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-10-16T10:55:11.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-16T10:55:18.000Z",
+		"name": "Losonci tér 3.",
+		"id": "50658860e4b0675fa466d3bb"
+	},
+	{
+		"date": "2012-10-16T10:55:27.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-16T17:01:40.000Z",
+		"name": "Pepsi ABC",
+		"id": "4ca57bf6a6e08cfa90c87194"
+	},
+	{
+		"date": "2012-10-17T13:43:32.000Z",
+		"name": "Lomex Elektro Bolt",
+		"id": "4c6c83eb99b9236a12f1e2c9"
+	},
+	{
+		"date": "2012-10-17T13:43:57.000Z",
+		"name": "Conrad Szaküzlet",
+		"id": "4c86518b51ada1cd2df13e10"
+	},
+	{
+		"date": "2012-10-17T13:44:11.000Z",
+		"name": "Oktogon M (4, 6)",
+		"id": "4d54e68e143ca093235fa9fc"
+	},
+	{
+		"date": "2012-10-17T14:03:22.000Z",
+		"name": "Harminckettesek tere (4, 6)",
+		"id": "4c41fa8ce26920a1614f5fe7"
+	},
+	{
+		"date": "2012-10-17T14:03:30.000Z",
+		"name": "Harminckettesek tere",
+		"id": "4bf6a540bfeac92810af9436"
+	},
+	{
+		"date": "2012-10-17T14:03:35.000Z",
+		"name": "Harminckettesek tere (9, 83, 109, 909)",
+		"id": "4d45c5681b62b1f7248200e3"
+	},
+	{
+		"date": "2012-10-17T14:14:22.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-17T14:14:30.000Z",
+		"name": "Losonci tér 3.",
+		"id": "50658860e4b0675fa466d3bb"
+	},
+	{
+		"date": "2012-10-17T14:14:36.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-18T06:13:50.000Z",
+		"name": "BME IB138",
+		"id": "5075168fe4b05275680b6cf7"
+	},
+	{
+		"date": "2012-10-18T06:14:09.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-10-18T08:34:33.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-18T16:03:34.000Z",
+		"name": "KöKi Terminál",
+		"id": "4d707acbb246a093bf941f5f"
+	},
+	{
+		"date": "2012-10-18T16:04:23.000Z",
+		"name": "OBI",
+		"id": "4e53d302fa766dacede9fbee"
+	},
+	{
+		"date": "2012-10-18T16:36:23.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4e97432c6d86d74d39133eeb"
+	},
+	{
+		"date": "2012-10-18T19:05:59.000Z",
+		"name": "Presszó 53",
+		"id": "4c7a9b95794e224b7e0a6928"
+	},
+	{
+		"date": "2012-10-19T08:03:27.000Z",
+		"name": "Árkád",
+		"id": "4b633a37f964a520076c2ae3"
+	},
+	{
+		"date": "2012-10-19T08:03:47.000Z",
+		"name": "Sugár Üzletközpont",
+		"id": "4b646d0df964a5202eb22ae3"
+	},
+	{
+		"date": "2012-10-19T08:04:04.000Z",
+		"name": "CIB Bank",
+		"id": "4d8a16fdb799a35d9faea363"
+	},
+	{
+		"date": "2012-10-19T12:09:41.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-19T12:09:46.000Z",
+		"name": "Losonci tér 3.",
+		"id": "50658860e4b0675fa466d3bb"
+	},
+	{
+		"date": "2012-10-19T12:09:51.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-19T17:29:25.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-10-20T14:03:55.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-10-21T10:55:05.000Z",
+		"name": "Várkerület",
+		"id": "4d3d55cb44f5a0933e04d4bb"
+	},
+	{
+		"date": "2012-10-21T10:55:32.000Z",
+		"name": "Grandma's Place",
+		"id": "4f5c86b7e4b086681c0fa476"
+	},
+	{
+		"date": "2012-10-21T11:52:46.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-10-22T11:57:29.000Z",
+		"name": "AlphaPark",
+		"id": "4e086ed6d22d658532ab9895"
+	},
+	{
+		"date": "2012-10-22T11:57:58.000Z",
+		"name": "C&A",
+		"id": "4f8c059ce4b0abaa05051621"
+	},
+	{
+		"date": "2012-10-22T13:09:12.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-10-23T11:00:21.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2012-10-23T19:46:32.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-24T08:01:23.000Z",
+		"name": "BME Cisco Oktatólabor",
+		"id": "4e9ff3422c5b9f62faf6f56f"
+	},
+	{
+		"date": "2012-10-24T08:01:36.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-10-24T15:46:21.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-10-24T16:04:18.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2012-10-24T16:04:27.000Z",
+		"name": "QII - Heller Farkas nagyelőadó",
+		"id": "4e788fd6c65b409c46d7d0d1"
+	},
+	{
+		"date": "2012-10-24T18:14:09.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-25T20:10:42.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-25T20:10:48.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-26T08:17:23.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2012-10-26T17:28:09.000Z",
+		"name": "dm",
+		"id": "4c15fec1a9c220a10de4599d"
+	},
+	{
+		"date": "2012-10-26T17:28:20.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-10-26T17:28:28.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-26T17:28:37.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-26T19:16:31.000Z",
+		"name": "Gong Café Presszó",
+		"id": "4c5cf20cbfa5952162cb7aff"
+	},
+	{
+		"date": "2012-10-26T20:27:00.000Z",
+		"name": "Wesselényi utca (4, 6)",
+		"id": "4c96548b6b35a14324e12cdc"
+	},
+	{
+		"date": "2012-10-26T21:27:22.000Z",
+		"name": "Cairo Étterem",
+		"id": "4f4fbc5be4b0a99a79629993"
+	},
+	{
+		"date": "2012-10-26T22:48:53.000Z",
+		"name": "Golgota Keresztény Gyülekezet Budapest",
+		"id": "4b97d7e9f964a520831935e3"
+	},
+	{
+		"date": "2012-10-27T14:32:57.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-27T14:33:07.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-28T13:48:24.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-29T00:03:43.000Z",
+		"name": "Pepsi ABC",
+		"id": "4ca57bf6a6e08cfa90c87194"
+	},
+	{
+		"date": "2012-10-29T00:03:54.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-29T00:04:00.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-30T15:18:07.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2012-10-31T01:00:21.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-31T01:00:31.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-31T09:08:36.000Z",
+		"name": "BME Cisco Oktatólabor",
+		"id": "4e9ff3422c5b9f62faf6f56f"
+	},
+	{
+		"date": "2012-10-31T09:08:55.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2012-10-31T11:45:14.000Z",
+		"name": "Losonci tér",
+		"id": "4d9d5189a695721e11340f0d"
+	},
+	{
+		"date": "2012-10-31T11:45:24.000Z",
+		"name": "Vattacukor Rezidencia",
+		"id": "50434c04e4b03ccc1763379d"
+	},
+	{
+		"date": "2012-10-31T11:45:34.000Z",
+		"name": "SPAR",
+		"id": "4be83036c5220f476867a9ca"
+	},
+	{
+		"date": "2012-10-31T19:13:31.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	}
+]
