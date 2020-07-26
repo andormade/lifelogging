@@ -1,0 +1,587 @@
+[
+	{
+		"date": "2015-10-06T08:55:15.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-06T10:40:35.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-06T11:21:26.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-06T18:57:39.000Z",
+		"name": "Walzwerk Trier",
+		"id": "56141981498e1a81bdcc0adb"
+	},
+	{
+		"date": "2015-10-06T21:09:13.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-07T06:46:34.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-07T07:24:10.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-07T16:50:23.000Z",
+		"name": "Kinepolis",
+		"id": "4b4d6d86f964a52040d226e3"
+	},
+	{
+		"date": "2015-10-07T21:19:55.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-08T07:14:48.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-08T07:54:29.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-08T19:22:37.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-09T07:11:12.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-09T15:55:17.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-09T18:17:41.000Z",
+		"name": "Kartoffelkiste",
+		"id": "4c40b95eff711b8d14d61005"
+	},
+	{
+		"date": "2015-10-10T09:17:50.000Z",
+		"name": "Kornmarkt",
+		"id": "4c2888799fb5d13a8da39957"
+	},
+	{
+		"date": "2015-10-10T09:41:33.000Z",
+		"name": "Mango Man",
+		"id": "5618dd45498e249ea7c2115f"
+	},
+	{
+		"date": "2015-10-10T13:56:40.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-11T12:06:59.000Z",
+		"name": "Donna Mia",
+		"id": "51598f91e4b0d2c6090a7b54"
+	},
+	{
+		"date": "2015-10-11T13:01:27.000Z",
+		"name": "Nikos Café",
+		"id": "4b9be505f964a520a33236e3"
+	},
+	{
+		"date": "2015-10-11T17:38:37.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-12T06:52:55.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-12T07:07:42.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-12T16:44:05.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-13T05:12:35.000Z",
+		"name": "Römerbrücke",
+		"id": "4cbe8182b6c4224bb4c2ed94"
+	},
+	{
+		"date": "2015-10-13T07:11:54.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-13T07:24:44.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-13T18:04:47.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-14T05:14:37.000Z",
+		"name": "Römerbrücke",
+		"id": "4cbe8182b6c4224bb4c2ed94"
+	},
+	{
+		"date": "2015-10-14T07:02:00.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-14T07:08:25.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-14T17:30:46.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-15T05:11:23.000Z",
+		"name": "Römerbrücke",
+		"id": "4cbe8182b6c4224bb4c2ed94"
+	},
+	{
+		"date": "2015-10-15T06:46:27.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-15T08:52:50.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-15T08:57:27.000Z",
+		"name": "Axento",
+		"id": "4f8bc7f7e4b0e67b873a7fe9"
+	},
+	{
+		"date": "2015-10-15T09:36:07.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-15T17:30:28.000Z",
+		"name": "Moselufer",
+		"id": "4fbba444e4b0d498b4133eca"
+	},
+	{
+		"date": "2015-10-15T17:38:59.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-16T05:07:49.000Z",
+		"name": "Römerbrücke",
+		"id": "4cbe8182b6c4224bb4c2ed94"
+	},
+	{
+		"date": "2015-10-16T06:47:03.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-16T07:09:43.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-16T09:48:57.000Z",
+		"name": "Café Coyote",
+		"id": "4bcf445f462cb713715ed607"
+	},
+	{
+		"date": "2015-10-16T15:28:45.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-16T18:29:11.000Z",
+		"name": "Raststätte Reinhardshain Nord",
+		"id": "4c08a491ffb8c9b6b4a16861"
+	},
+	{
+		"date": "2015-10-16T22:34:32.000Z",
+		"name": "Pfullendorf",
+		"id": "56217b71498e997b01206117"
+	},
+	{
+		"date": "2015-10-17T10:16:57.000Z",
+		"name": "Wan Bao",
+		"id": "4e7f66ecd22d7a570b10d932"
+	},
+	{
+		"date": "2015-10-17T12:13:58.000Z",
+		"name": "Thüringen-Park",
+		"id": "4b79b578f964a520a80c2fe3"
+	},
+	{
+		"date": "2015-10-17T13:16:20.000Z",
+		"name": "MediaMarkt",
+		"id": "4cd595a42944b1f7e3f75dec"
+	},
+	{
+		"date": "2015-10-17T13:22:36.000Z",
+		"name": "Sternenbäck",
+		"id": "519b6447498eb4f24592938c"
+	},
+	{
+		"date": "2015-10-17T15:42:35.000Z",
+		"name": "Bufleben",
+		"id": "56128e04498ea85873cfc26b"
+	},
+	{
+		"date": "2015-10-18T15:50:25.000Z",
+		"name": "Raststätte Rimberg Nord",
+		"id": "4d3c462b84d46ea8bd8bfc5c"
+	},
+	{
+		"date": "2015-10-18T18:31:00.000Z",
+		"name": "Raststätte Elztal",
+		"id": "4c7419cbd8948cfadf0c64da"
+	},
+	{
+		"date": "2015-10-18T19:39:20.000Z",
+		"name": "Aussichtspunkt Petrisberg",
+		"id": "4d975641b188721e1df60c37"
+	},
+	{
+		"date": "2015-10-18T20:04:36.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-18T20:53:07.000Z",
+		"name": "Berliner Gemüse Kebap",
+		"id": "526e76b811d262db3e73c534"
+	},
+	{
+		"date": "2015-10-18T21:22:54.000Z",
+		"name": "Mai Tai",
+		"id": "4eb5ef59dab4fe5111e422b5"
+	},
+	{
+		"date": "2015-10-18T23:41:49.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-19T06:53:09.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-19T07:54:48.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-19T16:43:17.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-20T06:51:40.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-20T07:02:50.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-20T09:37:13.000Z",
+		"name": "Auchan Snacking",
+		"id": "56260b3b498ec7228731a346"
+	},
+	{
+		"date": "2015-10-20T10:46:51.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-20T17:14:24.000Z",
+		"name": "Mj Pizzawelt",
+		"id": "56267669498e50b91d9ba63f"
+	},
+	{
+		"date": "2015-10-20T18:06:58.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-21T06:55:15.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-21T07:13:03.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-21T11:38:07.000Z",
+		"name": "Auchan Snacking",
+		"id": "56260b3b498ec7228731a346"
+	},
+	{
+		"date": "2015-10-21T14:20:51.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-21T21:30:58.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-22T06:44:23.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-22T08:43:46.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-22T10:13:55.000Z",
+		"name": "OrientX",
+		"id": "4b94eed9f964a5204e8834e3"
+	},
+	{
+		"date": "2015-10-23T06:52:22.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-23T07:22:07.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-23T11:51:53.000Z",
+		"name": "Auchan Snacking",
+		"id": "56260b3b498ec7228731a346"
+	},
+	{
+		"date": "2015-10-23T15:05:55.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-24T09:33:30.000Z",
+		"name": "Globus Baumarkt Trier",
+		"id": "54f1b4e8498e19d7bc0c3514"
+	},
+	{
+		"date": "2015-10-24T13:33:04.000Z",
+		"name": "Trier Galerie",
+		"id": "4bc2e26c74a9a5933ad0d3f6"
+	},
+	{
+		"date": "2015-10-24T13:34:44.000Z",
+		"name": "REWE City",
+		"id": "57a3a39c498e406b9d2fd43a"
+	},
+	{
+		"date": "2015-10-24T14:31:44.000Z",
+		"name": "NORDSEE",
+		"id": "4bcee46968f976b053a66683"
+	},
+	{
+		"date": "2015-10-24T14:37:11.000Z",
+		"name": "Saturn",
+		"id": "4bc07375f8219c74138eb110"
+	},
+	{
+		"date": "2015-10-24T14:51:33.000Z",
+		"name": "Galeria Karstadt Kaufhof",
+		"id": "4bced3cc29d4b713b916a9dc"
+	},
+	{
+		"date": "2015-10-25T12:55:24.000Z",
+		"name": "Piranha",
+		"id": "4b9a9a2cf964a52065c535e3"
+	},
+	{
+		"date": "2015-10-25T13:42:50.000Z",
+		"name": "Reisser Musik",
+		"id": "52601414498e9f22f4d7281c"
+	},
+	{
+		"date": "2015-10-25T14:00:47.000Z",
+		"name": "Mango Man",
+		"id": "5618dd45498e249ea7c2115f"
+	},
+	{
+		"date": "2015-10-25T14:18:18.000Z",
+		"name": "NORDSEE",
+		"id": "4bcefb09cc8cd13a721cc5cf"
+	},
+	{
+		"date": "2015-10-25T14:46:00.000Z",
+		"name": "Mambo",
+		"id": "4dfb79ab1f6eeef806aaf518"
+	},
+	{
+		"date": "2015-10-25T14:55:54.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-26T08:02:45.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-26T08:05:52.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-26T10:35:14.000Z",
+		"name": "Auchan Snacking",
+		"id": "56260b3b498ec7228731a346"
+	},
+	{
+		"date": "2015-10-26T18:34:10.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-27T07:58:10.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-27T10:27:00.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-27T18:29:40.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-28T07:45:27.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-28T08:41:18.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-28T10:45:16.000Z",
+		"name": "Auchan Snacking",
+		"id": "56260b3b498ec7228731a346"
+	},
+	{
+		"date": "2015-10-28T18:39:02.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-29T08:05:07.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-29T10:38:24.000Z",
+		"name": "McDonald's",
+		"id": "4ee3c150490138df8c9047ba"
+	},
+	{
+		"date": "2015-10-29T14:31:43.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-10-29T18:40:51.000Z",
+		"name": "Melusina",
+		"id": "4c01a907b58376b0ef8d443c"
+	},
+	{
+		"date": "2015-10-29T23:56:07.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-30T09:46:21.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-10-30T12:25:08.000Z",
+		"name": "Vapiano",
+		"id": "4c51b35b3940be9a6a8e4e09"
+	},
+	{
+		"date": "2015-10-30T16:38:12.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-10-31T11:50:42.000Z",
+		"name": "Frisör X-Press",
+		"id": "4be440757e2a76b05aab1c9b"
+	},
+	{
+		"date": "2015-10-31T11:57:38.000Z",
+		"name": "Galeria Karstadt Kaufhof",
+		"id": "4bced3cc29d4b713b916a9dc"
+	},
+	{
+		"date": "2015-10-31T11:58:04.000Z",
+		"name": "Saturn",
+		"id": "4bc07375f8219c74138eb110"
+	},
+	{
+		"date": "2015-10-31T12:18:28.000Z",
+		"name": "Kornmarkt",
+		"id": "4c2888799fb5d13a8da39957"
+	},
+	{
+		"date": "2015-10-31T15:29:33.000Z",
+		"name": "H&M",
+		"id": "4d1c77ddc50e6ea804b5d2b8"
+	},
+	{
+		"date": "2015-10-31T15:35:41.000Z",
+		"name": "Mambo",
+		"id": "4dfb79ab1f6eeef806aaf518"
+	},
+	{
+		"date": "2015-10-31T16:02:16.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	}
+]

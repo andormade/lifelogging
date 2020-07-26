@@ -1,0 +1,692 @@
+[
+	{
+		"date": "2015-11-01T16:44:09.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-02T13:21:54.000Z",
+		"name": "Burritos Hermanos",
+		"id": "54aba88f498e5313d76730dc"
+	},
+	{
+		"date": "2015-11-02T13:57:48.000Z",
+		"name": "Kartoffelkiste",
+		"id": "4c40b95eff711b8d14d61005"
+	},
+	{
+		"date": "2015-11-02T14:33:44.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-03T04:56:32.000Z",
+		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
+		"id": "4ba14c55f964a52045aa37e3"
+	},
+	{
+		"date": "2015-11-03T06:45:07.000Z",
+		"name": "Frankfurt Airport (FRA) (Frankfurt Airport)",
+		"id": "4b058853f964a5201bbf22e3"
+	},
+	{
+		"date": "2015-11-03T08:05:40.000Z",
+		"name": "Gate Z54",
+		"id": "507912b7e4b07204c0c2b85b"
+	},
+	{
+		"date": "2015-11-03T22:10:15.000Z",
+		"name": "Los Angeles International Airport (LAX)",
+		"id": "439ec330f964a520102c1fe3"
+	},
+	{
+		"date": "2015-11-04T01:21:52.000Z",
+		"name": "Gelson's Market",
+		"id": "4a5e3539f964a5202abe1fe3"
+	},
+	{
+		"date": "2015-11-04T02:45:01.000Z",
+		"name": "Topanga",
+		"id": "4bf608abd4cdb7131e4584fe"
+	},
+	{
+		"date": "2015-11-04T17:32:24.000Z",
+		"name": "Starbucks",
+		"id": "4a3b3e02f964a5209ba01fe3"
+	},
+	{
+		"date": "2015-11-04T20:37:00.000Z",
+		"name": "The Hollywood Museum",
+		"id": "4b9d6024f964a520f4a736e3"
+	},
+	{
+		"date": "2015-11-04T21:27:01.000Z",
+		"name": "In-N-Out Burger",
+		"id": "49e3c0c1f964a520c7621fe3"
+	},
+	{
+		"date": "2015-11-04T22:52:54.000Z",
+		"name": "Hollywood Walk of Fame",
+		"id": "4a83ae72f964a5209ffb1fe3"
+	},
+	{
+		"date": "2015-11-05T00:48:22.000Z",
+		"name": "Amoeba Music",
+		"id": "40a2ba80f964a5200ef31ee3"
+	},
+	{
+		"date": "2015-11-05T00:54:36.000Z",
+		"name": "Gap",
+		"id": "4aff942bf964a520943922e3"
+	},
+	{
+		"date": "2015-11-05T06:28:25.000Z",
+		"name": "Topanga",
+		"id": "4bf608abd4cdb7131e4584fe"
+	},
+	{
+		"date": "2015-11-05T18:30:41.000Z",
+		"name": "Del Taco",
+		"id": "4b482871f964a5203e4926e3"
+	},
+	{
+		"date": "2015-11-06T03:27:00.000Z",
+		"name": "Santa Monica Pier",
+		"id": "47383924f964a520444c1fe3"
+	},
+	{
+		"date": "2015-11-06T03:42:19.000Z",
+		"name": "Del Frisco's Grille",
+		"id": "51d6ef35498e7eba878e5205"
+	},
+	{
+		"date": "2015-11-06T06:01:08.000Z",
+		"name": "Topanga",
+		"id": "4bf608abd4cdb7131e4584fe"
+	},
+	{
+		"date": "2015-11-06T18:09:10.000Z",
+		"name": "Docler Media",
+		"id": "562e5ed1498efb84aa58b9a9"
+	},
+	{
+		"date": "2015-11-06T19:16:58.000Z",
+		"name": "Chipotle Mexican Grill",
+		"id": "50183306e4b07b4e9e22d283"
+	},
+	{
+		"date": "2015-11-06T19:42:54.000Z",
+		"name": "Sprinkles Cupcakes",
+		"id": "4a01c2d3f964a520f7701fe3"
+	},
+	{
+		"date": "2015-11-06T21:08:25.000Z",
+		"name": "Universal Studios Hollywood",
+		"id": "4a6cc0f0f964a52088d11fe3"
+	},
+	{
+		"date": "2015-11-06T23:40:00.000Z",
+		"name": "Jurassic World - The Ride",
+		"id": "4b79952df964a52036032fe3"
+	},
+	{
+		"date": "2015-11-07T01:15:39.000Z",
+		"name": "Special Effects Show",
+		"id": "4bd09698b221c9b672fed3d0"
+	},
+	{
+		"date": "2015-11-07T05:15:50.000Z",
+		"name": "CVS pharmacy",
+		"id": "4ae2838df964a520c98e21e3"
+	},
+	{
+		"date": "2015-11-07T05:16:25.000Z",
+		"name": "Trader Joe's",
+		"id": "4f4515e6af242292cadfca56"
+	},
+	{
+		"date": "2015-11-07T05:17:53.000Z",
+		"name": "The Cheesecake Factory",
+		"id": "45baa509f964a520e8411fe3"
+	},
+	{
+		"date": "2015-11-07T06:57:03.000Z",
+		"name": "Topanga",
+		"id": "4bf608abd4cdb7131e4584fe"
+	},
+	{
+		"date": "2015-11-07T22:30:49.000Z",
+		"name": "Wendy's",
+		"id": "4b7b0eccf964a520ec4e2fe3"
+	},
+	{
+		"date": "2015-11-07T23:06:37.000Z",
+		"name": "City of Las Vegas",
+		"id": "4c9d6bdd8afca093ed10f715"
+	},
+	{
+		"date": "2015-11-08T00:17:04.000Z",
+		"name": "New York-New York Hotel & Casino",
+		"id": "41326e00f964a520b2141fe3"
+	},
+	{
+		"date": "2015-11-08T19:59:02.000Z",
+		"name": "Alfred Coffee & Kitchen",
+		"id": "5037b4dee4b02b479d3e8dc8"
+	},
+	{
+		"date": "2015-11-08T19:59:36.000Z",
+		"name": "DASH",
+		"id": "4ff0b72be4b09f46ba87c987"
+	},
+	{
+		"date": "2015-11-08T20:28:51.000Z",
+		"name": "Pizza Hut",
+		"id": "4bdf60ff0ee3a593b60e34b0"
+	},
+	{
+		"date": "2015-11-08T21:43:20.000Z",
+		"name": "Qrew",
+		"id": "563fc1eb498e997b64e3e40f"
+	},
+	{
+		"date": "2015-11-08T22:23:09.000Z",
+		"name": "Starbucks",
+		"id": "4b357dd4f964a520852d25e3"
+	},
+	{
+		"date": "2015-11-09T02:44:02.000Z",
+		"name": "Studio City",
+		"id": "4cd5c34a94848cfac7bae8b1"
+	},
+	{
+		"date": "2015-11-09T02:44:15.000Z",
+		"name": "Ralphs",
+		"id": "4ac01feaf964a520de9320e3"
+	},
+	{
+		"date": "2015-11-09T03:53:20.000Z",
+		"name": "Topanga",
+		"id": "4bf608abd4cdb7131e4584fe"
+	},
+	{
+		"date": "2015-11-09T18:08:26.000Z",
+		"name": "Ventura West Car Wash",
+		"id": "4b520e2ef964a5207a6427e3"
+	},
+	{
+		"date": "2015-11-09T20:55:06.000Z",
+		"name": "Los Angeles International Airport (LAX)",
+		"id": "439ec330f964a520102c1fe3"
+	},
+	{
+		"date": "2015-11-09T23:37:28.000Z",
+		"name": "Panda Express",
+		"id": "4e1fae82c65b2b5e3534d477"
+	},
+	{
+		"date": "2015-11-10T00:13:58.000Z",
+		"name": "Gate 134",
+		"id": "5062a3b4e4b02b3bbf8d3c4f"
+	},
+	{
+		"date": "2015-11-10T12:48:26.000Z",
+		"name": "Munich Franz Josef Strauss Airport (MUC) (Flughafen München „Franz Josef Strauß“)",
+		"id": "4cbd1bfaf50e224b160503fc"
+	},
+	{
+		"date": "2015-11-10T12:49:36.000Z",
+		"name": "Terminal 2",
+		"id": "4b93a176f964a520f14a34e3"
+	},
+	{
+		"date": "2015-11-10T12:50:10.000Z",
+		"name": "Gate G07",
+		"id": "4c7df7d8d65437043c07c2a2"
+	},
+	{
+		"date": "2015-11-10T15:27:52.000Z",
+		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
+		"id": "4ba14c55f964a52045aa37e3"
+	},
+	{
+		"date": "2015-11-10T15:38:49.000Z",
+		"name": "Baggage Claim",
+		"id": "51d7de23498eb1cf171bd4e8"
+	},
+	{
+		"date": "2015-11-10T16:26:30.000Z",
+		"name": "Lidl Mertert",
+		"id": "4bb5dbd5941ad13af4921ee3"
+	},
+	{
+		"date": "2015-11-10T17:24:03.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-11T08:01:23.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-11-11T08:21:05.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-11T10:19:02.000Z",
+		"name": "Auchan Snacking",
+		"id": "56260b3b498ec7228731a346"
+	},
+	{
+		"date": "2015-11-11T18:10:52.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-12T09:04:10.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-12T18:25:45.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-13T09:10:00.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-13T10:39:44.000Z",
+		"name": "Burger Goes Green",
+		"id": "55e84caf498e951ebbe023c6"
+	},
+	{
+		"date": "2015-11-13T15:17:59.000Z",
+		"name": "Arrêt de Bus - Coudenhove-Kalergi",
+		"id": "548b802b498ecb54daacc82f"
+	},
+	{
+		"date": "2015-11-13T16:28:54.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-13T23:40:40.000Z",
+		"name": "Miss Marples",
+		"id": "4d228a7286e15481203bcb3a"
+	},
+	{
+		"date": "2015-11-14T00:45:56.000Z",
+		"name": "Berliner Gemüse Kebap",
+		"id": "526e76b811d262db3e73c534"
+	},
+	{
+		"date": "2015-11-14T00:52:11.000Z",
+		"name": "McDonald's",
+		"id": "4bc2e48074a9a59387d1d3f6"
+	},
+	{
+		"date": "2015-11-14T15:08:29.000Z",
+		"name": "Implement.it",
+		"id": "4fabb19ae4b0ae835f896e2a"
+	},
+	{
+		"date": "2015-11-14T17:12:18.000Z",
+		"name": "Saturn",
+		"id": "4bc07375f8219c74138eb110"
+	},
+	{
+		"date": "2015-11-14T17:12:44.000Z",
+		"name": "Galeria Karstadt Kaufhof",
+		"id": "4bced3cc29d4b713b916a9dc"
+	},
+	{
+		"date": "2015-11-14T17:40:45.000Z",
+		"name": "Trier Galerie",
+		"id": "4bc2e26c74a9a5933ad0d3f6"
+	},
+	{
+		"date": "2015-11-14T17:41:11.000Z",
+		"name": "REWE City",
+		"id": "57a3a39c498e406b9d2fd43a"
+	},
+	{
+		"date": "2015-11-14T17:51:39.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-15T16:17:57.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-16T08:01:09.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-16T16:58:26.000Z",
+		"name": "Arrêt de Bus - John F. Kennedy",
+		"id": "4e57b90fb61c5534c284ec3c"
+	},
+	{
+		"date": "2015-11-16T18:05:33.000Z",
+		"name": "Chopsticks",
+		"id": "4de5118f8877bcb686821778"
+	},
+	{
+		"date": "2015-11-16T21:16:31.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-17T09:37:27.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-17T10:34:49.000Z",
+		"name": "Auchan Snacking",
+		"id": "56260b3b498ec7228731a346"
+	},
+	{
+		"date": "2015-11-17T19:14:17.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-18T08:08:52.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-11-18T08:09:21.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-18T17:51:54.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-19T08:37:07.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-11-19T08:39:00.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-19T10:13:22.000Z",
+		"name": "Axento",
+		"id": "4f8bc7f7e4b0e67b873a7fe9"
+	},
+	{
+		"date": "2015-11-19T10:45:30.000Z",
+		"name": "Raku-An",
+		"id": "522eede811d261c3d2a69ea2"
+	},
+	{
+		"date": "2015-11-19T17:55:59.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-20T08:53:08.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-20T15:16:21.000Z",
+		"name": "Arrêt de Bus - Coudenhove-Kalergi",
+		"id": "548b802b498ecb54daacc82f"
+	},
+	{
+		"date": "2015-11-20T16:21:10.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-21T11:07:51.000Z",
+		"name": "Alleencenter",
+		"id": "4d80f5a6490f8eec93c66f2e"
+	},
+	{
+		"date": "2015-11-21T11:08:43.000Z",
+		"name": "MediaMarkt",
+		"id": "4bc06b2874a9a593c3fecff6"
+	},
+	{
+		"date": "2015-11-21T11:46:21.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-21T14:22:45.000Z",
+		"name": "Trier Galerie",
+		"id": "4bc2e26c74a9a5933ad0d3f6"
+	},
+	{
+		"date": "2015-11-21T14:23:46.000Z",
+		"name": "REWE City",
+		"id": "57a3a39c498e406b9d2fd43a"
+	},
+	{
+		"date": "2015-11-21T14:37:35.000Z",
+		"name": "Kornmarkt",
+		"id": "4c2888799fb5d13a8da39957"
+	},
+	{
+		"date": "2015-11-21T14:43:19.000Z",
+		"name": "Viehmarkt",
+		"id": "4dbae0120437955ec007cf71"
+	},
+	{
+		"date": "2015-11-21T17:33:25.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-22T16:00:24.000Z",
+		"name": "Pizza Hut",
+		"id": "4c0e918cc6cf76b0f7f18051"
+	},
+	{
+		"date": "2015-11-22T16:41:11.000Z",
+		"name": "Café 1900",
+		"id": "4d567c0eba5b224bdd241b14"
+	},
+	{
+		"date": "2015-11-23T07:58:34.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-23T10:34:13.000Z",
+		"name": "Bagelstein",
+		"id": "54f0609b498ea7bb9626e820"
+	},
+	{
+		"date": "2015-11-23T18:20:22.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-24T07:39:42.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-24T10:29:12.000Z",
+		"name": "OrientX",
+		"id": "4b94eed9f964a5204e8834e3"
+	},
+	{
+		"date": "2015-11-24T17:58:17.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-25T10:26:17.000Z",
+		"name": "Bagelstein",
+		"id": "54f0609b498ea7bb9626e820"
+	},
+	{
+		"date": "2015-11-25T12:34:28.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-25T18:00:43.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-26T08:08:30.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-26T10:58:49.000Z",
+		"name": "Raku-An",
+		"id": "522eede811d261c3d2a69ea2"
+	},
+	{
+		"date": "2015-11-26T18:08:25.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-27T07:41:28.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-11-27T11:11:44.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-27T15:53:04.000Z",
+		"name": "Igel",
+		"id": "5131f0a5e4b02029e2c60511"
+	},
+	{
+		"date": "2015-11-27T16:18:34.000Z",
+		"name": "Galeria Karstadt Kaufhof",
+		"id": "4bced3cc29d4b713b916a9dc"
+	},
+	{
+		"date": "2015-11-27T16:18:48.000Z",
+		"name": "Saturn",
+		"id": "4bc07375f8219c74138eb110"
+	},
+	{
+		"date": "2015-11-27T16:44:49.000Z",
+		"name": "Trier Galerie",
+		"id": "4bc2e26c74a9a5933ad0d3f6"
+	},
+	{
+		"date": "2015-11-27T16:45:53.000Z",
+		"name": "REWE City",
+		"id": "57a3a39c498e406b9d2fd43a"
+	},
+	{
+		"date": "2015-11-27T17:56:43.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-28T16:49:24.000Z",
+		"name": "Centre Hamilius (Aldringen)",
+		"id": "4b54dbabf964a5201dd027e3"
+	},
+	{
+		"date": "2015-11-28T16:58:11.000Z",
+		"name": "Lacoste",
+		"id": "4c614c181e5cd13a29a0a3ed"
+	},
+	{
+		"date": "2015-11-28T17:29:55.000Z",
+		"name": "Monop'",
+		"id": "55f15a77498ee0d3905a2bdc"
+	},
+	{
+		"date": "2015-11-28T17:39:38.000Z",
+		"name": "Centre Hamilius (Aldringen)",
+		"id": "4b54dbabf964a5201dd027e3"
+	},
+	{
+		"date": "2015-11-28T18:26:57.000Z",
+		"name": "Gasperich",
+		"id": "4daefbad4df0f639f25705d3"
+	},
+	{
+		"date": "2015-11-29T09:48:44.000Z",
+		"name": "Luxembourg Railway Station (Gare CFL de Luxembourg)",
+		"id": "4b4ca760f964a5200fb926e3"
+	},
+	{
+		"date": "2015-11-29T11:29:44.000Z",
+		"name": "Trier Hauptbahnhof",
+		"id": "4b9e215bf964a52079cc36e3"
+	},
+	{
+		"date": "2015-11-29T11:45:04.000Z",
+		"name": "Trier Galerie",
+		"id": "4bc2e26c74a9a5933ad0d3f6"
+	},
+	{
+		"date": "2015-11-29T15:13:38.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-29T18:45:58.000Z",
+		"name": "Hauptmarkt",
+		"id": "4c8b538f1eafb1f703ac8235"
+	},
+	{
+		"date": "2015-11-29T20:07:16.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-30T08:39:13.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2015-11-30T11:38:18.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2015-11-30T19:28:34.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2015-11-30T20:12:24.000Z",
+		"name": "Hauptmarkt",
+		"id": "4c8b538f1eafb1f703ac8235"
+	},
+	{
+		"date": "2015-11-30T20:21:47.000Z",
+		"name": "Pizzeria Fornelli",
+		"id": "4e6e51b2d4c0af8b796d5441"
+	},
+	{
+		"date": "2015-11-30T22:19:22.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	}
+]
