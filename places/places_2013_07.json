@@ -1,0 +1,457 @@
+[
+	{
+		"date": "2013-07-01T14:35:44.000Z",
+		"name": "Ciano Kúria",
+		"id": "502e1ee2e4b00d67edf0008f"
+	},
+	{
+		"date": "2013-07-01T19:12:11.000Z",
+		"name": "Roxxy Music Cafe",
+		"id": "4caf266b1463a143fc0992a9"
+	},
+	{
+		"date": "2013-07-01T21:16:09.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-02T07:41:25.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-02T10:42:26.000Z",
+		"name": "TESCO Extra",
+		"id": "4b9932e4f964a520186935e3"
+	},
+	{
+		"date": "2013-07-02T17:34:38.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-04T09:50:21.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-04T09:50:39.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-04T09:50:55.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-04T17:45:16.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-04T22:12:23.000Z",
+		"name": "Cino HQ",
+		"id": "5086dc03b0edaa2ba440e06a"
+	},
+	{
+		"date": "2013-07-04T23:29:50.000Z",
+		"name": "Corvin Plaza",
+		"id": "4cc701eabe40a35d1d6a8d4c"
+	},
+	{
+		"date": "2013-07-05T10:08:38.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-05T10:09:49.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-05T18:03:48.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-06T09:27:19.000Z",
+		"name": "Ciano Kúria",
+		"id": "502e1ee2e4b00d67edf0008f"
+	},
+	{
+		"date": "2013-07-07T19:10:38.000Z",
+		"name": "Vértes Center",
+		"id": "4cf26461e9425481f2f46fc5"
+	},
+	{
+		"date": "2013-07-07T21:25:50.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-08T06:51:37.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-08T06:56:18.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-08T09:18:52.000Z",
+		"name": "TESCO Extra",
+		"id": "4b9932e4f964a520186935e3"
+	},
+	{
+		"date": "2013-07-08T17:47:25.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-09T08:21:08.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-09T20:00:21.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-10T09:41:28.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-10T09:41:43.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-10T17:21:13.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-10T19:19:00.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4d7143ca722ef04d9fb10e9c"
+	},
+	{
+		"date": "2013-07-10T19:19:43.000Z",
+		"name": "Arena Mall",
+		"id": "4b86a275f964a520649331e3"
+	},
+	{
+		"date": "2013-07-10T20:45:23.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-11T09:22:42.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2013-07-11T11:43:50.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-11T11:52:29.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-11T19:28:32.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-12T14:36:21.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-12T14:36:42.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-12T15:37:21.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-13T14:10:43.000Z",
+		"name": "Corvin Plaza",
+		"id": "4cc701eabe40a35d1d6a8d4c"
+	},
+	{
+		"date": "2013-07-13T18:32:16.000Z",
+		"name": "Cino HQ",
+		"id": "5086dc03b0edaa2ba440e06a"
+	},
+	{
+		"date": "2013-07-14T03:18:32.000Z",
+		"name": "Corvin Plaza",
+		"id": "4cc701eabe40a35d1d6a8d4c"
+	},
+	{
+		"date": "2013-07-14T12:05:47.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-15T07:30:47.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-15T07:31:13.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-15T16:39:53.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-16T09:49:03.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-16T09:49:15.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-16T18:04:50.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-17T13:47:10.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-17T17:34:26.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-18T10:01:29.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-18T15:24:13.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-18T19:38:25.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-19T06:58:11.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-19T06:58:23.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-19T19:47:16.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2013-07-20T14:23:45.000Z",
+		"name": "AlphaPark",
+		"id": "4e086ed6d22d658532ab9895"
+	},
+	{
+		"date": "2013-07-22T05:30:17.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2013-07-22T14:39:01.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-22T14:40:04.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-22T18:44:17.000Z",
+		"name": "UPC",
+		"id": "5149f173e4b0ce218f09fbc4"
+	},
+	{
+		"date": "2013-07-22T18:45:25.000Z",
+		"name": "Árkád",
+		"id": "4b633a37f964a520076c2ae3"
+	},
+	{
+		"date": "2013-07-23T07:21:05.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-23T07:21:34.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-24T07:08:00.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-24T07:08:21.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-24T17:36:07.000Z",
+		"name": "Garay tér",
+		"id": "4c0e4fb5c700c9b622a0a3dd"
+	},
+	{
+		"date": "2013-07-25T06:52:20.000Z",
+		"name": "Kacsóh Pongrác út (32,74)",
+		"id": "4f26c90ae4b0617646a020ae"
+	},
+	{
+		"date": "2013-07-25T07:58:18.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-25T07:58:33.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-25T17:20:53.000Z",
+		"name": "Garay Center és Piac",
+		"id": "4bf1d4efa09076b05aef29d4"
+	},
+	{
+		"date": "2013-07-25T17:21:13.000Z",
+		"name": "Penny Market",
+		"id": "4d6e89682e6ea0934c3b1f50"
+	},
+	{
+		"date": "2013-07-25T17:33:55.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-26T07:45:13.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-26T07:45:29.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-26T17:18:22.000Z",
+		"name": "Arena Mall",
+		"id": "4b86a275f964a520649331e3"
+	},
+	{
+		"date": "2013-07-26T17:19:47.000Z",
+		"name": "Wok n' go",
+		"id": "4dc56ba3b0fb5556ccefbbf8"
+	},
+	{
+		"date": "2013-07-26T17:35:32.000Z",
+		"name": "McDonald's",
+		"id": "4bc83f3e2f94d13a653a137f"
+	},
+	{
+		"date": "2013-07-26T18:03:13.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4d7143ca722ef04d9fb10e9c"
+	},
+	{
+		"date": "2013-07-26T19:16:18.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-27T08:58:08.000Z",
+		"name": "Vértes Center",
+		"id": "4cf26461e9425481f2f46fc5"
+	},
+	{
+		"date": "2013-07-27T09:23:45.000Z",
+		"name": "Kömlőd",
+		"id": "503b8c5ae4b0d21c218fe9eb"
+	},
+	{
+		"date": "2013-07-27T09:24:04.000Z",
+		"name": "Ciano Kúria",
+		"id": "502e1ee2e4b00d67edf0008f"
+	},
+	{
+		"date": "2013-07-28T19:49:43.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-29T10:05:41.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-29T14:50:39.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-29T17:57:08.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-30T06:06:26.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-30T06:06:48.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2013-07-30T20:21:35.000Z",
+		"name": "Cotton Candy Residence 2",
+		"id": "51a3ce00498e1300ffabc88e"
+	},
+	{
+		"date": "2013-07-31T08:40:56.000Z",
+		"name": "DuoDecad Kft.",
+		"id": "4e4b84b5b0fbbc2182acff38"
+	},
+	{
+		"date": "2013-07-31T08:41:11.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	}
+]
