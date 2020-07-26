@@ -1,0 +1,532 @@
+[
+	{
+		"date": "2010-11-02T07:07:08.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2010-11-02T09:25:38.000Z",
+		"name": "Goldmann Menza",
+		"id": "4cb440fd1168a093dd0a4723"
+	},
+	{
+		"date": "2010-11-02T09:43:45.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2010-11-02T11:05:01.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2010-11-02T12:59:28.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-02T15:30:31.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-02T15:34:04.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2010-11-03T07:13:01.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2010-11-03T09:40:20.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-03T12:05:14.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2010-11-03T12:06:16.000Z",
+		"name": "Burger King",
+		"id": "4bc34557920eb713942c1d2c"
+	},
+	{
+		"date": "2010-11-03T12:36:17.000Z",
+		"name": "INTERSPAR",
+		"id": "4bdabddf63c5c9b699c22468"
+	},
+	{
+		"date": "2010-11-03T13:02:07.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-03T15:32:21.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-03T17:44:29.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2010-11-04T06:52:07.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2010-11-04T08:45:51.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2010-11-04T08:52:55.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-04T09:12:33.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2010-11-04T10:55:42.000Z",
+		"name": "Goldmann Menza",
+		"id": "4cb440fd1168a093dd0a4723"
+	},
+	{
+		"date": "2010-11-04T10:57:45.000Z",
+		"name": "Goldmann György tér",
+		"id": "4cd2da5221d94688e0d2ec90"
+	},
+	{
+		"date": "2010-11-04T11:27:38.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-04T13:16:55.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-04T14:35:20.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2010-11-04T17:12:34.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-04T18:41:49.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2010-11-04T18:42:19.000Z",
+		"name": "Burger King",
+		"id": "4bc34557920eb713942c1d2c"
+	},
+	{
+		"date": "2010-11-04T18:49:47.000Z",
+		"name": "INTERSPAR",
+		"id": "4bdabddf63c5c9b699c22468"
+	},
+	{
+		"date": "2010-11-04T19:09:28.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-04T19:15:02.000Z",
+		"name": "Schönherz Body",
+		"id": "4cd2bb67df88a35d34896aa0"
+	},
+	{
+		"date": "2010-11-04T20:58:15.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-05T12:03:19.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2010-11-06T18:27:38.000Z",
+		"name": "Experience Rock Klub",
+		"id": "4cd58bdb7da9a35dae41eab9"
+	},
+	{
+		"date": "2010-11-07T01:45:19.000Z",
+		"name": "McDonald's",
+		"id": "4c2f08963896e21edb43e390"
+	},
+	{
+		"date": "2010-11-07T02:37:43.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2010-11-07T12:08:56.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-07T13:09:50.000Z",
+		"name": "SPAR",
+		"id": "4ba09d52f964a520677437e3"
+	},
+	{
+		"date": "2010-11-07T13:33:55.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-08T14:06:31.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-08T18:17:40.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2010-11-09T07:09:20.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2010-11-09T11:14:54.000Z",
+		"name": "BME Z épület",
+		"id": "4ba8ebeaf964a52058fa39e3"
+	},
+	{
+		"date": "2010-11-09T11:52:45.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2010-11-09T12:31:24.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-10T07:03:46.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2010-11-10T12:26:46.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-10T13:04:27.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-10T15:51:17.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2010-11-11T06:48:30.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2010-11-11T11:27:31.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-11T15:07:11.000Z",
+		"name": "Arena Mall",
+		"id": "4b86a275f964a520649331e3"
+	},
+	{
+		"date": "2010-11-11T15:07:39.000Z",
+		"name": "CIB Bank",
+		"id": "4c4040b0d691c9b630db8a0a"
+	},
+	{
+		"date": "2010-11-11T16:28:19.000Z",
+		"name": "Duna Plaza",
+		"id": "4b792be7f964a520c1ed2ee3"
+	},
+	{
+		"date": "2010-11-11T16:28:43.000Z",
+		"name": "iSTYLE Duna Pláza",
+		"id": "4be1b7d7ae55a593c14f5b62"
+	},
+	{
+		"date": "2010-11-11T16:30:43.000Z",
+		"name": "Subway",
+		"id": "4bc72efd14d79521a8d666e9"
+	},
+	{
+		"date": "2010-11-11T18:04:22.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-12T07:11:43.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-12T09:46:20.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-12T19:49:11.000Z",
+		"name": "Schönherz Body",
+		"id": "4cd2bb67df88a35d34896aa0"
+	},
+	{
+		"date": "2010-11-12T21:35:08.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-13T13:35:36.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2010-11-13T22:42:57.000Z",
+		"name": "Casino Lido",
+		"id": "4c2932463492a593c596b828"
+	},
+	{
+		"date": "2010-11-14T10:52:59.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-14T11:07:49.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2010-11-14T16:36:18.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-15T15:04:47.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-16T07:01:02.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2010-11-16T09:18:03.000Z",
+		"name": "BME E épület",
+		"id": "4ba8e6fbf964a5208ef839e3"
+	},
+	{
+		"date": "2010-11-16T13:02:12.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2010-11-16T13:58:38.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-16T15:31:44.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-17T22:09:22.000Z",
+		"name": "Schönherz Body",
+		"id": "4cd2bb67df88a35d34896aa0"
+	},
+	{
+		"date": "2010-11-17T23:45:41.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-18T09:10:39.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-18T13:40:49.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2010-11-18T14:26:59.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-18T14:48:24.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2010-11-18T17:14:26.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-18T18:07:50.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-18T21:49:08.000Z",
+		"name": "Schönherz Body",
+		"id": "4cd2bb67df88a35d34896aa0"
+	},
+	{
+		"date": "2010-11-19T10:55:28.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-19T12:41:40.000Z",
+		"name": "BME CH épület",
+		"id": "4bbdf3e94e069c745d579fe3"
+	},
+	{
+		"date": "2010-11-19T14:34:29.000Z",
+		"name": "Goldmann György tér",
+		"id": "4cd2da5221d94688e0d2ec90"
+	},
+	{
+		"date": "2010-11-19T14:59:38.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-19T20:02:59.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2010-11-21T00:37:26.000Z",
+		"name": "Experience Rock Klub",
+		"id": "4cd58bdb7da9a35dae41eab9"
+	},
+	{
+		"date": "2010-11-21T04:41:55.000Z",
+		"name": "Villa Polgar",
+		"id": "4caaebc0965c9c74f70dcbfa"
+	},
+	{
+		"date": "2010-11-21T13:18:37.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-22T14:30:17.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2010-11-22T14:44:15.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-22T16:17:12.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-22T17:26:47.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-23T07:01:33.000Z",
+		"name": "BME Q épület",
+		"id": "4c85f24fd4e23704bdf58688"
+	},
+	{
+		"date": "2010-11-23T15:43:16.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-24T07:01:11.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-24T10:18:46.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-24T11:41:12.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2010-11-24T12:50:33.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-24T13:19:56.000Z",
+		"name": "BME I épület",
+		"id": "4bcd89a5fb84c9b6311c223e"
+	},
+	{
+		"date": "2010-11-24T16:09:10.000Z",
+		"name": "BME R épület",
+		"id": "4ba8e306f964a5202cf739e3"
+	},
+	{
+		"date": "2010-11-24T17:30:26.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-24T18:03:32.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2010-11-24T19:08:11.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-25T19:06:23.000Z",
+		"name": "MeetOFF",
+		"id": "4cc1630df4448cfa52415698"
+	},
+	{
+		"date": "2010-11-26T14:32:08.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2010-11-27T18:16:07.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	}
+]
