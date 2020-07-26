@@ -2,156 +2,454 @@
 	{
 		"date": "2010-12-07T11:42:33.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2010-12-08T12:47:09.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2010-12-08T13:03:53.000Z",
 		"name": "BME Q épület",
-		"id": "4c85f24fd4e23704bdf58688"
+		"id": "4c85f24fd4e23704bdf58688",
+		"lat": 47.473393661934686,
+		"lng": 19.059766255018825,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2010-12-08T13:32:44.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2010-12-08T16:20:47.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2010-12-09T11:06:37.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2010-12-09T13:50:26.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2010-12-11T10:46:08.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2010-12-11T11:28:52.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2010-12-11T12:00:04.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2010-12-12T12:11:16.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2010-12-12T15:00:00.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2010-12-13T10:24:54.000Z",
 		"name": "BME E épület",
-		"id": "4ba8e6fbf964a5208ef839e3"
+		"id": "4ba8e6fbf964a5208ef839e3",
+		"lat": 47.477616135843945,
+		"lng": 19.057630443325607,
+		"address": "Egry József u. 1.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2010-12-13T15:05:18.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2010-12-13T15:54:54.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2010-12-14T15:02:28.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2010-12-15T18:51:16.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2010-12-16T17:35:59.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2010-12-16T21:25:20.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2010-12-19T13:34:45.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2010-12-19T15:06:37.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2010-12-20T10:27:09.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2010-12-20T10:30:31.000Z",
 		"name": "BME Q épület",
-		"id": "4c85f24fd4e23704bdf58688"
+		"id": "4c85f24fd4e23704bdf58688",
+		"lat": 47.473393661934686,
+		"lng": 19.059766255018825,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2010-12-20T14:29:46.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2010-12-20T17:12:18.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2010-12-20T22:12:41.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2010-12-21T22:56:38.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2010-12-27T18:27:59.000Z",
 		"name": "Hasseröder Ferienpark",
-		"id": "4c9339af1221b1f73c1a18e2"
+		"id": "4c9339af1221b1f73c1a18e2",
+		"lat": 51.82053110219114,
+		"lng": 10.757033930328694,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Resort"
+		]
 	},
 	{
 		"date": "2010-12-29T18:59:07.000Z",
 		"name": "Hasseröder Ferienpark",
-		"id": "4c9339af1221b1f73c1a18e2"
+		"id": "4c9339af1221b1f73c1a18e2",
+		"lat": 51.82053110219114,
+		"lng": 10.757033930328694,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Resort"
+		]
 	},
 	{
 		"date": "2010-12-30T12:43:42.000Z",
 		"name": "Flair",
-		"id": "4b7ef3a9f964a520cf0b30e3"
+		"id": "4b7ef3a9f964a520cf0b30e3",
+		"lat": 52.1315246143063,
+		"lng": 11.636629374096701,
+		"address": "Breiter Weg 21",
+		"postalCode": "39104",
+		"country": "Deutschland",
+		"categories": [
+			"Café"
+		]
 	},
 	{
 		"date": "2010-12-30T18:06:03.000Z",
 		"name": "Hasseröder Ferienpark",
-		"id": "4c9339af1221b1f73c1a18e2"
+		"id": "4c9339af1221b1f73c1a18e2",
+		"lat": 51.82053110219114,
+		"lng": 10.757033930328694,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Resort"
+		]
 	}
 ]
