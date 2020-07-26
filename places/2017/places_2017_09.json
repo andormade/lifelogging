@@ -1,0 +1,972 @@
+[
+	{
+		"date": "2017-09-01T12:27:44.000Z",
+		"name": "Il Patio & Planet Sushi",
+		"id": "4f783937e4b07024fb43ac2e"
+	},
+	{
+		"date": "2017-09-01T12:28:03.000Z",
+		"name": "Erica Synths",
+		"id": "5565fd5c498ed2060fb19641"
+	},
+	{
+		"date": "2017-09-01T18:27:07.000Z",
+		"name": "DEPO",
+		"id": "4bf2b78e9319a5934840cb51"
+	},
+	{
+		"date": "2017-09-02T11:32:58.000Z",
+		"name": "Sodybas",
+		"id": "5363b5a0498e535f514b735b"
+	},
+	{
+		"date": "2017-09-02T14:52:24.000Z",
+		"name": "Kaunas IX Fort Museum (Kauno IX forto muziejus)",
+		"id": "4cf7fc0487a559413c3e6c2c"
+	},
+	{
+		"date": "2017-09-02T15:10:01.000Z",
+		"name": "Iki Express",
+		"id": "5194c6e2498e2f9c886fc619"
+	},
+	{
+		"date": "2017-09-02T15:24:48.000Z",
+		"name": "Knygų Ministerija",
+		"id": "5881e217a19e90341b2b9e06"
+	},
+	{
+		"date": "2017-09-02T16:14:24.000Z",
+		"name": "St. Michael the Archangel Church (Soboras)",
+		"id": "4daabd6fa86e771ea72a46e5"
+	},
+	{
+		"date": "2017-09-02T16:30:11.000Z",
+		"name": "Kaunas",
+		"id": "4cd44f52b2a43704e28d7644"
+	},
+	{
+		"date": "2017-09-02T17:56:50.000Z",
+		"name": "Šermutas Hotel&Restaurant",
+		"id": "4e0ebc8114956c6284fdb61b"
+	},
+	{
+		"date": "2017-09-02T18:14:18.000Z",
+		"name": "Hesburger - Panevėžys Drive-in",
+		"id": "50ed70fd90e7508e7dbf050c"
+	},
+	{
+		"date": "2017-09-03T09:25:41.000Z",
+		"name": "Virši-A DUS",
+		"id": "511cab49e4b0a962d8630bbd"
+	},
+	{
+		"date": "2017-09-03T12:40:29.000Z",
+		"name": "Irbenes Radioteleskops | RT-32 radio telescope",
+		"id": "4d958ecdb188721e5d34e136"
+	},
+	{
+		"date": "2017-09-03T12:42:55.000Z",
+		"name": "Būšnieku Ezers",
+		"id": "4dfcdcaf149599f28fcc2607"
+	},
+	{
+		"date": "2017-09-03T13:14:23.000Z",
+		"name": "Krogs Zītari",
+		"id": "55450387498ec77cb1dda37d"
+	},
+	{
+		"date": "2017-09-03T14:39:11.000Z",
+		"name": "Ostas Promenāde",
+		"id": "4db2a3f15da3944066bbd5de"
+	},
+	{
+		"date": "2017-09-03T15:11:51.000Z",
+		"name": "Rimi Hipermārkets [Venta]",
+		"id": "4d7b9eeeffce2d43fa8a883c"
+	},
+	{
+		"date": "2017-09-03T16:44:43.000Z",
+		"name": "Circle K",
+		"id": "5942568add12f84fd7091040"
+	},
+	{
+		"date": "2017-09-03T19:32:09.000Z",
+		"name": "Bellevue Park Hotel Riga",
+		"id": "4bc8f5b9762beee180be3d38"
+	},
+	{
+		"date": "2017-09-04T09:38:39.000Z",
+		"name": "The Ethnographic Open-Air Museum of Latvia (Latvijas Etnogrāfiskais brīvdabas muzejs | The Ethnographic Open-Air Museum of Latvia)",
+		"id": "4bb9764f98c7ef3b5f233202"
+	},
+	{
+		"date": "2017-09-04T14:15:04.000Z",
+		"name": "Domina Shopping",
+		"id": "4b6d72daf964a5205c752ce3"
+	},
+	{
+		"date": "2017-09-04T14:22:56.000Z",
+		"name": "NewYorker | t/c Domina",
+		"id": "4d0e2af8e0b98cfa0e35e093"
+	},
+	{
+		"date": "2017-09-04T15:03:32.000Z",
+		"name": "MBest serviss",
+		"id": "4e748270e4cd325436de9fde"
+	},
+	{
+		"date": "2017-09-04T16:15:54.000Z",
+		"name": "Bellevue Park Hotel Riga",
+		"id": "4bc8f5b9762beee180be3d38"
+	},
+	{
+		"date": "2017-09-04T18:37:53.000Z",
+		"name": "Park Restaurant / Bellevue 1st floor",
+		"id": "4f8718b2e4b02981881ae3c6"
+	},
+	{
+		"date": "2017-09-05T01:24:52.000Z",
+		"name": "Riga International Airport (RIX) (Starptautiskā lidosta “Rīga”)",
+		"id": "4b738904f964a52006b32de3"
+	},
+	{
+		"date": "2017-09-05T02:27:48.000Z",
+		"name": "Security Check",
+		"id": "518c4cdf498e8beac8e17525"
+	},
+	{
+		"date": "2017-09-05T02:28:29.000Z",
+		"name": "Cakes and Bakes",
+		"id": "566fc884498efec6344405e8"
+	},
+	{
+		"date": "2017-09-05T06:00:10.000Z",
+		"name": "Eindhoven Airport (EIN)",
+		"id": "4acae8fbf964a52027c320e3"
+	},
+	{
+		"date": "2017-09-05T06:56:43.000Z",
+		"name": "Station Eindhoven Centraal",
+		"id": "4a97f55ff964a520fa2920e3"
+	},
+	{
+		"date": "2017-09-05T08:24:57.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-05T09:38:39.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-09-05T09:48:33.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-05T10:25:37.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-09-05T11:35:51.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-09-06T06:05:18.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-06T06:26:13.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-06T06:38:17.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-09-06T13:52:32.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-09-06T16:39:35.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-06T17:07:31.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-07T06:20:14.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-07T06:43:23.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-07T10:23:56.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-09-07T15:34:17.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-09-07T16:54:52.000Z",
+		"name": "adidas Originals Store Amsterdam",
+		"id": "4b55e4e0f964a52000f527e3"
+	},
+	{
+		"date": "2017-09-07T17:19:51.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-07T17:36:44.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-07T17:49:49.000Z",
+		"name": "The Döner Company",
+		"id": "4d790928a56e37040e5d7567"
+	},
+	{
+		"date": "2017-09-08T06:09:10.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-08T06:26:26.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-08T06:37:59.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-09-08T07:27:28.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-09-08T10:14:22.000Z",
+		"name": "Water & Brood",
+		"id": "590c4ecfcad1b67f0cc84943"
+	},
+	{
+		"date": "2017-09-08T14:49:45.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-08T18:37:00.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-09-09T10:19:55.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2017-09-09T18:04:58.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-09-11T06:24:56.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-11T06:42:27.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-09-11T10:48:21.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-09-11T16:10:45.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-11T16:40:09.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-12T06:08:47.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-12T09:32:02.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-09-12T10:18:27.000Z",
+		"name": "wagamama",
+		"id": "4ee4a1c84690f88940adf317"
+	},
+	{
+		"date": "2017-09-12T14:23:57.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-09-12T19:14:13.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-12T19:36:20.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-12T19:45:17.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-09-13T06:08:05.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-13T07:08:51.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-09-13T18:03:11.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-13T18:30:05.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-13T21:52:59.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-09-14T06:10:27.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-14T06:30:06.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-14T06:44:38.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-09-14T06:45:09.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-09-14T17:01:39.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-14T17:05:33.000Z",
+		"name": "The Döner Company",
+		"id": "4d790928a56e37040e5d7567"
+	},
+	{
+		"date": "2017-09-14T21:30:59.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-09-15T06:40:50.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-15T06:51:11.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-09-15T09:40:07.000Z",
+		"name": "De Roos",
+		"id": "4b5d9683f964a5208e6229e3"
+	},
+	{
+		"date": "2017-09-15T10:32:35.000Z",
+		"name": "Tomatillo",
+		"id": "4a75c3a1f964a52036e11fe3"
+	},
+	{
+		"date": "2017-09-15T13:38:01.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-09-15T14:30:50.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-15T14:42:09.000Z",
+		"name": "ICI PARIS XL",
+		"id": "584857fb03cf2537341a6666"
+	},
+	{
+		"date": "2017-09-15T14:57:30.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-16T18:39:32.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-09-17T15:03:16.000Z",
+		"name": "Grote Markt",
+		"id": "4b33f1aef964a520842225e3"
+	},
+	{
+		"date": "2017-09-17T15:45:52.000Z",
+		"name": "Bij Babette",
+		"id": "518e304b498ee3ee3450cb3f"
+	},
+	{
+		"date": "2017-09-17T16:21:27.000Z",
+		"name": "Het Friethoes",
+		"id": "4b532ae8f964a520e89027e3"
+	},
+	{
+		"date": "2017-09-17T17:05:42.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-09-18T06:05:55.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-09-18T06:34:39.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-18T07:12:43.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-09-18T16:58:58.000Z",
+		"name": "Vegan Junk Food Bar",
+		"id": "5909c633b3c9615c9b04d95b"
+	},
+	{
+		"date": "2017-09-18T17:52:03.000Z",
+		"name": "Vondelkerk",
+		"id": "4b892e77f964a520532132e3"
+	},
+	{
+		"date": "2017-09-18T20:50:49.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-18T21:19:14.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-19T03:29:14.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-19T04:02:16.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2017-09-19T04:19:01.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2017-09-19T04:59:08.000Z",
+		"name": "Gate B17",
+		"id": "4ba7af50f964a5208aa939e3"
+	},
+	{
+		"date": "2017-09-19T05:04:59.000Z",
+		"name": "Fair Taste Cafe",
+		"id": "57147166498e9f6675c0f6de"
+	},
+	{
+		"date": "2017-09-19T08:35:53.000Z",
+		"name": "Adolfo Suárez Madrid-Barajas Airport (MAD) (Aeropuerto Adolfo Suárez Madrid-Barajas)",
+		"id": "4afde737f964a520e72b22e3"
+	},
+	{
+		"date": "2017-09-19T09:08:33.000Z",
+		"name": "Terminal 4",
+		"id": "4b48b7b3f964a520f05326e3"
+	},
+	{
+		"date": "2017-09-19T20:14:30.000Z",
+		"name": "Miami International Airport (MIA)",
+		"id": "4b89fb5df964a5200d5a32e3"
+	},
+	{
+		"date": "2017-09-19T20:14:58.000Z",
+		"name": "Concourse D",
+		"id": "4b8c6b3df964a520d0cf32e3"
+	},
+	{
+		"date": "2017-09-19T20:15:29.000Z",
+		"name": "Baggage Claim 24-27",
+		"id": "4c6763958e9120a1f7deda64"
+	},
+	{
+		"date": "2017-09-19T23:35:07.000Z",
+		"name": "City of North Miami",
+		"id": "4d784961e215721e6bea0fb0"
+	},
+	{
+		"date": "2017-09-20T16:37:17.000Z",
+		"name": "ALDI",
+		"id": "57375e60498eba786daeb4b6"
+	},
+	{
+		"date": "2017-09-20T18:11:46.000Z",
+		"name": "Dexter's Apartment",
+		"id": "4be0613a4f15c928120bcb0b"
+	},
+	{
+		"date": "2017-09-20T19:16:34.000Z",
+		"name": "Bal Harbour Beach",
+		"id": "4bc9df6968f976b0d1015e83"
+	},
+	{
+		"date": "2017-09-20T19:36:56.000Z",
+		"name": "Burgers & Shakes",
+		"id": "4e10a22cfa769d21e9e5f65b"
+	},
+	{
+		"date": "2017-09-20T20:58:26.000Z",
+		"name": "South Pointe Park",
+		"id": "4a8def14f964a520751120e3"
+	},
+	{
+		"date": "2017-09-20T21:47:50.000Z",
+		"name": "South Pointe Beach",
+		"id": "54baa09c498ea3c0de48b10e"
+	},
+	{
+		"date": "2017-09-21T01:07:51.000Z",
+		"name": "City of North Miami",
+		"id": "4d784961e215721e6bea0fb0"
+	},
+	{
+		"date": "2017-09-21T09:13:26.000Z",
+		"name": "Fort Lauderdale-Hollywood International Airport (FLL)",
+		"id": "4bbe3fff53e99521c1f92ca9"
+	},
+	{
+		"date": "2017-09-21T10:29:33.000Z",
+		"name": "Gate C9",
+		"id": "4bf7b7798d30d13a216cff17"
+	},
+	{
+		"date": "2017-09-21T16:20:05.000Z",
+		"name": "Los Angeles International Airport (LAX)",
+		"id": "439ec330f964a520102c1fe3"
+	},
+	{
+		"date": "2017-09-21T18:22:58.000Z",
+		"name": "Hollywood",
+		"id": "4d391d5bacf1b60cd2948718"
+	},
+	{
+		"date": "2017-09-21T19:08:27.000Z",
+		"name": "Docler Media",
+		"id": "562e5ed1498efb84aa58b9a9"
+	},
+	{
+		"date": "2017-09-21T20:22:46.000Z",
+		"name": "Swingers",
+		"id": "3fd66200f964a520e8f01ee3"
+	},
+	{
+		"date": "2017-09-21T20:59:37.000Z",
+		"name": "City of Burbank",
+		"id": "4c5a349cec2520a182285112"
+	},
+	{
+		"date": "2017-09-21T21:03:08.000Z",
+		"name": "Perfect Circuit Audio - Burbank",
+		"id": "5589cfab498e6804847486d4"
+	},
+	{
+		"date": "2017-09-21T22:19:48.000Z",
+		"name": "The Hollywood Bowl",
+		"id": "4161e400f964a5206f1d1fe3"
+	},
+	{
+		"date": "2017-09-21T22:45:58.000Z",
+		"name": "WeWork Hollywood",
+		"id": "4f444e16e4b00f93cdf41b8b"
+	},
+	{
+		"date": "2017-09-21T23:31:09.000Z",
+		"name": "Fala Bar",
+		"id": "532b1c1c498ee08a54ea2a25"
+	},
+	{
+		"date": "2017-09-22T00:57:16.000Z",
+		"name": "Choi Ga Nei",
+		"id": "4b889b0ff964a520f00332e3"
+	},
+	{
+		"date": "2017-09-22T04:00:15.000Z",
+		"name": "Hollywood",
+		"id": "4d391d5bacf1b60cd2948718"
+	},
+	{
+		"date": "2017-09-22T14:51:21.000Z",
+		"name": "Los Angeles International Airport (LAX)",
+		"id": "439ec330f964a520102c1fe3"
+	},
+	{
+		"date": "2017-09-22T14:54:39.000Z",
+		"name": "Terminal 6",
+		"id": "4be2b7d3f07b0f476bfbf543"
+	},
+	{
+		"date": "2017-09-22T15:59:15.000Z",
+		"name": "Earth Bar",
+		"id": "4b0ab0a0f964a5206c2623e3"
+	},
+	{
+		"date": "2017-09-22T21:34:59.000Z",
+		"name": "Fort Lauderdale-Hollywood International Airport (FLL)",
+		"id": "4bbe3fff53e99521c1f92ca9"
+	},
+	{
+		"date": "2017-09-22T23:41:18.000Z",
+		"name": "Shell",
+		"id": "4b63c839f964a5205c912ae3"
+	},
+	{
+		"date": "2017-09-23T00:08:20.000Z",
+		"name": "Pizza Hut",
+		"id": "4c5ffd043a3703bb6214e406"
+	},
+	{
+		"date": "2017-09-23T02:03:56.000Z",
+		"name": "City of North Miami",
+		"id": "4d784961e215721e6bea0fb0"
+	},
+	{
+		"date": "2017-09-23T16:05:04.000Z",
+		"name": "Miramar, FL",
+		"id": "4c86fdadd92ea09317ee7272"
+	},
+	{
+		"date": "2017-09-23T16:49:54.000Z",
+		"name": "Bank of America",
+		"id": "4c07dec4bbc676b0c89a45d5"
+	},
+	{
+		"date": "2017-09-23T18:17:31.000Z",
+		"name": "Tropicana Flea Market",
+		"id": "4c66c67319f3c9b6d0c1a0ff"
+	},
+	{
+		"date": "2017-09-23T22:41:51.000Z",
+		"name": "Sunny Isles Beach",
+		"id": "4f673653e4b03be1058ca805"
+	},
+	{
+		"date": "2017-09-23T23:57:28.000Z",
+		"name": "Beach Bar @newport pier",
+		"id": "537e91da498e08214a8f989e"
+	},
+	{
+		"date": "2017-09-24T03:31:24.000Z",
+		"name": "City of North Miami",
+		"id": "4d784961e215721e6bea0fb0"
+	},
+	{
+		"date": "2017-09-24T20:01:27.000Z",
+		"name": "Everglades National Park",
+		"id": "4b991f26f964a520c66235e3"
+	},
+	{
+		"date": "2017-09-24T20:02:39.000Z",
+		"name": "Miccosukee Indian Village",
+		"id": "4e31ac10d4c0b2aebf734066"
+	},
+	{
+		"date": "2017-09-24T20:03:12.000Z",
+		"name": "Buffalo Tiger's Airboat Rides",
+		"id": "4b942143f964a520176a34e3"
+	},
+	{
+		"date": "2017-09-24T20:44:37.000Z",
+		"name": "Moonlite Diner",
+		"id": "519f610fabd89b686a7e10f5"
+	},
+	{
+		"date": "2017-09-25T01:10:44.000Z",
+		"name": "Il gusto",
+		"id": "5612fdf7498e4f672aa619d7"
+	},
+	{
+		"date": "2017-09-25T01:39:43.000Z",
+		"name": "Gulfstream Park Racing and Casino",
+		"id": "4b159d3ff964a5202eb123e3"
+	},
+	{
+		"date": "2017-09-25T01:44:19.000Z",
+		"name": "The Village at Gulfstream Park",
+		"id": "4b757ccaf964a5205b0f2ee3"
+	},
+	{
+		"date": "2017-09-25T03:16:09.000Z",
+		"name": "Strike 10 Bowling",
+		"id": "5c0ee9fd835c9a002c78f4a5"
+	},
+	{
+		"date": "2017-09-25T12:49:24.000Z",
+		"name": "Bank of America",
+		"id": "4c07dec4bbc676b0c89a45d5"
+	},
+	{
+		"date": "2017-09-25T14:16:04.000Z",
+		"name": "Denny's",
+		"id": "55901c77498e4c955baa0f7f"
+	},
+	{
+		"date": "2017-09-25T15:51:37.000Z",
+		"name": "Goodwill Superstore HIA",
+		"id": "559c53d6498efc8b9513e0f8"
+	},
+	{
+		"date": "2017-09-25T21:41:51.000Z",
+		"name": "71st Street Beach",
+		"id": "4c5af7737b0495217b8a891f"
+	},
+	{
+		"date": "2017-09-25T23:13:07.000Z",
+		"name": "Wendy’s",
+		"id": "5285073b11d26823dd28e2b4"
+	},
+	{
+		"date": "2017-09-26T01:56:15.000Z",
+		"name": "Flamingo/Lummus",
+		"id": "4f0da777e4b0254b4cf5df9d"
+	},
+	{
+		"date": "2017-09-26T02:10:47.000Z",
+		"name": "Finnegans Way",
+		"id": "4af4d07ef964a52079f621e3"
+	},
+	{
+		"date": "2017-09-26T05:03:18.000Z",
+		"name": "Magic City Casino",
+		"id": "4b3f9397f964a52072a925e3"
+	},
+	{
+		"date": "2017-09-26T07:06:46.000Z",
+		"name": "City of North Miami",
+		"id": "4d784961e215721e6bea0fb0"
+	},
+	{
+		"date": "2017-09-26T13:27:47.000Z",
+		"name": "Office Depot",
+		"id": "4c86a05fdc018cfa3792f06c"
+	},
+	{
+		"date": "2017-09-26T13:52:09.000Z",
+		"name": "Aventura Mall",
+		"id": "4ab68cb8f964a520c27720e3"
+	},
+	{
+		"date": "2017-09-26T14:05:30.000Z",
+		"name": "Apple Aventura",
+		"id": "4af8b892f964a520700f22e3"
+	},
+	{
+		"date": "2017-09-26T14:23:18.000Z",
+		"name": "SEPHORA",
+		"id": "4b61cdbef964a520db232ae3"
+	},
+	{
+		"date": "2017-09-26T15:15:05.000Z",
+		"name": "CVS pharmacy",
+		"id": "4bdd7649be5120a10874fe70"
+	},
+	{
+		"date": "2017-09-26T15:27:26.000Z",
+		"name": "Roasters' n Toasters",
+		"id": "4c2f6415a0ced13a5067106e"
+	},
+	{
+		"date": "2017-09-26T19:05:26.000Z",
+		"name": "Rental Car Center",
+		"id": "4cae0f4b8b57a1cdb25a9d75"
+	},
+	{
+		"date": "2017-09-26T19:21:33.000Z",
+		"name": "Miami International Airport (MIA)",
+		"id": "4b89fb5df964a5200d5a32e3"
+	},
+	{
+		"date": "2017-09-26T22:17:14.000Z",
+		"name": "Jose Cuervo Tequileria",
+		"id": "4f9ab1dad4f2465542bc66bb"
+	},
+	{
+		"date": "2017-09-27T02:19:11.000Z",
+		"name": "Concourse D",
+		"id": "4b8c6b3df964a520d0cf32e3"
+	},
+	{
+		"date": "2017-09-27T11:30:55.000Z",
+		"name": "London Heathrow Airport (LHR)",
+		"id": "4ad7a112f964a520050d21e3"
+	},
+	{
+		"date": "2017-09-27T11:49:34.000Z",
+		"name": "Terminal 3",
+		"id": "4c18fe2d6a21c9b670d6c997"
+	},
+	{
+		"date": "2017-09-27T13:41:06.000Z",
+		"name": "Gate A5",
+		"id": "4c323332452620a160b5210f"
+	},
+	{
+		"date": "2017-09-27T15:01:41.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2017-09-27T17:16:18.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2017-09-27T18:28:17.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-27T19:27:31.000Z",
+		"name": "Bierfabriek",
+		"id": "4e8f2260b8f7c1a0343c698d"
+	},
+	{
+		"date": "2017-09-27T22:05:26.000Z",
+		"name": "Durty Nelly's Irish Bar & Hostel",
+		"id": "4e36b3be14952ff6cbd4a289"
+	},
+	{
+		"date": "2017-09-28T05:58:03.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-28T06:30:37.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-28T07:08:19.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-09-28T09:45:58.000Z",
+		"name": "Salsa Shop",
+		"id": "53c3ca66498ea876ac0e1349"
+	},
+	{
+		"date": "2017-09-28T10:37:45.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-09-28T16:01:37.000Z",
+		"name": "Cannibale Royale",
+		"id": "556601e8498e9de3161bd7ea"
+	},
+	{
+		"date": "2017-09-28T18:27:03.000Z",
+		"name": "Tramhalte Roelof Hartplein",
+		"id": "4bceec8129d4b7131e38a9dc"
+	},
+	{
+		"date": "2017-09-28T19:14:19.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-29T06:23:53.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-09-29T10:10:30.000Z",
+		"name": "Burgermeester",
+		"id": "57124766498e83b7c048423c"
+	},
+	{
+		"date": "2017-09-29T15:17:37.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-09-30T17:04:01.000Z",
+		"name": "Vomar Voordeelmarkt",
+		"id": "4b72c969f964a52096882de3"
+	},
+	{
+		"date": "2017-09-30T19:03:52.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	}
+]

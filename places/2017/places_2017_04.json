@@ -1,0 +1,977 @@
+[
+	{
+		"date": "2017-04-01T14:33:10.000Z",
+		"name": "Karwei",
+		"id": "4b5b027ff964a520a9de28e3"
+	},
+	{
+		"date": "2017-04-01T18:11:53.000Z",
+		"name": "IKEA Restaurant",
+		"id": "4d52d39e747f6dcb7372d1d4"
+	},
+	{
+		"date": "2017-04-01T18:53:45.000Z",
+		"name": "IKEA",
+		"id": "4b48d278f964a520a75826e3"
+	},
+	{
+		"date": "2017-04-01T19:29:46.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-02T10:35:48.000Z",
+		"name": "Jetties",
+		"id": "4d80a39c70d18cfa3c3ca094"
+	},
+	{
+		"date": "2017-04-02T11:32:37.000Z",
+		"name": "IKEA",
+		"id": "4b48d278f964a520a75826e3"
+	},
+	{
+		"date": "2017-04-02T12:17:59.000Z",
+		"name": "IKEA Restaurant",
+		"id": "4d52d39e747f6dcb7372d1d4"
+	},
+	{
+		"date": "2017-04-02T15:20:55.000Z",
+		"name": "Vomar Voordeelmarkt",
+		"id": "4b72c969f964a52096882de3"
+	},
+	{
+		"date": "2017-04-03T09:44:22.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-03T10:16:08.000Z",
+		"name": "Lunchroom T",
+		"id": "4bd58edecfa7b71369ef25da"
+	},
+	{
+		"date": "2017-04-03T17:33:23.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-03T18:07:03.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-03T20:18:49.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-04T06:17:17.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-04T07:03:58.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-04T07:04:05.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-04T10:26:41.000Z",
+		"name": "Vapiano",
+		"id": "4fb28f2be4b0e2be9a5f1f6f"
+	},
+	{
+		"date": "2017-04-04T16:32:56.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-04T17:38:10.000Z",
+		"name": "IKEA",
+		"id": "4b48d278f964a520a75826e3"
+	},
+	{
+		"date": "2017-04-04T18:24:52.000Z",
+		"name": "Vomar Voordeelmarkt",
+		"id": "4b72c969f964a52096882de3"
+	},
+	{
+		"date": "2017-04-05T05:02:23.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-05T07:43:50.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-05T10:13:17.000Z",
+		"name": "Salsa Shop",
+		"id": "53c3ca66498ea876ac0e1349"
+	},
+	{
+		"date": "2017-04-05T12:00:50.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-05T16:51:04.000Z",
+		"name": "Service Point Amsterdam CS",
+		"id": "575c31b6498e95e6b3085241"
+	},
+	{
+		"date": "2017-04-05T16:51:15.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-05T17:07:51.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-06T05:15:41.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-06T06:19:57.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-06T06:53:54.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-06T10:20:38.000Z",
+		"name": "wagamama",
+		"id": "4ee4a1c84690f88940adf317"
+	},
+	{
+		"date": "2017-04-06T11:56:42.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-06T15:15:14.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-06T17:21:40.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-06T19:34:31.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-07T06:42:50.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-07T07:52:24.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-07T10:33:00.000Z",
+		"name": "Pata Negra",
+		"id": "4a27db34f964a5208c921fe3"
+	},
+	{
+		"date": "2017-04-07T11:21:50.000Z",
+		"name": "Patisserie Kuyt",
+		"id": "4ac73868f964a520cdb620e3"
+	},
+	{
+		"date": "2017-04-07T11:43:21.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-07T16:50:24.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-07T18:38:06.000Z",
+		"name": "Sultan shoarma",
+		"id": "573362de498e4009791e56a8"
+	},
+	{
+		"date": "2017-04-07T19:07:42.000Z",
+		"name": "Koffieshop Birdy",
+		"id": "4e7b121d483bf10366a0d8b4"
+	},
+	{
+		"date": "2017-04-07T19:30:14.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-08T13:40:45.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-08T16:12:54.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-08T16:46:20.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-08T16:59:43.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-08T17:12:24.000Z",
+		"name": "De Pizzabakkers",
+		"id": "4d7a218c15958cfaf4251a25"
+	},
+	{
+		"date": "2017-04-08T18:20:11.000Z",
+		"name": "Coco’s Outback",
+		"id": "4c047bec30229521c9c2de81"
+	},
+	{
+		"date": "2017-04-08T20:52:59.000Z",
+		"name": "Red Light District (De Wallen)",
+		"id": "4c78d269df08a1cdf5b6d85d"
+	},
+	{
+		"date": "2017-04-08T21:04:23.000Z",
+		"name": "The Jolly Joker",
+		"id": "4a2705b2f964a52080881fe3"
+	},
+	{
+		"date": "2017-04-08T21:33:43.000Z",
+		"name": "Dolcica",
+		"id": "525e712d11d24991a55d4bab"
+	},
+	{
+		"date": "2017-04-08T22:05:26.000Z",
+		"name": "McDonald's",
+		"id": "4bb887801261d13a92ace898"
+	},
+	{
+		"date": "2017-04-08T22:28:47.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-08T22:52:31.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-09T10:30:27.000Z",
+		"name": "Vomar Voordeelmarkt",
+		"id": "4b72c969f964a52096882de3"
+	},
+	{
+		"date": "2017-04-09T11:07:29.000Z",
+		"name": "Leen Bakker",
+		"id": "4c6fd4279375a0930cf60437"
+	},
+	{
+		"date": "2017-04-09T14:27:35.000Z",
+		"name": "T-Mobile",
+		"id": "4c0f900d7189c9283938dab6"
+	},
+	{
+		"date": "2017-04-09T14:28:54.000Z",
+		"name": "H&M",
+		"id": "4b1a6b59f964a5201dea23e3"
+	},
+	{
+		"date": "2017-04-09T15:07:00.000Z",
+		"name": "Apple Haarlem",
+		"id": "529e315f11d2f188f40a235a"
+	},
+	{
+		"date": "2017-04-09T15:24:27.000Z",
+		"name": "Yoghurt Barn",
+		"id": "55d5b985498e389528c34d75"
+	},
+	{
+		"date": "2017-04-09T18:01:24.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-10T06:38:07.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-10T06:47:37.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-10T06:54:46.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-10T09:58:02.000Z",
+		"name": "Borrl Kitchen",
+		"id": "583050cedebdf603ff8551e2"
+	},
+	{
+		"date": "2017-04-10T16:49:41.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-11T10:40:24.000Z",
+		"name": "Loetje Oost",
+		"id": "5062d84be4b0857a7eef4f25"
+	},
+	{
+		"date": "2017-04-11T17:26:12.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-11T17:41:31.000Z",
+		"name": "BRET",
+		"id": "553a5a76498e04e927dd5f59"
+	},
+	{
+		"date": "2017-04-11T20:20:54.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2017-04-11T21:37:45.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-12T08:57:21.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-12T10:11:51.000Z",
+		"name": "Vapiano",
+		"id": "4fb28f2be4b0e2be9a5f1f6f"
+	},
+	{
+		"date": "2017-04-12T16:50:52.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-12T17:18:36.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-12T17:34:05.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-12T19:48:19.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-13T09:09:32.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-13T10:17:38.000Z",
+		"name": "Burgermeester",
+		"id": "4a76cc70f964a5202ee31fe3"
+	},
+	{
+		"date": "2017-04-13T15:21:49.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-13T15:31:58.000Z",
+		"name": "Tramhalte Wibautstraat",
+		"id": "4d7d236cf260a093390c47ba"
+	},
+	{
+		"date": "2017-04-13T15:56:28.000Z",
+		"name": "Hecke electronica",
+		"id": "4c790a1ba868370431170f4d"
+	},
+	{
+		"date": "2017-04-13T16:01:50.000Z",
+		"name": "Station Amsterdam Amstel",
+		"id": "4b0190aff964a520764322e3"
+	},
+	{
+		"date": "2017-04-13T16:18:19.000Z",
+		"name": "Station Diemen Zuid",
+		"id": "4a793834f964a52003e71fe3"
+	},
+	{
+		"date": "2017-04-13T16:45:53.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-13T17:07:15.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-13T17:16:29.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-14T09:34:58.000Z",
+		"name": "Basic X Hair",
+		"id": "52e15bd4498eff401e7266b1"
+	},
+	{
+		"date": "2017-04-14T09:39:15.000Z",
+		"name": "Kiosk",
+		"id": "5128a36be4b0e836e991977b"
+	},
+	{
+		"date": "2017-04-14T10:13:39.000Z",
+		"name": "Karwei",
+		"id": "4b5b027ff964a520a9de28e3"
+	},
+	{
+		"date": "2017-04-14T10:28:33.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-16T16:09:34.000Z",
+		"name": "Vomar Voordeelmarkt",
+		"id": "4b72c969f964a52096882de3"
+	},
+	{
+		"date": "2017-04-17T18:59:47.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-18T06:00:39.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-18T07:26:21.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-18T16:32:23.000Z",
+		"name": "Nike Store",
+		"id": "4b49b9fbf964a520e47226e3"
+	},
+	{
+		"date": "2017-04-18T17:12:21.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-18T17:28:11.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-18T17:38:39.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-19T06:16:14.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-19T06:54:05.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-19T16:30:14.000Z",
+		"name": "Primark",
+		"id": "57fbac86498e161d00c0124a"
+	},
+	{
+		"date": "2017-04-19T16:50:19.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-20T06:21:30.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-20T08:06:51.000Z",
+		"name": "SPAR city Van Kempen",
+		"id": "4b4c4089f964a52022b026e3"
+	},
+	{
+		"date": "2017-04-20T09:04:53.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-20T10:39:35.000Z",
+		"name": "Apotheek de Castro",
+		"id": "4c977fab82b56dcb363feaaa"
+	},
+	{
+		"date": "2017-04-20T16:38:03.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-20T16:59:46.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-20T17:32:31.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-21T07:55:29.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-21T07:58:01.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-21T14:17:46.000Z",
+		"name": "Amsterdam Zuid Railway Station (Station Amsterdam Zuid)",
+		"id": "4a952e89f964a520a62220e3"
+	},
+	{
+		"date": "2017-04-21T14:41:55.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2017-04-21T14:42:10.000Z",
+		"name": "Departures 3",
+		"id": "4ba5fcb4f964a520ea2c39e3"
+	},
+	{
+		"date": "2017-04-21T15:26:40.000Z",
+		"name": "Gate M7",
+		"id": "4c2e258f260bc9288d2f1bd3"
+	},
+	{
+		"date": "2017-04-21T17:38:35.000Z",
+		"name": "Berlin Brandenburg Airport Willy Brandt (BER) (Flughafen Berlin Brandenburg Willy Brandt)",
+		"id": "4f0729b4e4b03321184dd5e2"
+	},
+	{
+		"date": "2017-04-21T17:56:02.000Z",
+		"name": "Terminal A",
+		"id": "4eee0d64e3002155942a87fb"
+	},
+	{
+		"date": "2017-04-21T20:08:17.000Z",
+		"name": "Moritzplatz",
+		"id": "4caebfd9b4b0a35d95a93bce"
+	},
+	{
+		"date": "2017-04-21T20:19:29.000Z",
+		"name": "Alexanderplatz",
+		"id": "4be5826a78e895219ea964ce"
+	},
+	{
+		"date": "2017-04-21T20:38:45.000Z",
+		"name": "Spreegold",
+		"id": "4d820d0b85d3d7ce1426a62d"
+	},
+	{
+		"date": "2017-04-21T21:53:01.000Z",
+		"name": "U Hermannplatz",
+		"id": "4aeddbfaf964a5209ccf21e3"
+	},
+	{
+		"date": "2017-04-22T09:12:22.000Z",
+		"name": "H S Schöneweide / Sterndamm",
+		"id": "5083d65de4b0d2d664742fbb"
+	},
+	{
+		"date": "2017-04-22T09:32:55.000Z",
+		"name": "Superbooth 2017",
+		"id": "58f8eabb610f042ee2a17e84"
+	},
+	{
+		"date": "2017-04-22T12:32:06.000Z",
+		"name": "FEZ Wuhlheide",
+		"id": "4adcda7df964a520924721e3"
+	},
+	{
+		"date": "2017-04-22T15:29:59.000Z",
+		"name": "Alexanderplatz",
+		"id": "4be5826a78e895219ea964ce"
+	},
+	{
+		"date": "2017-04-22T15:37:19.000Z",
+		"name": "Hackescher Markt",
+		"id": "4adcda7df964a520664721e3"
+	},
+	{
+		"date": "2017-04-22T15:52:02.000Z",
+		"name": "H Hufelandstraße",
+		"id": "4be5a5242468c9287b4d0043"
+	},
+	{
+		"date": "2017-04-22T16:18:29.000Z",
+		"name": "Mall of Berlin",
+		"id": "5131f37c8055b62e098f83c7"
+	},
+	{
+		"date": "2017-04-22T16:36:31.000Z",
+		"name": "Gulaschkanone",
+		"id": "577e53f9498e412d1244bfc1"
+	},
+	{
+		"date": "2017-04-22T16:50:17.000Z",
+		"name": "Potsdamer Platz",
+		"id": "4adcda7df964a520694721e3"
+	},
+	{
+		"date": "2017-04-22T16:55:25.000Z",
+		"name": "Sony Center",
+		"id": "4adcda91f964a520894b21e3"
+	},
+	{
+		"date": "2017-04-22T17:00:36.000Z",
+		"name": "Sony Style Store",
+		"id": "4adcda91f964a5208a4b21e3"
+	},
+	{
+		"date": "2017-04-22T17:37:45.000Z",
+		"name": "Coffee Fellows",
+		"id": "514453f5e4b071f0e0e0a123"
+	},
+	{
+		"date": "2017-04-22T17:58:42.000Z",
+		"name": "Scoom",
+		"id": "4b39a2b2f964a520415e25e3"
+	},
+	{
+		"date": "2017-04-22T18:42:09.000Z",
+		"name": "Rudow",
+		"id": "511290aee4b06bff9dfddeb9"
+	},
+	{
+		"date": "2017-04-23T03:34:02.000Z",
+		"name": "Berlin Schönefeld Airport (SXF) (Flughafen Berlin-Schönefeld)",
+		"id": "4adcda91f964a520ae4b21e3"
+	},
+	{
+		"date": "2017-04-23T03:34:16.000Z",
+		"name": "Terminal B",
+		"id": "4ec478f430f8194514e84c9b"
+	},
+	{
+		"date": "2017-04-23T05:59:36.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2017-04-23T06:09:11.000Z",
+		"name": "Arrivals 3",
+		"id": "4c469f3676d72d7f77c43a4d"
+	},
+	{
+		"date": "2017-04-23T06:30:46.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2017-04-23T06:32:17.000Z",
+		"name": "Starbucks",
+		"id": "4c1b12a08b3aa59397b3965f"
+	},
+	{
+		"date": "2017-04-23T06:59:03.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-23T07:07:09.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-23T11:59:02.000Z",
+		"name": "Action",
+		"id": "4c1a06b66a21c9b6735dcb97"
+	},
+	{
+		"date": "2017-04-23T12:48:59.000Z",
+		"name": "Spaarne Gasthuis Haarlem Zuid",
+		"id": "4bc2ed35461576b0f5f07d32"
+	},
+	{
+		"date": "2017-04-23T12:50:41.000Z",
+		"name": "Apotheek SAHZ Lokatie Haarlem Zuid",
+		"id": "4dac3cef5da3ba8a47b18141"
+	},
+	{
+		"date": "2017-04-23T17:38:46.000Z",
+		"name": "Uitzichtpunt Hazenberg",
+		"id": "4d7ca5d4e04d6ea854f1fed5"
+	},
+	{
+		"date": "2017-04-23T19:13:31.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-24T06:04:27.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-24T06:28:33.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-24T07:06:50.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-24T09:29:30.000Z",
+		"name": "SPAR city Van Kempen",
+		"id": "4b4c4089f964a52022b026e3"
+	},
+	{
+		"date": "2017-04-24T09:37:48.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-24T16:52:46.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-24T19:39:29.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-25T08:20:33.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-25T12:23:44.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-25T16:29:21.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-25T17:02:35.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-26T06:56:36.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-26T13:37:33.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-26T16:30:32.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-26T17:08:35.000Z",
+		"name": "BRET",
+		"id": "553a5a76498e04e927dd5f59"
+	},
+	{
+		"date": "2017-04-26T20:57:21.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-27T12:49:23.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-27T13:27:14.000Z",
+		"name": "Dam",
+		"id": "4b9ff646f964a520f44d37e3"
+	},
+	{
+		"date": "2017-04-27T15:10:36.000Z",
+		"name": "Small Talk",
+		"id": "4a26ffe9f964a52070811fe3"
+	},
+	{
+		"date": "2017-04-27T17:26:58.000Z",
+		"name": "One2vape",
+		"id": "590229dd35811b1afa79a91d"
+	},
+	{
+		"date": "2017-04-27T17:36:33.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-28T05:15:54.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-28T06:41:48.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-28T06:58:10.000Z",
+		"name": "WeWork Metropool",
+		"id": "56a14a68498e77945ee2ced1"
+	},
+	{
+		"date": "2017-04-28T10:16:15.000Z",
+		"name": "Tasty Burger",
+		"id": "58ba0f14117420736151e102"
+	},
+	{
+		"date": "2017-04-28T11:17:55.000Z",
+		"name": "Docler Holding Amsterdam",
+		"id": "58b684db52a051661da12674"
+	},
+	{
+		"date": "2017-04-28T14:48:27.000Z",
+		"name": "Station Amsterdam Amstel",
+		"id": "4b0190aff964a520764322e3"
+	},
+	{
+		"date": "2017-04-28T14:59:38.000Z",
+		"name": "Bax Music Amsterdam",
+		"id": "57907fc5498e3467c2705f9f"
+	},
+	{
+		"date": "2017-04-28T15:44:39.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2017-04-28T16:04:55.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-28T16:13:01.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-28T17:53:31.000Z",
+		"name": "Vomar Voordeelmarkt",
+		"id": "4b72c969f964a52096882de3"
+	},
+	{
+		"date": "2017-04-29T12:08:57.000Z",
+		"name": "IKEA",
+		"id": "4b48d278f964a520a75826e3"
+	},
+	{
+		"date": "2017-04-29T13:16:17.000Z",
+		"name": "IKEA Restaurant",
+		"id": "4d52d39e747f6dcb7372d1d4"
+	},
+	{
+		"date": "2017-04-29T14:25:54.000Z",
+		"name": "Woonboulevard Cruquius",
+		"id": "4bdbea9d63c5c9b605fd2968"
+	},
+	{
+		"date": "2017-04-29T15:08:48.000Z",
+		"name": "Kwantum",
+		"id": "4d398eaf1fc36dcbc1575cf5"
+	},
+	{
+		"date": "2017-04-29T18:18:38.000Z",
+		"name": "BRET",
+		"id": "553a5a76498e04e927dd5f59"
+	},
+	{
+		"date": "2017-04-29T21:06:16.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2017-04-29T21:08:00.000Z",
+		"name": "Sultan shoarma",
+		"id": "573362de498e4009791e56a8"
+	},
+	{
+		"date": "2017-04-30T08:39:18.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2017-04-30T15:32:25.000Z",
+		"name": "Vomar Voordeelmarkt",
+		"id": "4b72c969f964a52096882de3"
+	},
+	{
+		"date": "2017-04-30T16:00:50.000Z",
+		"name": "Bezoekerscentrum Kennemerduinen",
+		"id": "51ed3519498e2020c9a34e6a"
+	},
+	{
+		"date": "2017-04-30T18:23:01.000Z",
+		"name": "Parnassia aan Zee",
+		"id": "4c00db479cf52d7f106914e7"
+	},
+	{
+		"date": "2017-04-30T19:07:39.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	}
+]

@@ -1,0 +1,597 @@
+[
+	{
+		"date": "2017-02-01T05:52:38.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-01T20:26:04.000Z",
+		"name": "Flaming Patty's",
+		"id": "4bb7c4f3b35776b09126c801"
+	},
+	{
+		"date": "2017-02-02T00:28:49.000Z",
+		"name": "Docler Media",
+		"id": "562e5ed1498efb84aa58b9a9"
+	},
+	{
+		"date": "2017-02-02T04:03:11.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-02T17:05:10.000Z",
+		"name": "Docler Media",
+		"id": "562e5ed1498efb84aa58b9a9"
+	},
+	{
+		"date": "2017-02-03T00:24:30.000Z",
+		"name": "Pavilions",
+		"id": "4a6f9d1ff964a5209cd61fe3"
+	},
+	{
+		"date": "2017-02-03T03:00:16.000Z",
+		"name": "Next Door Lounge",
+		"id": "4dcb5589fa76d745f0535870"
+	},
+	{
+		"date": "2017-02-03T06:07:13.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-03T16:59:52.000Z",
+		"name": "Docler Media",
+		"id": "562e5ed1498efb84aa58b9a9"
+	},
+	{
+		"date": "2017-02-04T06:53:01.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-05T00:50:39.000Z",
+		"name": "Barnsdall Art Park",
+		"id": "4a60bb68f964a52019c11fe3"
+	},
+	{
+		"date": "2017-02-05T01:40:26.000Z",
+		"name": "99 Cents Only Stores",
+		"id": "4acfc8c0f964a520f6d520e3"
+	},
+	{
+		"date": "2017-02-05T01:52:10.000Z",
+		"name": "McDonald's",
+		"id": "4b5829edf964a520a14c28e3"
+	},
+	{
+		"date": "2017-02-05T03:31:59.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-06T07:57:18.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-06T17:38:10.000Z",
+		"name": "Docler Media",
+		"id": "562e5ed1498efb84aa58b9a9"
+	},
+	{
+		"date": "2017-02-06T19:29:02.000Z",
+		"name": "Pavilions",
+		"id": "4a6f9d1ff964a5209cd61fe3"
+	},
+	{
+		"date": "2017-02-06T20:46:20.000Z",
+		"name": "The Burgerian",
+		"id": "583567661470b052006f3440"
+	},
+	{
+		"date": "2017-02-07T04:37:51.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-07T17:33:34.000Z",
+		"name": "Pavilions",
+		"id": "4a6f9d1ff964a5209cd61fe3"
+	},
+	{
+		"date": "2017-02-07T19:27:25.000Z",
+		"name": "Docler Media",
+		"id": "562e5ed1498efb84aa58b9a9"
+	},
+	{
+		"date": "2017-02-07T20:28:10.000Z",
+		"name": "Inti Peruvian Cuisine",
+		"id": "4b732c3ef964a520c79f2de3"
+	},
+	{
+		"date": "2017-02-08T01:32:00.000Z",
+		"name": "The Grove",
+		"id": "41687b80f964a520861d1fe3"
+	},
+	{
+		"date": "2017-02-08T01:33:58.000Z",
+		"name": "Apple The Grove",
+		"id": "49e53bc3f964a520ab631fe3"
+	},
+	{
+		"date": "2017-02-08T05:54:31.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-08T16:55:38.000Z",
+		"name": "Docler Media",
+		"id": "562e5ed1498efb84aa58b9a9"
+	},
+	{
+		"date": "2017-02-08T21:54:16.000Z",
+		"name": "Farmboy Kitchen",
+		"id": "56957cdb498e9a30b45d6df6"
+	},
+	{
+		"date": "2017-02-08T22:38:26.000Z",
+		"name": "Pavilions",
+		"id": "4a6f9d1ff964a5209cd61fe3"
+	},
+	{
+		"date": "2017-02-09T03:47:50.000Z",
+		"name": "Smart & Final Extra!",
+		"id": "4b69f17ff964a52071bd2be3"
+	},
+	{
+		"date": "2017-02-09T07:49:16.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-09T19:12:17.000Z",
+		"name": "Docler Media",
+		"id": "562e5ed1498efb84aa58b9a9"
+	},
+	{
+		"date": "2017-02-09T21:08:35.000Z",
+		"name": "Mid-City West",
+		"id": "50e4c4c8e4b04e9b0634f74b"
+	},
+	{
+		"date": "2017-02-09T21:12:24.000Z",
+		"name": "Bludso's Bar & Que",
+		"id": "51130bfbe4b0b64611319325"
+	},
+	{
+		"date": "2017-02-10T06:13:25.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-10T21:53:16.000Z",
+		"name": "Lemonade",
+		"id": "5122a4c2e4b0c6744e2ff6bd"
+	},
+	{
+		"date": "2017-02-11T04:59:20.000Z",
+		"name": "McDonald's",
+		"id": "4b53836ff964a52087a027e3"
+	},
+	{
+		"date": "2017-02-11T05:26:48.000Z",
+		"name": "Smart & Final Extra!",
+		"id": "4b69f17ff964a52071bd2be3"
+	},
+	{
+		"date": "2017-02-11T22:34:30.000Z",
+		"name": "Fala Bar",
+		"id": "532b1c1c498ee08a54ea2a25"
+	},
+	{
+		"date": "2017-02-12T07:47:13.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-12T23:18:36.000Z",
+		"name": "Umami Burger",
+		"id": "4b1eb74df964a520611e24e3"
+	},
+	{
+		"date": "2017-02-12T23:50:42.000Z",
+		"name": "Urban Outfitters",
+		"id": "49ff7f00f964a5202b701fe3"
+	},
+	{
+		"date": "2017-02-13T00:19:21.000Z",
+		"name": "The Home Depot",
+		"id": "4b18a91af964a5200dd523e3"
+	},
+	{
+		"date": "2017-02-13T21:46:29.000Z",
+		"name": "US Post Office",
+		"id": "4b635347f964a5204f722ae3"
+	},
+	{
+		"date": "2017-02-13T23:53:21.000Z",
+		"name": "Pavilions",
+		"id": "4a6f9d1ff964a5209cd61fe3"
+	},
+	{
+		"date": "2017-02-14T02:54:48.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-14T04:39:17.000Z",
+		"name": "Perch",
+		"id": "4e1f936a628469a57402c1db"
+	},
+	{
+		"date": "2017-02-14T07:02:53.000Z",
+		"name": "Downtown Los Angeles",
+		"id": "4efcdeea9adffb90ca266439"
+	},
+	{
+		"date": "2017-02-14T21:52:33.000Z",
+		"name": "Time Warner Cable",
+		"id": "51d4a222498ef7bdfa9c6472"
+	},
+	{
+		"date": "2017-02-14T21:56:48.000Z",
+		"name": "Beverly Connection",
+		"id": "4dc07a370cb60a0db2eb05dc"
+	},
+	{
+		"date": "2017-02-14T22:36:21.000Z",
+		"name": "Bank of America",
+		"id": "4b0c8d36f964a520283f23e3"
+	},
+	{
+		"date": "2017-02-14T22:39:55.000Z",
+		"name": "Beverly Center",
+		"id": "49cff672f964a520e95a1fe3"
+	},
+	{
+		"date": "2017-02-14T23:35:23.000Z",
+		"name": "Docler Media",
+		"id": "562e5ed1498efb84aa58b9a9"
+	},
+	{
+		"date": "2017-02-15T02:51:27.000Z",
+		"name": "IXLB Dimsum Eats",
+		"id": "56e32558498e6127942ebd7f"
+	},
+	{
+		"date": "2017-02-15T04:22:24.000Z",
+		"name": "Cotton Candy Residence 8",
+		"id": "583f18efe309e1771cdde1ba"
+	},
+	{
+		"date": "2017-02-15T19:19:59.000Z",
+		"name": "Docler Media",
+		"id": "562e5ed1498efb84aa58b9a9"
+	},
+	{
+		"date": "2017-02-15T21:06:44.000Z",
+		"name": "Tom Bradley International Terminal (TBIT)",
+		"id": "4bea177d62c0c9286088e0d4"
+	},
+	{
+		"date": "2017-02-15T22:55:24.000Z",
+		"name": "Gate 154",
+		"id": "5247735811d28c6b8e18ed83"
+	},
+	{
+		"date": "2017-02-16T10:23:30.000Z",
+		"name": "Frankfurt Airport (FRA) (Frankfurt Airport)",
+		"id": "4b058853f964a5201bbf22e3"
+	},
+	{
+		"date": "2017-02-16T10:37:36.000Z",
+		"name": "Baggage Claim (Gepäckausgabe)",
+		"id": "4c32165116adc928d586c19c"
+	},
+	{
+		"date": "2017-02-16T13:50:12.000Z",
+		"name": "Pfullendorf",
+		"id": "56217b71498e997b01206117"
+	},
+	{
+		"date": "2017-02-16T14:38:52.000Z",
+		"name": "Jet Tankstelle",
+		"id": "524c81e611d272ecfab228ab"
+	},
+	{
+		"date": "2017-02-16T15:11:53.000Z",
+		"name": "REWE",
+		"id": "5495bbca498ed7383280670d"
+	},
+	{
+		"date": "2017-02-17T11:31:26.000Z",
+		"name": "Thüringen-Park",
+		"id": "4b79b578f964a520a80c2fe3"
+	},
+	{
+		"date": "2017-02-17T11:31:44.000Z",
+		"name": "toy factory",
+		"id": "56e1be74498eaca0cc92654d"
+	},
+	{
+		"date": "2017-02-17T11:36:14.000Z",
+		"name": "Eiscafe Ferrara",
+		"id": "575e97d0498ebb36b9fd750b"
+	},
+	{
+		"date": "2017-02-17T13:05:36.000Z",
+		"name": "H&M",
+		"id": "520f5fc511d29b8897d044dc"
+	},
+	{
+		"date": "2017-02-17T20:38:52.000Z",
+		"name": "Pfullendorf",
+		"id": "56217b71498e997b01206117"
+	},
+	{
+		"date": "2017-02-18T07:54:45.000Z",
+		"name": "Edeka Aktiv Markt",
+		"id": "4d64015fbd253704ae62d4c5"
+	},
+	{
+		"date": "2017-02-18T11:49:01.000Z",
+		"name": "Schalaburg",
+		"id": "538ef4f9498e0a886b141aac"
+	},
+	{
+		"date": "2017-02-18T13:55:12.000Z",
+		"name": "Villa Polgar 2",
+		"id": "5724b35b498ecd6a0245b8e2"
+	},
+	{
+		"date": "2017-02-19T18:45:19.000Z",
+		"name": "Tómalom",
+		"id": "4e29ab8352b1c37d35cea4b7"
+	},
+	{
+		"date": "2017-02-20T07:18:37.000Z",
+		"name": "Shell",
+		"id": "4ccfd2232fd9b60ccc767deb"
+	},
+	{
+		"date": "2017-02-20T08:44:51.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2017-02-20T17:49:30.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2017-02-20T18:31:53.000Z",
+		"name": "Blaha Lujza tér M (4, 6)",
+		"id": "4d22d6f95c4ca1cd7801b53d"
+	},
+	{
+		"date": "2017-02-20T18:47:05.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2017-02-20T22:11:40.000Z",
+		"name": "Ciao Italia",
+		"id": "53624eb8498e1d800d564bbb"
+	},
+	{
+		"date": "2017-02-20T22:52:43.000Z",
+		"name": "Blaha Lujza tér",
+		"id": "4b609983f964a5208aef29e3"
+	},
+	{
+		"date": "2017-02-20T23:24:31.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2017-02-21T11:17:03.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2017-02-21T19:25:26.000Z",
+		"name": "Jamie's Italian Restaurant",
+		"id": "572caba6498e93bc8f43f0e0"
+	},
+	{
+		"date": "2017-02-21T22:08:36.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2017-02-22T09:17:13.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2017-02-22T17:04:09.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2017-02-22T17:44:00.000Z",
+		"name": "Vapiano",
+		"id": "4b5b206af964a520fde428e3"
+	},
+	{
+		"date": "2017-02-22T18:56:24.000Z",
+		"name": "Lámpás",
+		"id": "4b90213af964a520707733e3"
+	},
+	{
+		"date": "2017-02-22T21:40:52.000Z",
+		"name": "Kisüzem",
+		"id": "4eebb0d9f7903296f89f9d74"
+	},
+	{
+		"date": "2017-02-23T09:27:18.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2017-02-23T18:40:21.000Z",
+		"name": "Belvárosi Disznótoros",
+		"id": "54bce406498e2a412cce3bc6"
+	},
+	{
+		"date": "2017-02-23T23:03:38.000Z",
+		"name": "Király utca (4, 6)",
+		"id": "4c96542a94a0236af9f59d12"
+	},
+	{
+		"date": "2017-02-23T23:28:15.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2017-02-24T08:25:06.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2017-02-24T12:59:08.000Z",
+		"name": "Docler Cafeteria",
+		"id": "505847b7e4b0b9424ea6a1cf"
+	},
+	{
+		"date": "2017-02-24T15:23:18.000Z",
+		"name": "Docler Tetőkert",
+		"id": "519e2461498ec1672b53406d"
+	},
+	{
+		"date": "2017-02-24T17:25:45.000Z",
+		"name": "Shell",
+		"id": "4ced2a0e0acea35d2234e2ae"
+	},
+	{
+		"date": "2017-02-24T21:31:09.000Z",
+		"name": "Villa Polgar 2",
+		"id": "5724b35b498ecd6a0245b8e2"
+	},
+	{
+		"date": "2017-02-25T12:51:43.000Z",
+		"name": "Széchenyi tér",
+		"id": "4dc924f11f6e936efe52ac05"
+	},
+	{
+		"date": "2017-02-25T18:08:36.000Z",
+		"name": "Fehér Rózsa Fogadó",
+		"id": "4cd13f73fd42199ce323c56e"
+	},
+	{
+		"date": "2017-02-25T22:46:50.000Z",
+		"name": "Villa Polgar 2",
+		"id": "5724b35b498ecd6a0245b8e2"
+	},
+	{
+		"date": "2017-02-26T10:11:54.000Z",
+		"name": "Oldtimer Autobahnrestaurant & Motorhotel Guntramsdorf",
+		"id": "4b868068f964a520e18c31e3"
+	},
+	{
+		"date": "2017-02-26T12:17:49.000Z",
+		"name": "Raststation Aisterheim",
+		"id": "5224910b11d2ad37d3d83abe"
+	},
+	{
+		"date": "2017-02-26T12:23:59.000Z",
+		"name": "BP",
+		"id": "4e2bcc71b0fbc2edac2617ef"
+	},
+	{
+		"date": "2017-02-26T14:08:58.000Z",
+		"name": "A3 Autobahnrastplatz Tiefenthal",
+		"id": "4da96a205da3ba8a47706abc"
+	},
+	{
+		"date": "2017-02-26T15:36:11.000Z",
+		"name": "Rastplatz Regnitztal",
+		"id": "4eb54c5e4901cef9d875e0b1"
+	},
+	{
+		"date": "2017-02-26T16:48:29.000Z",
+		"name": "Thüringer Wald Süd",
+		"id": "559fde74498ed70fb67ec1c1"
+	},
+	{
+		"date": "2017-02-26T19:12:41.000Z",
+		"name": "Pfullendorf",
+		"id": "56217b71498e997b01206117"
+	},
+	{
+		"date": "2017-02-27T08:37:06.000Z",
+		"name": "Arnstadt",
+		"id": "4e23ece81838712abe8c0897"
+	},
+	{
+		"date": "2017-02-27T13:17:06.000Z",
+		"name": "Kaufland",
+		"id": "4e74648bd4c0934471671290"
+	},
+	{
+		"date": "2017-02-27T14:11:09.000Z",
+		"name": "Gotha",
+		"id": "4f453610e4b0ba1693d288b5"
+	},
+	{
+		"date": "2017-02-28T08:13:28.000Z",
+		"name": "Goldbach",
+		"id": "52226f4d11d2a0892b4fd7ca"
+	},
+	{
+		"date": "2017-02-28T10:03:09.000Z",
+		"name": "Raststätte Am Biggenkopf Nord",
+		"id": "51d94a67498eee6a23e5d72e"
+	},
+	{
+		"date": "2017-02-28T12:13:33.000Z",
+		"name": "Aral",
+		"id": "4e218b401f6effe84f71cebe"
+	},
+	{
+		"date": "2017-02-28T13:50:58.000Z",
+		"name": "Weesperzijde",
+		"id": "4df7ce952271607ac91624f2"
+	},
+	{
+		"date": "2017-02-28T14:17:05.000Z",
+		"name": "Loetje Oost",
+		"id": "5062d84be4b0857a7eef4f25"
+	},
+	{
+		"date": "2017-02-28T16:31:44.000Z",
+		"name": "P+R ArenA / Parkeergarage P1",
+		"id": "4d2eb6d35055a35d892b95ca"
+	},
+	{
+		"date": "2017-02-28T16:32:27.000Z",
+		"name": "Asian Kitchen",
+		"id": "51d71115498ed55498c69bc4"
+	},
+	{
+		"date": "2017-02-28T17:06:17.000Z",
+		"name": "Station Amsterdam Bijlmer ArenA",
+		"id": "4a73fd66f964a520a8dd1fe3"
+	},
+	{
+		"date": "2017-02-28T17:24:37.000Z",
+		"name": "Metrostation Wibautstraat",
+		"id": "4b4b4fd4f964a5202f9726e3"
+	},
+	{
+		"date": "2017-02-28T17:32:03.000Z",
+		"name": "Cotton Candy Residence 9",
+		"id": "58b5b40cf8408553bbaa8e3a"
+	}
+]
