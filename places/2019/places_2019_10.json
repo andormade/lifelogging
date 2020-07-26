@@ -1,0 +1,727 @@
+[
+	{
+		"date": "2019-10-01T10:23:01.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-10-02T13:57:29.000Z",
+		"name": "ING Bank",
+		"id": "4bbc2563e5b0d13a27fe6e7c"
+	},
+	{
+		"date": "2019-10-02T15:58:45.000Z",
+		"name": "Albert Heijn to go",
+		"id": "4b862ee0f964a520038231e3"
+	},
+	{
+		"date": "2019-10-05T08:38:46.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-10-06T11:39:39.000Z",
+		"name": "Aan de (Nieuwe)Gracht",
+		"id": "4dadb3a9fa8cf64d804e00af"
+	},
+	{
+		"date": "2019-10-06T11:46:29.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-10-06T16:05:55.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-10-06T16:25:24.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2019-10-06T16:54:55.000Z",
+		"name": "Lalibela",
+		"id": "4a270890f964a5201a911fe3"
+	},
+	{
+		"date": "2019-10-07T16:35:42.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-10-08T16:51:16.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-10-09T10:48:45.000Z",
+		"name": "Domino's Pizza Haarlem 3 - Station",
+		"id": "5c266634b9b37b002cd9d5fb"
+	},
+	{
+		"date": "2019-10-09T12:36:02.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-10-09T17:24:14.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-10-10T18:18:32.000Z",
+		"name": "Ramen Brothers Noodle Bar",
+		"id": "5b4e2b63a42362002c42fc59"
+	},
+	{
+		"date": "2019-10-10T19:13:42.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-10-11T16:15:14.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-10-11T16:32:21.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2019-10-11T16:45:35.000Z",
+		"name": "Station Amsterdam Lelylaan",
+		"id": "4a5623d8f964a52082b41fe3"
+	},
+	{
+		"date": "2019-10-11T16:48:08.000Z",
+		"name": "Tramhalte Station Lelylaan",
+		"id": "4d5419e4bdbea1cdeb37e392"
+	},
+	{
+		"date": "2019-10-11T19:02:18.000Z",
+		"name": "Abyssinia Afrikaans Eetcafe",
+		"id": "4a27005bf964a52030831fe3"
+	},
+	{
+		"date": "2019-10-11T20:01:33.000Z",
+		"name": "Plan B",
+		"id": "4b71ac86f964a5203e552de3"
+	},
+	{
+		"date": "2019-10-11T20:10:15.000Z",
+		"name": "Gollem's Proeflokaal",
+		"id": "4a26ff5bf964a520407f1fe3"
+	},
+	{
+		"date": "2019-10-12T10:00:49.000Z",
+		"name": "Lukx",
+		"id": "4da6c6341e725f1229741168"
+	},
+	{
+		"date": "2019-10-12T10:44:05.000Z",
+		"name": "Grote Markt",
+		"id": "4b33f1aef964a520842225e3"
+	},
+	{
+		"date": "2019-10-13T17:28:22.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-10-14T17:36:21.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-10-15T19:22:13.000Z",
+		"name": "Pathé Haarlem - Zaal 6",
+		"id": "59ac3109d8fe7a0d131046a4"
+	},
+	{
+		"date": "2019-10-17T17:09:01.000Z",
+		"name": "Karwei",
+		"id": "4b5b027ff964a520a9de28e3"
+	},
+	{
+		"date": "2019-10-18T15:40:25.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-10-18T15:50:19.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2019-10-18T16:16:31.000Z",
+		"name": "Marmaris Grill & Pizza",
+		"id": "5a847611b9a5a81dc7a625f7"
+	},
+	{
+		"date": "2019-10-18T19:15:13.000Z",
+		"name": "Groningen",
+		"id": "4d30517b5f806dcb81f217ac"
+	},
+	{
+		"date": "2019-10-18T19:34:56.000Z",
+		"name": "Miss Blanche",
+		"id": "4f35622de4b03ada5a6e79b7"
+	},
+	{
+		"date": "2019-10-19T08:01:14.000Z",
+		"name": "Bakkerij Blanche",
+		"id": "5566492b498e3a0847de1ac4"
+	},
+	{
+		"date": "2019-10-19T10:26:51.000Z",
+		"name": "Groningen Railway Station (Station Groningen)",
+		"id": "4a6cce14f964a520b4d11fe3"
+	},
+	{
+		"date": "2019-10-19T11:31:05.000Z",
+		"name": "Station Eemshaven",
+		"id": "5abb6f80cad1b651e7c36b05"
+	},
+	{
+		"date": "2019-10-19T11:49:27.000Z",
+		"name": "Veerboot Eemshaven-Borkum",
+		"id": "4c4a8ced9c8d2d7fbd1bb269"
+	},
+	{
+		"date": "2019-10-19T12:49:46.000Z",
+		"name": "Hafen Reede",
+		"id": "4db568f793a017099dea8afd"
+	},
+	{
+		"date": "2019-10-19T12:50:10.000Z",
+		"name": "Inselbahn Borkum Reede",
+		"id": "4e5a3607091a1023bdfe5cb3"
+	},
+	{
+		"date": "2019-10-19T13:17:12.000Z",
+		"name": "H Bahnhof",
+		"id": "4e5cb63252b1421c1fc35a55"
+	},
+	{
+		"date": "2019-10-19T13:46:06.000Z",
+		"name": "Neuer Leuchtturm",
+		"id": "4db48cc0a86e8d270787477e"
+	},
+	{
+		"date": "2019-10-19T14:29:22.000Z",
+		"name": "Elektrischer Leuchtturm",
+		"id": "4db2fcf4fa8c350240c24a87"
+	},
+	{
+		"date": "2019-10-19T14:29:35.000Z",
+		"name": "Restaurant Südhauk",
+		"id": "599b0df4419a9e32cdaef1b0"
+	},
+	{
+		"date": "2019-10-19T15:46:04.000Z",
+		"name": "Haltestelle Jakob-van-Dyken Weg",
+		"id": "55e5b70e498ebe456bfae26b"
+	},
+	{
+		"date": "2019-10-19T15:59:42.000Z",
+		"name": "Inselbahn Borkum Reede",
+		"id": "4e5a3607091a1023bdfe5cb3"
+	},
+	{
+		"date": "2019-10-19T16:00:04.000Z",
+		"name": "Hafen Reede",
+		"id": "4db568f793a017099dea8afd"
+	},
+	{
+		"date": "2019-10-19T17:01:29.000Z",
+		"name": "Eemshaven",
+		"id": "4bac9810f964a5201ffd3ae3"
+	},
+	{
+		"date": "2019-10-19T18:13:16.000Z",
+		"name": "Groningen Railway Station (Station Groningen)",
+		"id": "4a6cce14f964a520b4d11fe3"
+	},
+	{
+		"date": "2019-10-19T18:18:03.000Z",
+		"name": "Groningen",
+		"id": "4d30517b5f806dcb81f217ac"
+	},
+	{
+		"date": "2019-10-19T18:33:31.000Z",
+		"name": "Tekinev",
+		"id": "527e73c311d2a63967af932b"
+	},
+	{
+		"date": "2019-10-19T20:20:31.000Z",
+		"name": "Miss Blanche",
+		"id": "4f35622de4b03ada5a6e79b7"
+	},
+	{
+		"date": "2019-10-20T09:03:58.000Z",
+		"name": "Croissanterie Pigalle",
+		"id": "4c515c1c3940be9a4aafb708"
+	},
+	{
+		"date": "2019-10-20T09:58:36.000Z",
+		"name": "Groningen Railway Station (Station Groningen)",
+		"id": "4a6cce14f964a520b4d11fe3"
+	},
+	{
+		"date": "2019-10-20T10:15:52.000Z",
+		"name": "Groningen Railway Station (Station Groningen)",
+		"id": "4a6cce14f964a520b4d11fe3"
+	},
+	{
+		"date": "2019-10-20T12:40:02.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2019-10-20T13:06:25.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-10-20T13:35:54.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-10-20T13:39:28.000Z",
+		"name": "America Today",
+		"id": "4bb5d8822ea195212dceaa2f"
+	},
+	{
+		"date": "2019-10-21T04:13:34.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-10-21T04:25:01.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2019-10-21T04:51:43.000Z",
+		"name": "Schiphol Airport Railway Station (Station Schiphol Airport)",
+		"id": "4b14bf25f964a5203fa623e3"
+	},
+	{
+		"date": "2019-10-21T04:52:07.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-10-21T05:28:32.000Z",
+		"name": "Leon",
+		"id": "59c1e488d8096e1f2b366ea6"
+	},
+	{
+		"date": "2019-10-21T05:51:17.000Z",
+		"name": "Concourse B",
+		"id": "4f58b3fae4b0db2050e0a11d"
+	},
+	{
+		"date": "2019-10-21T06:29:24.000Z",
+		"name": "Gate B13",
+		"id": "4bde7c1fffdec92894d7e8a1"
+	},
+	{
+		"date": "2019-10-21T09:08:20.000Z",
+		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
+		"id": "4b61c2daf964a5200f212ae3"
+	},
+	{
+		"date": "2019-10-21T09:08:39.000Z",
+		"name": "Gate A8",
+		"id": "4e48a11ea809fb2fa4086583"
+	},
+	{
+		"date": "2019-10-21T09:54:12.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-21T15:57:50.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-21T16:52:59.000Z",
+		"name": "F8 Shop",
+		"id": "5cb764f3178a2a002c5eb4be"
+	},
+	{
+		"date": "2019-10-21T17:18:07.000Z",
+		"name": "MOST Kortárs Bisztró",
+		"id": "4b75a34bf964a520f7182ee3"
+	},
+	{
+		"date": "2019-10-21T18:18:47.000Z",
+		"name": "CBA Príma",
+		"id": "4b6b0695f964a52073ed2be3"
+	},
+	{
+		"date": "2019-10-21T20:12:07.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-22T06:21:32.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-22T15:25:35.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-22T15:58:15.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-22T20:47:51.000Z",
+		"name": "Lámpás",
+		"id": "4b90213af964a520707733e3"
+	},
+	{
+		"date": "2019-10-22T23:19:11.000Z",
+		"name": "Liquid Rock",
+		"id": "544279ef498ef5d7f4b00c06"
+	},
+	{
+		"date": "2019-10-23T00:08:01.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-23T09:07:47.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-23T15:45:32.000Z",
+		"name": "Várna utca (80, 80A, 130)",
+		"id": "4ec3eab829c2f92bf618eb8c"
+	},
+	{
+		"date": "2019-10-23T15:53:38.000Z",
+		"name": "Arena Mall",
+		"id": "4b86a275f964a520649331e3"
+	},
+	{
+		"date": "2019-10-23T16:01:37.000Z",
+		"name": "Okay Italia",
+		"id": "4eae71a4be7bd46a7bdd1b7a"
+	},
+	{
+		"date": "2019-10-23T16:49:52.000Z",
+		"name": "Várna utca (80, 80A, 130)",
+		"id": "4ec3eab829c2f92bf618eb8c"
+	},
+	{
+		"date": "2019-10-23T16:59:56.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-23T18:34:25.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-24T06:22:59.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-24T10:11:08.000Z",
+		"name": "Docler Cafeteria",
+		"id": "505847b7e4b0b9424ea6a1cf"
+	},
+	{
+		"date": "2019-10-24T16:27:16.000Z",
+		"name": "Arena Mall",
+		"id": "4b86a275f964a520649331e3"
+	},
+	{
+		"date": "2019-10-24T16:30:11.000Z",
+		"name": "Media Markt",
+		"id": "4e9d2996a17cfea2994f92a0"
+	},
+	{
+		"date": "2019-10-24T16:41:43.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4d7143ca722ef04d9fb10e9c"
+	},
+	{
+		"date": "2019-10-24T17:13:02.000Z",
+		"name": "Buddha Original Wok Bar",
+		"id": "5a229fe56fd6263a36733ed0"
+	},
+	{
+		"date": "2019-10-24T17:48:14.000Z",
+		"name": "Cinema City",
+		"id": "4cb635e07abcbfb78763a61f"
+	},
+	{
+		"date": "2019-10-25T06:51:19.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-25T16:54:00.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-25T17:21:11.000Z",
+		"name": "F8 Shop",
+		"id": "5cb764f3178a2a002c5eb4be"
+	},
+	{
+		"date": "2019-10-25T17:36:12.000Z",
+		"name": "Oktogon M (4, 6)",
+		"id": "4d54e68e143ca093235fa9fc"
+	},
+	{
+		"date": "2019-10-25T18:40:58.000Z",
+		"name": "Biang Bistro",
+		"id": "5aba7eaf826444616158db03"
+	},
+	{
+		"date": "2019-10-25T19:20:00.000Z",
+		"name": "Klub Vittula",
+		"id": "4bc5c89d41cb76b025c73e6f"
+	},
+	{
+		"date": "2019-10-25T21:21:00.000Z",
+		"name": "Gozsdu Udvar",
+		"id": "4bddd19289ca76b073825d5e"
+	},
+	{
+		"date": "2019-10-25T21:42:49.000Z",
+		"name": "Erzsébet tér",
+		"id": "4bb1a92af964a520ff9d3ce3"
+	},
+	{
+		"date": "2019-10-25T22:38:51.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-26T08:40:26.000Z",
+		"name": "Bubbles",
+		"id": "548c421c498e12525065f0e6"
+	},
+	{
+		"date": "2019-10-26T08:46:44.000Z",
+		"name": "Central Passage",
+		"id": "5757fb61498ef115d53b7e5c"
+	},
+	{
+		"date": "2019-10-26T09:10:38.000Z",
+		"name": "Gozsdu Udvar",
+		"id": "4bddd19289ca76b073825d5e"
+	},
+	{
+		"date": "2019-10-26T09:20:33.000Z",
+		"name": "Bubbles",
+		"id": "548c421c498e12525065f0e6"
+	},
+	{
+		"date": "2019-10-26T10:12:39.000Z",
+		"name": "Hunyadi tér",
+		"id": "4d94524474c8236a58f1b9fc"
+	},
+	{
+		"date": "2019-10-26T11:03:53.000Z",
+		"name": "Kozmosz Vegán Étterem",
+		"id": "5355603b498e79f744f1b54a"
+	},
+	{
+		"date": "2019-10-26T17:50:29.000Z",
+		"name": "Béla. bár, étterem, lakás, arborétum",
+		"id": "5a75e232e1f228139d789ffe"
+	},
+	{
+		"date": "2019-10-27T07:12:16.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-27T07:41:45.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-27T08:22:06.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-27T16:13:46.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-27T20:08:14.000Z",
+		"name": "Angyalföld",
+		"id": "4e7238b51520cc03b4d62c8f"
+	},
+	{
+		"date": "2019-10-28T13:36:54.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-28T17:32:16.000Z",
+		"name": "Erzsébet tér",
+		"id": "4bb1a92af964a520ff9d3ce3"
+	},
+	{
+		"date": "2019-10-28T17:58:48.000Z",
+		"name": "F8 Shop",
+		"id": "5cb764f3178a2a002c5eb4be"
+	},
+	{
+		"date": "2019-10-28T18:29:24.000Z",
+		"name": "Soul Food Budapest",
+		"id": "52b6c98f498e2f8cd536c243"
+	},
+	{
+		"date": "2019-10-28T19:04:02.000Z",
+		"name": "Jewish Quarter (Történelmi zsidónegyed)",
+		"id": "4fd47d7be4b0f4325d0aeb5d"
+	},
+	{
+		"date": "2019-10-28T19:20:08.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-29T07:29:16.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-29T10:27:48.000Z",
+		"name": "Burger King",
+		"id": "4cb20e52c5e6a1cd78a1e2f6"
+	},
+	{
+		"date": "2019-10-29T17:28:40.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-29T22:26:37.000Z",
+		"name": "Bubbles",
+		"id": "548c421c498e12525065f0e6"
+	},
+	{
+		"date": "2019-10-29T22:42:31.000Z",
+		"name": "Pizza Me #1 / La Pizza di Mamma Sophia",
+		"id": "520baad811d2408df19f9f59"
+	},
+	{
+		"date": "2019-10-29T22:52:37.000Z",
+		"name": "Roni ABC",
+		"id": "4ba52e07f964a52064e838e3"
+	},
+	{
+		"date": "2019-10-29T23:00:01.000Z",
+		"name": "Central Passage",
+		"id": "5757fb61498ef115d53b7e5c"
+	},
+	{
+		"date": "2019-10-29T23:57:34.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-30T08:07:05.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-30T10:30:08.000Z",
+		"name": "Árkád",
+		"id": "4b633a37f964a520076c2ae3"
+	},
+	{
+		"date": "2019-10-30T10:35:13.000Z",
+		"name": "Tsuru",
+		"id": "5d79e35e6b5901000817b1d1"
+	},
+	{
+		"date": "2019-10-30T11:12:31.000Z",
+		"name": "Starbucks",
+		"id": "51cbcca7498ed6ec754da71e"
+	},
+	{
+		"date": "2019-10-30T12:35:41.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-30T22:37:10.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-30T22:37:21.000Z",
+		"name": "Sky Bar",
+		"id": "51916349498e273e45276c0a"
+	},
+	{
+		"date": "2019-10-31T07:27:56.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-10-31T08:12:06.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2019-10-31T08:58:09.000Z",
+		"name": "Los Angeles",
+		"id": "5dbaa21ad250890007c4396f"
+	},
+	{
+		"date": "2019-10-31T11:48:29.000Z",
+		"name": "Árkád Parkoló",
+		"id": "4eabdfd14690ef1f6c77c459"
+	},
+	{
+		"date": "2019-10-31T11:54:06.000Z",
+		"name": "Árkád",
+		"id": "4b633a37f964a520076c2ae3"
+	},
+	{
+		"date": "2019-10-31T11:54:24.000Z",
+		"name": "Árkád Foodloft",
+		"id": "5d7e6ef1b173160007634978"
+	},
+	{
+		"date": "2019-10-31T11:54:55.000Z",
+		"name": "Burger Market",
+		"id": "5d84aa1036e5fa0008c76e6c"
+	},
+	{
+		"date": "2019-10-31T18:25:00.000Z",
+		"name": "MediaMarkt",
+		"id": "4be59fe3910020a10e35d314"
+	},
+	{
+		"date": "2019-10-31T20:50:55.000Z",
+		"name": "Kis-Tómalom",
+		"id": "4f857e8be4b05ea63f7a168f"
+	}
+]

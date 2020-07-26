@@ -1,0 +1,587 @@
+[
+	{
+		"date": "2019-03-01T06:46:01.000Z",
+		"name": "Barcelona–El Prat Josep Tarradellas Airport (BCN) (Aeropuerto Josep Tarradellas Barcelona-El Prat)",
+		"id": "4b7980a2f964a5202bfd2ee3"
+	},
+	{
+		"date": "2019-03-01T07:03:04.000Z",
+		"name": "Terminal 1",
+		"id": "4b80be31f964a5209a8930e3"
+	},
+	{
+		"date": "2019-03-01T07:14:19.000Z",
+		"name": "Vueling Check-in",
+		"id": "4f6f2c86e4b08a0bbbbc397e"
+	},
+	{
+		"date": "2019-03-01T07:14:43.000Z",
+		"name": "Security Control",
+		"id": "523011de11d258a05fabb772"
+	},
+	{
+		"date": "2019-03-01T07:37:36.000Z",
+		"name": "Gates B",
+		"id": "59ff06c618d43b6ac7df68eb"
+	},
+	{
+		"date": "2019-03-01T08:02:34.000Z",
+		"name": "BREADWAY",
+		"id": "5747ec48498e7542e3c7ab8e"
+	},
+	{
+		"date": "2019-03-01T08:47:44.000Z",
+		"name": "Gate B40",
+		"id": "4c440ae1429a0f477434481e"
+	},
+	{
+		"date": "2019-03-01T11:45:36.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-03-01T12:05:07.000Z",
+		"name": "Arrivals 1",
+		"id": "4bee5a363686c9b63371246e"
+	},
+	{
+		"date": "2019-03-01T12:22:47.000Z",
+		"name": "Baggage Belts",
+		"id": "4cadb1a50e7bbfb737705b83"
+	},
+	{
+		"date": "2019-03-01T13:21:25.000Z",
+		"name": "Haarlem",
+		"id": "4e6f9dc61838a9b627ba7ccf"
+	},
+	{
+		"date": "2019-03-01T18:06:12.000Z",
+		"name": "Ricardoz",
+		"id": "5a451ceeacc5f57ca9060d1b"
+	},
+	{
+		"date": "2019-03-02T10:25:26.000Z",
+		"name": "Grote Markt",
+		"id": "4b33f1aef964a520842225e3"
+	},
+	{
+		"date": "2019-03-02T11:00:17.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-03-02T14:27:25.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-03-05T17:49:12.000Z",
+		"name": "Nolita Pizzabar",
+		"id": "5792926c498e85cfb4c350d7"
+	},
+	{
+		"date": "2019-03-05T19:13:29.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-03-08T16:34:19.000Z",
+		"name": "CIGO",
+		"id": "4da04ae8bb206ea8fafed7fd"
+	},
+	{
+		"date": "2019-03-09T13:17:24.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-03-09T13:44:42.000Z",
+		"name": "Leiden Central Railway station (Station Leiden Centraal)",
+		"id": "4ad44a63f964a5208be720e3"
+	},
+	{
+		"date": "2019-03-09T14:18:17.000Z",
+		"name": "Rotterdam Central Station (Station Rotterdam Centraal)",
+		"id": "4ae19cc4f964a520678621e3"
+	},
+	{
+		"date": "2019-03-09T14:45:14.000Z",
+		"name": "Albert Heijn",
+		"id": "4b71a19cf964a52053522de3"
+	},
+	{
+		"date": "2019-03-09T15:10:48.000Z",
+		"name": "Station Rotterdam Noord",
+		"id": "4ad8967ef964a520921221e3"
+	},
+	{
+		"date": "2019-03-10T10:21:39.000Z",
+		"name": "Leiden Central Railway station (Station Leiden Centraal)",
+		"id": "4ad44a63f964a5208be720e3"
+	},
+	{
+		"date": "2019-03-10T10:42:10.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-03-10T10:43:01.000Z",
+		"name": "The Döner Company",
+		"id": "4d790928a56e37040e5d7567"
+	},
+	{
+		"date": "2019-03-10T11:06:47.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-03-10T18:31:20.000Z",
+		"name": "Bushalte Holterbergweg",
+		"id": "4fbfb198e4b02db73d7dfaa0"
+	},
+	{
+		"date": "2019-03-10T19:16:57.000Z",
+		"name": "Indiaport Aan De Amstel",
+		"id": "5afc62196dcf04002c13568d"
+	},
+	{
+		"date": "2019-03-10T21:43:17.000Z",
+		"name": "Ouderkerk aan de Amstel",
+		"id": "4db5cb6bfa8c3502410256be"
+	},
+	{
+		"date": "2019-03-10T21:56:53.000Z",
+		"name": "Amsterdam Zuidoost",
+		"id": "52ab789411d272af9af50e90"
+	},
+	{
+		"date": "2019-03-10T21:57:05.000Z",
+		"name": "ArenA Boulevard",
+		"id": "4bfb81f9f214a593774aaf0e"
+	},
+	{
+		"date": "2019-03-10T22:07:04.000Z",
+		"name": "JinSo",
+		"id": "4a26ffbff964a520d6801fe3"
+	},
+	{
+		"date": "2019-03-11T08:03:16.000Z",
+		"name": "Medidental",
+		"id": "4c73c3504bc4236af3a5ce7a"
+	},
+	{
+		"date": "2019-03-11T08:43:15.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-03-14T09:37:41.000Z",
+		"name": "Publiekshal Gemeente Haarlem",
+		"id": "4e8ad5779adf8878b56baf5f"
+	},
+	{
+		"date": "2019-03-14T18:06:25.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-03-14T18:22:36.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-03-15T16:52:25.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-03-16T13:18:41.000Z",
+		"name": "Karwei",
+		"id": "4b5b027ff964a520a9de28e3"
+	},
+	{
+		"date": "2019-03-16T13:56:20.000Z",
+		"name": "Vomar Voordeelmarkt",
+		"id": "4b72c969f964a52096882de3"
+	},
+	{
+		"date": "2019-03-16T14:12:55.000Z",
+		"name": "Action",
+		"id": "4c1a06b66a21c9b6735dcb97"
+	},
+	{
+		"date": "2019-03-17T11:12:13.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-03-17T13:28:59.000Z",
+		"name": "Karwei",
+		"id": "4b5b027ff964a520a9de28e3"
+	},
+	{
+		"date": "2019-03-17T14:22:59.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-03-18T17:43:05.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-03-19T17:53:27.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-03-19T20:09:59.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-03-20T06:56:29.000Z",
+		"name": "Leiden Central Railway station (Station Leiden Centraal)",
+		"id": "4ad44a63f964a5208be720e3"
+	},
+	{
+		"date": "2019-03-20T07:23:21.000Z",
+		"name": "Station Den Haag HS",
+		"id": "4b4cb4cef964a52010bb26e3"
+	},
+	{
+		"date": "2019-03-20T07:32:10.000Z",
+		"name": "Chinese Visa Application Service Center",
+		"id": "4dc3971afa76d685cdb1b8c9"
+	},
+	{
+		"date": "2019-03-20T08:33:40.000Z",
+		"name": "De Overkant",
+		"id": "4b54bd89f964a520dec927e3"
+	},
+	{
+		"date": "2019-03-20T09:30:19.000Z",
+		"name": "Station Den Haag HS",
+		"id": "4b4cb4cef964a52010bb26e3"
+	},
+	{
+		"date": "2019-03-20T10:25:59.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-03-22T15:39:27.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-03-22T16:39:01.000Z",
+		"name": "Strand Bloemendaal",
+		"id": "4bc9aea0511f95211009aec7"
+	},
+	{
+		"date": "2019-03-22T16:39:50.000Z",
+		"name": "'t Eindpunt",
+		"id": "4b794b5bf964a520adf22ee3"
+	},
+	{
+		"date": "2019-03-22T18:25:16.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-03-23T12:09:10.000Z",
+		"name": "Action",
+		"id": "4c1a06b66a21c9b6735dcb97"
+	},
+	{
+		"date": "2019-03-23T16:37:26.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-03-23T16:59:19.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-03-23T17:12:58.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-03-23T18:11:08.000Z",
+		"name": "Strand Zandvoort aan Zee",
+		"id": "4c2f344b3896e21e3978e390"
+	},
+	{
+		"date": "2019-03-23T18:11:20.000Z",
+		"name": "Passage, Zandvoort",
+		"id": "5049ff43e4b0e6163543006d"
+	},
+	{
+		"date": "2019-03-23T18:21:59.000Z",
+		"name": "Station Zandvoort aan Zee",
+		"id": "4b235a53f964a5205c5524e3"
+	},
+	{
+		"date": "2019-03-24T06:40:39.000Z",
+		"name": "Shell",
+		"id": "4b8d465ff964a52059f132e3"
+	},
+	{
+		"date": "2019-03-24T09:16:07.000Z",
+		"name": "Worldhotel Wings",
+		"id": "55158cd1498eedf961db39c8"
+	},
+	{
+		"date": "2019-03-24T09:29:18.000Z",
+		"name": "restaurant wings",
+		"id": "58c43f3fd32b4460ba7b0eb1"
+	},
+	{
+		"date": "2019-03-24T14:19:45.000Z",
+		"name": "Zestienhoven",
+		"id": "5314b053e4b0d805d372e1f3"
+	},
+	{
+		"date": "2019-03-24T16:39:38.000Z",
+		"name": "McDonald's",
+		"id": "4e60a76c18a8ce02fc0cbed0"
+	},
+	{
+		"date": "2019-03-25T13:08:08.000Z",
+		"name": "Prinsen Bolwerk Park",
+		"id": "4e04bb19e4cd92cb899e6705"
+	},
+	{
+		"date": "2019-03-25T13:21:19.000Z",
+		"name": "Medidental",
+		"id": "4c73c3504bc4236af3a5ce7a"
+	},
+	{
+		"date": "2019-03-25T19:47:34.000Z",
+		"name": "Aan de (Nieuwe)Gracht",
+		"id": "4dadb3a9fa8cf64d804e00af"
+	},
+	{
+		"date": "2019-03-26T07:18:15.000Z",
+		"name": "Den Haag Centraal Railway Station (Station Den Haag Centraal)",
+		"id": "4aeff0e3f964a52060da21e3"
+	},
+	{
+		"date": "2019-03-26T07:38:46.000Z",
+		"name": "Chinese Visa Application Service Center",
+		"id": "4dc3971afa76d685cdb1b8c9"
+	},
+	{
+		"date": "2019-03-26T08:27:21.000Z",
+		"name": "Station Den Haag HS",
+		"id": "4b4cb4cef964a52010bb26e3"
+	},
+	{
+		"date": "2019-03-26T08:43:10.000Z",
+		"name": "Den Haag Centraal Railway Station (Station Den Haag Centraal)",
+		"id": "4aeff0e3f964a52060da21e3"
+	},
+	{
+		"date": "2019-03-26T17:37:49.000Z",
+		"name": "Smaczek Supermarkt",
+		"id": "51a8ce66498e2a3950a1f59a"
+	},
+	{
+		"date": "2019-03-28T20:06:23.000Z",
+		"name": "Ramen Brothers Noodle Bar",
+		"id": "5b4e2b63a42362002c42fc59"
+	},
+	{
+		"date": "2019-03-29T17:08:48.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-03-29T17:40:31.000Z",
+		"name": "India Palace",
+		"id": "4c5057673a6f2d7f60a06877"
+	},
+	{
+		"date": "2019-03-29T19:22:23.000Z",
+		"name": "Charlie's",
+		"id": "569e9255498eadfa439e84d0"
+	},
+	{
+		"date": "2019-03-30T10:56:24.000Z",
+		"name": "Albert Heijn to go",
+		"id": "4b862ee0f964a520038231e3"
+	},
+	{
+		"date": "2019-03-30T12:22:41.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-03-30T14:36:47.000Z",
+		"name": "Stationsplein",
+		"id": "4d9b27d55e52224b50293ce3"
+	},
+	{
+		"date": "2019-03-30T15:12:30.000Z",
+		"name": "Vogelenzang",
+		"id": "4e0decdd22711665f60f4b1e"
+	},
+	{
+		"date": "2019-03-30T15:19:24.000Z",
+		"name": "Annemiekes Pluktuin",
+		"id": "4db53f514df05e5aaaedfd95"
+	},
+	{
+		"date": "2019-03-30T16:31:42.000Z",
+		"name": "Mesdaglaan",
+		"id": "5956040cb37e2b6d59ea5665"
+	},
+	{
+		"date": "2019-03-30T17:12:28.000Z",
+		"name": "Tuincentrum Overvecht",
+		"id": "4c22254d13c00f4740fa86de"
+	},
+	{
+		"date": "2019-03-30T17:12:47.000Z",
+		"name": "Huys Dever",
+		"id": "4c9a08f478ffa09306c36875"
+	},
+	{
+		"date": "2019-03-30T17:34:07.000Z",
+		"name": "De Tulperij",
+		"id": "57230bf3498e3ca50df34e37"
+	},
+	{
+		"date": "2019-03-30T18:21:23.000Z",
+		"name": "McDonald's",
+		"id": "4b78064ef964a52081b22ee3"
+	},
+	{
+		"date": "2019-03-30T19:09:06.000Z",
+		"name": "Aan de (Nieuwe)Gracht",
+		"id": "4dadb3a9fa8cf64d804e00af"
+	},
+	{
+		"date": "2019-03-31T05:14:04.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-03-31T05:29:42.000Z",
+		"name": "Juicy Details",
+		"id": "4dc017f96e8124d25dc4ac0a"
+	},
+	{
+		"date": "2019-03-31T06:12:42.000Z",
+		"name": "Grand Café Het Paleis",
+		"id": "4c9bb4d29975a143f3a22bcf"
+	},
+	{
+		"date": "2019-03-31T06:24:51.000Z",
+		"name": "Gate C8",
+		"id": "4b7ba9edf964a5203e6a2fe3"
+	},
+	{
+		"date": "2019-03-31T06:25:19.000Z",
+		"name": "Concourse C (Pier C)",
+		"id": "4f285964e4b0c67a18fb8f80"
+	},
+	{
+		"date": "2019-03-31T08:53:52.000Z",
+		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
+		"id": "4b61c2daf964a5200f212ae3"
+	},
+	{
+		"date": "2019-03-31T08:54:27.000Z",
+		"name": "Gate A8",
+		"id": "4e48a11ea809fb2fa4086583"
+	},
+	{
+		"date": "2019-03-31T09:04:31.000Z",
+		"name": "Terminal 2A",
+		"id": "4c25aa535c5ca59357e044fe"
+	},
+	{
+		"date": "2019-03-31T09:35:16.000Z",
+		"name": "Ferenciek tere",
+		"id": "4bddaa1d0ee3a593ee212eb0"
+	},
+	{
+		"date": "2019-03-31T09:52:28.000Z",
+		"name": "Tipton Showroom: Vinylize, Cinematiq, NVSBL",
+		"id": "59cd1e7ef5e9d71c43e24b09"
+	},
+	{
+		"date": "2019-03-31T10:07:56.000Z",
+		"name": "Napfényes Étterem és Cukrászda",
+		"id": "55170a79498eeca2fd28cd41"
+	},
+	{
+		"date": "2019-03-31T10:54:26.000Z",
+		"name": "Astoria",
+		"id": "4bd4c6e9cfa7b71372d924da"
+	},
+	{
+		"date": "2019-03-31T10:54:34.000Z",
+		"name": "Astoria (M2)",
+		"id": "4c687ba67963be9a44b6cdbc"
+	},
+	{
+		"date": "2019-03-31T11:27:34.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	},
+	{
+		"date": "2019-03-31T13:33:52.000Z",
+		"name": "Kincsem Park",
+		"id": "4bcfef2fa8b3a5931326635f"
+	},
+	{
+		"date": "2019-03-31T14:16:19.000Z",
+		"name": "Southern Railway Station (Déli pályaudvar)",
+		"id": "4b669af9f964a52056252be3"
+	},
+	{
+		"date": "2019-03-31T14:19:32.000Z",
+		"name": "12. vágány",
+		"id": "52457cf711d2fc5b247bf929"
+	},
+	{
+		"date": "2019-03-31T14:56:24.000Z",
+		"name": "Bicske vasútállomás",
+		"id": "4d5971671d4a8cfa4f868ced"
+	},
+	{
+		"date": "2019-03-31T15:38:49.000Z",
+		"name": "Családok parkja",
+		"id": "4e3c0ca6c65b4ec275cee904"
+	},
+	{
+		"date": "2019-03-31T16:25:17.000Z",
+		"name": "Felcsút",
+		"id": "4e86eb35d22d46fdf13d1426"
+	},
+	{
+		"date": "2019-03-31T16:35:33.000Z",
+		"name": "Pancho Aréna",
+		"id": "5353d763498eb5c7148f3b43"
+	},
+	{
+		"date": "2019-03-31T18:08:14.000Z",
+		"name": "Baracska megállóhely",
+		"id": "4d44081414aa8cfa209f613d"
+	},
+	{
+		"date": "2019-03-31T18:09:15.000Z",
+		"name": "Baracska",
+		"id": "4d946fa10f604eb917f85539"
+	},
+	{
+		"date": "2019-03-31T22:11:00.000Z",
+		"name": "Expo Congress Hotel Budapest",
+		"id": "4bd1a6f95e0cce72efc8a184"
+	}
+]

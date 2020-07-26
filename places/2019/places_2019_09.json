@@ -1,0 +1,657 @@
+[
+	{
+		"date": "2019-09-01T12:08:51.000Z",
+		"name": "Rataplan",
+		"id": "524beb0f11d267080c7ef797"
+	},
+	{
+		"date": "2019-09-01T12:28:52.000Z",
+		"name": "Het Broodjes Huis",
+		"id": "59392ab2e55d8b5bd0c68cf1"
+	},
+	{
+		"date": "2019-09-02T15:56:19.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-09-04T18:27:00.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-09-06T13:47:05.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-09-06T13:55:20.000Z",
+		"name": "Station Halfweg-Zwanenburg",
+		"id": "506447fee4b09fd7484d80cd"
+	},
+	{
+		"date": "2019-09-06T17:07:00.000Z",
+		"name": "Pizzicotto",
+		"id": "5cc45e0f12f0a9002c0a87bd"
+	},
+	{
+		"date": "2019-09-07T09:45:51.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-09-07T10:04:33.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2019-09-07T10:10:55.000Z",
+		"name": "Tram stops Amsterdam Central Station (Tramhalte Centraal Station)",
+		"id": "4be7b508d837c9b63282a406"
+	},
+	{
+		"date": "2019-09-07T10:47:01.000Z",
+		"name": "Midi Amsterdam",
+		"id": "4dc15e53d4c07bbdf7732543"
+	},
+	{
+		"date": "2019-09-07T11:07:06.000Z",
+		"name": "Tram stops Amsterdam Central Station (Tramhalte Centraal Station)",
+		"id": "4be7b508d837c9b63282a406"
+	},
+	{
+		"date": "2019-09-07T11:12:34.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2019-09-09T16:28:25.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-09-10T15:58:49.000Z",
+		"name": "DekaMarkt",
+		"id": "4b2fa935f964a520a1ed24e3"
+	},
+	{
+		"date": "2019-09-11T08:28:33.000Z",
+		"name": "Station Zandvoort aan Zee",
+		"id": "4b235a53f964a5205c5524e3"
+	},
+	{
+		"date": "2019-09-11T09:33:19.000Z",
+		"name": "Zandvoort",
+		"id": "4bd7eaee5cf276b0be389c00"
+	},
+	{
+		"date": "2019-09-11T09:46:50.000Z",
+		"name": "The Döner Company",
+		"id": "4d790928a56e37040e5d7567"
+	},
+	{
+		"date": "2019-09-12T16:26:36.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-09-12T17:02:05.000Z",
+		"name": "De Compagnon",
+		"id": "4a2703ddf964a520ab851fe3"
+	},
+	{
+		"date": "2019-09-12T21:11:28.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2019-09-13T07:29:30.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2019-09-13T07:52:56.000Z",
+		"name": "Schiphol Airport Railway Station (Station Schiphol Airport)",
+		"id": "4b14bf25f964a5203fa623e3"
+	},
+	{
+		"date": "2019-09-13T07:53:06.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-09-13T08:16:52.000Z",
+		"name": "Concourse C (Pier C)",
+		"id": "4f285964e4b0c67a18fb8f80"
+	},
+	{
+		"date": "2019-09-13T08:20:30.000Z",
+		"name": "Leon",
+		"id": "59c1e488d8096e1f2b366ea6"
+	},
+	{
+		"date": "2019-09-13T08:38:33.000Z",
+		"name": "Gate C15",
+		"id": "4bf1734a408ec928c5e76600"
+	},
+	{
+		"date": "2019-09-13T11:30:12.000Z",
+		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
+		"id": "4b61c2daf964a5200f212ae3"
+	},
+	{
+		"date": "2019-09-13T14:05:50.000Z",
+		"name": "Belváros",
+		"id": "53150d40e4b0e72a36eb4e42"
+	},
+	{
+		"date": "2019-09-13T14:23:17.000Z",
+		"name": "Fővám tér M (2)",
+		"id": "4ed32a880cd62a61dd77ef47"
+	},
+	{
+		"date": "2019-09-13T14:29:50.000Z",
+		"name": "Boráros tér H (4, 6)",
+		"id": "4d656d67b470a143da5d26fe"
+	},
+	{
+		"date": "2019-09-13T14:40:36.000Z",
+		"name": "Schönherz Zoltán Kollégium",
+		"id": "4b70505ff964a520f8112de3"
+	},
+	{
+		"date": "2019-09-13T17:59:50.000Z",
+		"name": "Allee Food Court (Allee Ételudvar)",
+		"id": "4ffad6a9e4b0903669c8ea14"
+	},
+	{
+		"date": "2019-09-13T18:15:23.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2019-09-13T23:46:05.000Z",
+		"name": "Belváros",
+		"id": "53150d40e4b0e72a36eb4e42"
+	},
+	{
+		"date": "2019-09-14T08:33:55.000Z",
+		"name": "Fővám tér M (2)",
+		"id": "4ed32a880cd62a61dd77ef47"
+	},
+	{
+		"date": "2019-09-14T08:56:44.000Z",
+		"name": "Bokréta utca (51, 51A)",
+		"id": "4e9f28a04fc679d8a715bdf6"
+	},
+	{
+		"date": "2019-09-14T09:17:44.000Z",
+		"name": "Bakelit Multi Art Center",
+		"id": "4bc33550f8219c74cfb8b510"
+	},
+	{
+		"date": "2019-09-14T09:35:10.000Z",
+		"name": "Function 2019",
+		"id": "5d7cb4482b61ba000706657a"
+	},
+	{
+		"date": "2019-09-14T18:09:40.000Z",
+		"name": "Lidl",
+		"id": "4c87ace3b231b60c015c1bec"
+	},
+	{
+		"date": "2019-09-15T00:53:58.000Z",
+		"name": "Belváros",
+		"id": "53150d40e4b0e72a36eb4e42"
+	},
+	{
+		"date": "2019-09-15T09:28:29.000Z",
+		"name": "Ferenciek tere",
+		"id": "4bddaa1d0ee3a593ee212eb0"
+	},
+	{
+		"date": "2019-09-15T10:54:57.000Z",
+		"name": "Hummus bar",
+		"id": "598c376da87921282aea69db"
+	},
+	{
+		"date": "2019-09-15T11:26:38.000Z",
+		"name": "Allee Bevásárlóközpont",
+		"id": "4ba35913f964a520883638e3"
+	},
+	{
+		"date": "2019-09-15T17:27:44.000Z",
+		"name": "Napfényes Étterem és Cukrászda",
+		"id": "55170a79498eeca2fd28cd41"
+	},
+	{
+		"date": "2019-09-15T18:08:21.000Z",
+		"name": "Ferenciek tere",
+		"id": "4bddaa1d0ee3a593ee212eb0"
+	},
+	{
+		"date": "2019-09-15T18:27:27.000Z",
+		"name": "Erzsébet tér",
+		"id": "4bb1a92af964a520ff9d3ce3"
+	},
+	{
+		"date": "2019-09-15T20:05:54.000Z",
+		"name": "Publicum",
+		"id": "58e813be375c4a70bfc5046b"
+	},
+	{
+		"date": "2019-09-15T22:00:56.000Z",
+		"name": "Fővám tér",
+		"id": "4bd88e5d03979c74c120bdd2"
+	},
+	{
+		"date": "2019-09-15T22:04:22.000Z",
+		"name": "Fővám tér (47, 48, 49)",
+		"id": "4cdac65dd4ecb1f77cbc7548"
+	},
+	{
+		"date": "2019-09-15T22:04:31.000Z",
+		"name": "Liberty Bridge (Szabadság híd)",
+		"id": "4ba79ddef964a520c4a239e3"
+	},
+	{
+		"date": "2019-09-15T22:19:16.000Z",
+		"name": "Belváros",
+		"id": "53150d40e4b0e72a36eb4e42"
+	},
+	{
+		"date": "2019-09-16T01:25:00.000Z",
+		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
+		"id": "4b61c2daf964a5200f212ae3"
+	},
+	{
+		"date": "2019-09-16T02:10:09.000Z",
+		"name": "Security Check",
+		"id": "4b4abd26f964a520bf8d26e3"
+	},
+	{
+		"date": "2019-09-16T02:54:28.000Z",
+		"name": "Costa Coffee",
+		"id": "4d8618df0a0d1456f8e111cc"
+	},
+	{
+		"date": "2019-09-16T02:55:18.000Z",
+		"name": "DR. JUICE",
+		"id": "4e782973c65b409c46a8c02c"
+	},
+	{
+		"date": "2019-09-16T06:55:30.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-09-16T07:03:30.000Z",
+		"name": "Gate C15",
+		"id": "4bf1734a408ec928c5e76600"
+	},
+	{
+		"date": "2019-09-16T07:04:02.000Z",
+		"name": "Concourse C (Pier C)",
+		"id": "4f285964e4b0c67a18fb8f80"
+	},
+	{
+		"date": "2019-09-16T09:54:52.000Z",
+		"name": "Kamera Express",
+		"id": "5be5ac9b5c68380039e77c2c"
+	},
+	{
+		"date": "2019-09-16T17:29:16.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-09-16T17:38:20.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-09-18T17:15:25.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-09-18T17:36:11.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2019-09-18T17:52:59.000Z",
+		"name": "Tolhuistuin",
+		"id": "4a9a8794f964a520ce3120e3"
+	},
+	{
+		"date": "2019-09-18T17:58:59.000Z",
+		"name": "Paradiso Noord",
+		"id": "5036b577582f27a4893d19a6"
+	},
+	{
+		"date": "2019-09-18T19:27:43.000Z",
+		"name": "GVB Veer - Buiksloterweg → Centraal Station",
+		"id": "4e022465fa764068a36ec1f0"
+	},
+	{
+		"date": "2019-09-18T19:55:02.000Z",
+		"name": "Salsa Shop",
+		"id": "574f4d9c498efc56a240b8c2"
+	},
+	{
+		"date": "2019-09-19T10:29:16.000Z",
+		"name": "Domino's Pizza Haarlem 3 - Station",
+		"id": "5c266634b9b37b002cd9d5fb"
+	},
+	{
+		"date": "2019-09-19T10:41:34.000Z",
+		"name": "Albert Heijn to go",
+		"id": "4b862ee0f964a520038231e3"
+	},
+	{
+		"date": "2019-09-20T09:56:20.000Z",
+		"name": "Kamera Express",
+		"id": "5be5ac9b5c68380039e77c2c"
+	},
+	{
+		"date": "2019-09-21T09:00:05.000Z",
+		"name": "Kinki kappers",
+		"id": "4b978e2af964a5209d0835e3"
+	},
+	{
+		"date": "2019-09-21T10:12:48.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-09-21T10:35:20.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2019-09-21T11:11:18.000Z",
+		"name": "Binnenstad",
+		"id": "5314b372e4b0d805d3745a8b"
+	},
+	{
+		"date": "2019-09-21T11:21:34.000Z",
+		"name": "Vapiano",
+		"id": "4fb28f2be4b0e2be9a5f1f6f"
+	},
+	{
+		"date": "2019-09-21T12:17:20.000Z",
+		"name": "Midi Amsterdam",
+		"id": "4dc15e53d4c07bbdf7732543"
+	},
+	{
+		"date": "2019-09-21T12:29:17.000Z",
+		"name": "Vondelpark",
+		"id": "4a27071df964a520f98c1fe3"
+	},
+	{
+		"date": "2019-09-21T13:09:45.000Z",
+		"name": "Tramhalte Ten Katestraat",
+		"id": "5a2a4bf382a75054d21ac074"
+	},
+	{
+		"date": "2019-09-21T13:32:23.000Z",
+		"name": "Herengracht",
+		"id": "4bb0a456f964a520a8513ce3"
+	},
+	{
+		"date": "2019-09-21T14:13:47.000Z",
+		"name": "Kamera Express Spui Citystore",
+		"id": "5c24f5645455b2002c7b7bdb"
+	},
+	{
+		"date": "2019-09-21T14:51:02.000Z",
+		"name": "De Jordaan",
+		"id": "4cc5d8dc4935bfb79c0cd1d8"
+	},
+	{
+		"date": "2019-09-21T15:59:11.000Z",
+		"name": "The Cold Pressed Juicery",
+		"id": "572670dc498ee138c18b2773"
+	},
+	{
+		"date": "2019-09-21T16:03:57.000Z",
+		"name": "Homomonument",
+		"id": "4bd573f26798ef3bc750638d"
+	},
+	{
+		"date": "2019-09-21T16:04:16.000Z",
+		"name": "Westermarkt",
+		"id": "4bd9f81b3904a5937d78449e"
+	},
+	{
+		"date": "2019-09-21T16:04:23.000Z",
+		"name": "Tram- en Bushalte Westermarkt",
+		"id": "4b8a69b5f964a520cf6b32e3"
+	},
+	{
+		"date": "2019-09-21T16:48:02.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-09-21T16:48:12.000Z",
+		"name": "Albert Heijn to go",
+		"id": "4b862ee0f964a520038231e3"
+	},
+	{
+		"date": "2019-09-22T11:21:41.000Z",
+		"name": "Kamera Express",
+		"id": "5be5ac9b5c68380039e77c2c"
+	},
+	{
+		"date": "2019-09-22T11:33:48.000Z",
+		"name": "Shuz By Vollaerts",
+		"id": "4db9b80c4df0ded98bd886c5"
+	},
+	{
+		"date": "2019-09-22T11:34:12.000Z",
+		"name": "Clarks",
+		"id": "56dac1b5498e597070061abf"
+	},
+	{
+		"date": "2019-09-22T11:38:39.000Z",
+		"name": "McDonald's",
+		"id": "4cbf1ced021ca143a7c2590c"
+	},
+	{
+		"date": "2019-09-22T11:58:34.000Z",
+		"name": "Zara",
+		"id": "520a45ba11d25973ec7d9563"
+	},
+	{
+		"date": "2019-09-25T11:07:03.000Z",
+		"name": "Albert Heijn to go",
+		"id": "4b862ee0f964a520038231e3"
+	},
+	{
+		"date": "2019-09-26T12:48:58.000Z",
+		"name": "SUBWAY",
+		"id": "4e899f5e9a52f9bbd0e654b4"
+	},
+	{
+		"date": "2019-09-26T17:45:09.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-09-27T09:18:24.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-09-27T09:51:30.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-09-27T10:06:17.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2019-09-27T10:18:56.000Z",
+		"name": "Schiphol Airport Railway Station (Station Schiphol Airport)",
+		"id": "4b14bf25f964a5203fa623e3"
+	},
+	{
+		"date": "2019-09-27T10:20:34.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-09-27T10:24:34.000Z",
+		"name": "Departures 1",
+		"id": "4ba43205f964a520fa8a38e3"
+	},
+	{
+		"date": "2019-09-27T10:34:52.000Z",
+		"name": "Concourse B",
+		"id": "4f58b3fae4b0db2050e0a11d"
+	},
+	{
+		"date": "2019-09-27T10:41:52.000Z",
+		"name": "KLM Crown Lounge 25 (Schengen)",
+		"id": "4bd6bfa06f6495213b3f71ec"
+	},
+	{
+		"date": "2019-09-27T12:09:25.000Z",
+		"name": "Concourse C (Pier C)",
+		"id": "4f285964e4b0c67a18fb8f80"
+	},
+	{
+		"date": "2019-09-27T12:09:37.000Z",
+		"name": "Gate C16",
+		"id": "4b5dcc6df964a520406c29e3"
+	},
+	{
+		"date": "2019-09-27T14:24:53.000Z",
+		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
+		"id": "4b61c2daf964a5200f212ae3"
+	},
+	{
+		"date": "2019-09-27T14:36:28.000Z",
+		"name": "Victoria's Secret",
+		"id": "54a64c9f498eca72324e0a38"
+	},
+	{
+		"date": "2019-09-27T15:06:51.000Z",
+		"name": "Euro Family",
+		"id": "56bdbb63498e4006003082a7"
+	},
+	{
+		"date": "2019-09-27T15:07:05.000Z",
+		"name": "H&M",
+		"id": "5051ba0fe4b0253ca5155787"
+	},
+	{
+		"date": "2019-09-27T17:16:50.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4cf0fb0e6c29236abaca62a2"
+	},
+	{
+		"date": "2019-09-27T21:27:13.000Z",
+		"name": "Kömlőd",
+		"id": "503b8c5ae4b0d21c218fe9eb"
+	},
+	{
+		"date": "2019-09-27T21:28:02.000Z",
+		"name": "Mordor",
+		"id": "4e3ac625b0fbca6e84b89938"
+	},
+	{
+		"date": "2019-09-28T08:36:11.000Z",
+		"name": "Környe",
+		"id": "4da9ca0a8154abafc29c9b02"
+	},
+	{
+		"date": "2019-09-28T09:03:18.000Z",
+		"name": "Ferencmajor Pikant Pajta",
+		"id": "59870e24b9a5a866d53f348c"
+	},
+	{
+		"date": "2019-09-28T11:01:52.000Z",
+		"name": "Baj",
+		"id": "53615278498e260f81ce7338"
+	},
+	{
+		"date": "2019-09-28T11:34:47.000Z",
+		"name": "Assisi Szent Ferec Templom",
+		"id": "5d8f45500190cd0008788a15"
+	},
+	{
+		"date": "2019-09-28T16:15:27.000Z",
+		"name": "Ferencmajor Pikant Pajta",
+		"id": "59870e24b9a5a866d53f348c"
+	},
+	{
+		"date": "2019-09-29T12:34:19.000Z",
+		"name": "Kömlőd",
+		"id": "503b8c5ae4b0d21c218fe9eb"
+	},
+	{
+		"date": "2019-09-29T12:44:18.000Z",
+		"name": "Mordor",
+		"id": "4e3ac625b0fbca6e84b89938"
+	},
+	{
+		"date": "2019-09-29T16:26:20.000Z",
+		"name": "McDonald's and McCafé",
+		"id": "4b9e33b5f964a52077d136e3"
+	},
+	{
+		"date": "2019-09-29T17:51:33.000Z",
+		"name": "Ibis Styles Budapest Airport Hotel",
+		"id": "59abf95c86bc494d39c32db6"
+	},
+	{
+		"date": "2019-09-29T17:59:32.000Z",
+		"name": "Mirage Etterem",
+		"id": "5bc638fbc62b49002c240045"
+	},
+	{
+		"date": "2019-09-30T02:54:59.000Z",
+		"name": "Terminal 2A",
+		"id": "4c25aa535c5ca59357e044fe"
+	},
+	{
+		"date": "2019-09-30T02:55:27.000Z",
+		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
+		"id": "4b61c2daf964a5200f212ae3"
+	},
+	{
+		"date": "2019-09-30T03:03:57.000Z",
+		"name": "Security Check",
+		"id": "4b4abd26f964a520bf8d26e3"
+	},
+	{
+		"date": "2019-09-30T03:14:37.000Z",
+		"name": "Gate A7",
+		"id": "4deb4538d22da22d4eea03ca"
+	},
+	{
+		"date": "2019-09-30T06:52:07.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-09-30T07:07:31.000Z",
+		"name": "Gate C15",
+		"id": "4bf1734a408ec928c5e76600"
+	},
+	{
+		"date": "2019-09-30T07:09:38.000Z",
+		"name": "Concourse C (Pier C)",
+		"id": "4f285964e4b0c67a18fb8f80"
+	},
+	{
+		"date": "2019-09-30T16:33:43.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	}
+]

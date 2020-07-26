@@ -1,0 +1,492 @@
+[
+	{
+		"date": "2019-06-01T08:23:09.000Z",
+		"name": "Zuidas",
+		"id": "5175a0bfe4b0fcf80b143d7a"
+	},
+	{
+		"date": "2019-06-01T08:27:00.000Z",
+		"name": "Busstation Zuid",
+		"id": "4d6bbfe8994f224b243818eb"
+	},
+	{
+		"date": "2019-06-01T08:37:51.000Z",
+		"name": "Amsterdam Zuid Railway Station (Station Amsterdam Zuid)",
+		"id": "4a952e89f964a520a62220e3"
+	},
+	{
+		"date": "2019-06-01T08:43:20.000Z",
+		"name": "Olympiaplein",
+		"id": "4c6c02996af58cfaa2868517"
+	},
+	{
+		"date": "2019-06-01T13:09:13.000Z",
+		"name": "Hoofddorppleinbuurt",
+		"id": "5314b1f3e4b0d805d373a23b"
+	},
+	{
+		"date": "2019-06-01T13:30:47.000Z",
+		"name": "Amsterdamse Bos",
+		"id": "4b6d7515f964a52089752ce3"
+	},
+	{
+		"date": "2019-06-01T13:48:29.000Z",
+		"name": "A'damse Bos 'Radarterrein'",
+		"id": "4da851c86e81162ae7a3e589"
+	},
+	{
+		"date": "2019-06-01T14:10:02.000Z",
+		"name": "Diynamic Festival",
+		"id": "5cf28732fb8e59002c4cfe06"
+	},
+	{
+		"date": "2019-06-01T21:01:15.000Z",
+		"name": "Bosbaan Running Track",
+		"id": "4e636ae3b993678bb6e89077"
+	},
+	{
+		"date": "2019-06-01T21:03:05.000Z",
+		"name": "Jachtwerf Klaver",
+		"id": "4fc201a9e4b0c1dd0a147c4d"
+	},
+	{
+		"date": "2019-06-01T21:07:10.000Z",
+		"name": "Inloopbaan Olympisch Stadion",
+		"id": "4eaf087b722e4efd6156a612"
+	},
+	{
+		"date": "2019-06-01T21:20:12.000Z",
+		"name": "Pizzarella",
+		"id": "5c707c7b27cbd1002562bf78"
+	},
+	{
+		"date": "2019-06-01T23:24:45.000Z",
+		"name": "Amsterdam Zuid Railway Station (Station Amsterdam Zuid)",
+		"id": "4a952e89f964a520a62220e3"
+	},
+	{
+		"date": "2019-06-02T12:51:26.000Z",
+		"name": "Zandvoort",
+		"id": "4bd7eaee5cf276b0be389c00"
+	},
+	{
+		"date": "2019-06-02T13:45:53.000Z",
+		"name": "Strand Zandvoort aan Zee",
+		"id": "4c2f344b3896e21e3978e390"
+	},
+	{
+		"date": "2019-06-02T16:31:26.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-06-03T17:06:15.000Z",
+		"name": "Stationsplein",
+		"id": "4d9b27d55e52224b50293ce3"
+	},
+	{
+		"date": "2019-06-04T17:46:17.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-06-05T10:09:49.000Z",
+		"name": "The Döner Company",
+		"id": "4d790928a56e37040e5d7567"
+	},
+	{
+		"date": "2019-06-05T17:25:25.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-06-06T17:48:14.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-06-07T09:54:03.000Z",
+		"name": "Kamera Express",
+		"id": "5be5ac9b5c68380039e77c2c"
+	},
+	{
+		"date": "2019-06-07T13:24:03.000Z",
+		"name": "Albert Heijn to go",
+		"id": "4b862ee0f964a520038231e3"
+	},
+	{
+		"date": "2019-06-07T13:24:10.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-06-07T13:57:56.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2019-06-07T14:22:05.000Z",
+		"name": "Schiphol Airport Railway Station (Station Schiphol Airport)",
+		"id": "4b14bf25f964a5203fa623e3"
+	},
+	{
+		"date": "2019-06-07T14:24:30.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-06-07T14:41:50.000Z",
+		"name": "KLM Crown Lounge 25 (Schengen)",
+		"id": "4bd6bfa06f6495213b3f71ec"
+	},
+	{
+		"date": "2019-06-07T15:22:04.000Z",
+		"name": "Concourse B",
+		"id": "4f58b3fae4b0db2050e0a11d"
+	},
+	{
+		"date": "2019-06-07T19:19:43.000Z",
+		"name": "Vienna International Airport (VIE) (Flughafen Wien-Schwechat)",
+		"id": "4b05889af964a520e5cf22e3"
+	},
+	{
+		"date": "2019-06-07T20:27:52.000Z",
+		"name": "Tómalom",
+		"id": "4e29ab8352b1c37d35cea4b7"
+	},
+	{
+		"date": "2019-06-08T12:05:28.000Z",
+		"name": "Kis-Tómalom",
+		"id": "4f857e8be4b05ea63f7a168f"
+	},
+	{
+		"date": "2019-06-08T15:52:07.000Z",
+		"name": "Museum Cafe",
+		"id": "582ad93bbd894921e95a75a7"
+	},
+	{
+		"date": "2019-06-08T17:03:42.000Z",
+		"name": "Fő tér",
+		"id": "4cc1918e21a4f04d87be6455"
+	},
+	{
+		"date": "2019-06-08T20:13:26.000Z",
+		"name": "Gyógygödör",
+		"id": "4df33e9c1f6e818dae000510"
+	},
+	{
+		"date": "2019-06-08T22:48:55.000Z",
+		"name": "Deák tér",
+		"id": "4d7cceeb34f7721e4f0acc25"
+	},
+	{
+		"date": "2019-06-08T22:58:56.000Z",
+		"name": "Sopron vasútállomás",
+		"id": "4bd6fe6529eb9c749dee95e1"
+	},
+	{
+		"date": "2019-06-08T23:16:02.000Z",
+		"name": "OTP Bank",
+		"id": "4e6df5e21f6e39092ee70dcf"
+	},
+	{
+		"date": "2019-06-08T23:32:18.000Z",
+		"name": "Tómalom",
+		"id": "4e29ab8352b1c37d35cea4b7"
+	},
+	{
+		"date": "2019-06-09T08:10:02.000Z",
+		"name": "Széchenyi tér",
+		"id": "4dc924f11f6e936efe52ac05"
+	},
+	{
+		"date": "2019-06-10T07:14:42.000Z",
+		"name": "Vienna International Airport (VIE) (Flughafen Wien-Schwechat)",
+		"id": "4b05889af964a520e5cf22e3"
+	},
+	{
+		"date": "2019-06-10T07:55:04.000Z",
+		"name": "Bierbar",
+		"id": "5b2b27eea5a3150039e4491a"
+	},
+	{
+		"date": "2019-06-10T12:55:56.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-06-10T12:59:45.000Z",
+		"name": "Gate B35",
+		"id": "4bf01aaa51f2c9b66e30f192"
+	},
+	{
+		"date": "2019-06-10T12:59:59.000Z",
+		"name": "Concourse B",
+		"id": "4f58b3fae4b0db2050e0a11d"
+	},
+	{
+		"date": "2019-06-10T13:31:51.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2019-06-10T14:13:22.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-06-12T11:02:59.000Z",
+		"name": "Domino's Pizza Haarlem 3 - Station",
+		"id": "5c266634b9b37b002cd9d5fb"
+	},
+	{
+		"date": "2019-06-13T16:50:45.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-06-14T09:55:04.000Z",
+		"name": "Kamera Express",
+		"id": "5be5ac9b5c68380039e77c2c"
+	},
+	{
+		"date": "2019-06-14T09:55:36.000Z",
+		"name": "Grote Markt",
+		"id": "4b33f1aef964a520842225e3"
+	},
+	{
+		"date": "2019-06-14T10:01:46.000Z",
+		"name": "Mr. Bing",
+		"id": "5b02a94f9d6a19002ccdd485"
+	},
+	{
+		"date": "2019-06-14T17:29:39.000Z",
+		"name": "Luca pizzeria",
+		"id": "4ba7a257f964a52089a439e3"
+	},
+	{
+		"date": "2019-06-14T19:08:43.000Z",
+		"name": "Amsterdamse Poort",
+		"id": "4bdb283a63c5c9b6e79b2668"
+	},
+	{
+		"date": "2019-06-14T19:27:04.000Z",
+		"name": "Aan de (Nieuwe)Gracht",
+		"id": "4dadb3a9fa8cf64d804e00af"
+	},
+	{
+		"date": "2019-06-15T12:12:22.000Z",
+		"name": "Marqt",
+		"id": "4ae1d0e3f964a520aa8721e3"
+	},
+	{
+		"date": "2019-06-16T10:10:46.000Z",
+		"name": "De Klimmuur",
+		"id": "4b925dc3f964a520b7f433e3"
+	},
+	{
+		"date": "2019-06-16T11:16:27.000Z",
+		"name": "De Fabriek",
+		"id": "5ba937b318d43b002cda5cb0"
+	},
+	{
+		"date": "2019-06-16T13:30:26.000Z",
+		"name": "RataPlan Kringloopwinkel",
+		"id": "521897ae11d2a6c2dd0f0d1a"
+	},
+	{
+		"date": "2019-06-16T13:34:05.000Z",
+		"name": "Action",
+		"id": "4c1a06b66a21c9b6735dcb97"
+	},
+	{
+		"date": "2019-06-16T14:32:09.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-06-16T15:08:16.000Z",
+		"name": "Leiden Central Railway station (Station Leiden Centraal)",
+		"id": "4ad44a63f964a5208be720e3"
+	},
+	{
+		"date": "2019-06-16T15:48:08.000Z",
+		"name": "Rotterdam Central Station (Station Rotterdam Centraal)",
+		"id": "4ae19cc4f964a520678621e3"
+	},
+	{
+		"date": "2019-06-16T16:05:46.000Z",
+		"name": "Blijdorp",
+		"id": "4e09edd32271dfa46bbf92e2"
+	},
+	{
+		"date": "2019-06-16T20:39:32.000Z",
+		"name": "Rotterdam Central Station (Station Rotterdam Centraal)",
+		"id": "4ae19cc4f964a520678621e3"
+	},
+	{
+		"date": "2019-06-16T21:20:42.000Z",
+		"name": "Leiden Central Railway station (Station Leiden Centraal)",
+		"id": "4ad44a63f964a5208be720e3"
+	},
+	{
+		"date": "2019-06-18T17:13:00.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-06-19T18:03:47.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-06-21T09:52:19.000Z",
+		"name": "Kamera Express",
+		"id": "5be5ac9b5c68380039e77c2c"
+	},
+	{
+		"date": "2019-06-21T09:58:13.000Z",
+		"name": "SUBWAY",
+		"id": "4e899f5e9a52f9bbd0e654b4"
+	},
+	{
+		"date": "2019-06-21T18:10:47.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-06-21T18:43:50.000Z",
+		"name": "Bushalte Toolenburg",
+		"id": "4bff607a369476b046c98d1f"
+	},
+	{
+		"date": "2019-06-22T08:18:33.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-06-22T08:46:51.000Z",
+		"name": "Catharijnebrug",
+		"id": "4c6e3263f338236a14e8091b"
+	},
+	{
+		"date": "2019-06-22T09:08:31.000Z",
+		"name": "Aan de (Nieuwe)Gracht",
+		"id": "4dadb3a9fa8cf64d804e00af"
+	},
+	{
+		"date": "2019-06-23T12:52:45.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-06-23T16:36:28.000Z",
+		"name": "Goethe Instituut",
+		"id": "4ba7483ff964a520878939e3"
+	},
+	{
+		"date": "2019-06-23T19:59:27.000Z",
+		"name": "Metrostation Rokin",
+		"id": "4ce01089c4f6a35d1ec6d36c"
+	},
+	{
+		"date": "2019-06-23T20:08:28.000Z",
+		"name": "Salsa Shop",
+		"id": "574f4d9c498efc56a240b8c2"
+	},
+	{
+		"date": "2019-06-26T17:48:28.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-06-27T17:40:37.000Z",
+		"name": "Marqt",
+		"id": "5c6d30ff598e64002c962760"
+	},
+	{
+		"date": "2019-06-27T17:59:15.000Z",
+		"name": "Aalsmeerweg",
+		"id": "508047d8e4b0ac00f43485d5"
+	},
+	{
+		"date": "2019-06-27T22:30:27.000Z",
+		"name": "Bus 15 Amsterdam Zuid - Sloterdijk",
+		"id": "4b7a78aff964a520c62d2fe3"
+	},
+	{
+		"date": "2019-06-27T22:52:11.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2019-06-28T10:17:06.000Z",
+		"name": "Burger King",
+		"id": "4b3e3645f964a520939925e3"
+	},
+	{
+		"date": "2019-06-28T17:49:41.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-06-29T13:54:06.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-06-29T15:08:39.000Z",
+		"name": "Strand Zandvoort aan Zee",
+		"id": "4c2f344b3896e21e3978e390"
+	},
+	{
+		"date": "2019-06-29T16:37:15.000Z",
+		"name": "Passage, Zandvoort",
+		"id": "5049ff43e4b0e6163543006d"
+	},
+	{
+		"date": "2019-06-29T16:46:48.000Z",
+		"name": "La Fontanella",
+		"id": "4bd47c2d6798ef3bcab0618d"
+	},
+	{
+		"date": "2019-06-29T18:52:00.000Z",
+		"name": "Station Zandvoort aan Zee",
+		"id": "4b235a53f964a5205c5524e3"
+	},
+	{
+		"date": "2019-06-29T19:07:22.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-06-29T19:45:34.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-06-30T10:16:29.000Z",
+		"name": "Jansbrug",
+		"id": "4e7cc07eb9934b432d065769"
+	},
+	{
+		"date": "2019-06-30T11:27:55.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-06-30T11:35:35.000Z",
+		"name": "Station Haarlem Spaarnwoude",
+		"id": "4accafdef964a52034c920e3"
+	},
+	{
+		"date": "2019-06-30T11:45:37.000Z",
+		"name": "IKEA Restaurant",
+		"id": "4d52d39e747f6dcb7372d1d4"
+	},
+	{
+		"date": "2019-06-30T11:57:00.000Z",
+		"name": "IKEA",
+		"id": "4b48d278f964a520a75826e3"
+	}
+]

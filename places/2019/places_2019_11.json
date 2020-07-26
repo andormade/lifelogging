@@ -1,0 +1,617 @@
+[
+	{
+		"date": "2019-11-01T10:17:00.000Z",
+		"name": "Fő tér",
+		"id": "4cc1918e21a4f04d87be6455"
+	},
+	{
+		"date": "2019-11-01T10:24:40.000Z",
+		"name": "Orsolya tér",
+		"id": "4e2fdb681495329633084b8f"
+	},
+	{
+		"date": "2019-11-01T11:21:29.000Z",
+		"name": "Várker Café & Wine",
+		"id": "5717bd2c498e017185ed28eb"
+	},
+	{
+		"date": "2019-11-01T18:58:22.000Z",
+		"name": "Schmauser Étterem és Söröző",
+		"id": "4d03c11ba2685481edbbb3bd"
+	},
+	{
+		"date": "2019-11-01T21:26:48.000Z",
+		"name": "Bus Station (Autóbusz-állomás)",
+		"id": "4e63853bd164ddd5e63948ff"
+	},
+	{
+		"date": "2019-11-01T21:53:36.000Z",
+		"name": "Kis-Tómalom",
+		"id": "4f857e8be4b05ea63f7a168f"
+	},
+	{
+		"date": "2019-11-02T19:09:34.000Z",
+		"name": "Petrolhead Próbaterem",
+		"id": "5dbdd4694cb90600085a3e99"
+	},
+	{
+		"date": "2019-11-02T20:57:24.000Z",
+		"name": "Gázfröccs",
+		"id": "4e1c132e922e66c066417ce3"
+	},
+	{
+		"date": "2019-11-02T22:41:12.000Z",
+		"name": "Alcatraz Ételbár",
+		"id": "4d1a3472bb64224b8b8ad465"
+	},
+	{
+		"date": "2019-11-02T23:20:56.000Z",
+		"name": "Kis-Tómalom",
+		"id": "4f857e8be4b05ea63f7a168f"
+	},
+	{
+		"date": "2019-11-03T18:18:13.000Z",
+		"name": "Vienna International Airport (VIE) (Flughafen Wien-Schwechat)",
+		"id": "4b05889af964a520e5cf22e3"
+	},
+	{
+		"date": "2019-11-03T18:20:50.000Z",
+		"name": "Terminal 1",
+		"id": "4cbdc27c7148f04da3d4eeab"
+	},
+	{
+		"date": "2019-11-03T18:39:16.000Z",
+		"name": "Security Checkpoint B/C",
+		"id": "4f15c41fe4b0aabf1c0d41a7"
+	},
+	{
+		"date": "2019-11-03T18:39:30.000Z",
+		"name": "Daily Roast Vienna",
+		"id": "4bbc8d302d9ea59366b5a0ce"
+	},
+	{
+		"date": "2019-11-03T18:55:43.000Z",
+		"name": "Gate C35",
+		"id": "4cca51139b934688710c4e41"
+	},
+	{
+		"date": "2019-11-03T21:55:52.000Z",
+		"name": "Zwanenburgbaan (18C / 36C)",
+		"id": "500c2d93e4b0629c8be02085"
+	},
+	{
+		"date": "2019-11-03T21:59:21.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-11-03T22:03:02.000Z",
+		"name": "Gate M3",
+		"id": "4b628c88f964a520044b2ae3"
+	},
+	{
+		"date": "2019-11-03T22:08:42.000Z",
+		"name": "Baggage Belts",
+		"id": "4cadb1a50e7bbfb737705b83"
+	},
+	{
+		"date": "2019-11-03T22:53:42.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-11-03T23:02:56.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-11-04T18:36:11.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-11-08T10:56:17.000Z",
+		"name": "SUBWAY",
+		"id": "4e899f5e9a52f9bbd0e654b4"
+	},
+	{
+		"date": "2019-11-08T18:35:13.000Z",
+		"name": "Chidoz",
+		"id": "5dc5b55b0860780008bdd97c"
+	},
+	{
+		"date": "2019-11-08T18:45:55.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-11-08T19:10:42.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2019-11-08T19:35:10.000Z",
+		"name": "Dam",
+		"id": "4b9ff646f964a520f44d37e3"
+	},
+	{
+		"date": "2019-11-08T19:39:51.000Z",
+		"name": "BeerTemple",
+		"id": "4ab13fe4f964a520b86820e3"
+	},
+	{
+		"date": "2019-11-09T02:32:28.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-11-09T11:57:00.000Z",
+		"name": "Kinki kappers",
+		"id": "4b978e2af964a5209d0835e3"
+	},
+	{
+		"date": "2019-11-09T12:22:51.000Z",
+		"name": "McDonald's",
+		"id": "4cbf1ced021ca143a7c2590c"
+	},
+	{
+		"date": "2019-11-09T12:37:11.000Z",
+		"name": "H&M",
+		"id": "4b1a6b59f964a5201dea23e3"
+	},
+	{
+		"date": "2019-11-09T13:28:22.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-11-10T15:39:43.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-11-10T16:09:31.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-11-13T19:14:14.000Z",
+		"name": "Sumo",
+		"id": "50a7ba98e4b0740a17dedff7"
+	},
+	{
+		"date": "2019-11-14T11:37:31.000Z",
+		"name": "Apple Haarlem",
+		"id": "529e315f11d2f188f40a235a"
+	},
+	{
+		"date": "2019-11-14T14:21:29.000Z",
+		"name": "Apple Haarlem",
+		"id": "529e315f11d2f188f40a235a"
+	},
+	{
+		"date": "2019-11-14T14:54:58.000Z",
+		"name": "Lukx",
+		"id": "4da6c6341e725f1229741168"
+	},
+	{
+		"date": "2019-11-14T17:46:00.000Z",
+		"name": "Vomar Voordeelmarkt",
+		"id": "4b72c969f964a52096882de3"
+	},
+	{
+		"date": "2019-11-16T11:21:39.000Z",
+		"name": "Kinki kappers",
+		"id": "4b978e2af964a5209d0835e3"
+	},
+	{
+		"date": "2019-11-16T17:50:37.000Z",
+		"name": "Marqt",
+		"id": "4ae1d0e3f964a520aa8721e3"
+	},
+	{
+		"date": "2019-11-17T19:34:56.000Z",
+		"name": "Ramen Brothers Noodle Bar",
+		"id": "5b4e2b63a42362002c42fc59"
+	},
+	{
+		"date": "2019-11-19T18:13:14.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-11-19T18:28:07.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2019-11-19T18:33:42.000Z",
+		"name": "Metrostation Amsterdam Centraal",
+		"id": "4aa604b9f964a520a94920e3"
+	},
+	{
+		"date": "2019-11-19T18:45:16.000Z",
+		"name": "Amsterdam Zuid Railway Station (Station Amsterdam Zuid)",
+		"id": "4a952e89f964a520a62220e3"
+	},
+	{
+		"date": "2019-11-19T19:00:26.000Z",
+		"name": "Bus 15 Amsterdam Zuid - Sloterdijk",
+		"id": "4b7a78aff964a520c62d2fe3"
+	},
+	{
+		"date": "2019-11-19T19:00:32.000Z",
+		"name": "Hoofddorppleinbuurt",
+		"id": "5314b1f3e4b0d805d373a23b"
+	},
+	{
+		"date": "2019-11-20T09:23:11.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-11-20T11:36:36.000Z",
+		"name": "Chidoz",
+		"id": "5dc5b55b0860780008bdd97c"
+	},
+	{
+		"date": "2019-11-21T18:01:44.000Z",
+		"name": "McDonald's",
+		"id": "4cbf1ced021ca143a7c2590c"
+	},
+	{
+		"date": "2019-11-22T16:17:22.000Z",
+		"name": "Kamera Express",
+		"id": "5be5ac9b5c68380039e77c2c"
+	},
+	{
+		"date": "2019-11-22T16:21:35.000Z",
+		"name": "Apple Haarlem",
+		"id": "529e315f11d2f188f40a235a"
+	},
+	{
+		"date": "2019-11-22T17:20:08.000Z",
+		"name": "Karwei",
+		"id": "4b5b027ff964a520a9de28e3"
+	},
+	{
+		"date": "2019-11-22T18:05:46.000Z",
+		"name": "SLA",
+		"id": "57caa839498e1f871ab5ad3c"
+	},
+	{
+		"date": "2019-11-23T14:08:49.000Z",
+		"name": "America Today",
+		"id": "4bb5d8822ea195212dceaa2f"
+	},
+	{
+		"date": "2019-11-23T14:24:15.000Z",
+		"name": "Zara",
+		"id": "520a45ba11d25973ec7d9563"
+	},
+	{
+		"date": "2019-11-23T14:25:58.000Z",
+		"name": "Esprit",
+		"id": "4e749dcbe4cd325436eafd1a"
+	},
+	{
+		"date": "2019-11-24T09:12:40.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-11-24T09:30:39.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2019-11-24T09:58:32.000Z",
+		"name": "Schiphol Airport Railway Station (Station Schiphol Airport)",
+		"id": "4b14bf25f964a5203fa623e3"
+	},
+	{
+		"date": "2019-11-24T09:58:51.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-11-24T10:34:56.000Z",
+		"name": "KLM Crown Lounge 25 (Schengen)",
+		"id": "4bd6bfa06f6495213b3f71ec"
+	},
+	{
+		"date": "2019-11-24T13:05:51.000Z",
+		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
+		"id": "4ba14c55f964a52045aa37e3"
+	},
+	{
+		"date": "2019-11-24T14:05:48.000Z",
+		"name": "Novotel Luxembourg Kirchberg",
+		"id": "4c47409031e41b8d61334c35"
+	},
+	{
+		"date": "2019-11-24T14:47:15.000Z",
+		"name": "Station de Tramway - Theater",
+		"id": "5b6a6c66a6ec98002c17f6e6"
+	},
+	{
+		"date": "2019-11-24T15:39:32.000Z",
+		"name": "Vapiano",
+		"id": "536bbc5d498e4934d70dd5bc"
+	},
+	{
+		"date": "2019-11-24T16:06:58.000Z",
+		"name": "Kirchberg",
+		"id": "4e26bc61b61ce3fb055101c6"
+	},
+	{
+		"date": "2019-11-24T16:16:59.000Z",
+		"name": "Novotel Luxembourg Kirchberg",
+		"id": "4c47409031e41b8d61334c35"
+	},
+	{
+		"date": "2019-11-25T14:22:15.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2019-11-25T15:43:35.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2019-11-25T18:34:30.000Z",
+		"name": "Vapiano",
+		"id": "4c51b35b3940be9a6a8e4e09"
+	},
+	{
+		"date": "2019-11-26T06:08:45.000Z",
+		"name": "Suite Novotel Luxembourg",
+		"id": "4dcd1a43d4c065592f5c57e6"
+	},
+	{
+		"date": "2019-11-26T06:15:46.000Z",
+		"name": "Station De Tramway - Europaparlament",
+		"id": "5ab9f064acb00b74530fb76f"
+	},
+	{
+		"date": "2019-11-26T06:26:18.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2019-11-26T11:25:48.000Z",
+		"name": "Farinella",
+		"id": "4b98da80f964a520975235e3"
+	},
+	{
+		"date": "2019-11-26T11:42:00.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2019-11-26T14:47:09.000Z",
+		"name": "Lineheart City Auchan",
+		"id": "4d96f4a8b188721e502f0337"
+	},
+	{
+		"date": "2019-11-26T15:00:06.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2019-11-26T16:43:19.000Z",
+		"name": "Station De Tramway - Alphonse Weicker",
+		"id": "52189d6911d2469c67ce9234"
+	},
+	{
+		"date": "2019-11-26T16:55:09.000Z",
+		"name": "Suite Novotel Luxembourg",
+		"id": "4dcd1a43d4c065592f5c57e6"
+	},
+	{
+		"date": "2019-11-26T16:55:38.000Z",
+		"name": "Novotel Luxembourg Kirchberg",
+		"id": "4c47409031e41b8d61334c35"
+	},
+	{
+		"date": "2019-11-26T17:52:17.000Z",
+		"name": "Station De Tramway - Rout Bréck - Pafendall",
+		"id": "5a2e9544e185f33e5e00b24b"
+	},
+	{
+		"date": "2019-11-26T18:19:49.000Z",
+		"name": "Five Guys",
+		"id": "5b9bad624c9be6002c89b121"
+	},
+	{
+		"date": "2019-11-26T19:14:23.000Z",
+		"name": "Banque Raiffeisen",
+		"id": "51becd7e498e51f04fb6500d"
+	},
+	{
+		"date": "2019-11-26T19:34:34.000Z",
+		"name": "Place de la Constitution",
+		"id": "4f00842c6c25c5ce81e1cabd"
+	},
+	{
+		"date": "2019-11-26T20:15:39.000Z",
+		"name": "Indie's",
+		"id": "4b841a89f964a520ec2031e3"
+	},
+	{
+		"date": "2019-11-26T22:37:37.000Z",
+		"name": "Suite Novotel Luxembourg",
+		"id": "4dcd1a43d4c065592f5c57e6"
+	},
+	{
+		"date": "2019-11-27T07:59:13.000Z",
+		"name": "Station De Tramway - Europaparlament",
+		"id": "5ab9f064acb00b74530fb76f"
+	},
+	{
+		"date": "2019-11-27T10:41:19.000Z",
+		"name": "Raku-An",
+		"id": "522eede811d261c3d2a69ea2"
+	},
+	{
+		"date": "2019-11-27T11:23:14.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2019-11-27T11:39:25.000Z",
+		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
+		"id": "4ba14c55f964a52045aa37e3"
+	},
+	{
+		"date": "2019-11-27T12:15:02.000Z",
+		"name": "Business Lounge",
+		"id": "4ba37c70f964a520354138e3"
+	},
+	{
+		"date": "2019-11-27T13:03:51.000Z",
+		"name": "Terminal B",
+		"id": "59622833603d2a7c948972b5"
+	},
+	{
+		"date": "2019-11-27T13:03:57.000Z",
+		"name": "Gate B02",
+		"id": "5974c436da2e0076a0b44b2c"
+	},
+	{
+		"date": "2019-11-27T14:43:23.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-11-27T15:03:41.000Z",
+		"name": "Baggage Belts",
+		"id": "4cadb1a50e7bbfb737705b83"
+	},
+	{
+		"date": "2019-11-27T15:07:52.000Z",
+		"name": "Busstation Schiphol",
+		"id": "4b753feff964a520c4022ee3"
+	},
+	{
+		"date": "2019-11-28T09:03:14.000Z",
+		"name": "Van der Valk Notariaat",
+		"id": "592fcb4d8d0a534906ea50ae"
+	},
+	{
+		"date": "2019-11-28T12:21:57.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-11-28T12:42:21.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-11-28T13:01:31.000Z",
+		"name": "Station Zandvoort aan Zee",
+		"id": "4b235a53f964a5205c5524e3"
+	},
+	{
+		"date": "2019-11-28T13:48:16.000Z",
+		"name": "Zandvoort",
+		"id": "4bd7eaee5cf276b0be389c00"
+	},
+	{
+		"date": "2019-11-28T14:01:12.000Z",
+		"name": "Albert Heijn",
+		"id": "4c78cf56794e224b9a716328"
+	},
+	{
+		"date": "2019-11-28T14:10:27.000Z",
+		"name": "Cotton Candy Residence 11",
+		"id": "5ddfd54913ff8900082c61f4"
+	},
+	{
+		"date": "2019-11-28T17:36:17.000Z",
+		"name": "Filoxenia",
+		"id": "4bd8871d35aad13a3b1b91f3"
+	},
+	{
+		"date": "2019-11-28T19:52:23.000Z",
+		"name": "Cotton Candy Residence 11",
+		"id": "5ddfd54913ff8900082c61f4"
+	},
+	{
+		"date": "2019-11-29T07:24:21.000Z",
+		"name": "Station Zandvoort aan Zee",
+		"id": "4b235a53f964a5205c5524e3"
+	},
+	{
+		"date": "2019-11-29T08:12:39.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-11-29T09:54:14.000Z",
+		"name": "Karwei",
+		"id": "4b5b027ff964a520a9de28e3"
+	},
+	{
+		"date": "2019-11-29T12:21:34.000Z",
+		"name": "Domino's Pizza Haarlem 3 - Station",
+		"id": "5c266634b9b37b002cd9d5fb"
+	},
+	{
+		"date": "2019-11-29T15:44:59.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-11-29T15:56:32.000Z",
+		"name": "Station Zandvoort aan Zee",
+		"id": "4b235a53f964a5205c5524e3"
+	},
+	{
+		"date": "2019-11-29T16:02:37.000Z",
+		"name": "Cotton Candy Residence 11",
+		"id": "5ddfd54913ff8900082c61f4"
+	},
+	{
+		"date": "2019-11-29T19:19:44.000Z",
+		"name": "Albert Heijn",
+		"id": "4c78cf56794e224b9a716328"
+	},
+	{
+		"date": "2019-11-30T09:16:55.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-11-30T09:26:01.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-11-30T11:11:44.000Z",
+		"name": "Action",
+		"id": "4c1a06b66a21c9b6735dcb97"
+	},
+	{
+		"date": "2019-11-30T17:51:56.000Z",
+		"name": "Jopenkerk",
+		"id": "4c727bda2b7fef3bdc3c8e1d"
+	},
+	{
+		"date": "2019-11-30T18:13:54.000Z",
+		"name": "Monsieur Rouge",
+		"id": "5dbd52fbd8fcdc0008795c41"
+	},
+	{
+		"date": "2019-11-30T21:23:23.000Z",
+		"name": "Table 24",
+		"id": "55463675498e2185e720f295"
+	},
+	{
+		"date": "2019-11-30T22:36:44.000Z",
+		"name": "Milando",
+		"id": "5de2eef3a08a530008c82eaf"
+	}
+]

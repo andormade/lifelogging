@@ -1,0 +1,752 @@
+[
+	{
+		"date": "2019-02-01T11:20:37.000Z",
+		"name": "The Döner Company",
+		"id": "4d790928a56e37040e5d7567"
+	},
+	{
+		"date": "2019-02-01T16:28:32.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-02-06T18:34:56.000Z",
+		"name": "Luca pizzeria",
+		"id": "4ba7a257f964a52089a439e3"
+	},
+	{
+		"date": "2019-02-07T18:00:20.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-02-08T15:25:46.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2019-02-08T15:57:10.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-02-08T16:44:49.000Z",
+		"name": "Gate M6",
+		"id": "4c1fbb018b3aa5933dec9d5f"
+	},
+	{
+		"date": "2019-02-08T18:54:30.000Z",
+		"name": "Vienna International Airport (VIE) (Flughafen Wien-Schwechat)",
+		"id": "4b05889af964a520e5cf22e3"
+	},
+	{
+		"date": "2019-02-09T06:50:09.000Z",
+		"name": "Kis-Tómalom",
+		"id": "4f857e8be4b05ea63f7a168f"
+	},
+	{
+		"date": "2019-02-09T09:04:45.000Z",
+		"name": "Sopron vasútállomás",
+		"id": "4bd6fe6529eb9c749dee95e1"
+	},
+	{
+		"date": "2019-02-09T09:34:07.000Z",
+		"name": "Pinnye vasútállomás",
+		"id": "4dd6ab8d1838b8561cd33e22"
+	},
+	{
+		"date": "2019-02-09T10:33:12.000Z",
+		"name": "Ács vasútállomás",
+		"id": "4cf7e84ab9792d4305a75695"
+	},
+	{
+		"date": "2019-02-09T11:26:29.000Z",
+		"name": "Viadukt",
+		"id": "4d568213ba5b224be8701b14"
+	},
+	{
+		"date": "2019-02-09T12:00:56.000Z",
+		"name": "Eastern Railway Station (Keleti pályaudvar)",
+		"id": "4b6e7d14f964a52065bf2ce3"
+	},
+	{
+		"date": "2019-02-09T12:32:05.000Z",
+		"name": "Millennium da Pippo",
+		"id": "4bdb47be3904a593269c499e"
+	},
+	{
+		"date": "2019-02-09T18:36:08.000Z",
+		"name": "Flow Specialty Coffee Bar & Bistro",
+		"id": "5ae766daccad6b003934a725"
+	},
+	{
+		"date": "2019-02-09T20:48:03.000Z",
+		"name": "Kodály körönd",
+		"id": "4bfed210ca1920a1b2e5eb81"
+	},
+	{
+		"date": "2019-02-09T21:26:14.000Z",
+		"name": "Japanika",
+		"id": "57742815498e90a3e8d3e0cf"
+	},
+	{
+		"date": "2019-02-09T23:00:34.000Z",
+		"name": "Kodály körönd",
+		"id": "4bfed210ca1920a1b2e5eb81"
+	},
+	{
+		"date": "2019-02-10T19:02:00.000Z",
+		"name": "Kozmosz Vegán Étterem",
+		"id": "5355603b498e79f744f1b54a"
+	},
+	{
+		"date": "2019-02-11T06:19:15.000Z",
+		"name": "Deák Ferenc tér",
+		"id": "4d52c0d74015b1f7b1017ecf"
+	},
+	{
+		"date": "2019-02-11T06:36:34.000Z",
+		"name": "Kristóf tér",
+		"id": "4e2ec279d4c058fdbeec6f71"
+	},
+	{
+		"date": "2019-02-11T07:02:29.000Z",
+		"name": "Közvágóhíd (H6)",
+		"id": "4c73ca4cad69b60c76f286b9"
+	},
+	{
+		"date": "2019-02-11T07:47:30.000Z",
+		"name": "Dunaharaszti",
+		"id": "4d10c1486331a093418f5894"
+	},
+	{
+		"date": "2019-02-11T07:48:18.000Z",
+		"name": "Haraszti Caffe - Kek Duna Uzlethaz",
+		"id": "4c8b5b44e51e6dcb208c71de"
+	},
+	{
+		"date": "2019-02-11T08:05:21.000Z",
+		"name": "Timi Presszó",
+		"id": "4e5e82ff14954da39ff12960"
+	},
+	{
+		"date": "2019-02-11T08:56:41.000Z",
+		"name": "TESCO Szupermarket",
+		"id": "4e7a1b9eb993294fe76f7be4"
+	},
+	{
+		"date": "2019-02-11T09:49:25.000Z",
+		"name": "Dunavarsány",
+		"id": "4f51f15de4b0776d6409a3a9"
+	},
+	{
+		"date": "2019-02-11T10:06:07.000Z",
+		"name": "Délegyháza",
+		"id": "4dff2c7f45dd3320c8821603"
+	},
+	{
+		"date": "2019-02-11T10:43:41.000Z",
+		"name": "OTP Bank",
+		"id": "4dc7ba081f6ef43b8a4b914d"
+	},
+	{
+		"date": "2019-02-11T11:26:55.000Z",
+		"name": "Kispesti Városháza",
+		"id": "4cb4b3623f0676b0af27ff0c"
+	},
+	{
+		"date": "2019-02-11T11:38:34.000Z",
+		"name": "Halásztanya Étterem",
+		"id": "4c7a41a1794e224b7d0b6828"
+	},
+	{
+		"date": "2019-02-11T12:44:27.000Z",
+		"name": "Kormányablak XIX.",
+		"id": "58299e8a991e9b05db26ab96"
+	},
+	{
+		"date": "2019-02-11T13:13:55.000Z",
+		"name": "Árpád utca (50)",
+		"id": "4e992fd51081f57b9e105edf"
+	},
+	{
+		"date": "2019-02-11T13:24:37.000Z",
+		"name": "Határ út M (50)",
+		"id": "4c12440c7f7f2d7f90eddc68"
+	},
+	{
+		"date": "2019-02-11T13:48:48.000Z",
+		"name": "Deák Ferenc tér",
+		"id": "4d52c0d74015b1f7b1017ecf"
+	},
+	{
+		"date": "2019-02-11T14:01:51.000Z",
+		"name": "Deák Ferenc tér (M1, M2, M3)",
+		"id": "4d8850fb3acc6dcbbe0c051c"
+	},
+	{
+		"date": "2019-02-11T14:18:29.000Z",
+		"name": "Dózsa György út‎ (70)",
+		"id": "4d4d325ea7f86ea86fe833de"
+	},
+	{
+		"date": "2019-02-11T17:23:02.000Z",
+		"name": "Tisza István tér",
+		"id": "4fd8d720e4b0bb2199d96d99"
+	},
+	{
+		"date": "2019-02-11T19:16:20.000Z",
+		"name": "Tájfun",
+		"id": "4bff9adbc30a2d7fdd26111d"
+	},
+	{
+		"date": "2019-02-12T08:51:18.000Z",
+		"name": "City Park (Városliget)",
+		"id": "4b900084f964a520656f33e3"
+	},
+	{
+		"date": "2019-02-12T09:07:26.000Z",
+		"name": "Honvédkórház (1, 1A)",
+		"id": "4dc2fecde4cd169dc60f7552"
+	},
+	{
+		"date": "2019-02-12T09:14:14.000Z",
+		"name": "Országos Egészségbiztosítási Pénztár",
+		"id": "4df72a181f6e94c2c77ebef6"
+	},
+	{
+		"date": "2019-02-12T11:08:12.000Z",
+		"name": "Lehel tér",
+		"id": "4c04bec19a7920a17faad179"
+	},
+	{
+		"date": "2019-02-12T11:19:13.000Z",
+		"name": "OTP Bank",
+		"id": "4e707492e4cd5c8693fc36b7"
+	},
+	{
+		"date": "2019-02-12T11:19:36.000Z",
+		"name": "AnalogueZone Showroom",
+		"id": "52ed7c12498e3e1e276b4dab"
+	},
+	{
+		"date": "2019-02-12T12:05:07.000Z",
+		"name": "Menza étterem és kávézó",
+		"id": "4b293089f964a520b09a24e3"
+	},
+	{
+		"date": "2019-02-12T12:11:32.000Z",
+		"name": "Korhely Faloda & Daloda",
+		"id": "5301f85b11d2746a5e166782"
+	},
+	{
+		"date": "2019-02-12T12:44:44.000Z",
+		"name": "SPAR",
+		"id": "4bd9b7100115c9b68f547880"
+	},
+	{
+		"date": "2019-02-12T18:34:22.000Z",
+		"name": "BEAC - Budapesti Egyetemi Atlétikai Club",
+		"id": "4cab5d83f47ea1435d208b21"
+	},
+	{
+		"date": "2019-02-12T19:41:00.000Z",
+		"name": "A Kert Bisztro",
+		"id": "572de858cd10eebee6b8b9fe"
+	},
+	{
+		"date": "2019-02-12T21:21:18.000Z",
+		"name": "City Park (Városliget)",
+		"id": "4b900084f964a520656f33e3"
+	},
+	{
+		"date": "2019-02-13T03:11:53.000Z",
+		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
+		"id": "4b61c2daf964a5200f212ae3"
+	},
+	{
+		"date": "2019-02-13T03:12:17.000Z",
+		"name": "Terminal 2A",
+		"id": "4c25aa535c5ca59357e044fe"
+	},
+	{
+		"date": "2019-02-13T03:48:21.000Z",
+		"name": "SkyCourt Lounge",
+		"id": "57593a6e498ed513d7bbc030"
+	},
+	{
+		"date": "2019-02-13T04:58:12.000Z",
+		"name": "Gate A10",
+		"id": "4dddc91dd16415421835d8b9"
+	},
+	{
+		"date": "2019-02-13T07:34:23.000Z",
+		"name": "Zwanenburgbaan (18C / 36C)",
+		"id": "500c2d93e4b0629c8be02085"
+	},
+	{
+		"date": "2019-02-13T07:55:03.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-02-13T07:57:01.000Z",
+		"name": "Busstation Schiphol",
+		"id": "4b753feff964a520c4022ee3"
+	},
+	{
+		"date": "2019-02-15T18:13:22.000Z",
+		"name": "Flamboyant",
+		"id": "4bacffebf964a520f2223be3"
+	},
+	{
+		"date": "2019-02-15T20:52:04.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-02-17T11:48:49.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-02-19T19:39:22.000Z",
+		"name": "Ramen Brothers Noodle Bar",
+		"id": "5b4e2b63a42362002c42fc59"
+	},
+	{
+		"date": "2019-02-21T17:08:29.000Z",
+		"name": "Grote Markt",
+		"id": "4b33f1aef964a520842225e3"
+	},
+	{
+		"date": "2019-02-21T17:20:04.000Z",
+		"name": "Zara",
+		"id": "520a45ba11d25973ec7d9563"
+	},
+	{
+		"date": "2019-02-21T17:27:12.000Z",
+		"name": "Apple Haarlem",
+		"id": "529e315f11d2f188f40a235a"
+	},
+	{
+		"date": "2019-02-22T15:48:02.000Z",
+		"name": "Kinki kappers",
+		"id": "4b978e2af964a5209d0835e3"
+	},
+	{
+		"date": "2019-02-22T17:02:54.000Z",
+		"name": "The Döner Company",
+		"id": "4d790928a56e37040e5d7567"
+	},
+	{
+		"date": "2019-02-22T18:35:28.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2019-02-22T20:18:31.000Z",
+		"name": "Hoofddorppleinbuurt",
+		"id": "5314b1f3e4b0d805d373a23b"
+	},
+	{
+		"date": "2019-02-22T20:42:28.000Z",
+		"name": "Butcher's Tears Brewery and Taprooom",
+		"id": "51ddc1b6498eadcc7ed489c2"
+	},
+	{
+		"date": "2019-02-22T22:49:51.000Z",
+		"name": "Pizzarella",
+		"id": "5c707c7b27cbd1002562bf78"
+	},
+	{
+		"date": "2019-02-23T11:42:58.000Z",
+		"name": "Grote Markt",
+		"id": "4b33f1aef964a520842225e3"
+	},
+	{
+		"date": "2019-02-23T12:14:51.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2019-02-23T16:56:18.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2019-02-24T18:42:10.000Z",
+		"name": "Mickey’s Caucasian Kitchen & Bar",
+		"id": "5b8c2eb0018cbb0039a243d3"
+	},
+	{
+		"date": "2019-02-25T04:41:58.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2019-02-25T04:52:55.000Z",
+		"name": "Departures 1",
+		"id": "4ba43205f964a520fa8a38e3"
+	},
+	{
+		"date": "2019-02-25T04:55:27.000Z",
+		"name": "Concourse D",
+		"id": "4b6cf91ef964a520fb602ce3"
+	},
+	{
+		"date": "2019-02-25T05:34:15.000Z",
+		"name": "Gate D86",
+		"id": "4b9b4c05f964a520fcfe35e3"
+	},
+	{
+		"date": "2019-02-25T08:02:35.000Z",
+		"name": "Barcelona–El Prat Josep Tarradellas Airport (BCN) (Aeropuerto Josep Tarradellas Barcelona-El Prat)",
+		"id": "4b7980a2f964a5202bfd2ee3"
+	},
+	{
+		"date": "2019-02-25T08:24:18.000Z",
+		"name": "Baggage Claim (Recogida de Equipajes)",
+		"id": "55157805498eb5350a513400"
+	},
+	{
+		"date": "2019-02-25T09:09:38.000Z",
+		"name": "L'Hospitalet de Llobregat",
+		"id": "4c4ee7a792b6a593a5f0af70"
+	},
+	{
+		"date": "2019-02-25T10:24:49.000Z",
+		"name": "Fira Barcelona Gran Via",
+		"id": "4bcc52eb3740b713efc46365"
+	},
+	{
+		"date": "2019-02-25T10:32:11.000Z",
+		"name": "Hall 3 (Pabellón 3)",
+		"id": "522efe8111d2b224d82a5ffd"
+	},
+	{
+		"date": "2019-02-25T14:01:07.000Z",
+		"name": "Hall 6 (Pabellón 6)",
+		"id": "4d088dc5c26ba143aee61917"
+	},
+	{
+		"date": "2019-02-25T14:55:21.000Z",
+		"name": "Hall 8.1 (Pabellon 8.1)",
+		"id": "512cb663e4b012002e219005"
+	},
+	{
+		"date": "2019-02-25T15:11:57.000Z",
+		"name": "Plaça d'Espanya (Plaza de España)",
+		"id": "4b7c12aff964a520517b2fe3"
+	},
+	{
+		"date": "2019-02-25T16:03:11.000Z",
+		"name": "L'Hospitalet de Llobregat",
+		"id": "4c4ee7a792b6a593a5f0af70"
+	},
+	{
+		"date": "2019-02-25T19:45:54.000Z",
+		"name": "La Mestressa",
+		"id": "4fb4bc21d5fbc56ee2d87446"
+	},
+	{
+		"date": "2019-02-25T21:40:56.000Z",
+		"name": "Bao Bao",
+		"id": "5800b1d5d67c00ba3f63ac13"
+	},
+	{
+		"date": "2019-02-25T23:00:10.000Z",
+		"name": "Plaça del Repartidor",
+		"id": "4f3c0b8be4b04bfb5aa1849f"
+	},
+	{
+		"date": "2019-02-26T08:31:56.000Z",
+		"name": "Plaça de Catalunya (Plaza de Cataluña)",
+		"id": "4adcda50f964a520274121e3"
+	},
+	{
+		"date": "2019-02-26T08:38:45.000Z",
+		"name": "Rambla de Canaletas",
+		"id": "57cf3c54498ee3f24f147717"
+	},
+	{
+		"date": "2019-02-26T08:55:22.000Z",
+		"name": "Granja M. Viader",
+		"id": "4b67fec4f964a5205d632be3"
+	},
+	{
+		"date": "2019-02-26T10:14:31.000Z",
+		"name": "Fira Barcelona Gran Via",
+		"id": "4bcc52eb3740b713efc46365"
+	},
+	{
+		"date": "2019-02-26T10:41:55.000Z",
+		"name": "Hall 1 (Pabellón 1)",
+		"id": "530b01ac498edd4dc68ee6a4"
+	},
+	{
+		"date": "2019-02-26T11:49:07.000Z",
+		"name": "Hall 6 (Pabellón 6)",
+		"id": "4d088dc5c26ba143aee61917"
+	},
+	{
+		"date": "2019-02-26T12:26:38.000Z",
+		"name": "MWC Barcelona 2019",
+		"id": "5c6fb7c925ecca002c1178c6"
+	},
+	{
+		"date": "2019-02-26T14:38:47.000Z",
+		"name": "Plaça d'Espanya (Plaza de España)",
+		"id": "4b7c12aff964a520517b2fe3"
+	},
+	{
+		"date": "2019-02-26T14:44:57.000Z",
+		"name": "METRO Espanya",
+		"id": "4b3fdc9af964a520beb025e3"
+	},
+	{
+		"date": "2019-02-26T15:47:50.000Z",
+		"name": "Restaurante Salamanca",
+		"id": "4adcda53f964a520854221e3"
+	},
+	{
+		"date": "2019-02-26T16:47:24.000Z",
+		"name": "Barceloneta Beach (Playa de la Barceloneta)",
+		"id": "4c0d3610d64c0f47665e265d"
+	},
+	{
+		"date": "2019-02-26T17:29:47.000Z",
+		"name": "Platja",
+		"id": "5a8029e7a4ba7c144b93ef2e"
+	},
+	{
+		"date": "2019-02-26T18:15:52.000Z",
+		"name": "Restaurant Agua",
+		"id": "4adcda53f964a520694221e3"
+	},
+	{
+		"date": "2019-02-26T19:32:45.000Z",
+		"name": "El Born",
+		"id": "4cea6c1bd99f721ec556bb73"
+	},
+	{
+		"date": "2019-02-26T19:37:31.000Z",
+		"name": "Creps al Born",
+		"id": "4b86cf58f964a520e49e31e3"
+	},
+	{
+		"date": "2019-02-27T07:35:38.000Z",
+		"name": "L'Hospitalet de Llobregat",
+		"id": "4c4ee7a792b6a593a5f0af70"
+	},
+	{
+		"date": "2019-02-27T08:38:14.000Z",
+		"name": "La Pinza",
+		"id": "4e66028cb993678bb8247108"
+	},
+	{
+		"date": "2019-02-27T08:44:24.000Z",
+		"name": "Taberna del Cazador",
+		"id": "53adebef498ec5c31883e7f7"
+	},
+	{
+		"date": "2019-02-27T09:24:11.000Z",
+		"name": "Plaça d'Ildefons Cerdà",
+		"id": "4d70ed08419da35d56a40cd8"
+	},
+	{
+		"date": "2019-02-27T09:42:55.000Z",
+		"name": "Fira Barcelona Gran Via",
+		"id": "4bcc52eb3740b713efc46365"
+	},
+	{
+		"date": "2019-02-27T12:22:54.000Z",
+		"name": "Hall 6 (Pabellón 6)",
+		"id": "4d088dc5c26ba143aee61917"
+	},
+	{
+		"date": "2019-02-27T12:42:23.000Z",
+		"name": "Hall 7 (Pabellón 7)",
+		"id": "564300cf498e5f48e96c2f81"
+	},
+	{
+		"date": "2019-02-27T14:21:47.000Z",
+		"name": "Hall 4 (Pabellón 4)",
+		"id": "4e7c508a8877aac4a9645002"
+	},
+	{
+		"date": "2019-02-27T14:56:20.000Z",
+		"name": "Hall 5 (Pabellón 5)",
+		"id": "5126831de4b022c38d1fd312"
+	},
+	{
+		"date": "2019-02-27T15:58:23.000Z",
+		"name": "McDonald's",
+		"id": "50bfcbbde4b0d73f84baa82d"
+	},
+	{
+		"date": "2019-02-27T16:51:15.000Z",
+		"name": "Monument a Colom (Monumento a Colón)",
+		"id": "4b9cfc34f964a5209c8636e3"
+	},
+	{
+		"date": "2019-02-27T17:00:07.000Z",
+		"name": "Plaça Duc de Medinacelli",
+		"id": "4da7390c5da37feee899d8b6"
+	},
+	{
+		"date": "2019-02-27T17:02:35.000Z",
+		"name": "Plaça de la Mercè",
+		"id": "4e6f4e8f15201662a40cd2c4"
+	},
+	{
+		"date": "2019-02-27T17:13:26.000Z",
+		"name": "Gothic Quarter (Barrio Gótico)",
+		"id": "4c45dcab429a0f479cb94a1e"
+	},
+	{
+		"date": "2019-02-27T17:14:45.000Z",
+		"name": "Plaça Nova",
+		"id": "4c9e4394542b224b7953f29f"
+	},
+	{
+		"date": "2019-02-27T17:41:04.000Z",
+		"name": "Mango",
+		"id": "4da70c17a86e215681716357"
+	},
+	{
+		"date": "2019-02-27T17:43:29.000Z",
+		"name": "Plaça de Catalunya (Plaza de Cataluña)",
+		"id": "4adcda50f964a520274121e3"
+	},
+	{
+		"date": "2019-02-27T18:26:45.000Z",
+		"name": "Port de Barcelona",
+		"id": "4d328a03f8c9224ba475b2d2"
+	},
+	{
+		"date": "2019-02-27T18:50:52.000Z",
+		"name": "Pla de Palau",
+		"id": "4adcda50f964a5205f4121e3"
+	},
+	{
+		"date": "2019-02-27T19:28:46.000Z",
+		"name": "La Champaneria",
+		"id": "536e4201498e234eb9df3cab"
+	},
+	{
+		"date": "2019-02-27T20:29:01.000Z",
+		"name": "Stereo 18",
+		"id": "5a4032999deb7d432ff3121b"
+	},
+	{
+		"date": "2019-02-27T20:52:59.000Z",
+		"name": "Dr. Stravinsky",
+		"id": "58d6e93ba149266752ffea97"
+	},
+	{
+		"date": "2019-02-27T22:59:33.000Z",
+		"name": "Plaça del Repartidor",
+		"id": "4f3c0b8be4b04bfb5aa1849f"
+	},
+	{
+		"date": "2019-02-28T08:30:13.000Z",
+		"name": "Plaça de l'Ajuntament",
+		"id": "4cceac092dc43704d9d4d508"
+	},
+	{
+		"date": "2019-02-28T09:01:16.000Z",
+		"name": "Plaça d'Europa",
+		"id": "4d402232cb84b60cf14a83ab"
+	},
+	{
+		"date": "2019-02-28T09:08:03.000Z",
+		"name": "Faborit",
+		"id": "57c54a9038fa87581449ea53"
+	},
+	{
+		"date": "2019-02-28T10:04:14.000Z",
+		"name": "Fira Barcelona Gran Via",
+		"id": "4bcc52eb3740b713efc46365"
+	},
+	{
+		"date": "2019-02-28T10:17:57.000Z",
+		"name": "Hall 6 (Pabellón 6)",
+		"id": "4d088dc5c26ba143aee61917"
+	},
+	{
+		"date": "2019-02-28T11:01:21.000Z",
+		"name": "Hall 8.1 (Pabellon 8.1)",
+		"id": "512cb663e4b012002e219005"
+	},
+	{
+		"date": "2019-02-28T11:35:23.000Z",
+		"name": "MWC Barcelona 2019",
+		"id": "5c6fb7c925ecca002c1178c6"
+	},
+	{
+		"date": "2019-02-28T12:28:14.000Z",
+		"name": "Hall 1 (Pabellón 1)",
+		"id": "530b01ac498edd4dc68ee6a4"
+	},
+	{
+		"date": "2019-02-28T14:04:11.000Z",
+		"name": "Plaça d'Europa",
+		"id": "4d402232cb84b60cf14a83ab"
+	},
+	{
+		"date": "2019-02-28T14:26:15.000Z",
+		"name": "Mirador de l'Aeroport del Prat",
+		"id": "4d039e39e350b60c47237e42"
+	},
+	{
+		"date": "2019-02-28T15:01:46.000Z",
+		"name": "Espais Naturals del Delta del Llobregat (Cal Tet, Ca l'Arana)",
+		"id": "4d43f6cf2e326ea87b11dfa6"
+	},
+	{
+		"date": "2019-02-28T15:22:33.000Z",
+		"name": "Mirador de la Bunyola",
+		"id": "4e2e9f3be4cdb5a70d5f7f56"
+	},
+	{
+		"date": "2019-02-28T15:34:38.000Z",
+		"name": "Antiga Caserna dels Carrabiners",
+		"id": "5131e24de4b097f2c623ab9b"
+	},
+	{
+		"date": "2019-02-28T15:47:09.000Z",
+		"name": "Mirador del Semàfor",
+		"id": "5131dedee4b02c445c9c1d4a"
+	},
+	{
+		"date": "2019-02-28T17:26:34.000Z",
+		"name": "Cachitos Rambla",
+		"id": "4da6280e1e722893cd1aa985"
+	},
+	{
+		"date": "2019-02-28T19:09:40.000Z",
+		"name": "Pangea The Travel Store",
+		"id": "5adb71eac365883ff7591a4d"
+	},
+	{
+		"date": "2019-02-28T19:28:23.000Z",
+		"name": "El Raval",
+		"id": "4ea9b2106c250fcc73dde593"
+	},
+	{
+		"date": "2019-02-28T19:31:29.000Z",
+		"name": "Negroni",
+		"id": "4b508129f964a5206b2527e3"
+	},
+	{
+		"date": "2019-02-28T20:27:28.000Z",
+		"name": "Plaça de la Universitat",
+		"id": "4b9bcd2ff964a520dd2636e3"
+	},
+	{
+		"date": "2019-02-28T20:56:36.000Z",
+		"name": "L'Hospitalet de Llobregat",
+		"id": "4c4ee7a792b6a593a5f0af70"
+	}
+]
