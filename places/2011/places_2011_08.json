@@ -2,11 +2,27 @@
 	{
 		"date": "2011-08-20T10:39:03.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2011-08-24T17:20:33.000Z",
 		"name": "Hasseröder Ferienpark",
-		"id": "4c9339af1221b1f73c1a18e2"
+		"id": "4c9339af1221b1f73c1a18e2",
+		"lat": 51.82053110219114,
+		"lng": 10.757033930328694,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Resort"
+		]
 	}
 ]

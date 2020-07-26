@@ -2,81 +2,237 @@
 	{
 		"date": "2011-01-03T18:44:28.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2011-01-11T18:32:14.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2011-01-12T09:25:00.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2011-01-12T10:06:07.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2011-01-13T06:53:01.000Z",
 		"name": "BME E épület",
-		"id": "4ba8e6fbf964a5208ef839e3"
+		"id": "4ba8e6fbf964a5208ef839e3",
+		"lat": 47.477616135843945,
+		"lng": 19.057630443325607,
+		"address": "Egry József u. 1.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2011-01-13T12:40:12.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2011-01-16T13:38:31.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2011-01-16T16:32:57.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2011-01-17T14:21:47.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2011-01-18T13:07:42.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2011-01-19T22:21:14.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2011-01-22T11:11:56.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2011-01-23T14:10:29.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2011-01-24T15:15:00.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2011-01-24T15:38:10.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2011-01-26T20:35:40.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]

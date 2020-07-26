@@ -2,261 +2,739 @@
 	{
 		"date": "2011-02-01T11:29:19.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2011-02-02T13:42:21.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2011-02-04T11:49:41.000Z",
 		"name": "Central Park Café",
-		"id": "4ccef459c0378cfaa0ea9648"
+		"id": "4ccef459c0378cfaa0ea9648",
+		"lat": 47.68100131022882,
+		"lng": 16.5857230942081,
+		"address": "Deák tér",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Café",
+			"Lounge"
+		]
 	},
 	{
 		"date": "2011-02-04T12:30:48.000Z",
 		"name": "Széchenyi István Gimnázium",
-		"id": "4d4bf170a79a6a31f16f78a3"
+		"id": "4d4bf170a79a6a31f16f78a3",
+		"lat": 47.68362340581859,
+		"lng": 16.58898307460759,
+		"address": "Templom utca 26",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"High School"
+		]
 	},
 	{
 		"date": "2011-02-05T19:02:08.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2011-02-07T07:01:20.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2011-02-07T09:32:26.000Z",
 		"name": "Corvin Plaza",
-		"id": "4cc701eabe40a35d1d6a8d4c"
+		"id": "4cc701eabe40a35d1d6a8d4c",
+		"lat": 47.486046352980296,
+		"lng": 19.07288581182118,
+		"address": "Futó u. 37-45.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2011-02-07T15:07:19.000Z",
 		"name": "BME K épület",
-		"id": "4cb41c0adb32f04dd23adb4d"
+		"id": "4cb41c0adb32f04dd23adb4d",
+		"lat": 47.4812486178674,
+		"lng": 19.055142402648926,
+		"address": "Műegyetem rkp. 3.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"University",
+			"College Academic Building",
+			"College Engineering Building"
+		]
 	},
 	{
 		"date": "2011-02-07T17:34:19.000Z",
 		"name": "Dózsa György út (M3)",
-		"id": "4bc2c3404cdfc9b64a889621"
+		"id": "4bc2c3404cdfc9b64a889621",
+		"lat": 47.52479749658097,
+		"lng": 19.06353235244751,
+		"address": "Dózsa György út",
+		"postalCode": "1134",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Metro Station"
+		]
 	},
 	{
 		"date": "2011-02-08T06:55:37.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2011-02-08T09:26:35.000Z",
 		"name": "Corvin Plaza",
-		"id": "4cc701eabe40a35d1d6a8d4c"
+		"id": "4cc701eabe40a35d1d6a8d4c",
+		"lat": 47.486046352980296,
+		"lng": 19.07288581182118,
+		"address": "Futó u. 37-45.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2011-02-08T10:50:44.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2011-02-08T12:27:44.000Z",
 		"name": "BME Q épület",
-		"id": "4c85f24fd4e23704bdf58688"
+		"id": "4c85f24fd4e23704bdf58688",
+		"lat": 47.473393661934686,
+		"lng": 19.059766255018825,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2011-02-08T13:08:59.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2011-02-09T11:18:22.000Z",
 		"name": "BME CH épület",
-		"id": "4bbdf3e94e069c745d579fe3"
+		"id": "4bbdf3e94e069c745d579fe3",
+		"lat": 47.483102249225375,
+		"lng": 19.054201789682196,
+		"address": "Szent Gellért tér 4.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Science Building"
+		]
 	},
 	{
 		"date": "2011-02-09T13:12:05.000Z",
 		"name": "Corvin Plaza",
-		"id": "4cc701eabe40a35d1d6a8d4c"
+		"id": "4cc701eabe40a35d1d6a8d4c",
+		"lat": 47.486046352980296,
+		"lng": 19.07288581182118,
+		"address": "Futó u. 37-45.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2011-02-09T15:25:17.000Z",
 		"name": "Corvin Plaza",
-		"id": "4cc701eabe40a35d1d6a8d4c"
+		"id": "4cc701eabe40a35d1d6a8d4c",
+		"lat": 47.486046352980296,
+		"lng": 19.07288581182118,
+		"address": "Futó u. 37-45.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2011-02-09T15:25:50.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2011-02-10T13:29:42.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2011-02-10T15:07:42.000Z",
 		"name": "BME K épület",
-		"id": "4cb41c0adb32f04dd23adb4d"
+		"id": "4cb41c0adb32f04dd23adb4d",
+		"lat": 47.4812486178674,
+		"lng": 19.055142402648926,
+		"address": "Műegyetem rkp. 3.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"University",
+			"College Academic Building",
+			"College Engineering Building"
+		]
 	},
 	{
 		"date": "2011-02-14T11:05:55.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2011-02-14T14:46:13.000Z",
 		"name": "BME K épület",
-		"id": "4cb41c0adb32f04dd23adb4d"
+		"id": "4cb41c0adb32f04dd23adb4d",
+		"lat": 47.4812486178674,
+		"lng": 19.055142402648926,
+		"address": "Műegyetem rkp. 3.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"University",
+			"College Academic Building",
+			"College Engineering Building"
+		]
 	},
 	{
 		"date": "2011-02-14T15:49:16.000Z",
 		"name": "BME F épület",
-		"id": "4c19da436a21c9b68330cb97"
+		"id": "4c19da436a21c9b68330cb97",
+		"lat": 47.47997076094497,
+		"lng": 19.05389783043149,
+		"address": "Budafoki út 21-27.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Science Building"
+		]
 	},
 	{
 		"date": "2011-02-15T18:35:16.000Z",
 		"name": "Balassi Intézet Kollégiuma - Budaörsi út",
-		"id": "4d5ac7293358a090709e9344"
+		"id": "4d5ac7293358a090709e9344",
+		"lat": 47.47469340894402,
+		"lng": 19.02059555053711,
+		"address": "Budaörsi St. 73-75",
+		"postalCode": "1118",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall"
+		]
 	},
 	{
 		"date": "2011-02-16T11:04:51.000Z",
 		"name": "BME CH épület",
-		"id": "4bbdf3e94e069c745d579fe3"
+		"id": "4bbdf3e94e069c745d579fe3",
+		"lat": 47.483102249225375,
+		"lng": 19.054201789682196,
+		"address": "Szent Gellért tér 4.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Science Building"
+		]
 	},
 	{
 		"date": "2011-02-16T14:31:07.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2011-02-16T17:01:49.000Z",
 		"name": "Goldmann György tér",
-		"id": "4cd2da5221d94688e0d2ec90"
+		"id": "4cd2da5221d94688e0d2ec90",
+		"lat": 47.47716427032586,
+		"lng": 19.058825025626813,
+		"address": "Goldmann György tér",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2011-02-17T13:04:44.000Z",
 		"name": "BME Q épület",
-		"id": "4c85f24fd4e23704bdf58688"
+		"id": "4c85f24fd4e23704bdf58688",
+		"lat": 47.473393661934686,
+		"lng": 19.059766255018825,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2011-02-17T15:42:48.000Z",
 		"name": "Eastern Railway Station (Keleti pályaudvar)",
-		"id": "4b6e7d14f964a52065bf2ce3"
+		"id": "4b6e7d14f964a52065bf2ce3",
+		"lat": 47.50041327485257,
+		"lng": 19.083804935752624,
+		"address": "Baross tér 10.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2011-02-17T16:14:23.000Z",
 		"name": "Eastern Railway Station (Keleti pályaudvar)",
-		"id": "4b6e7d14f964a52065bf2ce3"
+		"id": "4b6e7d14f964a52065bf2ce3",
+		"lat": 47.50041327485257,
+		"lng": 19.083804935752624,
+		"address": "Baross tér 10.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2011-02-17T16:14:55.000Z",
 		"name": "Bicske vasútállomás",
-		"id": "4d5971671d4a8cfa4f868ced"
+		"id": "4d5971671d4a8cfa4f868ced",
+		"lat": 47.48415800008105,
+		"lng": 18.618451785857097,
+		"address": "Móricz Zsigmond u.",
+		"city": "Bicske",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2011-02-17T16:32:24.000Z",
 		"name": "Tatabánya vasútállomás",
-		"id": "4b7ff81cf964a5209f4730e3"
+		"id": "4b7ff81cf964a5209f4730e3",
+		"lat": 47.58529710183436,
+		"lng": 18.39315176010132,
+		"address": "Jedlik Ányos u. 1.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2011-02-17T17:33:01.000Z",
 		"name": "Győr vasútállomás",
-		"id": "4bb742bc1344b713687f9e04"
+		"id": "4bb742bc1344b713687f9e04",
+		"lat": 47.682147670241804,
+		"lng": 17.63430118560791,
+		"address": "Révai Miklós u. 4-6.",
+		"postalCode": "9021",
+		"city": "Győr",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2011-02-17T19:05:36.000Z",
 		"name": "Sárvár autóbusz-állomás",
-		"id": "4c67a07faebea5932ddb76d0"
+		"id": "4c67a07faebea5932ddb76d0",
+		"lat": 47.25395124476649,
+		"lng": 16.9264554977417,
+		"address": "Laktanya u. 11.",
+		"postalCode": "9600",
+		"city": "Sárvár",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2011-02-17T19:06:39.000Z",
 		"name": "Sopron vasútállomás",
-		"id": "4bd6fe6529eb9c749dee95e1"
+		"id": "4bd6fe6529eb9c749dee95e1",
+		"lat": 47.67771249028291,
+		"lng": 16.58738136291504,
+		"address": "Állomás u. 2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2011-02-17T20:06:35.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2011-02-21T15:53:31.000Z",
 		"name": "BME F épület",
-		"id": "4c19da436a21c9b68330cb97"
+		"id": "4c19da436a21c9b68330cb97",
+		"lat": 47.47997076094497,
+		"lng": 19.05389783043149,
+		"address": "Budafoki út 21-27.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Science Building"
+		]
 	},
 	{
 		"date": "2011-02-21T17:03:16.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2011-02-22T09:06:37.000Z",
 		"name": "BME E épület",
-		"id": "4ba8e6fbf964a5208ef839e3"
+		"id": "4ba8e6fbf964a5208ef839e3",
+		"lat": 47.477616135843945,
+		"lng": 19.057630443325607,
+		"address": "Egry József u. 1.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2011-02-22T09:43:26.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2011-02-22T10:55:59.000Z",
 		"name": "BME Q épület",
-		"id": "4c85f24fd4e23704bdf58688"
+		"id": "4c85f24fd4e23704bdf58688",
+		"lat": 47.473393661934686,
+		"lng": 19.059766255018825,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2011-02-22T11:03:15.000Z",
 		"name": "BME Q épület",
-		"id": "4c85f24fd4e23704bdf58688"
+		"id": "4c85f24fd4e23704bdf58688",
+		"lat": 47.473393661934686,
+		"lng": 19.059766255018825,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2011-02-22T11:28:42.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2011-02-22T19:00:26.000Z",
 		"name": "Balassi Intézet Kollégiuma - Budaörsi út",
-		"id": "4d5ac7293358a090709e9344"
+		"id": "4d5ac7293358a090709e9344",
+		"lat": 47.47469340894402,
+		"lng": 19.02059555053711,
+		"address": "Budaörsi St. 73-75",
+		"postalCode": "1118",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall"
+		]
 	},
 	{
 		"date": "2011-02-23T11:24:29.000Z",
 		"name": "BME CH épület",
-		"id": "4bbdf3e94e069c745d579fe3"
+		"id": "4bbdf3e94e069c745d579fe3",
+		"lat": 47.483102249225375,
+		"lng": 19.054201789682196,
+		"address": "Szent Gellért tér 4.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Science Building"
+		]
 	},
 	{
 		"date": "2011-02-23T13:01:47.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2011-02-24T12:18:31.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2011-02-24T15:34:53.000Z",
 		"name": "BME K épület",
-		"id": "4cb41c0adb32f04dd23adb4d"
+		"id": "4cb41c0adb32f04dd23adb4d",
+		"lat": 47.4812486178674,
+		"lng": 19.055142402648926,
+		"address": "Műegyetem rkp. 3.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"University",
+			"College Academic Building",
+			"College Engineering Building"
+		]
 	},
 	{
 		"date": "2011-02-25T17:12:51.000Z",
 		"name": "Central Park Café",
-		"id": "4ccef459c0378cfaa0ea9648"
+		"id": "4ccef459c0378cfaa0ea9648",
+		"lat": 47.68100131022882,
+		"lng": 16.5857230942081,
+		"address": "Deák tér",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Café",
+			"Lounge"
+		]
 	},
 	{
 		"date": "2011-02-25T18:06:31.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2011-02-28T15:33:33.000Z",
 		"name": "BME F épület",
-		"id": "4c19da436a21c9b68330cb97"
+		"id": "4c19da436a21c9b68330cb97",
+		"lat": 47.47997076094497,
+		"lng": 19.05389783043149,
+		"address": "Budafoki út 21-27.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Science Building"
+		]
 	},
 	{
 		"date": "2011-02-28T16:56:38.000Z",
 		"name": "C&A",
-		"id": "4cbf2b28985aa35d977b4512"
+		"id": "4cbf2b28985aa35d977b4512",
+		"lat": 47.47419063359703,
+		"lng": 19.048554429071807,
+		"address": "Allee Bevásárlóközpont, földszint",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Clothing Store"
+		]
 	}
 ]
