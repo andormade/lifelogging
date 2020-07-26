@@ -1,0 +1,822 @@
+[
+	{
+		"date": "2016-07-01T06:13:38.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-07-01T07:19:48.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-01T09:37:38.000Z",
+		"name": "The Food Truck Company",
+		"id": "51c36cfc2fc604e64e32af6c"
+	},
+	{
+		"date": "2016-07-01T09:49:23.000Z",
+		"name": "Tiebreak Café",
+		"id": "5613bc6e498e1bb2d66df25c"
+	},
+	{
+		"date": "2016-07-01T13:36:32.000Z",
+		"name": "H&M",
+		"id": "4cd5614d2944b1f7c38b5cec"
+	},
+	{
+		"date": "2016-07-01T16:00:14.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-02T09:01:05.000Z",
+		"name": "Trier Galerie",
+		"id": "4bc2e26c74a9a5933ad0d3f6"
+	},
+	{
+		"date": "2016-07-02T09:05:00.000Z",
+		"name": "Wolsdorff Tobacco",
+		"id": "569ccafb498e2f3965a2088f"
+	},
+	{
+		"date": "2016-07-02T09:07:56.000Z",
+		"name": "Mai Wok & Grill",
+		"id": "5095642be4b0cb1b31d6885c"
+	},
+	{
+		"date": "2016-07-02T12:46:05.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-02T13:44:45.000Z",
+		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
+		"id": "4ba14c55f964a52045aa37e3"
+	},
+	{
+		"date": "2016-07-02T15:33:46.000Z",
+		"name": "Gate A13",
+		"id": "4e47b55462845e1d3ca28e85"
+	},
+	{
+		"date": "2016-07-02T17:39:31.000Z",
+		"name": "Republic of Austria (Republik Österreich)",
+		"id": "50212579e4b0a8e0cac475f3"
+	},
+	{
+		"date": "2016-07-02T17:39:57.000Z",
+		"name": "Vienna International Airport (VIE) (Flughafen Wien-Schwechat)",
+		"id": "4b05889af964a520e5cf22e3"
+	},
+	{
+		"date": "2016-07-02T18:14:49.000Z",
+		"name": "Multiversum Schwechat",
+		"id": "4cf6a2f21cfea093a2b7e039"
+	},
+	{
+		"date": "2016-07-02T23:10:28.000Z",
+		"name": "Villa Polgar 2",
+		"id": "5724b35b498ecd6a0245b8e2"
+	},
+	{
+		"date": "2016-07-03T12:38:00.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ce6721f0f196dcb236437ae"
+	},
+	{
+		"date": "2016-07-03T16:26:19.000Z",
+		"name": "Tómalom",
+		"id": "4e29ab8352b1c37d35cea4b7"
+	},
+	{
+		"date": "2016-07-03T18:08:31.000Z",
+		"name": "Serrano Bar",
+		"id": "5311e6b5498e2ec947e023a6"
+	},
+	{
+		"date": "2016-07-03T20:16:19.000Z",
+		"name": "McDonald's",
+		"id": "4c2f08963896e21edb43e390"
+	},
+	{
+		"date": "2016-07-03T22:16:09.000Z",
+		"name": "Villa Polgar 2",
+		"id": "5724b35b498ecd6a0245b8e2"
+	},
+	{
+		"date": "2016-07-04T08:55:09.000Z",
+		"name": "Dr Toka",
+		"id": "5176432ce4b097338c78f4bb"
+	},
+	{
+		"date": "2016-07-04T11:43:26.000Z",
+		"name": "Kormányablak",
+		"id": "56c5b16acd10809c411e335f"
+	},
+	{
+		"date": "2016-07-04T15:24:14.000Z",
+		"name": "Tómalom",
+		"id": "4e29ab8352b1c37d35cea4b7"
+	},
+	{
+		"date": "2016-07-04T16:36:52.000Z",
+		"name": "Deák Étterem",
+		"id": "4df1fef345dd4e26933a3946"
+	},
+	{
+		"date": "2016-07-04T21:28:14.000Z",
+		"name": "Gázfröccs",
+		"id": "4e1c132e922e66c066417ce3"
+	},
+	{
+		"date": "2016-07-05T12:01:48.000Z",
+		"name": "Dr Toka",
+		"id": "5176432ce4b097338c78f4bb"
+	},
+	{
+		"date": "2016-07-05T14:25:06.000Z",
+		"name": "Kormányablak",
+		"id": "568bc2d1498ea54f142ec977"
+	},
+	{
+		"date": "2016-07-05T15:44:45.000Z",
+		"name": "Sopron vasútállomás",
+		"id": "4bd6fe6529eb9c749dee95e1"
+	},
+	{
+		"date": "2016-07-06T05:35:42.000Z",
+		"name": "Sopron vasútállomás",
+		"id": "4bd6fe6529eb9c749dee95e1"
+	},
+	{
+		"date": "2016-07-06T08:53:30.000Z",
+		"name": "Budapest",
+		"id": "4c4ee92afa9d952159e36b0a"
+	},
+	{
+		"date": "2016-07-06T08:53:51.000Z",
+		"name": "Eastern Railway Station (Keleti pályaudvar)",
+		"id": "4b6e7d14f964a52065bf2ce3"
+	},
+	{
+		"date": "2016-07-06T11:56:03.000Z",
+		"name": "Jelen Bisztró",
+		"id": "4b75d269f964a52036272ee3"
+	},
+	{
+		"date": "2016-07-06T12:57:58.000Z",
+		"name": "Fánki Donuts",
+		"id": "52711806498e5e21e6456d87"
+	},
+	{
+		"date": "2016-07-06T17:14:30.000Z",
+		"name": "iSTYLE Andrássy",
+		"id": "4cc4551401fb236a4228abba"
+	},
+	{
+		"date": "2016-07-06T17:34:47.000Z",
+		"name": "360 Bar",
+		"id": "5374ddf2498e43fccfbc5e89"
+	},
+	{
+		"date": "2016-07-06T18:13:42.000Z",
+		"name": "Zing Burger",
+		"id": "5475eb09498e40506ff31db7"
+	},
+	{
+		"date": "2016-07-06T19:36:53.000Z",
+		"name": "B Terv Café",
+		"id": "4c72c66e0e23b1f77eb01edc"
+	},
+	{
+		"date": "2016-07-06T21:33:43.000Z",
+		"name": "Klub Vittula",
+		"id": "4bc5c89d41cb76b025c73e6f"
+	},
+	{
+		"date": "2016-07-06T22:10:53.000Z",
+		"name": "ZAMZAM",
+		"id": "573a16a6498e401489fda2c2"
+	},
+	{
+		"date": "2016-07-07T09:50:01.000Z",
+		"name": "Erzsébet tér",
+		"id": "4bb1a92af964a520ff9d3ce3"
+	},
+	{
+		"date": "2016-07-07T10:19:35.000Z",
+		"name": "Pizzica",
+		"id": "533feb48498e1d3217065ddd"
+	},
+	{
+		"date": "2016-07-07T10:42:10.000Z",
+		"name": "AnalogueZone Showroom",
+		"id": "52ed7c12498e3e1e276b4dab"
+	},
+	{
+		"date": "2016-07-07T12:51:48.000Z",
+		"name": "Arena Mall",
+		"id": "4b86a275f964a520649331e3"
+	},
+	{
+		"date": "2016-07-07T12:59:18.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4d7143ca722ef04d9fb10e9c"
+	},
+	{
+		"date": "2016-07-07T13:31:55.000Z",
+		"name": "Media Markt",
+		"id": "4e9d2996a17cfea2994f92a0"
+	},
+	{
+		"date": "2016-07-07T13:45:11.000Z",
+		"name": "Okay Italia",
+		"id": "4eae71a4be7bd46a7bdd1b7a"
+	},
+	{
+		"date": "2016-07-07T17:38:13.000Z",
+		"name": "Sopron vasútállomás",
+		"id": "4bd6fe6529eb9c749dee95e1"
+	},
+	{
+		"date": "2016-07-07T18:01:51.000Z",
+		"name": "Tómalom",
+		"id": "4e29ab8352b1c37d35cea4b7"
+	},
+	{
+		"date": "2016-07-08T07:46:31.000Z",
+		"name": "Dr Toka",
+		"id": "5176432ce4b097338c78f4bb"
+	},
+	{
+		"date": "2016-07-08T09:35:20.000Z",
+		"name": "Kránitz Fotó Mûterem",
+		"id": "577f73c1498e609e372645a3"
+	},
+	{
+		"date": "2016-07-08T11:55:43.000Z",
+		"name": "Kormányablak",
+		"id": "568bc2d1498ea54f142ec977"
+	},
+	{
+		"date": "2016-07-08T21:03:19.000Z",
+		"name": "Tómalom",
+		"id": "4e29ab8352b1c37d35cea4b7"
+	},
+	{
+		"date": "2016-07-09T08:47:40.000Z",
+		"name": "Sopron 1. Posta (Nagy posta)",
+		"id": "4e841f82d22d176a1f90981f"
+	},
+	{
+		"date": "2016-07-09T09:16:39.000Z",
+		"name": "Lidl",
+		"id": "4e0aea1dd4c091ae45d6dbf3"
+	},
+	{
+		"date": "2016-07-09T09:36:04.000Z",
+		"name": "Lővér pince",
+		"id": "4df767fbd1642d7385a66893"
+	},
+	{
+		"date": "2016-07-09T09:49:39.000Z",
+		"name": "TESCO Hipermarket",
+		"id": "4ce6721f0f196dcb236437ae"
+	},
+	{
+		"date": "2016-07-09T10:59:46.000Z",
+		"name": "Tómalom",
+		"id": "4e29ab8352b1c37d35cea4b7"
+	},
+	{
+		"date": "2016-07-10T06:11:07.000Z",
+		"name": "Vienna International Airport (VIE) (Flughafen Wien-Schwechat)",
+		"id": "4b05889af964a520e5cf22e3"
+	},
+	{
+		"date": "2016-07-10T06:11:23.000Z",
+		"name": "Terminal 3",
+		"id": "4db922856a2334682da18d97"
+	},
+	{
+		"date": "2016-07-10T06:12:18.000Z",
+		"name": "LUXAIR Flight LG8858 VIE - LUX",
+		"id": "4f9d84a1e4b0e868c38a71e1"
+	},
+	{
+		"date": "2016-07-10T06:40:41.000Z",
+		"name": "Daily Roast Vienna",
+		"id": "4bbc8d302d9ea59366b5a0ce"
+	},
+	{
+		"date": "2016-07-10T07:13:54.000Z",
+		"name": "Gate C71",
+		"id": "4f5cc9e0e4b0b28dd51d2df5"
+	},
+	{
+		"date": "2016-07-10T09:38:06.000Z",
+		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
+		"id": "4ba14c55f964a52045aa37e3"
+	},
+	{
+		"date": "2016-07-10T09:50:17.000Z",
+		"name": "Baggage Claim",
+		"id": "51d7de23498eb1cf171bd4e8"
+	},
+	{
+		"date": "2016-07-10T10:32:11.000Z",
+		"name": "Tankstellenmeile Wasserbillig",
+		"id": "4d4080e456f45941d66ab762"
+	},
+	{
+		"date": "2016-07-10T10:33:47.000Z",
+		"name": "Ewald Wolter S.à r.l.",
+		"id": "4b9fae9ff964a520813437e3"
+	},
+	{
+		"date": "2016-07-10T10:41:30.000Z",
+		"name": "Lidl Mertert",
+		"id": "4bb5dbd5941ad13af4921ee3"
+	},
+	{
+		"date": "2016-07-10T11:36:37.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-10T15:26:41.000Z",
+		"name": "Yomaro",
+		"id": "5389cc8a498e077069607503"
+	},
+	{
+		"date": "2016-07-10T15:57:56.000Z",
+		"name": "Havanna",
+		"id": "4bbb680bb35776b085eccb01"
+	},
+	{
+		"date": "2016-07-11T06:40:22.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-11T09:44:26.000Z",
+		"name": "McDonald's",
+		"id": "4ee3c150490138df8c9047ba"
+	},
+	{
+		"date": "2016-07-11T16:42:05.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-12T06:22:08.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-07-12T06:36:11.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-12T10:44:00.000Z",
+		"name": "Café Tribu",
+		"id": "4bfe0e8bf61dc9b63cfa9fde"
+	},
+	{
+		"date": "2016-07-12T10:54:01.000Z",
+		"name": "Farinella",
+		"id": "4b98da80f964a520975235e3"
+	},
+	{
+		"date": "2016-07-12T18:54:20.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-13T07:16:40.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-13T10:04:59.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-07-13T10:59:40.000Z",
+		"name": "Bagelstein",
+		"id": "54f0609b498ea7bb9626e820"
+	},
+	{
+		"date": "2016-07-13T17:13:10.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-14T07:07:02.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-07-14T07:18:47.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-14T09:31:04.000Z",
+		"name": "Auchan Snacking",
+		"id": "56260b3b498ec7228731a346"
+	},
+	{
+		"date": "2016-07-14T17:04:28.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-14T18:04:29.000Z",
+		"name": "Chopsticks",
+		"id": "4de5118f8877bcb686821778"
+	},
+	{
+		"date": "2016-07-14T18:11:29.000Z",
+		"name": "Kornmarkt",
+		"id": "4c2888799fb5d13a8da39957"
+	},
+	{
+		"date": "2016-07-15T08:01:27.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-15T10:17:47.000Z",
+		"name": "Dean & David",
+		"id": "53288e8711d2ad54eef962f3"
+	},
+	{
+		"date": "2016-07-15T15:20:40.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-15T16:03:16.000Z",
+		"name": "Saturn",
+		"id": "4bc07375f8219c74138eb110"
+	},
+	{
+		"date": "2016-07-15T16:34:15.000Z",
+		"name": "MediaMarkt",
+		"id": "4bc06b2874a9a593c3fecff6"
+	},
+	{
+		"date": "2016-07-15T16:45:10.000Z",
+		"name": "Kaufland",
+		"id": "4b9fdd75f964a520c24537e3"
+	},
+	{
+		"date": "2016-07-15T17:16:47.000Z",
+		"name": "Dom St. Peter",
+		"id": "4bcee2a1ef1095214bb38486"
+	},
+	{
+		"date": "2016-07-15T17:31:52.000Z",
+		"name": "Mj Pizzawelt",
+		"id": "56267669498e50b91d9ba63f"
+	},
+	{
+		"date": "2016-07-16T08:19:59.000Z",
+		"name": "Bahnhof Trier Süd",
+		"id": "4ced382213aea14325c7659f"
+	},
+	{
+		"date": "2016-07-16T08:49:52.000Z",
+		"name": "Igel",
+		"id": "5131f0a5e4b02029e2c60511"
+	},
+	{
+		"date": "2016-07-16T09:52:23.000Z",
+		"name": "Le Moulin",
+		"id": "4dfa037545dd2b6764bd67d1"
+	},
+	{
+		"date": "2016-07-16T17:32:29.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-17T12:54:02.000Z",
+		"name": "Kartoffelkiste",
+		"id": "4c40b95eff711b8d14d61005"
+	},
+	{
+		"date": "2016-07-17T15:34:39.000Z",
+		"name": "Zum Domstein",
+		"id": "4c69625d3bad2d7f7aa8afee"
+	},
+	{
+		"date": "2016-07-17T15:53:20.000Z",
+		"name": "Coyote Cafe",
+		"id": "4b52de43f964a520968927e3"
+	},
+	{
+		"date": "2016-07-17T17:54:09.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-18T06:17:04.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-07-18T06:32:40.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-18T09:47:25.000Z",
+		"name": "McDonald's",
+		"id": "4ee3c150490138df8c9047ba"
+	},
+	{
+		"date": "2016-07-18T17:09:11.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-19T07:09:41.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-19T09:47:09.000Z",
+		"name": "Apulia Antichi Sapori",
+		"id": "52d6e66e498e3733dfa1058c"
+	},
+	{
+		"date": "2016-07-19T17:01:12.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-20T06:55:40.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-20T07:05:13.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-07-20T09:51:44.000Z",
+		"name": "McDonald's",
+		"id": "4ee3c150490138df8c9047ba"
+	},
+	{
+		"date": "2016-07-21T05:23:11.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-21T09:43:40.000Z",
+		"name": "Dean & David",
+		"id": "53288e8711d2ad54eef962f3"
+	},
+	{
+		"date": "2016-07-21T17:45:00.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-22T06:01:50.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-22T09:54:28.000Z",
+		"name": "Vapiano",
+		"id": "4c51b35b3940be9a6a8e4e09"
+	},
+	{
+		"date": "2016-07-22T11:20:58.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-07-22T16:19:55.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-23T09:12:36.000Z",
+		"name": "Trier Galerie",
+		"id": "4bc2e26c74a9a5933ad0d3f6"
+	},
+	{
+		"date": "2016-07-23T09:12:46.000Z",
+		"name": "REWE City",
+		"id": "57a3a39c498e406b9d2fd43a"
+	},
+	{
+		"date": "2016-07-23T09:15:51.000Z",
+		"name": "Mai Wok & Grill",
+		"id": "5095642be4b0cb1b31d6885c"
+	},
+	{
+		"date": "2016-07-23T17:09:09.000Z",
+		"name": "Schlabbergass",
+		"id": "4c6c31ab1fb2a143d0c8fae6"
+	},
+	{
+		"date": "2016-07-23T18:39:37.000Z",
+		"name": "Havanna",
+		"id": "4bbb680bb35776b085eccb01"
+	},
+	{
+		"date": "2016-07-24T10:53:25.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-24T11:56:57.000Z",
+		"name": "Boulangerie Paul",
+		"id": "509125f6e4b0d52fb9c12c63"
+	},
+	{
+		"date": "2016-07-24T12:48:13.000Z",
+		"name": "Bateau Pirate",
+		"id": "4ba89316f964a520aae039e3"
+	},
+	{
+		"date": "2016-07-24T14:00:05.000Z",
+		"name": "Park Mersch",
+		"id": "4ed683f630f813e77b09313d"
+	},
+	{
+		"date": "2016-07-24T19:10:03.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-24T19:49:44.000Z",
+		"name": "Donna Mia",
+		"id": "51598f91e4b0d2c6090a7b54"
+	},
+	{
+		"date": "2016-07-24T21:14:07.000Z",
+		"name": "Havanna",
+		"id": "4bbb680bb35776b085eccb01"
+	},
+	{
+		"date": "2016-07-25T12:34:36.000Z",
+		"name": "Musée d'Art Moderne Grand-Duc Jean (Mudam Luxembourg)",
+		"id": "4b507179f964a5206a2327e3"
+	},
+	{
+		"date": "2016-07-25T15:41:59.000Z",
+		"name": "Place Guillaume II - Knuedler",
+		"id": "4b8bd57bf964a520a5ad32e3"
+	},
+	{
+		"date": "2016-07-25T15:51:02.000Z",
+		"name": "Place d'Armes",
+		"id": "4b51ff5ff964a520346027e3"
+	},
+	{
+		"date": "2016-07-25T16:05:44.000Z",
+		"name": "Delirio Culinario",
+		"id": "4d187cb26c8b5481a491f1cc"
+	},
+	{
+		"date": "2016-07-25T18:44:07.000Z",
+		"name": "Skatepark Pétrusse",
+		"id": "5791f66d498eedca349f16b9"
+	},
+	{
+		"date": "2016-07-26T10:18:43.000Z",
+		"name": "Genussgesellschaft",
+		"id": "5066cfdbe4b03c3d3a85ca7c"
+	},
+	{
+		"date": "2016-07-26T10:25:15.000Z",
+		"name": "Biebelhausener Mühle",
+		"id": "4bd41efe9854d13a9019ff4d"
+	},
+	{
+		"date": "2016-07-26T12:14:48.000Z",
+		"name": "Frankfurt-Hahn Airport (HHN) (Frankfurt Hahn Airport)",
+		"id": "4b5ae369f964a520ebd828e3"
+	},
+	{
+		"date": "2016-07-26T14:00:52.000Z",
+		"name": "Maxi Autohof Mücke",
+		"id": "4e2bbd06e4cd3bc166990e6a"
+	},
+	{
+		"date": "2016-07-27T12:04:35.000Z",
+		"name": "Erfurt",
+		"id": "4e74c06ab61c22c637dc3fcc"
+	},
+	{
+		"date": "2016-07-27T13:13:28.000Z",
+		"name": "Zalando Logistikzentrum Erfurt",
+		"id": "4f85c7b4e4b04695df7f71da"
+	},
+	{
+		"date": "2016-07-27T13:51:44.000Z",
+		"name": "Fressnapf XXL",
+		"id": "4e0ed85b22711665f618ec17"
+	},
+	{
+		"date": "2016-07-27T15:29:28.000Z",
+		"name": "Green Republic",
+		"id": "51b48f27498e86aebc0a559d"
+	},
+	{
+		"date": "2016-07-27T16:50:48.000Z",
+		"name": "Thüringen-Park",
+		"id": "4b79b578f964a520a80c2fe3"
+	},
+	{
+		"date": "2016-07-27T18:44:32.000Z",
+		"name": "Pfullendorf",
+		"id": "56217b71498e997b01206117"
+	},
+	{
+		"date": "2016-07-28T14:14:17.000Z",
+		"name": "Raststätte Hörselgau Nord",
+		"id": "4c7100b2d97fa14315b5f7ca"
+	},
+	{
+		"date": "2016-07-28T16:47:14.000Z",
+		"name": "Raststätte Nentershausen Ost",
+		"id": "4dd78f891838b8561ce9a0f3"
+	},
+	{
+		"date": "2016-07-28T18:22:38.000Z",
+		"name": "EDEKA Trier-West",
+		"id": "4b9b8e5df964a520360f36e3"
+	},
+	{
+		"date": "2016-07-28T19:00:31.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-29T06:19:30.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-07-29T06:27:06.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-07-29T15:52:32.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-30T11:17:45.000Z",
+		"name": "Hauptmarkt",
+		"id": "4c8b538f1eafb1f703ac8235"
+	},
+	{
+		"date": "2016-07-30T11:52:06.000Z",
+		"name": "BioGate",
+		"id": "4e21b98462e1964dbb69e2b2"
+	},
+	{
+		"date": "2016-07-30T12:04:11.000Z",
+		"name": "Galeria Karstadt Kaufhof",
+		"id": "4bced3cc29d4b713b916a9dc"
+	},
+	{
+		"date": "2016-07-30T12:31:16.000Z",
+		"name": "Saturn",
+		"id": "4bc07375f8219c74138eb110"
+	},
+	{
+		"date": "2016-07-30T12:51:37.000Z",
+		"name": "Galeria Karstadt Kaufhof",
+		"id": "4bced3cc29d4b713b916a9dc"
+	},
+	{
+		"date": "2016-07-30T13:47:55.000Z",
+		"name": "Yomaro",
+		"id": "5389cc8a498e077069607503"
+	},
+	{
+		"date": "2016-07-30T14:22:08.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-07-31T18:45:03.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	}
+]

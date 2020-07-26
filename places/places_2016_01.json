@@ -1,0 +1,627 @@
+[
+	{
+		"date": "2016-01-01T12:50:04.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-02T16:37:13.000Z",
+		"name": "Galeria Karstadt Kaufhof",
+		"id": "4bced3cc29d4b713b916a9dc"
+	},
+	{
+		"date": "2016-01-02T16:44:37.000Z",
+		"name": "Saturn",
+		"id": "4bc07375f8219c74138eb110"
+	},
+	{
+		"date": "2016-01-02T17:21:27.000Z",
+		"name": "MediaMarkt",
+		"id": "4bc06b2874a9a593c3fecff6"
+	},
+	{
+		"date": "2016-01-02T17:21:46.000Z",
+		"name": "Chan's Taste of Asia",
+		"id": "4fd61833e4b0b31b85a1ae89"
+	},
+	{
+		"date": "2016-01-02T18:12:45.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-03T12:28:04.000Z",
+		"name": "Musée d'Art Moderne Grand-Duc Jean (Mudam Luxembourg)",
+		"id": "4b507179f964a5206a2327e3"
+	},
+	{
+		"date": "2016-01-03T21:41:02.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-04T07:30:54.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-04T08:23:43.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-04T10:19:44.000Z",
+		"name": "Auchan Snacking",
+		"id": "56260b3b498ec7228731a346"
+	},
+	{
+		"date": "2016-01-04T18:06:41.000Z",
+		"name": "Sparkasse Saarstrasse",
+		"id": "4e05d7921838eb15aef68a1b"
+	},
+	{
+		"date": "2016-01-04T19:02:29.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-05T08:25:40.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-05T08:29:27.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-05T10:28:53.000Z",
+		"name": "OrientX",
+		"id": "4b94eed9f964a5204e8834e3"
+	},
+	{
+		"date": "2016-01-05T19:25:45.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-06T08:07:54.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-06T17:19:34.000Z",
+		"name": "Bricherhaff",
+		"id": "51839b23498e3270c1501e51"
+	},
+	{
+		"date": "2016-01-06T19:50:30.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-07T07:28:36.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-07T07:34:28.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-07T11:19:01.000Z",
+		"name": "Raku-An",
+		"id": "522eede811d261c3d2a69ea2"
+	},
+	{
+		"date": "2016-01-07T17:17:17.000Z",
+		"name": "Bricherhaff",
+		"id": "51839b23498e3270c1501e51"
+	},
+	{
+		"date": "2016-01-08T07:39:42.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-08T07:48:08.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-08T10:37:20.000Z",
+		"name": "McDonald's",
+		"id": "4ee3c150490138df8c9047ba"
+	},
+	{
+		"date": "2016-01-08T16:19:11.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-09T08:05:56.000Z",
+		"name": "Raststätte Reinhardshain Süd",
+		"id": "4ecb63e902d50c9c5ab3bc47"
+	},
+	{
+		"date": "2016-01-09T09:25:27.000Z",
+		"name": "Behringen",
+		"id": "4e380bba1f6ebc502ce65e0b"
+	},
+	{
+		"date": "2016-01-09T10:34:36.000Z",
+		"name": "Bufleben",
+		"id": "56128e04498ea85873cfc26b"
+	},
+	{
+		"date": "2016-01-10T16:16:36.000Z",
+		"name": "Raststätte Eisenach",
+		"id": "4b841a4ff964a520dd2031e3"
+	},
+	{
+		"date": "2016-01-10T18:12:15.000Z",
+		"name": "Burger King",
+		"id": "4c34772d3896e21e1c89eb90"
+	},
+	{
+		"date": "2016-01-10T19:46:11.000Z",
+		"name": "Shell",
+		"id": "4c837b94d34ca14337c83580"
+	},
+	{
+		"date": "2016-01-10T20:33:15.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-11T08:41:22.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-11T08:43:42.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-11T16:30:56.000Z",
+		"name": "Deutsche Post",
+		"id": "4b9b9ea5f964a520271436e3"
+	},
+	{
+		"date": "2016-01-11T16:31:38.000Z",
+		"name": "Sparkasse Trier (Theodor-Heuss-Allee)",
+		"id": "4bcc7ade3740b7138e0c6465"
+	},
+	{
+		"date": "2016-01-11T20:56:47.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-12T08:18:17.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-12T08:20:13.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-12T19:20:11.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-13T07:53:20.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-13T10:36:03.000Z",
+		"name": "Quick",
+		"id": "4c1d1fceb4e62d7f5636dc93"
+	},
+	{
+		"date": "2016-01-13T18:13:02.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-14T08:00:13.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-14T10:28:04.000Z",
+		"name": "Bagelstein",
+		"id": "54f0609b498ea7bb9626e820"
+	},
+	{
+		"date": "2016-01-14T10:34:16.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-15T06:12:38.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-15T07:46:48.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-15T07:53:57.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-15T10:25:33.000Z",
+		"name": "OrientX",
+		"id": "4b94eed9f964a5204e8834e3"
+	},
+	{
+		"date": "2016-01-15T15:19:47.000Z",
+		"name": "Bricherhaff",
+		"id": "51839b23498e3270c1501e51"
+	},
+	{
+		"date": "2016-01-15T16:24:02.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-16T13:53:34.000Z",
+		"name": "Frisör X-Press",
+		"id": "4be440757e2a76b05aab1c9b"
+	},
+	{
+		"date": "2016-01-16T14:23:52.000Z",
+		"name": "Saturn",
+		"id": "4bc07375f8219c74138eb110"
+	},
+	{
+		"date": "2016-01-16T14:42:40.000Z",
+		"name": "REWE City",
+		"id": "57a3a39c498e406b9d2fd43a"
+	},
+	{
+		"date": "2016-01-16T15:03:56.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-17T18:28:54.000Z",
+		"name": "Taj Mahal",
+		"id": "4ce0100dffcf37043f781d82"
+	},
+	{
+		"date": "2016-01-17T20:13:23.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-18T08:02:19.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-18T11:05:24.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-18T19:41:32.000Z",
+		"name": "Place du Glacis / Parking Centre - Glacis",
+		"id": "4bb9697198c7ef3b461b3202"
+	},
+	{
+		"date": "2016-01-18T19:47:43.000Z",
+		"name": "Ciné Utopia",
+		"id": "4b8c4132f964a520cfc632e3"
+	},
+	{
+		"date": "2016-01-18T23:20:38.000Z",
+		"name": "Bahnhof Trier Süd",
+		"id": "4ced382213aea14325c7659f"
+	},
+	{
+		"date": "2016-01-19T07:46:17.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-19T17:52:25.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-20T10:20:31.000Z",
+		"name": "Auchan Snacking",
+		"id": "56260b3b498ec7228731a346"
+	},
+	{
+		"date": "2016-01-20T10:53:34.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-20T23:44:11.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-21T08:04:29.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-21T08:56:23.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-21T10:22:46.000Z",
+		"name": "Sushi & More",
+		"id": "53637542498e423ead872eeb"
+	},
+	{
+		"date": "2016-01-22T07:42:00.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-22T07:56:54.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-22T12:15:23.000Z",
+		"name": "McDonald's",
+		"id": "4ee3c150490138df8c9047ba"
+	},
+	{
+		"date": "2016-01-22T15:36:30.000Z",
+		"name": "Bricherhaff",
+		"id": "51839b23498e3270c1501e51"
+	},
+	{
+		"date": "2016-01-22T16:39:28.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-23T11:14:53.000Z",
+		"name": "Burgeramt Trier",
+		"id": "54aba60b498e8bda8620d316"
+	},
+	{
+		"date": "2016-01-23T12:32:35.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-25T07:42:16.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-25T08:20:00.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-25T09:18:21.000Z",
+		"name": "Auchan Snacking",
+		"id": "56260b3b498ec7228731a346"
+	},
+	{
+		"date": "2016-01-26T07:54:43.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-26T10:41:03.000Z",
+		"name": "Vapiano",
+		"id": "4c51b35b3940be9a6a8e4e09"
+	},
+	{
+		"date": "2016-01-26T22:02:29.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-01-27T07:33:56.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-27T08:14:08.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-27T10:25:45.000Z",
+		"name": "OrientX",
+		"id": "4b94eed9f964a5204e8834e3"
+	},
+	{
+		"date": "2016-01-28T06:07:32.000Z",
+		"name": "Sparkasse",
+		"id": "56a9b01c498e75ef17f11296"
+	},
+	{
+		"date": "2016-01-28T07:50:44.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-01-28T08:25:43.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-01-28T10:38:27.000Z",
+		"name": "Burger Goes Green",
+		"id": "55e84caf498e951ebbe023c6"
+	},
+	{
+		"date": "2016-01-28T18:27:42.000Z",
+		"name": "Scott’s Pub",
+		"id": "4c13c1dcb7b9c9280e17aa37"
+	},
+	{
+		"date": "2016-01-29T04:14:36.000Z",
+		"name": "Frankfurt-Hahn Airport (HHN) (Frankfurt Hahn Airport)",
+		"id": "4b5ae369f964a520ebd828e3"
+	},
+	{
+		"date": "2016-01-29T04:47:03.000Z",
+		"name": "Jung Bäckerei",
+		"id": "50240016e4b053b46e2c8cd8"
+	},
+	{
+		"date": "2016-01-29T08:02:03.000Z",
+		"name": "London Stansted Airport (STN)",
+		"id": "4ac518f7f964a520a5af20e3"
+	},
+	{
+		"date": "2016-01-29T11:54:04.000Z",
+		"name": "Apple Covent Garden",
+		"id": "4c48305e96abd13aa25e7301"
+	},
+	{
+		"date": "2016-01-29T12:02:17.000Z",
+		"name": "Covent Garden",
+		"id": "4c52b7a4b6dabe9a24d2bb13"
+	},
+	{
+		"date": "2016-01-29T15:45:32.000Z",
+		"name": "Victoria and Albert Museum (V&A)",
+		"id": "4ae2d9f8f964a5208d8f21e3"
+	},
+	{
+		"date": "2016-01-29T18:11:04.000Z",
+		"name": "Brent",
+		"id": "53150df1e4b0e72a36ebc698"
+	},
+	{
+		"date": "2016-01-30T12:21:00.000Z",
+		"name": "Buckingham Palace",
+		"id": "4abe4502f964a520558c20e3"
+	},
+	{
+		"date": "2016-01-30T12:39:46.000Z",
+		"name": "The Queen's Gallery",
+		"id": "4ac518d0f964a52091a620e3"
+	},
+	{
+		"date": "2016-01-30T12:56:50.000Z",
+		"name": "Westminster Cathedral",
+		"id": "4ac518cef964a52000a620e3"
+	},
+	{
+		"date": "2016-01-30T12:58:29.000Z",
+		"name": "Jamie's Italian",
+		"id": "557eb94b498e50e3f005055b"
+	},
+	{
+		"date": "2016-01-30T15:36:47.000Z",
+		"name": "Big Ben (Elizabeth Tower)",
+		"id": "4ac518cef964a520f6a520e3"
+	},
+	{
+		"date": "2016-01-30T16:29:02.000Z",
+		"name": "Trafalgar Square",
+		"id": "4ac518cef964a520f9a520e3"
+	},
+	{
+		"date": "2016-01-30T17:28:54.000Z",
+		"name": "Covent Garden",
+		"id": "4c52b7a4b6dabe9a24d2bb13"
+	},
+	{
+		"date": "2016-01-30T18:55:11.000Z",
+		"name": "Salvador & Amanda",
+		"id": "4ac518c2f964a52003a420e3"
+	},
+	{
+		"date": "2016-01-30T20:03:00.000Z",
+		"name": "St Paul's Cathedral",
+		"id": "4ac518cef964a520f5a520e3"
+	},
+	{
+		"date": "2016-01-30T21:28:59.000Z",
+		"name": "Ye Olde London",
+		"id": "4b3cb4c9f964a5205c8625e3"
+	},
+	{
+		"date": "2016-01-31T11:37:57.000Z",
+		"name": "Jacks Cafe",
+		"id": "4bb5bbccf562ef3b0b372f97"
+	},
+	{
+		"date": "2016-01-31T12:30:26.000Z",
+		"name": "Dorset Place (T)",
+		"id": "4ded0bdefa766152f0580a8d"
+	},
+	{
+		"date": "2016-01-31T12:46:28.000Z",
+		"name": "Abbey Road Studios",
+		"id": "4ac518d0f964a520aaa620e3"
+	},
+	{
+		"date": "2016-01-31T13:01:35.000Z",
+		"name": "Abbey Road Crossing",
+		"id": "4b1ab25af964a5209eef23e3"
+	},
+	{
+		"date": "2016-01-31T13:01:59.000Z",
+		"name": "Abbey Road Shop",
+		"id": "563e00fecd10e4161db86f57"
+	},
+	{
+		"date": "2016-01-31T13:39:52.000Z",
+		"name": "The Monument",
+		"id": "4b431692f964a52022dc25e3"
+	},
+	{
+		"date": "2016-01-31T14:40:22.000Z",
+		"name": "Costa Coffee",
+		"id": "4e22c1e022717a5245d842c9"
+	},
+	{
+		"date": "2016-01-31T14:59:49.000Z",
+		"name": "Highgate Cemetery",
+		"id": "4ac518cef964a5201ba620e3"
+	},
+	{
+		"date": "2016-01-31T16:00:24.000Z",
+		"name": "Waterlow Park",
+		"id": "4bcf3f7e9854d13accadf54d"
+	},
+	{
+		"date": "2016-01-31T17:00:38.000Z",
+		"name": "Tower of London",
+		"id": "4ac518cef964a520f7a520e3"
+	},
+	{
+		"date": "2016-01-31T17:17:13.000Z",
+		"name": "Tower Bridge",
+		"id": "4ac518cef964a520f8a520e3"
+	},
+	{
+		"date": "2016-01-31T17:17:31.000Z",
+		"name": "Tesco Express",
+		"id": "5332d2c2498e49c84573186a"
+	},
+	{
+		"date": "2016-01-31T18:37:54.000Z",
+		"name": "Brent",
+		"id": "53150df1e4b0e72a36ebc698"
+	}
+]

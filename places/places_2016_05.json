@@ -1,0 +1,647 @@
+[
+	{
+		"date": "2016-05-01T09:16:30.000Z",
+		"name": "Ezersziget virágüzlet",
+		"id": "5068000ae4b0890847eb674b"
+	},
+	{
+		"date": "2016-05-01T16:03:10.000Z",
+		"name": "Walzer cukrászda",
+		"id": "4dfa4412483b4bf3e57afeb6"
+	},
+	{
+		"date": "2016-05-01T17:42:55.000Z",
+		"name": "Grandma's Place",
+		"id": "4f5c86b7e4b086681c0fa476"
+	},
+	{
+		"date": "2016-05-02T08:22:14.000Z",
+		"name": "Landzeit Steinhäusl bei Wien",
+		"id": "527c9ac711d263d0cd7ace88"
+	},
+	{
+		"date": "2016-05-02T08:49:13.000Z",
+		"name": "Rosenberger",
+		"id": "4bae0b2af964a520fc7d3be3"
+	},
+	{
+		"date": "2016-05-02T08:53:40.000Z",
+		"name": "BP",
+		"id": "4e7aca2b2271de22d5140c66"
+	},
+	{
+		"date": "2016-05-02T11:18:05.000Z",
+		"name": "Raststätte Donautal Ost",
+		"id": "4e7c3336fa76d496b677cc34"
+	},
+	{
+		"date": "2016-05-02T14:27:48.000Z",
+		"name": "Autohof Herrieden",
+		"id": "4ec4ba2c30f8194515034f36"
+	},
+	{
+		"date": "2016-05-02T14:27:58.000Z",
+		"name": "Burger King",
+		"id": "4c9b89cfd4b1b1f761d3d935"
+	},
+	{
+		"date": "2016-05-02T18:09:12.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-03T06:38:26.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-03T06:45:46.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-03T09:51:22.000Z",
+		"name": "Bagelstein",
+		"id": "54f0609b498ea7bb9626e820"
+	},
+	{
+		"date": "2016-05-03T18:15:57.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-04T06:27:28.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-04T06:36:24.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-04T10:03:24.000Z",
+		"name": "Apulia Antichi Sapori",
+		"id": "52d6e66e498e3733dfa1058c"
+	},
+	{
+		"date": "2016-05-04T16:50:12.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-05T20:00:11.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-06T06:25:01.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-06T06:35:43.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-06T09:52:07.000Z",
+		"name": "Dean & David",
+		"id": "53288e8711d2ad54eef962f3"
+	},
+	{
+		"date": "2016-05-06T18:27:22.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-08T08:06:44.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-09T08:04:22.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-09T08:07:05.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-09T08:58:43.000Z",
+		"name": "H&M",
+		"id": "4cd5614d2944b1f7c38b5cec"
+	},
+	{
+		"date": "2016-05-09T10:00:28.000Z",
+		"name": "Apulia Antichi Sapori",
+		"id": "52d6e66e498e3733dfa1058c"
+	},
+	{
+		"date": "2016-05-09T12:17:34.000Z",
+		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
+		"id": "4ba14c55f964a52045aa37e3"
+	},
+	{
+		"date": "2016-05-09T14:43:35.000Z",
+		"name": "Gate A16",
+		"id": "4e78b2bf483bc8fe83ea21fb"
+	},
+	{
+		"date": "2016-05-09T15:57:02.000Z",
+		"name": "Terminal 2",
+		"id": "4b93a176f964a520f14a34e3"
+	},
+	{
+		"date": "2016-05-09T15:57:49.000Z",
+		"name": "Munich Franz Josef Strauss Airport (MUC) (Flughafen München „Franz Josef Strauß“)",
+		"id": "4cbd1bfaf50e224b160503fc"
+	},
+	{
+		"date": "2016-05-09T17:47:38.000Z",
+		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
+		"id": "4b61c2daf964a5200f212ae3"
+	},
+	{
+		"date": "2016-05-09T18:01:30.000Z",
+		"name": "Terminal 2A",
+		"id": "4c25aa535c5ca59357e044fe"
+	},
+	{
+		"date": "2016-05-09T19:23:31.000Z",
+		"name": "Blaha Lujza tér",
+		"id": "4b609983f964a5208aef29e3"
+	},
+	{
+		"date": "2016-05-09T22:55:34.000Z",
+		"name": "Danubius Hotel Astoria",
+		"id": "4c38e55f2c8020a167b98b00"
+	},
+	{
+		"date": "2016-05-10T06:13:32.000Z",
+		"name": "Docler Holding Irodaház",
+		"id": "4b503f8af964a520171f27e3"
+	},
+	{
+		"date": "2016-05-10T12:32:12.000Z",
+		"name": "Danubius Hotel Astoria",
+		"id": "4c38e55f2c8020a167b98b00"
+	},
+	{
+		"date": "2016-05-10T12:46:34.000Z",
+		"name": "SonkaArcok • bárkonyha",
+		"id": "50de0570e4b07dd5d142fe47"
+	},
+	{
+		"date": "2016-05-10T14:19:35.000Z",
+		"name": "Deák Ferenc tér",
+		"id": "4d52c0d74015b1f7b1017ecf"
+	},
+	{
+		"date": "2016-05-10T14:28:30.000Z",
+		"name": "AnalogueZone Showroom",
+		"id": "52ed7c12498e3e1e276b4dab"
+	},
+	{
+		"date": "2016-05-10T19:41:52.000Z",
+		"name": "W35",
+		"id": "51719734e4b081c3bef3e14d"
+	},
+	{
+		"date": "2016-05-10T20:41:31.000Z",
+		"name": "Gozsdu Udvar",
+		"id": "4bddd19289ca76b073825d5e"
+	},
+	{
+		"date": "2016-05-10T20:45:10.000Z",
+		"name": "Horizont Taproom by Léhűtő",
+		"id": "50c61700e4b0b83e0adab5c8"
+	},
+	{
+		"date": "2016-05-10T20:54:46.000Z",
+		"name": "ELLÁTÓház",
+		"id": "554d2998498e845219aeb14f"
+	},
+	{
+		"date": "2016-05-10T21:08:14.000Z",
+		"name": "Spíler",
+		"id": "5038ed94e4b0304eb4fc3a90"
+	},
+	{
+		"date": "2016-05-10T22:29:44.000Z",
+		"name": "Hot Dog Cold Beer #2",
+		"id": "54e74917498e574ef7f23ffd"
+	},
+	{
+		"date": "2016-05-11T07:22:19.000Z",
+		"name": "Akvárium klub",
+		"id": "52fbb202498ebfa06326ef27"
+	},
+	{
+		"date": "2016-05-11T13:55:25.000Z",
+		"name": "Erzsébet tér",
+		"id": "4bb1a92af964a520ff9d3ce3"
+	},
+	{
+		"date": "2016-05-11T19:53:17.000Z",
+		"name": "Humbák Művek",
+		"id": "5695f810498eee4ddc775dbe"
+	},
+	{
+		"date": "2016-05-11T20:31:57.000Z",
+		"name": "IGEN",
+		"id": "53cff6c2498e918e657eee82"
+	},
+	{
+		"date": "2016-05-11T21:57:07.000Z",
+		"name": "Aznap",
+		"id": "5442b803498e03294ce1ffda"
+	},
+	{
+		"date": "2016-05-12T01:55:06.000Z",
+		"name": "Danubius Hotel Astoria",
+		"id": "4c38e55f2c8020a167b98b00"
+	},
+	{
+		"date": "2016-05-12T07:02:56.000Z",
+		"name": "Akvárium klub",
+		"id": "52fbb202498ebfa06326ef27"
+	},
+	{
+		"date": "2016-05-12T16:17:45.000Z",
+		"name": "Danubius Hotel Astoria",
+		"id": "4c38e55f2c8020a167b98b00"
+	},
+	{
+		"date": "2016-05-12T17:11:59.000Z",
+		"name": "Blaha Lujza tér",
+		"id": "4b609983f964a5208aef29e3"
+	},
+	{
+		"date": "2016-05-12T17:50:46.000Z",
+		"name": "Budapest Park",
+		"id": "4f92b544e4b06ce857be5246"
+	},
+	{
+		"date": "2016-05-12T22:56:46.000Z",
+		"name": "ZERO BAR",
+		"id": "50d9e839e4b0aceb2ca86b9d"
+	},
+	{
+		"date": "2016-05-13T05:53:20.000Z",
+		"name": "Danubius Hotel Astoria",
+		"id": "4c38e55f2c8020a167b98b00"
+	},
+	{
+		"date": "2016-05-13T07:01:12.000Z",
+		"name": "Akvárium klub",
+		"id": "52fbb202498ebfa06326ef27"
+	},
+	{
+		"date": "2016-05-13T11:48:11.000Z",
+		"name": "Akvárium klub",
+		"id": "52fbb202498ebfa06326ef27"
+	},
+	{
+		"date": "2016-05-13T15:58:59.000Z",
+		"name": "Danubius Hotel Astoria",
+		"id": "4c38e55f2c8020a167b98b00"
+	},
+	{
+		"date": "2016-05-13T16:48:27.000Z",
+		"name": "Hummus Bar",
+		"id": "4d4c3d5ef523a1439944749d"
+	},
+	{
+		"date": "2016-05-13T18:04:16.000Z",
+		"name": "Képzeld el!",
+		"id": "5401a163498ea342592cffd9"
+	},
+	{
+		"date": "2016-05-13T23:41:50.000Z",
+		"name": "Danubius Hotel Astoria",
+		"id": "4c38e55f2c8020a167b98b00"
+	},
+	{
+		"date": "2016-05-14T05:07:18.000Z",
+		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
+		"id": "4b61c2daf964a5200f212ae3"
+	},
+	{
+		"date": "2016-05-14T05:45:23.000Z",
+		"name": "Terminal 2A",
+		"id": "4c25aa535c5ca59357e044fe"
+	},
+	{
+		"date": "2016-05-14T06:55:47.000Z",
+		"name": "Gate A5",
+		"id": "4e0357478877909501429d99"
+	},
+	{
+		"date": "2016-05-14T09:40:04.000Z",
+		"name": "Frankfurt Airport (FRA) (Frankfurt Airport)",
+		"id": "4b058853f964a5201bbf22e3"
+	},
+	{
+		"date": "2016-05-14T09:54:11.000Z",
+		"name": "Concourse B",
+		"id": "4e6cd3d38877ce9598244dbd"
+	},
+	{
+		"date": "2016-05-14T12:00:51.000Z",
+		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
+		"id": "4ba14c55f964a52045aa37e3"
+	},
+	{
+		"date": "2016-05-14T12:01:45.000Z",
+		"name": "Baggage Claim",
+		"id": "51d7de23498eb1cf171bd4e8"
+	},
+	{
+		"date": "2016-05-14T12:51:20.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-14T15:44:02.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-15T13:10:50.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-17T06:23:17.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-17T06:54:53.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-17T09:32:49.000Z",
+		"name": "McDonald's",
+		"id": "4ee3c150490138df8c9047ba"
+	},
+	{
+		"date": "2016-05-17T17:17:55.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-18T06:29:52.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-18T06:30:03.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-18T09:51:09.000Z",
+		"name": "Apulia Antichi Sapori",
+		"id": "52d6e66e498e3733dfa1058c"
+	},
+	{
+		"date": "2016-05-18T17:04:20.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-19T06:52:15.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-19T07:18:01.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-19T09:57:03.000Z",
+		"name": "Dean & David",
+		"id": "53288e8711d2ad54eef962f3"
+	},
+	{
+		"date": "2016-05-19T17:16:15.000Z",
+		"name": "Porta Nigra",
+		"id": "4b4db8b3f964a52049d626e3"
+	},
+	{
+		"date": "2016-05-19T17:22:59.000Z",
+		"name": "Trier Galerie",
+		"id": "4bc2e26c74a9a5933ad0d3f6"
+	},
+	{
+		"date": "2016-05-19T17:34:13.000Z",
+		"name": "REWE City",
+		"id": "57a3a39c498e406b9d2fd43a"
+	},
+	{
+		"date": "2016-05-19T18:07:27.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-20T06:33:34.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-20T07:08:16.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-20T09:36:24.000Z",
+		"name": "McDonald's",
+		"id": "4ee3c150490138df8c9047ba"
+	},
+	{
+		"date": "2016-05-20T16:27:55.000Z",
+		"name": "Tankstellenmeile Wasserbillig",
+		"id": "4d4080e456f45941d66ab762"
+	},
+	{
+		"date": "2016-05-20T16:28:19.000Z",
+		"name": "Aral",
+		"id": "4d4a81259544a0939de332e7"
+	},
+	{
+		"date": "2016-05-20T16:58:20.000Z",
+		"name": "Globus Baumarkt Trier",
+		"id": "54f1b4e8498e19d7bc0c3514"
+	},
+	{
+		"date": "2016-05-20T17:16:58.000Z",
+		"name": "SUBWAY",
+		"id": "4b9b8b0ff964a5202b0e36e3"
+	},
+	{
+		"date": "2016-05-20T17:41:21.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-20T19:10:29.000Z",
+		"name": "Coyote Cafe",
+		"id": "4b52de43f964a520968927e3"
+	},
+	{
+		"date": "2016-05-21T09:56:56.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-21T10:07:39.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-21T17:10:22.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-22T05:39:16.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-22T18:13:03.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-23T14:05:33.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-23T16:13:52.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-24T09:45:17.000Z",
+		"name": "Dean & David",
+		"id": "53288e8711d2ad54eef962f3"
+	},
+	{
+		"date": "2016-05-24T10:04:40.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-24T16:53:50.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-25T06:34:08.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-25T06:34:32.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-25T09:45:05.000Z",
+		"name": "Apulia Antichi Sapori",
+		"id": "52d6e66e498e3733dfa1058c"
+	},
+	{
+		"date": "2016-05-25T15:31:20.000Z",
+		"name": "Bricherhaff",
+		"id": "51839b23498e3270c1501e51"
+	},
+	{
+		"date": "2016-05-25T17:07:03.000Z",
+		"name": "Das Bad an den Kaiserthermen",
+		"id": "4b86b749f964a520439831e3"
+	},
+	{
+		"date": "2016-05-25T19:32:40.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-26T06:46:50.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-26T06:47:02.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-26T09:42:09.000Z",
+		"name": "McDonald's",
+		"id": "4ee3c150490138df8c9047ba"
+	},
+	{
+		"date": "2016-05-26T16:09:06.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-27T07:06:24.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-27T07:09:17.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-27T09:48:23.000Z",
+		"name": "Vapiano",
+		"id": "4c51b35b3940be9a6a8e4e09"
+	},
+	{
+		"date": "2016-05-28T07:06:40.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2016-05-28T08:12:56.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2016-05-28T10:39:08.000Z",
+		"name": "Raku-An",
+		"id": "522eede811d261c3d2a69ea2"
+	},
+	{
+		"date": "2016-05-28T22:01:05.000Z",
+		"name": "LuxExpo",
+		"id": "4ba62609f964a520293739e3"
+	},
+	{
+		"date": "2016-05-29T10:06:43.000Z",
+		"name": "Vapiano",
+		"id": "4c51b35b3940be9a6a8e4e09"
+	},
+	{
+		"date": "2016-05-29T16:04:30.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	},
+	{
+		"date": "2016-05-31T09:47:12.000Z",
+		"name": "Cotton Candy Residence 5",
+		"id": "5614386e498e5c4e8f4927d8"
+	}
+]
