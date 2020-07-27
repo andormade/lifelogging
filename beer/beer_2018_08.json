@@ -1,0 +1,692 @@
+[
+	{
+		"name": "W-IPA",
+		"date": "2018-08-03T18:09:54.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Speciaalbierbrouwerij St. Christoffel",
+			"country": "Netherlands",
+			"city": "Breda",
+			"state": "Noord-Brabant"
+		},
+		"venue": {
+			"name": "Vomar Voordeelmarkt",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3913,
+			"lng": 4.64901
+		},
+		"ibu": 45,
+		"abv": 6.5,
+		"flavor": [
+			"fruity",
+			"smooth",
+			"bitter"
+		],
+		"type": "IPA - White",
+		"rating": 4
+	},
+	{
+		"name": "Maotje",
+		"date": "2018-08-03T21:54:15.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "KraftBier",
+			"country": "Netherlands",
+			"city": "Tilburg",
+			"state": "Noord-Brabant"
+		},
+		"venue": {
+			"name": "In den Uiver",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3813,
+			"lng": 4.63817
+		},
+		"ibu": 39,
+		"abv": 6.4,
+		"flavor": [
+			"spicy",
+			"herbal",
+			"soft",
+			"dry",
+			"bitter"
+		],
+		"type": "Farmhouse Ale - Saison",
+		"rating": 4.5
+	},
+	{
+		"name": "Pilsener",
+		"date": "2018-08-04T16:32:11.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Hertog Jan",
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Museumplein",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3575,
+			"lng": 4.88149
+		},
+		"ibu": 21,
+		"abv": 5.1,
+		"flavor": [
+			"clean",
+			"light",
+			"warm",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "Salsa Shop",
+		"date": "2018-08-07T18:54:39.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Troost",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Salsa Shop",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3796,
+			"lng": 4.90005
+		},
+		"ibu": 20,
+		"abv": 4.8,
+		"flavor": [
+			"lemony",
+			"light",
+			"sweet",
+			"bitter"
+		],
+		"type": "Lager - American",
+		"rating": 4
+	},
+	{
+		"name": "Hapkin",
+		"date": "2018-08-11T18:08:01.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Alken-Maes",
+			"country": "Belgium",
+			"city": "Mechelen",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Hoofddorp",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3004,
+			"lng": 4.69537
+		},
+		"ibu": 29,
+		"abv": 8.5,
+		"flavor": [
+			"fruity",
+			"heavy",
+			"sweet",
+			"strong"
+		],
+		"type": "Belgian Strong Golden Ale",
+		"rating": 4
+	},
+	{
+		"name": "Springtij",
+		"date": "2018-08-11T21:20:58.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Texelse Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Oudeschild",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Hoofddorp",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3004,
+			"lng": 4.69537
+		},
+		"ibu": 25,
+		"abv": 7.5,
+		"flavor": [
+			"spring",
+			"full",
+			"sweet",
+			"warm"
+		],
+		"type": "Bock - Hell / Maibock / Lentebock",
+		"rating": 3.25
+	},
+	{
+		"name": "Rodenbach Classic",
+		"date": "2018-08-13T20:58:36.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Rodenbach",
+			"country": "Belgium",
+			"city": "Roeselare",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 30,
+		"abv": 5.2,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"sour",
+			"tart"
+		],
+		"type": "Sour - Flanders Red Ale",
+		"rating": 4.5
+	},
+	{
+		"name": "312 Urban Wheat Ale",
+		"date": "2018-08-14T19:22:59.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Goose Island Beer Co.",
+			"country": "United States",
+			"city": "Chicago",
+			"state": "IL"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 18,
+		"abv": 4.2,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth",
+			"watery"
+		],
+		"type": "Wheat Beer - American Pale Wheat",
+		"rating": 3.75
+	},
+	{
+		"name": "Green Bullet IPA",
+		"date": "2018-08-15T18:59:23.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Two Chefs Brewing",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 40,
+		"abv": 5.7,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Aan Lager Wal",
+		"date": "2018-08-16T22:09:27.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Gulpener Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Gulpen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 3.5,
+		"flavor": [
+			"light",
+			"dry",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Lager - Amber",
+		"rating": 4
+	},
+	{
+		"name": "Mannenliefde",
+		"date": "2018-08-17T18:03:39.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Oedipus Brewing",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Museumplein",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3575,
+			"lng": 4.88149
+		},
+		"ibu": 25,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "Farmhouse Ale - Saison",
+		"rating": 4
+	},
+	{
+		"name": "Heineken",
+		"date": "2018-08-17T19:40:08.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Heineken",
+			"country": "Netherlands",
+			"city": "Zoeterwoude",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "The Old Bell",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3659,
+			"lng": 4.89747
+		},
+		"ibu": 19,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3.5
+	},
+	{
+		"name": "iKi Yuzu",
+		"date": "2018-08-21T18:45:15.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "iKi beer",
+			"country": "Netherlands",
+			"city": "'s-Hertogenbosch",
+			"state": "Noord-Brabant"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"spicy",
+			"light",
+			"smooth",
+			"watery"
+		],
+		"type": "Spiced / Herbed Beer",
+		"rating": 4
+	},
+	{
+		"name": "Mooie Nel IPA / Northsea IPA",
+		"date": "2018-08-22T20:36:42.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 70,
+		"abv": 6.5,
+		"flavor": [
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - American",
+		"rating": 3.75
+	},
+	{
+		"name": "Gember Goud",
+		"date": "2018-08-23T21:09:55.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Gebrouwen Door Vrouwen",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 17,
+		"abv": 4.6,
+		"flavor": [
+			"spicy",
+			"full",
+			"bitter",
+			"ginger"
+		],
+		"type": "Spiced / Herbed Beer",
+		"rating": 3
+	},
+	{
+		"name": "Cerveza Extraordinaria",
+		"date": "2018-08-24T17:38:56.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Brouwerij Troost",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"citrus",
+			"bitter"
+		],
+		"type": "Lager - American",
+		"rating": 4
+	},
+	{
+		"name": "Zonnig Zeewit",
+		"date": "2018-08-24T21:31:47.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Gebrouwen Door Vrouwen",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 16,
+		"abv": 3.8,
+		"flavor": [
+			"citrusy",
+			"light",
+			"watery",
+			"Orange"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 3.75
+	},
+	{
+		"name": "Winbic",
+		"date": "2018-08-26T15:37:26.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Mikkeller",
+			"country": "Denmark",
+			"city": "Copenhagen",
+			"state": "Region Hovedstaden"
+		},
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
+		"ibu": 0,
+		"abv": 6,
+		"flavor": [
+			"light",
+			"dry",
+			"sour",
+			"tart"
+		],
+		"type": "Sour - Other",
+		"rating": 4
+	},
+	{
+		"name": "Cervino - Gewürztraminer (2017)",
+		"date": "2018-08-26T16:16:27.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Funk Factory Geuzeria",
+			"country": "United States",
+			"city": "Madison",
+			"state": "WI"
+		},
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
+		"ibu": 0,
+		"abv": 8.5,
+		"flavor": [
+			"sweet",
+			"dry",
+			"sour",
+			"funky"
+		],
+		"type": "American Wild Ale",
+		"rating": 4
+	},
+	{
+		"name": "Carolina Amber",
+		"date": "2018-08-26T16:53:36.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Fortnight Brewing and Pub",
+			"country": "United States",
+			"city": "Cary",
+			"state": "NC"
+		},
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
+		"ibu": 40,
+		"abv": 5.5,
+		"flavor": [
+			"malty",
+			"smooth",
+			"bitter"
+		],
+		"type": "Extra Special / Strong Bitter",
+		"rating": 4
+	},
+	{
+		"name": "Habbekrats",
+		"date": "2018-08-26T17:42:23.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Uiltje Brewing Company",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
+		"ibu": 8,
+		"abv": 1,
+		"flavor": [
+			"floral",
+			"hoppy",
+			"citrus",
+			"intense"
+		],
+		"type": "IPA - Session / India Session Ale",
+		"rating": 3.5
+	},
+	{
+		"name": "Dibbes Lemongrass Weizen",
+		"date": "2018-08-29T20:43:47.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Branie Bier",
+			"country": "Netherlands",
+			"city": "",
+			"state": ""
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 19,
+		"abv": 5.4,
+		"flavor": [
+			"lemony",
+			"citrus",
+			"bitter"
+		],
+		"type": "Hefeweizen",
+		"rating": 4
+	},
+	{
+		"name": "Gaia",
+		"date": "2018-08-30T20:12:54.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Oedipus Brewing",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 60,
+		"abv": 7,
+		"flavor": [
+			"sweet",
+			"hoppy",
+			"bitter",
+			"peachy"
+		],
+		"type": "IPA - American",
+		"rating": 3.25
+	},
+	{
+		"name": "Jillz Original ",
+		"date": "2018-08-31T21:10:14.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jillz",
+			"country": "Netherlands",
+			"city": "Zoeterwoude",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"apple"
+		],
+		"type": "Cider - Sweet",
+		"rating": 3.5
+	}
+]

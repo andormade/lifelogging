@@ -1,0 +1,315 @@
+[
+	{
+		"name": "Bird of Prey IPA",
+		"date": "2019-09-01T17:06:14.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Uiltje Brewing Company",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Café de Vijfhoek",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3789,
+			"lng": 4.6302
+		},
+		"ibu": 50,
+		"abv": 5.8,
+		"flavor": [
+			"fruity",
+			"hoppy",
+			"citrus",
+			"bitter"
+		],
+		"type": "IPA - International",
+		"rating": 4.5
+	},
+	{
+		"name": "Schöfferhofer Weizen",
+		"date": "2019-09-05T19:13:34.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Radeberger Gruppe",
+			"country": "Germany",
+			"city": "Frankfurt am Main",
+			"state": "Hessen"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 14,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.5
+	},
+	{
+		"name": "Birra Moretti L'Autentica",
+		"date": "2019-09-06T17:10:34.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Birra Moretti",
+			"country": "Italy",
+			"city": "Udine",
+			"state": "Friuli Venezia Giulia"
+		},
+		"venue": {
+			"name": "Pizzicotto",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Severní Holandsko",
+			"lat": 52.383,
+			"lng": 4.63801
+		},
+		"ibu": 12,
+		"abv": 4.6,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Session IPA",
+		"date": "2019-09-10T17:50:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Palm Belgian Craft Brewers",
+			"country": "Belgium",
+			"city": "Steenhuffel",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 3.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "IPA - Session / India Session Ale",
+		"rating": 3.75
+	},
+	{
+		"name": "Club Tropicana",
+		"date": "2019-09-10T19:18:48.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Troost",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 3.8,
+		"flavor": [
+			"fruity",
+			"light",
+			"sour",
+			"citrus"
+		],
+		"type": "Sour - Fruited",
+		"rating": 3.75
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2019-09-14T13:29:02.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Bakelit Multi Art Center",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4467,
+			"lng": 19.0943
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Somersby Apple Cider",
+		"date": "2019-09-14T15:59:23.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Carlsberg Group",
+			"country": "Denmark",
+			"city": "Copenhagen",
+			"state": "Region Hovedstaden"
+		},
+		"venue": {
+			"name": "Bakelit Multi Art Center",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4467,
+			"lng": 19.0943
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"sweet",
+			"dry",
+			"apple"
+		],
+		"type": "Cider - Sweet",
+		"rating": 3.75
+	},
+	{
+		"name": "Lellebel",
+		"date": "2019-09-18T18:03:20.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij de Eeuwige Jeugd",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "THT",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.383,
+			"lng": 4.90308
+		},
+		"ibu": 15,
+		"abv": 5.7,
+		"flavor": [
+			"fruity",
+			"hoppy",
+			"citrus"
+		],
+		"type": "Blonde Ale",
+		"rating": 4
+	},
+	{
+		"name": "I.P.A.",
+		"date": "2019-09-21T19:15:20.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Brouwerij Troost",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 40,
+		"abv": 6.5,
+		"flavor": [
+			"malty",
+			"fruity",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - American",
+		"rating": 4.25
+	},
+	{
+		"name": "Wheat Impact",
+		"date": "2019-09-26T19:39:52.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 15,
+		"abv": 5,
+		"flavor": [
+			"grapefruity",
+			"banana",
+			"citrus"
+		],
+		"type": "Hefeweizen",
+		"rating": 3.75
+	},
+	{
+		"name": "Flying Rabbit",
+		"date": "2019-09-28T13:51:50.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "MONYO Brewing Co.",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": "Ferencmajor Pikant Pajta",
+			"country": "Magyarország",
+			"city": "Szomód",
+			"state": "Komárom-Esztergom megye",
+			"lat": 47.6938,
+			"lng": 18.306
+		},
+		"ibu": 80,
+		"abv": 6.5,
+		"flavor": [
+			"malty",
+			"fruity",
+			"hoppy"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	}
+]

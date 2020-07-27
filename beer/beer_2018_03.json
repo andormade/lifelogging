@@ -1,75 +1,81 @@
 [
 	{
 		"name": "Grolsch Premium Lager",
-		"date": "2018-03-02 20:34:35",
-		"serving": "bottle",
+		"date": "2018-03-02T19:34:35.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Koninklijke Grolsch",
-			"size": null,
-			"location": "Enschede, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Enschede",
+			"state": "Overijssel"
 		},
 		"venue": {
 			"name": "Haarlem",
-			"location": ", Nederland",
-			"longitude": 4.63838,
-			"latitude": 52.3892
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
 		},
-		"ibu": null,
+		"ibu": 28,
 		"abv": 5,
 		"flavor": [
 			"clean",
 			"light",
 			"smooth"
 		],
-		"style": "pilsner - other",
-		"rating": 3
+		"type": "Pilsner - Other",
+		"rating": 3.5
 	},
 	{
 		"name": "Krijtje",
-		"date": "2018-03-12 21:57:35",
-		"serving": "bottle",
+		"date": "2018-03-12T20:57:35.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij De School",
-			"size": null,
-			"location": "Badhoevedorp, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Badhoevedorp",
+			"state": "Noord-Holland"
 		},
 		"venue": {
 			"name": "Cotton Candy Residence 10",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.64054,
-			"latitude": 52.3929
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
 		},
 		"ibu": 35,
-		"abv": 5,
+		"abv": 5.8,
 		"flavor": [
 			"fruity",
 			"esters",
 			"citrus",
 			"bitter"
 		],
-		"style": "saison / farmhouse ale",
-		"rating": 4
+		"type": "Farmhouse Ale - Saison",
+		"rating": 4.5
 	},
 	{
 		"name": "Heilig Boontje",
-		"date": "2018-03-13 00:08:51",
-		"serving": "bottle",
+		"date": "2018-03-12T23:08:51.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij De School",
-			"size": null,
-			"location": "Badhoevedorp, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Badhoevedorp",
+			"state": "Noord-Holland"
 		},
 		"venue": {
 			"name": "Cotton Candy Residence 10",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.64054,
-			"latitude": 52.3929
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
 		},
 		"ibu": 25,
-		"abv": 3,
+		"abv": 3.5,
 		"flavor": [
 			"fruity",
 			"carbonated",
@@ -77,24 +83,26 @@
 			"hoppy",
 			"bitter"
 		],
-		"style": "pale ale - international",
-		"rating": 4
+		"type": "Pale Ale - International",
+		"rating": 4.5
 	},
 	{
 		"name": "Waterloo Triple Blond",
-		"date": "2018-03-16 00:16:45",
-		"serving": "draft",
+		"date": "2018-03-15T23:16:45.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Waterloo Brewery Mont-St-Jean",
-			"size": null,
-			"location": "Waterloo, Belgium",
-			"website": null
+			"country": "Belgium",
+			"city": "Waterloo",
+			"state": "Wallonie"
 		},
 		"venue": {
 			"name": "Café ZILT",
-			"location": "Amsterdam, Nederland",
-			"longitude": 4.90106,
-			"latitude": 52.3752
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3752,
+			"lng": 4.90112
 		},
 		"ibu": 26,
 		"abv": 8,
@@ -104,50 +112,54 @@
 			"strong",
 			"smooth"
 		],
-		"style": "belgian tripel",
-		"rating": 4
+		"type": "Belgian Tripel",
+		"rating": 4.25
 	},
 	{
 		"name": "Bianco",
-		"date": "2018-03-16 23:38:22",
-		"serving": "draft",
+		"date": "2018-03-16T22:38:22.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "De Bierfabriek",
-			"size": null,
-			"location": "Amsterdam, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
 		"venue": {
 			"name": "Bierfabriek",
-			"location": "Amsterdam, Nederland",
-			"longitude": 4.89346,
-			"latitude": 52.3699
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3699,
+			"lng": 4.89346
 		},
-		"ibu": null,
-		"abv": 5,
+		"ibu": 0,
+		"abv": 5.2,
 		"flavor": [
 			"grassy",
 			"light",
 			"sour"
 		],
-		"style": "blonde ale - belgian blonde / golden",
-		"rating": 3
+		"type": "Belgian Blonde",
+		"rating": 3.5
 	},
 	{
 		"name": "Tropical Ralphie",
-		"date": "2018-03-16 23:39:38",
-		"serving": "bottle",
+		"date": "2018-03-16T22:39:38.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Two Chefs Brewing",
-			"size": null,
-			"location": "Amsterdam, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
 		"venue": {
 			"name": "The Tara",
-			"location": "Amsterdam, Nederland",
-			"longitude": 4.89284,
-			"latitude": 52.3703
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3703,
+			"lng": 4.89284
 		},
 		"ibu": 20,
 		"abv": 5,
@@ -156,20 +168,28 @@
 			"sour",
 			"hoppy"
 		],
-		"style": "hefeweizen",
+		"type": "Hefeweizen",
 		"rating": 4
 	},
 	{
 		"name": "Frisse Lentebok (2017)",
-		"date": "2018-03-17 22:35:13",
-		"serving": "bottle",
+		"date": "2018-03-17T21:35:13.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Koninklijke Grolsch",
-			"size": null,
-			"location": "Enschede, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Enschede",
+			"state": "Overijssel"
 		},
-		"ibu": null,
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
 		"abv": 7,
 		"flavor": [
 			"malty",
@@ -177,53 +197,57 @@
 			"light",
 			"bitter"
 		],
-		"style": "maibock / heller (helles) bock",
+		"type": "Bock - Hell / Maibock / Lentebock",
 		"rating": 4
 	},
 	{
 		"name": "India Pale Ale / London IPA",
-		"date": "2018-03-18 00:47:26",
-		"serving": "draft",
+		"date": "2018-03-17T23:47:26.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Meantime Brewing Company",
-			"size": null,
-			"location": "Greenwich, London, England",
-			"website": null
+			"country": "England",
+			"city": "City of London",
+			"state": "London"
 		},
 		"venue": {
 			"name": "Theatercafé De Richel",
-			"location": "Amsterdam, Nederland",
-			"longitude": 4.89345,
-			"latitude": 52.3699
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3699,
+			"lng": 4.89345
 		},
 		"ibu": 65,
-		"abv": 7,
+		"abv": 7.4,
 		"flavor": [
 			"malty",
 			"strong",
 			"bitter"
 		],
-		"style": "ipa - english",
-		"rating": 4
+		"type": "IPA - English",
+		"rating": 4.5
 	},
 	{
 		"name": "Hoegaarden Wit / Blanche",
-		"date": "2018-03-21 18:20:44",
-		"serving": "draft",
+		"date": "2018-03-21T17:20:44.000Z",
+		"serving": "Draft",
 		"brewery": {
-			"name": "Brouwerij van Hoegaarden",
-			"size": null,
-			"location": "Hoegaarden, Belgium",
-			"website": null
+			"name": "Brouwerij Hoegaarden",
+			"country": "Belgium",
+			"city": "Hoegaarden",
+			"state": "Vlaanderen"
 		},
 		"venue": {
 			"name": "Flakon",
-			"location": "Budapest, Magyarország",
-			"longitude": 19.1351,
-			"latitude": 47.5046
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.5046,
+			"lng": 19.1351
 		},
 		"ibu": 15,
-		"abv": 4,
+		"abv": 4.9,
 		"flavor": [
 			"fruity",
 			"banana",
@@ -231,134 +255,207 @@
 			"sweet",
 			"smooth"
 		],
-		"style": "witbier",
-		"rating": 4
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.25
 	},
 	{
 		"name": "La Trappe Isid'or",
-		"date": "2018-03-22 21:20:11",
-		"serving": "bottle",
+		"date": "2018-03-22T20:20:11.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Bierbrouwerij De Koningshoeven",
-			"size": null,
-			"location": "Berkel-Enschot, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Berkel-Enschot",
+			"state": "Noord-Brabant"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
 		},
 		"ibu": 27,
-		"abv": 7,
+		"abv": 7.5,
 		"flavor": [
 			"sweet",
 			"strong",
 			"smooth"
 		],
-		"style": "belgian strong golden ale",
+		"type": "Belgian Strong Golden Ale",
 		"rating": 4
 	},
 	{
 		"name": "Konrad Zelený král",
-		"date": "2018-03-24 20:32:46",
-		"serving": "draft",
+		"date": "2018-03-24T19:32:46.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Pivovar Liberec Vratislavice",
-			"size": null,
-			"location": "Liberec, Czech Republic",
-			"website": null
+			"country": "Czech Republic",
+			"city": "Liberec",
+			"state": ""
 		},
 		"venue": {
 			"name": "Mr&Mrs Columbo Pub",
-			"location": "Budapest, Magyarország",
-			"longitude": 19.0421,
-			"latitude": 47.4925
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4925,
+			"lng": 19.0421
 		},
-		"ibu": null,
+		"ibu": 0,
 		"abv": 5,
 		"flavor": [
 			"herbal",
 			"grassy",
 			"bitter"
 		],
-		"style": "spiced / herbed beer",
-		"rating": 4
+		"type": "Spiced / Herbed Beer",
+		"rating": 4.5
 	},
 	{
 		"name": "Postřižinské Něžný Barbar",
-		"date": "2018-03-24 22:25:14",
-		"serving": "draft",
+		"date": "2018-03-24T21:25:14.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Pivovar Nymburk",
-			"size": null,
-			"location": "Nymburk, Czech Republic",
-			"website": null
+			"country": "Czech Republic",
+			"city": "Nymburk",
+			"state": "Střední Čechy"
 		},
 		"venue": {
 			"name": "Mr&Mrs Columbo Pub",
-			"location": "Budapest, Magyarország",
-			"longitude": 19.0421,
-			"latitude": 47.4925
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4925,
+			"lng": 19.0421
 		},
 		"ibu": 27,
-		"abv": 5,
+		"abv": 5.3,
 		"flavor": [
 			"caramelly",
 			"sweet",
 			"smooth",
 			"dark"
 		],
-		"style": "lager - amber",
+		"type": "Lager - Amber",
 		"rating": 3
 	},
 	{
 		"name": "Rübæus",
-		"date": "2018-03-31 21:09:04",
-		"serving": "draft",
+		"date": "2018-03-31T19:09:04.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Founders Brewing Co.",
-			"size": null,
-			"location": "Grand Rapids, United States",
-			"website": null
+			"country": "United States",
+			"city": "Grand Rapids",
+			"state": "MI"
 		},
 		"venue": {
 			"name": "BeerTemple",
-			"location": "Amsterdam, Nederland",
-			"longitude": 4.89055,
-			"latitude": 52.372
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.372,
+			"lng": 4.89032
 		},
 		"ibu": 15,
-		"abv": 5,
+		"abv": 5.7,
 		"flavor": [
 			"fruity",
 			"sweet",
 			"smooth",
 			"raspberry"
 		],
-		"style": "fruit beer",
-		"rating": 3
+		"type": "Fruit Beer",
+		"rating": 3.75
 	},
 	{
 		"name": "Mount Crushmore",
-		"date": "2018-03-31 21:49:15",
-		"serving": "draft",
+		"date": "2018-03-31T19:49:15.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "AleSmith Brewing Company",
-			"size": null,
-			"location": "San Diego, United States",
-			"website": null
+			"country": "United States",
+			"city": "San Diego",
+			"state": "CA"
 		},
 		"venue": {
 			"name": "BeerTemple",
-			"location": "Amsterdam, Nederland",
-			"longitude": 4.89055,
-			"latitude": 52.372
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.372,
+			"lng": 4.89032
 		},
-		"ibu": null,
-		"abv": 4,
+		"ibu": 0,
+		"abv": 4.6,
 		"flavor": [
 			"light",
 			"creamy",
 			"smooth",
 			"mouthfeel"
 		],
-		"style": "cream ale",
+		"type": "Cream Ale",
+		"rating": 4.25
+	},
+	{
+		"name": "Piewee the Pineapple Weizen",
+		"date": "2018-03-31T22:39:26.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Uiltje Brewing Company",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
+		"ibu": 6,
+		"abv": 5,
+		"flavor": [
+			"spring",
+			"fruity",
+			"sweet",
+			"pineapple"
+		],
+		"type": "Hefeweizen",
 		"rating": 4
+	},
+	{
+		"name": "FF lekker met je bek in het zonnetje (2017)",
+		"date": "2018-03-31T23:08:57.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Uiltje Brewing Company",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
+		"ibu": 55,
+		"abv": 3.6,
+		"flavor": [
+			"light",
+			"citrus",
+			"bitter"
+		],
+		"type": "IPA - Session / India Session Ale",
+		"rating": 3.75
 	}
 ]

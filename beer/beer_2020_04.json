@@ -1,0 +1,412 @@
+[
+	{
+		"name": "Corona Extra",
+		"date": "2020-04-01T21:55:21.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-04-04T19:15:46.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-04-04T21:16:28.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Biri",
+		"date": "2020-04-05T20:55:28.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 0,
+		"abv": 4.7,
+		"flavor": [
+			"tropical",
+			"light"
+		],
+		"type": "Lager - American",
+		"rating": 4
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-04-08T17:31:34.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-04-08T18:11:01.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-04-09T19:52:39.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Biri",
+		"date": "2020-04-09T20:54:56.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 0,
+		"abv": 4.7,
+		"flavor": [
+			"tropical",
+			"light"
+		],
+		"type": "Lager - American",
+		"rating": 4
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-04-18T19:15:27.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Warsteiner Premium Verum / German Pilsener",
+		"date": "2020-04-18T20:06:37.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Warsteiner",
+			"country": "Germany",
+			"city": "Warstein",
+			"state": "Nordrhein-Westfalen"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 28,
+		"abv": 4.8,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - German",
+		"rating": 3.75
+	},
+	{
+		"name": "Trinitas Tripel",
+		"date": "2020-04-22T17:18:06.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Strand Zandvoort aan Zee",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3755,
+			"lng": 4.52577
+		},
+		"ibu": 45,
+		"abv": 9,
+		"flavor": [
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Tripel",
+		"rating": 4
+	},
+	{
+		"name": "Poesiat & Kater's v.Vollenhoven&co Princesse Bier",
+		"date": "2020-04-25T19:39:17.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Poesiat & Kater",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 17,
+		"abv": 5,
+		"flavor": [
+			"full",
+			"light",
+			"sweet"
+		],
+		"type": "Historical Beer - Other",
+		"rating": 4
+	},
+	{
+		"name": "Poesiat & Kater's v.Vollenhoven&co Princesse Bier",
+		"date": "2020-04-26T20:45:11.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Poesiat & Kater",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 17,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"sweet",
+			"citrus"
+		],
+		"type": "Historical Beer - Other",
+		"rating": 4
+	},
+	{
+		"name": "Poesiat & Kater's v.Vollenhoven&co Princesse Bier",
+		"date": "2020-04-27T20:08:29.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Poesiat & Kater",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 17,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"sweet",
+			"citrus"
+		],
+		"type": "Historical Beer - Other",
+		"rating": 4
+	},
+	{
+		"name": "Poesiat & Kater's v.Vollenhoven&co Princesse Bier",
+		"date": "2020-04-28T19:15:48.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Poesiat & Kater",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 17,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"sweet",
+			"citrus"
+		],
+		"type": "Historical Beer - Other",
+		"rating": 4
+	}
+]

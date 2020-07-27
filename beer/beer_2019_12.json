@@ -1,0 +1,480 @@
+[
+	{
+		"name": "Budweiser",
+		"date": "2019-12-06T21:13:13.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Anheuser-Busch",
+			"country": "United States",
+			"city": "St. Louis",
+			"state": "MO"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 12,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4
+	},
+	{
+		"name": "Krušovice Imperial 5.0%",
+		"date": "2019-12-08T20:46:14.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Heineken Česká Republika",
+			"country": "Czech Republic",
+			"city": "Krušovice",
+			"state": "Střední Čechy"
+		},
+		"venue": {
+			"name": "Központ",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4979,
+			"lng": 19.0579
+		},
+		"ibu": 28,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Czech",
+		"rating": 3.75
+	},
+	{
+		"name": "Svijanský Kníže 13%",
+		"date": "2019-12-08T22:10:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Svijany",
+			"country": "Czech Republic",
+			"city": "Svijany",
+			"state": ""
+		},
+		"venue": {
+			"name": "Dzzs!",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4986,
+			"lng": 19.064
+		},
+		"ibu": 0,
+		"abv": 5.6,
+		"flavor": [
+			"malty",
+			"rich",
+			"strong",
+			"bitter"
+		],
+		"type": "Pilsner - Czech",
+		"rating": 3.75
+	},
+	{
+		"name": "Hofbräu Münchner Weisse / Münchner Kindl / Hefe Weizen",
+		"date": "2019-12-09T21:14:33.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Staatliches Hofbräuhaus München",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "La Pampa - Argentin Steakhouse",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.5025,
+			"lng": 19.0552
+		},
+		"ibu": 14,
+		"abv": 5.1,
+		"flavor": [
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4
+	},
+	{
+		"name": "La Trappe PUUR",
+		"date": "2019-12-10T18:17:09.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Bierbrouwerij De Koningshoeven",
+			"country": "Netherlands",
+			"city": "Berkel-Enschot",
+			"state": "Noord-Brabant"
+		},
+		"venue": {
+			"name": "De Peper",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3599,
+			"lng": 4.86596
+		},
+		"ibu": 25,
+		"abv": 4.5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"type": "Pale Ale - Belgian",
+		"rating": 3.75
+	},
+	{
+		"name": "Pinkus Hefe Weizen",
+		"date": "2019-12-10T18:38:24.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brauerei Pinkus Müller",
+			"country": "Germany",
+			"city": "Münster",
+			"state": "Nordrhein-Westfalen"
+		},
+		"venue": {
+			"name": "Cinema Of The Dam'd",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3598,
+			"lng": 4.8659
+		},
+		"ibu": 16,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"banana",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4
+	},
+	{
+		"name": "Lowlander Tropical Ale",
+		"date": "2019-12-14T19:13:28.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Lowlander Beer",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 10,
+		"abv": 3.8,
+		"flavor": [
+			"fruity",
+			"light",
+			"citrus"
+		],
+		"type": "Spiced / Herbed Beer",
+		"rating": 4
+	},
+	{
+		"name": "Fruit Machine",
+		"date": "2019-12-14T20:34:14.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "vandeStreek bier",
+			"country": "Netherlands",
+			"city": "Utrecht",
+			"state": "Utrecht"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 0,
+		"abv": 0.5,
+		"flavor": [
+			"malty",
+			"fruity",
+			"sour",
+			"bitter"
+		],
+		"type": "Non-Alcoholic Beer",
+		"rating": 3.75
+	},
+	{
+		"name": "Joey Greenhorn Restless IPA",
+		"date": "2019-12-17T19:48:54.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "KOMPAAN Dutch Craft Beer Company",
+			"country": "Netherlands",
+			"city": "Den Haag",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 60,
+		"abv": 6,
+		"flavor": [
+			"hoppy",
+			"citrus",
+			"bitter"
+		],
+		"type": "IPA - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Régal Premium Blond",
+		"date": "2019-12-20T14:00:22.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brasserie Simon",
+			"country": "Luxembourg",
+			"city": "Wiltz",
+			"state": "Wiltz"
+		},
+		"venue": {
+			"name": "Business Lounge",
+			"country": "Lëtzebuerg",
+			"city": "Findel",
+			"state": "Lëtzebuerg",
+			"lat": 49.6347,
+			"lng": 6.21637
+		},
+		"ibu": 0,
+		"abv": 5.5,
+		"flavor": [
+			"malty",
+			"clean",
+			"light"
+		],
+		"type": "Lager - Helles",
+		"rating": 3.5
+	},
+	{
+		"name": "Arany Ászok",
+		"date": "2019-12-23T20:22:55.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Dreher Sörgyárak",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": "Hangár Music Garden",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.6904,
+			"lng": 16.567
+		},
+		"ibu": 0,
+		"abv": 4.3,
+		"flavor": [
+			"light",
+			"smooth",
+			"watery"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.5
+	},
+	{
+		"name": "Arany Ászok",
+		"date": "2019-12-23T20:50:51.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Dreher Sörgyárak",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": "Hangár Music Garden",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.6904,
+			"lng": 16.567
+		},
+		"ibu": 0,
+		"abv": 4.3,
+		"flavor": [
+			"light",
+			"smooth",
+			"watery"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.5
+	},
+	{
+		"name": "Dreher Pale Ale",
+		"date": "2019-12-23T21:13:22.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Dreher Sörgyárak",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": "Hangár Music Garden",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.6904,
+			"lng": 16.567
+		},
+		"ibu": 20,
+		"abv": 4.8,
+		"flavor": [
+			"light",
+			"watery",
+			"bitter"
+		],
+		"type": "Pale Ale - International",
+		"rating": 3.5
+	},
+	{
+		"name": "Soproni Óvatos Duhaj IPA",
+		"date": "2019-12-23T22:09:36.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Soproni Sörgyár (Heineken Hungária)",
+			"country": "Hungary",
+			"city": "Sopron",
+			"state": "Dunántúl"
+		},
+		"venue": {
+			"name": "Gázfröccs",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.6808,
+			"lng": 16.5854
+		},
+		"ibu": 40,
+		"abv": 4.8,
+		"flavor": [
+			"light",
+			"hoppy",
+			"citrus"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Steam Brew Imperial IPA",
+		"date": "2019-12-28T22:50:34.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Privatbrauerei Eichbaum",
+			"country": "Germany",
+			"city": "Mannheim",
+			"state": "Baden-Württemberg"
+		},
+		"venue": {
+			"name": "Mordor",
+			"country": "Magyarország",
+			"city": "Császár",
+			"state": "Komárom-Esztergom megye",
+			"lat": 47.545,
+			"lng": 18.2648
+		},
+		"ibu": 70,
+		"abv": 7.8,
+		"flavor": [
+			"sweet",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - Imperial / Double",
+		"rating": 3.75
+	},
+	{
+		"name": "Ottakringer Helles",
+		"date": "2019-12-29T18:00:37.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Ottakringer Brauerei",
+			"country": "Austria",
+			"city": "Vienna",
+			"state": "Wien"
+		},
+		"venue": {
+			"name": "Jamie’s Italian",
+			"country": "Österreich",
+			"city": "Schwechat",
+			"state": "Wien",
+			"lat": 48.1193,
+			"lng": 16.5653
+		},
+		"ibu": 0,
+		"abv": 5.2,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Helles",
+		"rating": 3.5
+	},
+	{
+		"name": "Peroni Original",
+		"date": "2019-12-30T16:47:02.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Birra Peroni",
+			"country": "Italy",
+			"city": "Roma",
+			"state": "Lazio"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 4.7,
+		"flavor": [
+			""
+		],
+		"type": "Lager - Pale",
+		"rating": 4
+	}
+]

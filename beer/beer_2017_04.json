@@ -1,275 +1,543 @@
 [
 	{
 		"name": "Lighthouse",
-		"date": "2017-04-11",
+		"date": "2017-04-11T17:51:57.000Z",
+		"serving": "",
 		"brewery": {
 			"name": "Pontus Brewing",
-			"size": "micro brewery",
-			"location": "Amsterdam, Netherlands"
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
 		"abv": 6.5,
-		"ibu": null,
-		"style": "saison",
-		"rating": 4.0
+		"flavor": [
+			"light"
+		],
+		"type": "Farmhouse Ale - Saison",
+		"rating": 4
 	},
 	{
-		"name": "Milkstout / Zwarte Riek",
-		"date": "2017-04-11",
+		"name": "Milkstout",
+		"date": "2017-04-11T18:41:45.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij De Prael",
-			"size": "micro brewery",
-			"location": "Amsterdam, Netherlands"
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
+		"venue": {
+			"name": "BRET",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3896,
+			"lng": 4.83682
+		},
+		"ibu": 0,
 		"abv": 4.9,
-		"ibu": null,
-		"style": "stout",
-		"rating": 4.0
+		"flavor": [
+			"sweet",
+			"smooth"
+		],
+		"type": "Stout - Milk / Sweet",
+		"rating": 4
 	},
 	{
 		"name": "Malle Babbe",
-		"date": "2017-04-11",
+		"date": "2017-04-11T18:43:47.000Z",
+		"serving": "",
 		"brewery": {
 			"name": "Jopen",
-			"size": "micro brewery",
-			"location": "Haarlem, Netherlands"
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
-		"abv": 5.5,
+		"venue": {
+			"name": "BRET",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3896,
+			"lng": 4.83682
+		},
 		"ibu": 12,
-		"style": "dunkelweizen",
-		"rating": 4.0
+		"abv": 5.5,
+		"flavor": [
+			"fruity",
+			"light"
+		],
+		"type": "Dunkelweizen",
+		"rating": 4
 	},
 	{
-		"name": "Bock + Sprong",
-		"date": "2017-04-11",
+		"name": "Bock+Sprong",
+		"date": "2017-04-11T19:26:30.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij De 7 Deugden",
-			"size": "micro brewery",
-			"location": "Amsterdam, Netherlands"
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
-		"abv": 8,
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
 		"ibu": 30,
-		"style": "bock",
-		"rating": 4.0
+		"abv": 8,
+		"flavor": [
+			"light",
+			"dark"
+		],
+		"type": "Bock - Single / Traditional",
+		"rating": 3.5
 	},
 	{
 		"name": "La Trappe Blond",
-		"date": "2017-04-11",
+		"date": "2017-04-11T19:29:19.000Z",
+		"serving": "",
 		"brewery": {
-			"name": "Brouwerij De Koningshoeven",
-			"size": "micro brewery",
-			"location": "Amsterdam, Netherlands"
+			"name": "Bierbrouwerij De Koningshoeven",
+			"country": "Netherlands",
+			"city": "Berkel-Enschot",
+			"state": "Noord-Brabant"
 		},
-		"abv": 6.5,
+		"venue": {
+			"name": "BRET",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3896,
+			"lng": 4.83682
+		},
 		"ibu": 20,
-		"style": "blonde ale",
-		"rating": 4.0
+		"abv": 6.5,
+		"flavor": [
+			"banana",
+			"smooth"
+		],
+		"type": "Belgian Blonde",
+		"rating": 4
 	},
 	{
-		"name": "Arcener Tripel",
-		"date": "2017-04-11",
+		"name": "Tripel",
+		"date": "2017-04-13T20:36:07.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Hertog Jan",
-			"size": "macro brewery",
-			"location": "Arcen, Limburg Netherlands"
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
 		},
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 22,
 		"abv": 8.5,
-		"ibu": null,
-		"style": "belgian tripel",
-		"rating": 4.0
+		"flavor": [
+			""
+		],
+		"type": "Belgian Tripel",
+		"rating": 4
 	},
 	{
-		"name": "Arcener Tripel",
-		"date": "2017-04-13",
+		"name": "Tripel",
+		"date": "2017-04-15T17:29:56.000Z",
+		"serving": "",
 		"brewery": {
 			"name": "Hertog Jan",
-			"size": "macro brewery",
-			"location": "Arcen, Limburg Netherlands"
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
 		},
-		"abv": 8.5,
-		"ibu": null,
-		"style": "belgian tripel",
-		"rating": 4.0
-	},
-	{
-		"name": "Arcener Tripel",
-		"date": "2017-04-15",
-		"brewery": {
-			"name": "Hertog Jan",
-			"size": "macro brewery",
-			"location": "Arcen, Limburg Netherlands"
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
 		},
+		"ibu": 22,
 		"abv": 8.5,
-		"ibu": null,
-		"style": "belgian tripel",
-		"rating": 4.0
+		"flavor": [
+			"fruity",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Tripel",
+		"rating": 4
 	},
 	{
 		"name": "Straffe Hendrik Brugs Tripel Bier 9°",
-		"date": "2017-04-16",
+		"date": "2017-04-16T21:17:13.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "De Halve Maan",
-			"size": "micro brewery",
-			"location": "Arcen, Limburg Netherlands"
+			"name": "Brouwerij De Halve Maan",
+			"country": "Belgium",
+			"city": "Bruges",
+			"state": "Vlaanderen"
 		},
-		"abv": 9,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 35,
-		"style": "belgian tripel",
+		"abv": 9,
+		"flavor": [
+			"strong"
+		],
+		"type": "Belgian Tripel",
 		"rating": 3.5
 	},
 	{
 		"name": "Straffe Hendrik Brugs Tripel Bier 9°",
-		"date": "2017-04-19",
+		"date": "2017-04-19T19:14:57.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "De Halve Maan",
-			"size": "micro brewery",
-			"location": "Arcen, Limburg Netherlands"
+			"name": "Brouwerij De Halve Maan",
+			"country": "Belgium",
+			"city": "Bruges",
+			"state": "Vlaanderen"
 		},
-		"abv": 9,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 35,
-		"style": "belgian tripel",
+		"abv": 9,
+		"flavor": [
+			""
+		],
+		"type": "Belgian Tripel",
 		"rating": 3.5
 	},
 	{
 		"name": "Allgäuer Büble Bier Edelweissbier",
-		"date": "2017-04-21",
+		"date": "2017-04-21T20:52:39.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Allgäuer Brauhaus",
-			"size": "micro brewery",
-			"location": "Kempten, Germany"
+			"country": "Germany",
+			"city": "Kempten (Allgäu)",
+			"state": "Bayern"
 		},
-		"abv": 5.3,
+		"venue": {
+			"name": "Spreegold",
+			"country": "Deutschland",
+			"city": "Berlin",
+			"state": "Berlin",
+			"lat": 52.523,
+			"lng": 13.4091
+		},
 		"ibu": 13,
-		"style": "hefeweizen",
-		"rating": 5.0
+		"abv": 5.3,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 5
 	},
 	{
 		"name": "Extra Stout",
-		"date": "2017-04-26",
+		"date": "2017-04-26T17:26:11.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Jopen",
-			"size": "micro brewery",
-			"location": "Haarlem, Netherlands"
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
-		"abv": 5.5,
+		"venue": {
+			"name": "BRET",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3896,
+			"lng": 4.83682
+		},
 		"ibu": 45,
-		"style": "stout",
+		"abv": 5.5,
+		"flavor": [
+			"dark",
+			"coffee"
+		],
+		"type": "Stout - Other",
 		"rating": 3.5
 	},
 	{
 		"name": "Tropical Ralphie",
-		"date": "2017-04-26",
+		"date": "2017-04-26T17:52:38.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Two Chefs Brewing",
-			"size": "micro brewery",
-			"location": "Amsterdam, Netherlands"
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
-		"abv": 5,
+		"venue": {
+			"name": "BRET",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3896,
+			"lng": 4.83682
+		},
 		"ibu": 20,
-		"style": "hefeweizen",
-		"rating": 4.0
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"light"
+		],
+		"type": "Hefeweizen",
+		"rating": 4
 	},
 	{
 		"name": "Kriek Boon",
-		"date": "2017-04-26",
+		"date": "2017-04-26T18:56:09.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij Boon",
-			"size": "micro brewery",
-			"location": "Lambeek, Belgium"
+			"country": "Belgium",
+			"city": "Lembeek",
+			"state": "Vlaanderen"
 		},
+		"venue": {
+			"name": "BRET",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3896,
+			"lng": 4.83682
+		},
+		"ibu": 0,
 		"abv": 4,
-		"ibu": null,
-		"style": "kriek",
-		"rating": 5.0
+		"flavor": [
+			"fruity",
+			"sweet",
+			"sour"
+		],
+		"type": "Lambic - Kriek",
+		"rating": 5
 	},
 	{
 		"name": "Thai Thai",
-		"date": "2017-04-26",
+		"date": "2017-04-26T19:45:59.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Oedipus Brewing",
-			"size": "micro brewery",
-			"location": "Amsterdam, Netherlands"
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
-		"abv": 8,
+		"venue": {
+			"name": "BRET",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3896,
+			"lng": 4.83682
+		},
 		"ibu": 20,
-		"style": "belgian tripel",
+		"abv": 8,
+		"flavor": [
+			"spicy"
+		],
+		"type": "Belgian Tripel",
 		"rating": 2.5
 	},
 	{
-		"name": "Lentebier 2017",
-		"date": "2017-04-27",
+		"name": "Lentebier",
+		"date": "2017-04-27T15:21:48.000Z",
+		"serving": "",
 		"brewery": {
 			"name": "Jopen",
-			"size": "micro brewery",
-			"location": "Haarlem, Netherlands"
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
-		"abv": 7,
+		"venue": {
+			"name": "Small Talk",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.358,
+			"lng": 4.8788
+		},
 		"ibu": 40,
-		"style": "pale ale",
+		"abv": 7,
+		"flavor": [
+			"spring",
+			"light",
+			"citrus"
+		],
+		"type": "Pale Ale - Belgian",
 		"rating": 4.5
 	},
 	{
 		"name": "Oude Geuze Boon",
-		"date": "2017-04-29",
+		"date": "2017-04-29T18:29:44.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij Boon",
-			"size": "micro brewery",
-			"location": "Lambeek, Belgium"
+			"country": "Belgium",
+			"city": "Lembeek",
+			"state": "Vlaanderen"
 		},
+		"venue": {
+			"name": "BRET",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3896,
+			"lng": 4.83682
+		},
+		"ibu": 22,
 		"abv": 7,
-		"ibu": null,
-		"style": "gueuze",
+		"flavor": [
+			"fruity",
+			"sour"
+		],
+		"type": "Lambic - Gueuze",
 		"rating": 4.5
 	},
 	{
 		"name": "La Trappe Blond",
-		"date": "2017-04-29",
+		"date": "2017-04-29T19:16:10.000Z",
+		"serving": "",
 		"brewery": {
 			"name": "Bierbrouwerij De Koningshoeven",
-			"size": "micro brewery",
-			"location": "Berkel-Enschot, Netherlands"
+			"country": "Netherlands",
+			"city": "Berkel-Enschot",
+			"state": "Noord-Brabant"
 		},
-		"abv": 6.5,
+		"venue": {
+			"name": "BRET",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3896,
+			"lng": 4.83682
+		},
 		"ibu": 20,
-		"style": "blonde ale",
+		"abv": 6.5,
+		"flavor": [
+			"fruity",
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Belgian Blonde",
 		"rating": 4
 	},
 	{
 		"name": "Tropical Ralphie",
-		"date": "2017-04-29",
+		"date": "2017-04-29T20:01:54.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Two Chefs Brewing",
-			"size": "micro brewery",
-			"location": "Amsterdam, Netherlands"
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
+		"venue": {
+			"name": "BRET",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3896,
+			"lng": 4.83682
+		},
+		"ibu": 20,
 		"abv": 5,
-		"ibu": null,
-		"style": "hefeweizen",
+		"flavor": [
+			""
+		],
+		"type": "Hefeweizen",
 		"rating": 4
 	},
 	{
-		"name": "Radler Lemon",
-		"date": "2017-04-30",
+		"name": "Bavaria Radler Citroen 2.0%",
+		"date": "2017-04-30T19:36:28.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Bavaria Brouwerij",
-			"size": "macro brewery",
-			"location": "Lieshout, Netherlands"
+			"name": "Royal Swinkels Family Brewers",
+			"country": "Netherlands",
+			"city": "Lieshout",
+			"state": "Noord-Brabant"
 		},
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 0,
 		"abv": 2,
-		"ibu": null,
-		"style": "shandy",
+		"flavor": [
+			"lemony",
+			"fruity",
+			"light",
+			"sweet"
+		],
+		"type": "Shandy / Radler",
 		"rating": 4
 	},
 	{
-		"name": "Radler Lemon",
-		"date": "2017-04-30",
+		"name": "Bavaria Radler Citroen 2.0%",
+		"date": "2017-04-30T20:12:58.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Bavaria Brouwerij",
-			"size": "macro brewery",
-			"location": "Lieshout, Netherlands"
+			"name": "Royal Swinkels Family Brewers",
+			"country": "Netherlands",
+			"city": "Lieshout",
+			"state": "Noord-Brabant"
 		},
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 0,
 		"abv": 2,
-		"ibu": null,
-		"style": "shandy",
+		"flavor": [
+			""
+		],
+		"type": "Shandy / Radler",
 		"rating": 4
 	}
 ]

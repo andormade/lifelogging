@@ -1,0 +1,713 @@
+[
+	{
+		"name": "Vedett Extra Ordinary IPA",
+		"date": "2018-09-01T20:47:41.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Duvel Moortgat",
+			"country": "Belgium",
+			"city": "Puurs",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 40,
+		"abv": 5.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "IPA - Belgian",
+		"rating": 4
+	},
+	{
+		"name": "Lentebier",
+		"date": "2018-09-02T17:06:52.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Toolenburg",
+			"country": "Nederland",
+			"city": "Hoofddorp",
+			"state": "Noord-Holland",
+			"lat": 52.3054,
+			"lng": 4.65788
+		},
+		"ibu": 40,
+		"abv": 7,
+		"flavor": [
+			"spring",
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "Pale Ale - Belgian",
+		"rating": 4
+	},
+	{
+		"name": "Hoppenbier",
+		"date": "2018-09-02T18:45:36.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Toolenburg",
+			"country": "Nederland",
+			"city": "Hoofddorp",
+			"state": "Noord-Holland",
+			"lat": 52.3054,
+			"lng": 4.65788
+		},
+		"ibu": 40,
+		"abv": 6.8,
+		"flavor": [
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Historical Beer - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "Spelt",
+		"date": "2018-09-03T17:47:39.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Brouwerij Homeland",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 13,
+		"abv": 4.3,
+		"flavor": [
+			""
+		],
+		"type": "Specialty Grain",
+		"rating": 4
+	},
+	{
+		"name": "Toost",
+		"date": "2018-09-06T20:40:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Branie Bier",
+			"country": "Netherlands",
+			"city": "",
+			"state": ""
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 5.4,
+		"flavor": [
+			"bread",
+			"smooth",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Pale Ale - American",
+		"rating": null
+	},
+	{
+		"name": "Mannenliefde",
+		"date": "2018-09-08T15:16:07.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Oedipus Brewing",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Punt WG",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3633,
+			"lng": 4.8717
+		},
+		"ibu": 25,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "Farmhouse Ale - Saison",
+		"rating": 4
+	},
+	{
+		"name": "Kattekwaad",
+		"date": "2018-09-10T19:17:30.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Waterland Brewery",
+			"country": "Netherlands",
+			"city": "Monnickendam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 6,
+		"flavor": [
+			"sweet",
+			"watery",
+			"flat",
+			"caramel",
+			"body"
+		],
+		"type": "Red Ale - Other",
+		"rating": 4
+	},
+	{
+		"name": "Pelforth Brune",
+		"date": "2018-09-12T16:31:22.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Heineken France",
+			"country": "France",
+			"city": "Rueil-Malmaison",
+			"state": "Hauts-de-Seine"
+		},
+		"venue": {
+			"name": "Hippopotamus",
+			"country": "France",
+			"city": "Paris",
+			"state": "Île-de-France",
+			"lat": 48.8601,
+			"lng": 2.34834
+		},
+		"ibu": 0,
+		"abv": 6.5,
+		"flavor": [
+			"malty",
+			"light",
+			"smooth"
+		],
+		"type": "Brown Ale - Belgian",
+		"rating": 3.75
+	},
+	{
+		"name": "India Pale Ale / London IPA",
+		"date": "2018-09-12T18:51:28.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Meantime Brewing Company",
+			"country": "England",
+			"city": "City of London",
+			"state": "London"
+		},
+		"venue": {
+			"name": "Point Éphémère",
+			"country": "France",
+			"city": "Paris",
+			"state": "Île-de-France",
+			"lat": 48.8815,
+			"lng": 2.36878
+		},
+		"ibu": 65,
+		"abv": 7.4,
+		"flavor": [
+			"malty",
+			"sweet",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - English",
+		"rating": 4
+	},
+	{
+		"name": "Coq Hardi",
+		"date": "2018-09-12T21:28:00.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brouwerij Haacht Brasserie",
+			"country": "Belgium",
+			"city": "Boortmeerbeek",
+			"state": "Vlaams Brabant"
+		},
+		"venue": {
+			"name": "Pomm'",
+			"country": "France",
+			"city": "Paris",
+			"state": "Île-de-France",
+			"lat": 48.8778,
+			"lng": 2.36538
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"malty",
+			"light",
+			"sweet"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Krušovice Řízná 10 / Královská 10 / Světlé",
+		"date": "2018-09-14T17:48:28.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Heineken Česká Republika",
+			"country": "Czech Republic",
+			"city": "Krušovice",
+			"state": "Střední Čechy"
+		},
+		"venue": {
+			"name": "Tómalom",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.7155,
+			"lng": 16.6215
+		},
+		"ibu": 23,
+		"abv": 4.2,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Czech",
+		"rating": 4
+	},
+	{
+		"name": "Pilsner Urquell",
+		"date": "2018-09-15T10:02:44.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Plzeňský Prazdroj",
+			"country": "Czech Republic",
+			"city": "Pilsen",
+			"state": "Jihozápad"
+		},
+		"venue": {
+			"name": "Tómalom",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.7155,
+			"lng": 16.6215
+		},
+		"ibu": 40,
+		"abv": 4.4,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Czech",
+		"rating": 4
+	},
+	{
+		"name": "Aan Lager Wal",
+		"date": "2018-09-17T17:54:19.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Gulpener Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Gulpen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 3.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"bitter"
+		],
+		"type": "Lager - Amber",
+		"rating": 4
+	},
+	{
+		"name": "Harrie",
+		"date": "2018-09-17T18:13:48.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Kaapse Brouwers",
+			"country": "Netherlands",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 53,
+		"abv": 6.1,
+		"flavor": [
+			"fruity",
+			"dry",
+			"sour",
+			"hoppy"
+		],
+		"type": "Farmhouse Ale - Saison",
+		"rating": 4.25
+	},
+	{
+		"name": "IPA",
+		"date": "2018-09-20T22:59:16.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Lagunitas Brewing Company",
+			"country": "United States",
+			"city": "Petaluma",
+			"state": "CA"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 52,
+		"abv": 6.2,
+		"flavor": [
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Funky Falcon",
+		"date": "2018-09-21T17:11:54.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Two Chefs Brewing",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Café Koosje",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3665,
+			"lng": 4.91168
+		},
+		"ibu": 25,
+		"abv": 5.2,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Pale Ale - American",
+		"rating": 4
+	},
+	{
+		"name": "Wieckse Rosé (2018)",
+		"date": "2018-09-21T18:24:03.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Wieckse",
+			"country": "Netherlands",
+			"city": "Maastricht",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Café Koosje",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3665,
+			"lng": 4.91168
+		},
+		"ibu": 0,
+		"abv": 4,
+		"flavor": [
+			"fruity",
+			"bubbly",
+			"light",
+			"sweet"
+		],
+		"type": "Fruit Beer",
+		"rating": 2.5
+	},
+	{
+		"name": "Aan Lager Wal",
+		"date": "2018-09-22T21:59:56.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Gulpener Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Gulpen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 3.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"bitter"
+		],
+		"type": "Lager - Amber",
+		"rating": 4
+	},
+	{
+		"name": "Harrie",
+		"date": "2018-09-23T20:22:48.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Kaapse Brouwers",
+			"country": "Netherlands",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 53,
+		"abv": 6.1,
+		"flavor": [
+			"fruity",
+			"dry",
+			"hoppy"
+		],
+		"type": "Farmhouse Ale - Saison",
+		"rating": 4.25
+	},
+	{
+		"name": "La Chouffe Blond",
+		"date": "2018-09-24T21:48:15.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 20,
+		"abv": 8,
+		"flavor": [
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Strong Golden Ale",
+		"rating": 4.25
+	},
+	{
+		"name": "Bavaria Bok Bier",
+		"date": "2018-09-25T20:29:25.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Royal Swinkels Family Brewers",
+			"country": "Netherlands",
+			"city": "Lieshout",
+			"state": "Noord-Brabant"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 6.5,
+		"flavor": [
+			"malty",
+			"sweet",
+			"smooth",
+			"dark"
+		],
+		"type": "Bock - Single / Traditional",
+		"rating": 3.75
+	},
+	{
+		"name": "Kaapse Noor",
+		"date": "2018-09-26T20:17:06.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Kaapse Brouwers",
+			"country": "Netherlands",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 25,
+		"abv": 4.5,
+		"flavor": [
+			"thick",
+			"coffee",
+			"bitter",
+			"caramel"
+		],
+		"type": "Brown Ale - English",
+		"rating": 3.25
+	},
+	{
+		"name": "Kon Minder Blond",
+		"date": "2018-09-28T19:44:39.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Baxbier",
+			"country": "Netherlands",
+			"city": "Groningen",
+			"state": "Groningen"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 30,
+		"abv": 5.1,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Pale Ale - American",
+		"rating": 4
+	},
+	{
+		"name": "Joey Greenhorn Restless IPA",
+		"date": "2018-09-29T18:24:16.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "KOMPAAN Dutch Craft Beer Company",
+			"country": "Netherlands",
+			"city": "Den Haag",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Kompaan Beer Bar",
+			"country": "Nederland",
+			"city": "Den Haag",
+			"state": "Zuid-Holland",
+			"lat": 52.0668,
+			"lng": 4.34676
+		},
+		"ibu": 60,
+		"abv": 6,
+		"flavor": [
+			"floral",
+			"hoppy",
+			"citrus",
+			"bitter"
+		],
+		"type": "IPA - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Pussycat V2",
+		"date": "2018-09-29T18:54:29.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "KOMPAAN Dutch Craft Beer Company",
+			"country": "Netherlands",
+			"city": "Den Haag",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Kompaan Beer Bar",
+			"country": "Nederland",
+			"city": "Den Haag",
+			"state": "Zuid-Holland",
+			"lat": 52.0668,
+			"lng": 4.34676
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"fruity",
+			"sour",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - Session / India Session Ale",
+		"rating": 4.25
+	}
+]

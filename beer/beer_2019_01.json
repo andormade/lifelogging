@@ -1,0 +1,316 @@
+[
+	{
+		"name": "Magners Original Irish Cider",
+		"date": "2019-01-02T21:14:46.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Magners Irish Cider",
+			"country": "Ireland",
+			"city": "Clonmel",
+			"state": "Munster"
+		},
+		"venue": {
+			"name": "Mulligans Irish Bar",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3671,
+			"lng": 4.89674
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"sweet",
+			"dry",
+			"apple"
+		],
+		"type": "Cider - Traditional",
+		"rating": 3.75
+	},
+	{
+		"name": "Pilsener",
+		"date": "2019-01-03T18:08:32.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Koninklijke Brand Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Wijlre",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "August Allebéplein",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3632,
+			"lng": 4.8372
+		},
+		"ibu": 27,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"smooth",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3
+	},
+	{
+		"name": "Cruzcampo Pilsen",
+		"date": "2019-01-05T20:33:47.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Cruzcampo",
+			"country": "Spain",
+			"city": "Seville",
+			"state": "Andalucía"
+		},
+		"venue": {
+			"name": "Five Brothers Fat",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3782,
+			"lng": 4.63606
+		},
+		"ibu": 20,
+		"abv": 4.8,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3
+	},
+	{
+		"name": "Karel",
+		"date": "2019-01-06T18:44:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Kaapse Brouwers",
+			"country": "Netherlands",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 46,
+		"abv": 4.9,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Gluten-Free",
+		"rating": 4
+	},
+	{
+		"name": "Cold Gold",
+		"date": "2019-01-11T19:26:00.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Habesha Breweries",
+			"country": "Ethiopia",
+			"city": "Bole",
+			"state": "Oromia"
+		},
+		"venue": {
+			"name": "Addis Ababa",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.36,
+			"lng": 4.8642
+		},
+		"ibu": 0,
+		"abv": 4.8,
+		"flavor": [
+			"malty",
+			"clean",
+			"light"
+		],
+		"type": "Lager - Pale",
+		"rating": 4
+	},
+	{
+		"name": "KAIJU KRUSH!",
+		"date": "2019-01-11T22:14:55.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "KAIJU! Beer",
+			"country": "Australia",
+			"city": "Dandenong South",
+			"state": "VIC"
+		},
+		"venue": {
+			"name": "Craft & Draft",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3591,
+			"lng": 4.86117
+		},
+		"ibu": 30,
+		"abv": 4.7,
+		"flavor": [
+			"tropical",
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "Pale Ale - American",
+		"rating": 4
+	},
+	{
+		"name": "Brewers' Pale Ale (Nelson Hop Blend)",
+		"date": "2019-01-11T22:48:19.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Anchor Brewing Company",
+			"country": "United States",
+			"city": "San Francisco",
+			"state": "CA"
+		},
+		"venue": {
+			"name": "Craft & Draft",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3591,
+			"lng": 4.86117
+		},
+		"ibu": 39,
+		"abv": 5.3,
+		"flavor": [
+			"bright",
+			"light",
+			"hoppy",
+			"citrus"
+		],
+		"type": "Pale Ale - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Bière De Saison Damson",
+		"date": "2019-01-11T23:29:26.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "The Kernel Brewery",
+			"country": "England",
+			"city": "London Borough of Southwark",
+			"state": "London"
+		},
+		"venue": {
+			"name": "Craft & Draft",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3591,
+			"lng": 4.86117
+		},
+		"ibu": 0,
+		"abv": 4.4,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"sour",
+			"tart"
+		],
+		"type": "Farmhouse Ale - Saison",
+		"rating": 3
+	},
+	{
+		"name": "Cortez",
+		"date": "2019-01-16T21:32:25.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Rizmajer Kézműves Sörfőzde",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": "Szimpla Kert",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4969,
+			"lng": 19.0629
+		},
+		"ibu": 11,
+		"abv": 5.5,
+		"flavor": [
+			"yeasty",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "IPA",
+		"date": "2019-01-23T18:39:23.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Lagunitas Brewing Company",
+			"country": "United States",
+			"city": "Petaluma",
+			"state": "CA"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 52,
+		"abv": 6.2,
+		"flavor": [
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2019-01-25T17:49:35.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"sweet",
+			"warm",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	}
+]

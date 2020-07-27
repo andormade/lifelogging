@@ -1,0 +1,311 @@
+[
+	{
+		"name": "Underground Mountain Brown",
+		"date": "2020-05-01T15:59:37.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Founders Brewing Co.",
+			"country": "United States",
+			"city": "Grand Rapids",
+			"state": "MI"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 30,
+		"abv": 11.9,
+		"flavor": [
+			"barrel aged",
+			"coffee",
+			"chocolate",
+			"bourbon"
+		],
+		"type": "Brown Ale - Imperial / Double",
+		"rating": 4
+	},
+	{
+		"name": "Paulaner Hefe-Weißbier / Hefe-Weizen / Weissbier",
+		"date": "2020-05-03T19:30:18.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Paulaner Brauerei",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 16,
+		"abv": 5.5,
+		"flavor": [
+			"banana",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.25
+	},
+	{
+		"name": "Paulaner Hefe-Weißbier / Hefe-Weizen / Weissbier",
+		"date": "2020-05-07T21:23:31.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Paulaner Brauerei",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 16,
+		"abv": 5.5,
+		"flavor": [
+			"banana",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.25
+	},
+	{
+		"name": "Amigo Pura Vida",
+		"date": "2020-05-09T16:43:02.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Martens",
+			"country": "Belgium",
+			"city": "Bocholt",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 4.6,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet"
+		],
+		"type": "Lager - Pale",
+		"rating": 4
+	},
+	{
+		"name": "Frisse Lentebok",
+		"date": "2020-05-09T17:35:09.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Koninklijke Grolsch",
+			"country": "Netherlands",
+			"city": "Enschede",
+			"state": "Overijssel"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 25,
+		"abv": 6.5,
+		"flavor": [
+			"spring",
+			"sweet",
+			"hoppy"
+		],
+		"type": "Bock - Hell / Maibock / Lentebock",
+		"rating": 3.75
+	},
+	{
+		"name": "Vedett Extra Ordinary IPA",
+		"date": "2020-05-09T18:57:42.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Duvel Moortgat",
+			"country": "Belgium",
+			"city": "Puurs",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 40,
+		"abv": 5.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "IPA - Belgian",
+		"rating": 4
+	},
+	{
+		"name": "Franziskaner Premium Weissbier Naturtrüb",
+		"date": "2020-05-21T17:31:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 12,
+		"abv": 5,
+		"flavor": [
+			"banana",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.5
+	},
+	{
+		"name": "Juicy IPA",
+		"date": "2020-05-22T21:25:06.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 0,
+		"abv": 6,
+		"flavor": [
+			"citrusy",
+			"fruity",
+			"light"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Levensgenieter",
+		"date": "2020-05-22T22:06:20.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "KOMPAAN Dutch Craft Beer Company",
+			"country": "Netherlands",
+			"city": "Den Haag",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 20,
+		"abv": 4.5,
+		"flavor": [
+			"citrusy",
+			"smooth",
+			"hoppy"
+		],
+		"type": "IPA - New England",
+		"rating": 3.5
+	},
+	{
+		"name": "Lowlander Yuzu & Grapefruit",
+		"date": "2020-05-23T19:30:44.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Lowlander Beer",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 11,
+		"abv": 2.5,
+		"flavor": [
+			"tropical",
+			"sour",
+			"citrus"
+		],
+		"type": "Spiced / Herbed Beer",
+		"rating": 4
+	},
+	{
+		"name": "Donkerblond",
+		"date": "2020-05-26T20:03:03.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brouwerij TX",
+			"country": "Netherlands",
+			"city": "Oosterend",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Hotel Texel De Cocksdorp",
+			"country": "Nederland",
+			"city": "De Cocksdorp",
+			"state": "Noord-Holland",
+			"lat": 53.1218,
+			"lng": 4.83177
+		},
+		"ibu": 16,
+		"abv": 5.5,
+		"flavor": [
+			"malty",
+			"soft",
+			"smooth"
+		],
+		"type": "Dunkelweizen",
+		"rating": 3.75
+	}
+]

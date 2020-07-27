@@ -1,0 +1,342 @@
+[
+	{
+		"name": "Vienna Lager",
+		"date": "2019-06-08T14:14:15.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Kőszegi Sör",
+			"country": "Hungary",
+			"city": "",
+			"state": ""
+		},
+		"venue": {
+			"name": "Várkerület",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.685,
+			"lng": 16.5928
+		},
+		"ibu": 0,
+		"abv": 5.5,
+		"flavor": [
+			"malty",
+			"light",
+			"velvety",
+			"smooth",
+			"caramel"
+		],
+		"type": "Lager - Vienna",
+		"rating": 4
+	},
+	{
+		"name": "Krušovice Imperial 5.0%",
+		"date": "2019-06-08T16:00:36.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Heineken Česká Republika",
+			"country": "Czech Republic",
+			"city": "Krušovice",
+			"state": "Střední Čechy"
+		},
+		"venue": {
+			"name": "Museum Cafe",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.6869,
+			"lng": 16.5914
+		},
+		"ibu": 28,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Czech",
+		"rating": 3.75
+	},
+	{
+		"name": "Lentebock (2019)",
+		"date": "2019-06-15T14:02:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Hertog Jan",
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 7.2,
+		"flavor": [
+			"fruity",
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"type": "Bock - Hell / Maibock / Lentebock",
+		"rating": 4
+	},
+	{
+		"name": "Columbus",
+		"date": "2019-06-15T22:14:08.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 41,
+		"abv": 9,
+		"flavor": [
+			"strong",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Belgian Strong Golden Ale",
+		"rating": 4.25
+	},
+	{
+		"name": "Mannenliefde",
+		"date": "2019-06-16T17:16:47.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Oedipus Brewing",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Blijdorp",
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9272,
+			"lng": 4.45871
+		},
+		"ibu": 25,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "Farmhouse Ale - Saison",
+		"rating": 4
+	},
+	{
+		"name": "Gwyn’s IPA",
+		"date": "2019-06-21T19:04:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brasserie de Saint-Omer",
+			"country": "France",
+			"city": "Saint-Omer",
+			"state": "Pas-de-Calais"
+		},
+		"venue": {
+			"name": "Hoofddorp",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3004,
+			"lng": 4.69537
+		},
+		"ibu": 0,
+		"abv": 7.2,
+		"flavor": [
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - International",
+		"rating": 3.75
+	},
+	{
+		"name": "Zomerbok (2018)",
+		"date": "2019-06-21T20:45:18.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Koninklijke Grolsch",
+			"country": "Netherlands",
+			"city": "Enschede",
+			"state": "Overijssel"
+		},
+		"venue": {
+			"name": "Hoofddorp",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3004,
+			"lng": 4.69537
+		},
+		"ibu": 0,
+		"abv": 6.4,
+		"flavor": [
+			"fruity",
+			"banana",
+			"sweet"
+		],
+		"type": "Kristallweizen",
+		"rating": 4
+	},
+	{
+		"name": "FF Lekker Met Je Bek In Het Zonnetje",
+		"date": "2019-06-25T20:34:36.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Uiltje Brewing Company",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 30,
+		"abv": 3.6,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - Session / India Session Ale",
+		"rating": 4.5
+	},
+	{
+		"name": "Affligem Blonde",
+		"date": "2019-06-27T18:31:39.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Affligem Brouwerij",
+			"country": "Belgium",
+			"city": "Opwijk",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Aalsmeerweg",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3501,
+			"lng": 4.84936
+		},
+		"ibu": 0,
+		"abv": 6.7,
+		"flavor": [
+			"fruity",
+			"light",
+			"smooth"
+		],
+		"type": "Belgian Blonde",
+		"rating": 4
+	},
+	{
+		"name": "Alfa Edel Pils",
+		"date": "2019-06-27T20:09:42.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Alfa Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Schinnen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Aalsmeerweg",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3501,
+			"lng": 4.84936
+		},
+		"ibu": 23,
+		"abv": 5,
+		"flavor": [
+			"soft",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "Bio Pilsener (Organic Lager)",
+		"date": "2019-06-27T20:46:15.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Budelse Brouwerij",
+			"country": "Netherlands",
+			"city": "Budel",
+			"state": "Noord-Brabant"
+		},
+		"venue": {
+			"name": "Aalsmeerweg",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3501,
+			"lng": 4.84936
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "FF Lekker Met Je Bek In Het Zonnetje",
+		"date": "2019-06-30T19:27:10.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Uiltje Brewing Company",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 30,
+		"abv": 3.6,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - Session / India Session Ale",
+		"rating": 4.5
+	}
+]

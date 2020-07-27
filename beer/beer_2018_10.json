@@ -1,0 +1,688 @@
+[
+	{
+		"name": "Dreher Pale Ale",
+		"date": "2018-10-01T16:55:23.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Dreher Sörgyárak",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 20,
+		"abv": 4.8,
+		"flavor": [
+			"light",
+			"watery",
+			"bitter"
+		],
+		"type": "Pale Ale - International",
+		"rating": 3.5
+	},
+	{
+		"name": "Arany Ászok Frissenszűrt",
+		"date": "2018-10-01T17:43:37.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Dreher Sörgyárak",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 4.3,
+		"flavor": [
+			""
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 2.75
+	},
+	{
+		"name": "Jam72",
+		"date": "2018-10-01T20:31:06.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Mad Scientist",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 60,
+		"abv": 7.2,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Tokyo Lemonade",
+		"date": "2018-10-02T17:18:01.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Mad Scientist",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 12,
+		"abv": 4.2,
+		"flavor": [
+			"lemony",
+			"floral",
+			"citrus"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.5
+	},
+	{
+		"name": "Mango Bay",
+		"date": "2018-10-02T18:48:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Mad Scientist",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 40,
+		"abv": 5.2,
+		"flavor": [
+			"fruity",
+			"full",
+			"creamy",
+			"mango"
+		],
+		"type": "Pale Ale - Milkshake",
+		"rating": 4.25
+	},
+	{
+		"name": "Arany Varjú",
+		"date": "2018-10-03T17:28:00.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Reketye Brewing Co.",
+			"country": "Hungary",
+			"city": "Nagytarcsa",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"soft",
+			"citrus",
+			"Wheat"
+		],
+		"type": "Pale Ale - American",
+		"rating": 3.5
+	},
+	{
+		"name": "Original (TAP07)",
+		"date": "2018-10-05T17:11:03.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Schneider Weisse G. Schneider & Sohn",
+			"country": "Germany",
+			"city": "Kelheim",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Düne Süd",
+			"country": "Deutschland",
+			"city": "Helgoland",
+			"state": "Schleswig-Holstein",
+			"lat": 54.1819,
+			"lng": 7.88925
+		},
+		"ibu": 14,
+		"abv": 5.4,
+		"flavor": [
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4
+	},
+	{
+		"name": "Jever Pilsener",
+		"date": "2018-10-06T18:49:49.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Friesisches Brauhaus zu Jever",
+			"country": "Germany",
+			"city": "Jever",
+			"state": "Niedersachsen"
+		},
+		"venue": {
+			"name": "Bruns Pizza+Pasta",
+			"country": "Deutschland",
+			"city": "Helgoland",
+			"state": "Schleswig-Holstein",
+			"lat": 54.1816,
+			"lng": 7.88905
+		},
+		"ibu": 33,
+		"abv": 4.9,
+		"flavor": [
+			"clean",
+			"light",
+			"dry",
+			"hoppy"
+		],
+		"type": "Pilsner - German",
+		"rating": 3.25
+	},
+	{
+		"name": "Duckstein Rotblondes Original",
+		"date": "2018-10-06T18:55:02.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Holsten-Brauerei",
+			"country": "Germany",
+			"city": "Altona-Nord",
+			"state": "Hamburg"
+		},
+		"venue": {
+			"name": "Aquarium Café",
+			"country": "Deutschland",
+			"city": "Helgoland",
+			"state": "Schleswig-Holstein",
+			"lat": 54.1825,
+			"lng": 7.88925
+		},
+		"ibu": 27,
+		"abv": 4.9,
+		"flavor": [
+			"malty",
+			"bread",
+			"yeasty",
+			"dark"
+		],
+		"type": "Altbier",
+		"rating": 3.5
+	},
+	{
+		"name": "Vitamalz",
+		"date": "2018-10-07T12:14:19.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Krombacher Gruppe",
+			"country": "Germany",
+			"city": "Kreuztal",
+			"state": "Nordrhein-Westfalen"
+		},
+		"venue": {
+			"name": "Düne Süd",
+			"country": "Deutschland",
+			"city": "Helgoland",
+			"state": "Schleswig-Holstein",
+			"lat": 54.1819,
+			"lng": 7.88925
+		},
+		"ibu": 0,
+		"abv": 0,
+		"flavor": [
+			"malty",
+			"bread",
+			"carbonated",
+			"sweet",
+			"dark"
+		],
+		"type": "Malt Beer",
+		"rating": 3
+	},
+	{
+		"name": "Astra Alsterwasser",
+		"date": "2018-10-07T18:40:48.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Holsten-Brauerei",
+			"country": "Germany",
+			"city": "Altona-Nord",
+			"state": "Hamburg"
+		},
+		"venue": {
+			"name": "Hotel Meeresblick",
+			"country": "Deutschland",
+			"city": "Helgoland",
+			"state": "Schleswig-Holstein",
+			"lat": 54.1816,
+			"lng": 7.88713
+		},
+		"ibu": 0,
+		"abv": 2.5,
+		"flavor": [
+			"lemony",
+			"light",
+			"sweet"
+		],
+		"type": "Shandy / Radler",
+		"rating": 3.75
+	},
+	{
+		"name": "Berliner Kindl Weisse Waldmeister",
+		"date": "2018-10-08T17:57:28.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Berliner-Kindl-Schultheiss-Brauerei",
+			"country": "Germany",
+			"city": "Berlin",
+			"state": "Berlin"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 4,
+		"abv": 3,
+		"flavor": [
+			"bright",
+			"sweet",
+			"sour",
+			"apple"
+		],
+		"type": "Sour - Berliner Weisse",
+		"rating": 3.5
+	},
+	{
+		"name": "Schöfferhofer Weizen",
+		"date": "2018-10-08T17:58:55.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Radeberger Gruppe",
+			"country": "Germany",
+			"city": "Frankfurt am Main",
+			"state": "Hessen"
+		},
+		"venue": {
+			"name": "Filini Bar & Restaurant",
+			"country": "Deutschland",
+			"city": "Hamburg",
+			"state": "Hamburg",
+			"lat": 53.6324,
+			"lng": 10.0077
+		},
+		"ibu": 14,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.5
+	},
+	{
+		"name": "Bionade Holunder (Elderberry)",
+		"date": "2018-10-09T18:51:29.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Bionade",
+			"country": "Germany",
+			"city": "Ostheim",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 0,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"sour",
+			"Black Currant"
+		],
+		"type": "Non-Alcoholic Beer",
+		"rating": 3.5
+	},
+	{
+		"name": "Fritsie Easy I.P.A.",
+		"date": "2018-10-09T19:12:35.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Branie Bier",
+			"country": "Netherlands",
+			"city": "",
+			"state": ""
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 43,
+		"abv": 5.9,
+		"flavor": [
+			"caramelly",
+			"smooth",
+			"funky"
+		],
+		"type": "IPA - American",
+		"rating": 4.25
+	},
+	{
+		"name": "Lost In Spice",
+		"date": "2018-10-13T15:54:45.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij De Koninck",
+			"country": "Belgium",
+			"city": "Antwerp",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Toolenburg",
+			"country": "Nederland",
+			"city": "Hoofddorp",
+			"state": "Noord-Holland",
+			"lat": 52.3054,
+			"lng": 4.65788
+		},
+		"ibu": 18,
+		"abv": 5.2,
+		"flavor": [
+			"spicy",
+			"herbal",
+			"light",
+			"citrus"
+		],
+		"type": "Spiced / Herbed Beer",
+		"rating": 4.5
+	},
+	{
+		"name": "Bitterzoet Verlangen",
+		"date": "2018-10-13T16:51:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Toolenburg",
+			"country": "Nederland",
+			"city": "Hoofddorp",
+			"state": "Noord-Holland",
+			"lat": 52.3054,
+			"lng": 4.65788
+		},
+		"ibu": 35,
+		"abv": 6,
+		"flavor": [
+			"citrus",
+			"bitter"
+		],
+		"type": "Blonde Ale",
+		"rating": 4
+	},
+	{
+		"name": "German Coast",
+		"date": "2018-10-13T18:18:12.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Rügener Insel-Brauerei",
+			"country": "Germany",
+			"city": "Rambin",
+			"state": "Mecklenburg-Vorpommern"
+		},
+		"venue": {
+			"name": "Toolenburg",
+			"country": "Nederland",
+			"city": "Hoofddorp",
+			"state": "Noord-Holland",
+			"lat": 52.3054,
+			"lng": 4.65788
+		},
+		"ibu": 0,
+		"abv": 7.5,
+		"flavor": [
+			"belgiany",
+			"dry",
+			"hoppy",
+			"mouthfeel"
+		],
+		"type": "IPA - Imperial / Double",
+		"rating": 3.5
+	},
+	{
+		"name": "Weizen",
+		"date": "2018-10-15T19:56:42.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Flensburger Brauerei Emil Petersen",
+			"country": "Germany",
+			"city": "Flensburg",
+			"state": "Schleswig-Holstein"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 5.1,
+		"flavor": [
+			"banana",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 3.75
+	},
+	{
+		"name": "Dikke lul 3 bier!",
+		"date": "2018-10-16T19:41:19.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Uiltje Brewing Company",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 60,
+		"abv": 5.6,
+		"flavor": [
+			"light",
+			"dry",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Pale Ale - American",
+		"rating": 4
+	},
+	{
+		"name": "Bokbier",
+		"date": "2018-10-20T18:40:11.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 30,
+		"abv": 6.5,
+		"flavor": [
+			"malty",
+			"rich",
+			"roasty",
+			"full",
+			"sweet"
+		],
+		"type": "Bock - Single / Traditional",
+		"rating": 4
+	},
+	{
+		"name": "Hoegaarden Wit / Blanche",
+		"date": "2018-10-20T19:18:28.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Hoegaarden",
+			"country": "Belgium",
+			"city": "Hoegaarden",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 15,
+		"abv": 4.9,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.25
+	},
+	{
+		"name": "Chouffe Bok 6666 (2018)",
+		"date": "2018-10-25T18:34:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 19,
+		"abv": 6.66,
+		"flavor": [
+			"sweet",
+			"dark",
+			"metallic",
+			"mouthcoating"
+		],
+		"type": "Bock - Single / Traditional",
+		"rating": 4
+	},
+	{
+		"name": "IKEA Öl Ljus Lager",
+		"date": "2018-10-28T11:57:30.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Krönleins Bryggeri",
+			"country": "Sweden",
+			"city": "Halmstad",
+			"state": "Hallands län"
+		},
+		"venue": {
+			"name": "IKEA Restaurant",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3022,
+			"lng": 4.94992
+		},
+		"ibu": 0,
+		"abv": 4.7,
+		"flavor": [
+			"clean",
+			"light"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3.75
+	}
+]

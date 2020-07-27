@@ -1,0 +1,503 @@
+[
+	{
+		"name": "Lellebel",
+		"date": "2020-07-04T17:13:36.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij de Eeuwige Jeugd",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "BRET",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3896,
+			"lng": 4.83682
+		},
+		"ibu": 15,
+		"abv": 5.7,
+		"flavor": [
+			"fruity",
+			"citrus"
+		],
+		"type": "Blonde Ale",
+		"rating": 4
+	},
+	{
+		"name": "Natte",
+		"date": "2020-07-04T19:35:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 22,
+		"abv": 6.5,
+		"flavor": [
+			"malty",
+			"sweet",
+			"smooth",
+			"dark"
+		],
+		"type": "Belgian Dubbel",
+		"rating": 3.5
+	},
+	{
+		"name": "Maria Magdalena #6 (Citra/Mosaic)",
+		"date": "2020-07-07T17:26:33.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 80,
+		"abv": 6,
+		"flavor": [
+			"dry",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - Black / Cascadian Dark Ale",
+		"rating": 4
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-07-08T18:12:51.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Cidre Cuvée Rosé",
+		"date": "2020-07-09T13:21:12.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Stassen",
+			"country": "Belgium",
+			"city": "Aubel",
+			"state": "Wallonie"
+		},
+		"venue": {
+			"name": "Ter Marsch & Co",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3666,
+			"lng": 4.89302
+		},
+		"ibu": 0,
+		"abv": 7.4,
+		"flavor": [
+			"sweet",
+			"dry",
+			"sour",
+			"apple"
+		],
+		"type": "Cider - Rosé",
+		"rating": 4
+	},
+	{
+		"name": "Wheyzen",
+		"date": "2020-07-10T14:31:31.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Het Brouwdok",
+			"country": "Netherlands",
+			"city": "Harlingen",
+			"state": "Fryslân"
+		},
+		"venue": {
+			"name": "Zaanse Schans",
+			"country": "Nederland",
+			"city": "Zaandam",
+			"state": "Noord-Holland",
+			"lat": 52.4732,
+			"lng": 4.81829
+		},
+		"ibu": 0,
+		"abv": 5.5,
+		"flavor": [
+			"creamy",
+			"smooth"
+		],
+		"type": "Gluten-Free",
+		"rating": null
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-07-11T10:59:51.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-07-11T17:11:36.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Desperados Ginger",
+		"date": "2020-07-11T17:30:07.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Desperados NL",
+			"country": "France",
+			"city": "Schiltigheim",
+			"state": "Grand-Est"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"sweet",
+			"ginger",
+			"Lime"
+		],
+		"type": "Spiced / Herbed Beer",
+		"rating": 4
+	},
+	{
+		"name": "IJwit",
+		"date": "2020-07-17T17:34:46.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Café 't Papeneiland",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3804,
+			"lng": 4.888
+		},
+		"ibu": 18,
+		"abv": 6.5,
+		"flavor": [
+			"soft",
+			"light",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.25
+	},
+	{
+		"name": "Hoegaarden Wit / Blanche",
+		"date": "2020-07-21T18:49:20.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Hoegaarden",
+			"country": "Belgium",
+			"city": "Hoegaarden",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 15,
+		"abv": 4.9,
+		"flavor": [
+			"fruity",
+			"light",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.25
+	},
+	{
+		"name": "Gurkha Premium Lager Beer",
+		"date": "2020-07-24T15:46:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Hepworth & Co",
+			"country": "England",
+			"city": "Billingshurst",
+			"state": "West Sussex"
+		},
+		"venue": {
+			"name": "Sherpa",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3632,
+			"lng": 4.88474
+		},
+		"ibu": 0,
+		"abv": 4.8,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "SUPER 8 Blanche",
+		"date": "2020-07-25T12:31:54.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brouwerij Haacht Brasserie",
+			"country": "Belgium",
+			"city": "Boortmeerbeek",
+			"state": "Vlaams Brabant"
+		},
+		"venue": {
+			"name": "In de Roscam",
+			"country": "België",
+			"city": "Antwerpen",
+			"state": "Antwerpen",
+			"lat": 51.2182,
+			"lng": 4.39906
+		},
+		"ibu": 0,
+		"abv": 5.1,
+		"flavor": [
+			"herbal",
+			"fruity",
+			"light",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4
+	},
+	{
+		"name": "Corsendonk Blond",
+		"date": "2020-07-25T16:36:46.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brouwerij Corsendonk",
+			"country": "Belgium",
+			"city": "Turnhout",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Café Beveren",
+			"country": "België",
+			"city": "Antwerpen",
+			"state": "Antwerpen",
+			"lat": 51.2199,
+			"lng": 4.39636
+		},
+		"ibu": 30,
+		"abv": 6.5,
+		"flavor": [
+			"sweet",
+			"smooth"
+		],
+		"type": "Belgian Blonde",
+		"rating": 3.75
+	},
+	{
+		"name": "Beirut Beer",
+		"date": "2020-07-25T17:33:37.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Kassatly Chtaura",
+			"country": "Lebanon",
+			"city": "Chtoura",
+			"state": "قضاء زحلة"
+		},
+		"venue": {
+			"name": "Libanezza",
+			"country": "België",
+			"city": "Antwerpen",
+			"state": "Antwerpen",
+			"lat": 51.2202,
+			"lng": 4.3988
+		},
+		"ibu": 2,
+		"abv": 4.6,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.5
+	},
+	{
+		"name": "Seef Bier",
+		"date": "2020-07-26T06:11:20.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Antwerpse Brouw Compagnie",
+			"country": "Belgium",
+			"city": "Antwerp",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "HotelO Kathedral",
+			"country": "België",
+			"city": "Antwerpen",
+			"state": "Antwerpen",
+			"lat": 51.2206,
+			"lng": 4.39954
+		},
+		"ibu": 17,
+		"abv": 6.5,
+		"flavor": [
+			"fruity",
+			"banana",
+			"light",
+			"sweet"
+		],
+		"type": "Belgian Blonde",
+		"rating": 3.5
+	},
+	{
+		"name": "Hoegaarden Wit / Blanche",
+		"date": "2020-07-26T11:29:14.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brouwerij Hoegaarden",
+			"country": "Belgium",
+			"city": "Hoegaarden",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Del Sud Classico",
+			"country": "België",
+			"city": "Antwerpen",
+			"state": "Antwerpen",
+			"lat": 51.2204,
+			"lng": 4.39967
+		},
+		"ibu": 15,
+		"abv": 4.9,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.25
+	},
+	{
+		"name": "Kaneel",
+		"date": "2020-07-26T13:20:45.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "'t Elfde Gebod",
+			"country": "Belgium",
+			"city": "Antwerp",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Elfde Gebod",
+			"country": "België",
+			"city": "Antwerpen",
+			"state": "Antwerpen",
+			"lat": 51.2207,
+			"lng": 4.40159
+		},
+		"ibu": 0,
+		"abv": 5.4,
+		"flavor": [
+			"light",
+			"sweet",
+			"cinnamon"
+		],
+		"type": "Spiced / Herbed Beer",
+		"rating": 4
+	}
+]

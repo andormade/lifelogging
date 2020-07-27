@@ -1,0 +1,429 @@
+[
+	{
+		"name": "IKEA Öl Mörk Lager",
+		"date": "2019-08-03T18:42:33.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Krönleins Bryggeri",
+			"country": "Sweden",
+			"city": "Halmstad",
+			"state": "Hallands län"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 4.7,
+		"flavor": [
+			"malty",
+			"light",
+			"dark"
+		],
+		"type": "Lager - Euro Dark",
+		"rating": 3.5
+	},
+	{
+		"name": "Lellebel",
+		"date": "2019-08-08T19:26:55.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij de Eeuwige Jeugd",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Jack Dish",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3443,
+			"lng": 4.85837
+		},
+		"ibu": 15,
+		"abv": 5.7,
+		"flavor": [
+			"fruity",
+			"hoppy",
+			"citrus",
+			"bitter"
+		],
+		"type": "Blonde Ale",
+		"rating": 4
+	},
+	{
+		"name": "Bullebak",
+		"date": "2019-08-08T20:18:29.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij de Eeuwige Jeugd",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Jack Dish",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3443,
+			"lng": 4.85837
+		},
+		"ibu": 0,
+		"abv": 7.7,
+		"flavor": [
+			"fruity",
+			"heavy",
+			"sweet",
+			"bitter"
+		],
+		"type": "Belgian Tripel",
+		"rating": 4
+	},
+	{
+		"name": "Mooie Nel IPA / Northsea IPA",
+		"date": "2019-08-08T21:32:20.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Jack Dish",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3443,
+			"lng": 4.85837
+		},
+		"ibu": 70,
+		"abv": 6.5,
+		"flavor": [
+			"smooth",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - American",
+		"rating": 3.75
+	},
+	{
+		"name": "Strongbow Apple Ciders British Dry",
+		"date": "2019-08-08T22:21:21.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Bulmers Cider",
+			"country": "England",
+			"city": "Hereford",
+			"state": "Herefordshire"
+		},
+		"venue": {
+			"name": "Jack Dish",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3443,
+			"lng": 4.85837
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"sweet",
+			"dry",
+			"apple"
+		],
+		"type": "Cider - Dry",
+		"rating": 3.75
+	},
+	{
+		"name": "Premium Pils",
+		"date": "2019-08-11T17:19:54.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Hasseröder Brauerei",
+			"country": "Germany",
+			"city": "Wernigerode",
+			"state": "Sachsen-Anhalt"
+		},
+		"venue": {
+			"name": "Hasseröder Ferienpark",
+			"country": "Deutschland",
+			"city": "Wernigerode",
+			"state": "Sachsen-Anhalt",
+			"lat": 51.8205,
+			"lng": 10.757
+		},
+		"ibu": 28,
+		"abv": 4.9,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - German",
+		"rating": 3.75
+	},
+	{
+		"name": "Premium Pils",
+		"date": "2019-08-12T19:46:23.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Hasseröder Brauerei",
+			"country": "Germany",
+			"city": "Wernigerode",
+			"state": "Sachsen-Anhalt"
+		},
+		"venue": {
+			"name": "Hasseröder Ferienpark",
+			"country": "Deutschland",
+			"city": "Wernigerode",
+			"state": "Sachsen-Anhalt",
+			"lat": 51.8205,
+			"lng": 10.757
+		},
+		"ibu": 28,
+		"abv": 4.9,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - German",
+		"rating": 4
+	},
+	{
+		"name": "Premium Pils",
+		"date": "2019-08-13T19:37:19.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Hasseröder Brauerei",
+			"country": "Germany",
+			"city": "Wernigerode",
+			"state": "Sachsen-Anhalt"
+		},
+		"venue": {
+			"name": "Hasseröder Ferienpark",
+			"country": "Deutschland",
+			"city": "Wernigerode",
+			"state": "Sachsen-Anhalt",
+			"lat": 51.8205,
+			"lng": 10.757
+		},
+		"ibu": 28,
+		"abv": 4.9,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - German",
+		"rating": 4
+	},
+	{
+		"name": "Löwenbräu Original",
+		"date": "2019-08-14T17:10:25.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Löwenbräu am Kohlmarkt",
+			"country": "Deutschland",
+			"city": "Wernigerode",
+			"state": "Sachsen-Anhalt",
+			"lat": 51.8336,
+			"lng": 10.7862
+		},
+		"ibu": 19,
+		"abv": 5.2,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Helles",
+		"rating": 3.75
+	},
+	{
+		"name": "Lindeboom Citroen Radler 2.0",
+		"date": "2019-08-20T17:10:18.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Lindeboom",
+			"country": "Netherlands",
+			"city": "Neer",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Strandpaviljoen Thalassa",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3774,
+			"lng": 4.52727
+		},
+		"ibu": 11,
+		"abv": 2,
+		"flavor": [
+			"light",
+			"sweet",
+			"sour"
+		],
+		"type": "Shandy / Radler",
+		"rating": 4
+	},
+	{
+		"name": "Guinness Draught",
+		"date": "2019-08-22T18:32:57.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Guinness",
+			"country": "Ireland",
+			"city": "Saint James' Gate",
+			"state": "Leinster"
+		},
+		"venue": {
+			"name": "O'Reilly's",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3725,
+			"lng": 4.89006
+		},
+		"ibu": 45,
+		"abv": 4.2,
+		"flavor": [
+			"light",
+			"creamy",
+			"smooth",
+			"dark"
+		],
+		"type": "Stout - Irish Dry",
+		"rating": 4.5
+	},
+	{
+		"name": "Vedett Extra White",
+		"date": "2019-08-22T19:27:14.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Duvel Moortgat",
+			"country": "Belgium",
+			"city": "Puurs",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "The Black Dog",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3713,
+			"lng": 4.88947
+		},
+		"ibu": 4,
+		"abv": 4.7,
+		"flavor": [
+			"fruity",
+			"light",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4
+	},
+	{
+		"name": "Ocho Reales Porter",
+		"date": "2019-08-23T17:43:58.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Sierra Madre Brewing Co.",
+			"country": "Mexico",
+			"city": "Monterrey",
+			"state": "Nuevo León"
+		},
+		"venue": {
+			"name": "Popocatepetl",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3815,
+			"lng": 4.63762
+		},
+		"ibu": 22,
+		"abv": 4.5,
+		"flavor": [
+			"malty",
+			"light",
+			"thin",
+			"dark"
+		],
+		"type": "Porter - Other",
+		"rating": 3.5
+	},
+	{
+		"name": "Grevensteiner Original Naturtrübes Landbier",
+		"date": "2019-08-25T16:32:17.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brauerei VELTINS",
+			"country": "Germany",
+			"city": "Meschede",
+			"state": "Nordrhein-Westfalen"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 23,
+		"abv": 5.2,
+		"flavor": [
+			"malty",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Kellerbier / Zwickelbier",
+		"rating": 4
+	},
+	{
+		"name": "Radler Limoen",
+		"date": "2019-08-27T17:32:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Koninklijke Grolsch",
+			"country": "Netherlands",
+			"city": "Enschede",
+			"state": "Overijssel"
+		},
+		"venue": {
+			"name": "De Haven van Zandvoort",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.373,
+			"lng": 4.52412
+		},
+		"ibu": 0,
+		"abv": 2,
+		"flavor": [
+			"lemony",
+			"fruity",
+			"light",
+			"sour"
+		],
+		"type": "Shandy / Radler",
+		"rating": 4
+	}
+]

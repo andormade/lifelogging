@@ -1,0 +1,444 @@
+[
+	{
+		"name": "Coors Light",
+		"date": "2020-03-01T12:52:50.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Coors Brewing Company",
+			"country": "United States",
+			"city": "Golden",
+			"state": "CO"
+		},
+		"venue": {
+			"name": "Milk Lane",
+			"country": "Australia",
+			"city": "Coogee",
+			"state": "NSW",
+			"lat": -33.9206,
+			"lng": 151.256
+		},
+		"ibu": 10,
+		"abv": 4.2,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - American Light",
+		"rating": 3.75
+	},
+	{
+		"name": "Super Crisp Lager",
+		"date": "2020-03-01T18:06:42.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Great Northern Brewing Co.",
+			"country": "Australia",
+			"city": "Yatala",
+			"state": "QLD"
+		},
+		"venue": {
+			"name": "Plaza Premium Lounge",
+			"country": "Australia",
+			"city": "Mascot",
+			"state": "NSW",
+			"lat": -33.9367,
+			"lng": 151.169
+		},
+		"ibu": 0,
+		"abv": 3.5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4
+	},
+	{
+		"name": "Carlsberg",
+		"date": "2020-03-02T16:50:51.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Carlsberg Group",
+			"country": "Denmark",
+			"city": "Copenhagen",
+			"state": "Region Hovedstaden"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 8,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3.5
+	},
+	{
+		"name": "Spinning Plates",
+		"date": "2020-03-08T18:44:56.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Tiny Rebel Brewing Co",
+			"country": "Wales",
+			"city": "Newport Docks",
+			"state": "Newport"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 40,
+		"abv": 6.3,
+		"flavor": [
+			"tropical",
+			"creamy",
+			"sweet"
+		],
+		"type": "IPA - Milkshake",
+		"rating": 4
+	},
+	{
+		"name": "Many-Faced Got Red Wine Barrel Aged",
+		"date": "2020-03-08T21:47:45.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 30,
+		"abv": 10.5,
+		"flavor": [
+			"smoky",
+			"smoked",
+			"barrel aged"
+		],
+		"type": "Smoked Beer",
+		"rating": 4.25
+	},
+	{
+		"name": "Brouwers Tripel",
+		"date": "2020-03-12T00:14:07.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwers",
+			"country": "Netherlands",
+			"city": "Zaandam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 0,
+		"abv": 8.3,
+		"flavor": [
+			"spicy",
+			"herbal",
+			"strong",
+			"Coriander"
+		],
+		"type": "Belgian Tripel",
+		"rating": 4
+	},
+	{
+		"name": "Präänik",
+		"date": "2020-03-12T22:15:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Põhjala",
+			"country": "Estonia",
+			"city": "Tallinn",
+			"state": "Harjumaa"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 0,
+		"abv": 7.5,
+		"flavor": [
+			"piney",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Porter - Baltic",
+		"rating": 4
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-03-15T21:07:42.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-03-16T21:06:56.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Brouwers Tripel",
+		"date": "2020-03-17T21:00:06.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Brouwers",
+			"country": "Netherlands",
+			"city": "Zaandam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 0,
+		"abv": 8.3,
+		"flavor": [
+			"spicy",
+			"herbal",
+			"Coriander"
+		],
+		"type": "Belgian Tripel",
+		"rating": 4
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-03-18T21:24:38.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Biri",
+		"date": "2020-03-20T23:22:47.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 0,
+		"abv": 4.7,
+		"flavor": [
+			"tropical",
+			"light",
+			"flat"
+		],
+		"type": "Lager - American",
+		"rating": 4
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-03-22T20:56:51.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-03-27T21:17:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-03-28T22:13:40.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-03-28T22:27:29.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	}
+]

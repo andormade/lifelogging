@@ -1,306 +1,532 @@
 [
 	{
 		"name": "Bokbier",
-		"date": "2017-08-03",
-		"serving": "bottle",
+		"date": "2017-08-03T19:33:21.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Jopen",
-			"size": "micro brewery",
-			"location": "Haarlem, Noord-Holland, Netherlands",
-			"website": "https://jopenbier.nl"	
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
-		"abv": 6.5,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 30,
-		"flavor": ["malty", "sweet", "smooth", "dark"],
-		"style": "bock",
+		"abv": 6.5,
+		"flavor": [
+			"malty",
+			"sweet",
+			"smooth",
+			"dark"
+		],
+		"type": "Bock - Single / Traditional",
 		"rating": 4
 	},
 	{
-		"name": "Chimay Bleue (Grande Réserve 2017)",
-		"date": "2017-08-04",
-		"serving": "bottle",
+		"name": "Chimay Blue / Bleue / Blauw (Grande Réserve) (2017)",
+		"date": "2017-08-04T19:35:03.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Bières de Chimay",
-			"size": "micro brewery",
-			"location": "Baileux, Hainaut, Belgium",
-			"website": "http://chimay.com/en/bieres"	
+			"country": "Belgium",
+			"city": "Baileux",
+			"state": "Wallonie"
 		},
-		"abv": 9,
+		"venue": {
+			"name": "August Allebéplein",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3632,
+			"lng": 4.8372
+		},
 		"ibu": 35,
-		"flavor": ["dark", "creamy", "smooth", "malty"],
-		"style": "belgian strong dark ale",
+		"abv": 9,
+		"flavor": [
+			""
+		],
+		"type": "Belgian Strong Dark Ale",
 		"rating": 4.5
 	},
 	{
 		"name": "Kasteel Donker",
-		"date": "2017-08-04",
-		"serving": "bottle",
+		"date": "2017-08-04T20:12:41.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Brouwerij Van Honsebrouck",
-			"size": "macro brewery",
-			"location": "Ingelmunster, West-Vlaanderen, Belgium",
-			"website": "http://vanhonsebrouck.be"	
+			"name": "Kasteel Brouwerij Vanhonsebrouck",
+			"country": "Belgium",
+			"city": "Izegem",
+			"state": "Vlaanderen"
 		},
+		"venue": {
+			"name": "August Allebéplein",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3632,
+			"lng": 4.8372
+		},
+		"ibu": 0,
 		"abv": 11,
-		"ibu": 14,
-		"flavor": ["dark", "sweet", "strong"],
-		"style": "belgian qad",
+		"flavor": [
+			"sweet",
+			"strong",
+			"dark"
+		],
+		"type": "Belgian Quadrupel",
 		"rating": 4.5
 	},
 	{
 		"name": "Stary Melnik Iz Bochonka Myagkoe (Старый Мельник Из Бочонка Мягкое)",
-		"date": "2017-08-05",
-		"serving": "bottle",
+		"date": "2017-08-05T17:30:22.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Moscow-Efes Brewery (Пивоварня Москва-Эфес)",
-			"size": "macro brewery",
-			"location": "Москва, Russia",
-			"website": "http://efesrussia.ru"	
+			"name": "AB InBev Efes",
+			"country": "Russia",
+			"city": "Moscow",
+			"state": "Москва"
 		},
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 0,
 		"abv": 4.3,
-		"ibu": null,
-		"flavor": ["soft", "light", "watery"],
-		"style": "euro lager",
+		"flavor": [
+			"soft",
+			"light",
+			"watery"
+		],
+		"type": "Lager - Euro Pale",
 		"rating": 4
 	},
 	{
 		"name": "Диканські Вечори",
-		"date": "2017-08-05",
-		"serving": "bottle",
+		"date": "2017-08-05T20:05:35.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Полтавпиво (Poltavpivo)",
-			"size": "micro brewery",
-			"location": "Полтава, Ukraine",
-			"website": "http://poltavpivo.com"	
+			"country": "Ukraine",
+			"city": "Poltava",
+			"state": "Полтавська область"
 		},
-		"abv": 5,
-		"ibu": null,
-		"flavor": ["watery"],
-		"style": "euro dark lager",
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 0,
+		"abv": 5.5,
+		"flavor": [
+			"watery"
+		],
+		"type": "Lager - Dark",
 		"rating": 3.5
 	},
 	{
 		"name": "Adriaan Wit",
-		"date": "2017-08-06",
-		"serving": "bottle",
+		"date": "2017-08-06T20:42:55.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Jopen",
-			"size": "micro brewery",
-			"location": "Haarlem, Noord-Holland, Netherlands",
-			"website": "https://jopenbier.nl"	
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
-		"abv": 5,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 12,
-		"flavor": ["fruity", "light", "smooth"],
-		"style": "witbier",
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"light",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
 		"rating": 4.5
 	},
 	{
-		"name": "Peroni Nastro Azzuro",
-		"date": "2017-08-09",
-		"serving": "bottle",
+		"name": "Peroni Nastro Azzurro",
+		"date": "2017-08-09T19:19:54.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Birra Peroni",
-			"size": "macro brewery",
-			"location": "Roma, Italy",
-			"website": "http://www.birraperoni.it"	
+			"country": "Italy",
+			"city": "Roma",
+			"state": "Lazio"
 		},
+		"venue": {
+			"name": "Woodstone Pizza And Wine",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3814,
+			"lng": 4.62989
+		},
+		"ibu": 0,
 		"abv": 5.1,
-		"ibu": null,
-		"flavor": ["clean", "light"],
-		"style": "euro lager",
+		"flavor": [
+			"clean",
+			"light"
+		],
+		"type": "Lager - Euro Pale",
 		"rating": 3.5
 	},
 	{
-		"name": "Peroni Nastro Azzuro",
-		"date": "2017-08-10",
-		"serving": "bottle",
+		"name": "Peroni Nastro Azzurro",
+		"date": "2017-08-10T18:11:38.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Birra Peroni",
-			"size": "macro brewery",
-			"location": "Roma, Italy",
-			"website": "http://www.birraperoni.it"	
+			"country": "Italy",
+			"city": "Roma",
+			"state": "Lazio"
 		},
+		"venue": {
+			"name": "PvH Europe (Tommy Hilfiger & Calvin Klein)",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.402,
+			"lng": 4.87531
+		},
+		"ibu": 0,
 		"abv": 5.1,
-		"ibu": null,
-		"flavor": ["clean", "light"],
-		"style": "euro lager",
-		"rating": 3.5
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3.75
 	},
 	{
 		"name": "La Trappe Witte Trappist",
-		"date": "2017-08-11",
-		"serving": "bottle",
+		"date": "2017-08-11T21:17:38.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Bierbrouwerij De Koningshoeven",
-			"size": "micro brewery",
-			"location": "Berkel-Enschot, Noord-Brabant, Netherlands",
-			"website": "http://koningshoeven.nl/producten/brouwerij"	
+			"country": "Netherlands",
+			"city": "Berkel-Enschot",
+			"state": "Noord-Brabant"
 		},
-		"abv": 5.5,
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
 		"ibu": 14,
-		"flavor": ["fruity", "light", "smooth"],
-		"style": "witbier",
+		"abv": 5.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
 		"rating": 4.5
 	},
 	{
 		"name": "Zatte",
-		"date": "2017-08-11",
-		"serving": "bottle",
+		"date": "2017-08-11T21:58:07.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij 't IJ",
-			"size": "micro brewery",
-			"location": "Amsterdam, Noord-Holland, Netherlands",
-			"website": "http://brouwerijhetij.nl"	
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
-		"abv": 8,
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
 		"ibu": 19,
-		"flavor": ["sweet", "strong", "smooth"],
-		"style": "belgian tripel",
+		"abv": 8,
+		"flavor": [
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Tripel",
 		"rating": 3.75
 	},
 	{
 		"name": "Westmalle Trappist Dubbel",
-		"date": "2017-08-11",
-		"serving": "bottle",
+		"date": "2017-08-11T21:59:14.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij der Trappisten van Westmalle",
-			"size": "micro brewery",
-			"location": "Malle, Antwerpen, Belgium",
-			"website": "http://trappistwestmalle.be"	
+			"country": "Belgium",
+			"city": "Malle",
+			"state": "Vlaanderen"
 		},
-		"abv": 7,
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
 		"ibu": 24,
-		"flavor": ["sweet", "strong", "malty", "dark"],
-		"style": "belgian dubbel",
+		"abv": 7,
+		"flavor": [
+			"malty",
+			"sweet",
+			"strong",
+			"dark"
+		],
+		"type": "Belgian Dubbel",
 		"rating": 4
 	},
 	{
 		"name": "Witte Vrouwen",
-		"date": "2017-08-20",
-		"serving": "bottle",
+		"date": "2017-08-20T10:56:27.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij De Leckere",
-			"size": "micro brewery",
-			"location": "De Meern, Utrect, Netherlands",
-			"website": "http://deleckere.nl"	
+			"country": "Netherlands",
+			"city": "Utrecht",
+			"state": "Utrecht"
 		},
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 14,
 		"abv": 5,
-		"ibu": null,
-		"flavor": ["light", "sour", "smooth"],
-		"style": "witbier",
+		"flavor": [
+			"light",
+			"sour",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
 		"rating": 4.5
 	},
 	{
-		"name": "Guinnes Draught",
-		"date": "2017-08-20",
-		"serving": "draft",
+		"name": "Guinness Draught",
+		"date": "2017-08-20T11:41:00.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Guinness",
-			"size": "macro brewery",
-			"location": "Dublin, Ireland",
-			"website": "https://www.guinness.com"	
+			"country": "Ireland",
+			"city": "Saint James' Gate",
+			"state": "Leinster"
 		},
-		"abv": 4.3,
+		"venue": {
+			"name": "The Wolfhound",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3814,
+			"lng": 4.63799
+		},
 		"ibu": 45,
-		"flavor": ["creamy", "dark", "smooth"],
-		"style": "irish stout",
+		"abv": 4.2,
+		"flavor": [
+			"creamy",
+			"smooth",
+			"dark"
+		],
+		"type": "Stout - Irish Dry",
 		"rating": 4.5
 	},
 	{
 		"name": "Meesterstuk (2017)",
-		"date": "2017-08-20",
-		"serving": "draft",
+		"date": "2017-08-20T14:08:29.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Jopen",
-			"size": "micro brewery",
-			"location": "Haarlem, Noord-Holland, Netherlands",
-			"website": "https://jopenbier.nl"	
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
-		"abv": 10,
+		"venue": {
+			"name": "Jopenkerk Haarlem",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3812,
+			"lng": 4.62982
+		},
 		"ibu": 30,
-		"flavor": ["spicy", "heavy", "sweet", "smooth"],
-		"style": "imperial porter",
+		"abv": 10,
+		"flavor": [
+			"spicy",
+			"heavy",
+			"sweet",
+			"smooth"
+		],
+		"type": "Porter - Imperial / Double",
 		"rating": 3.5
 	},
 	{
 		"name": "Weizen",
-		"date": "2017-08-22",
-		"serving": "bottle",
+		"date": "2017-08-22T18:43:00.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Koninklijke Brand Bierbrouwerij",
-			"size": "macro brewery",
-			"location": "Wijlre, Limburg, Netherlands",
-			"website": "http://brand.nl/agecheck"	
+			"country": "Netherlands",
+			"city": "Wijlre",
+			"state": "Limburg"
 		},
-		"abv": 5.1,
+		"venue": {
+			"name": "De Beren",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3815,
+			"lng": 4.62969
+		},
 		"ibu": 12,
-		"flavor": ["light", "banana", "sweet", "smooth", "warm"],
-		"style": "hefeweizen",
+		"abv": 5,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
 		"rating": 4
 	},
 	{
 		"name": "Wieckse Witte",
-		"date": "2017-08-22",
-		"serving": "draft",
+		"date": "2017-08-22T19:02:20.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Wieckse",
-			"size": "micro brewery",
-			"location": "Maastricht, Limburg, Netherlands",
-			"website": "http://wieckse.nl/agecheck"	
+			"country": "Netherlands",
+			"city": "Maastricht",
+			"state": "Limburg"
 		},
+		"venue": {
+			"name": "De Beren",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3815,
+			"lng": 4.62969
+		},
+		"ibu": 0,
 		"abv": 5,
-		"ibu": null,
-		"flavor": ["light", "sweet", "fruity", "smooth", "warm"],
-		"style": "witbier",
+		"flavor": [
+			"light",
+			"sweet"
+		],
+		"type": "Wheat Beer - Witbier",
 		"rating": 3
 	},
 	{
 		"name": "Kingfisher Premium Lager",
-		"date": "2017-08-27",
-		"serving": "bottle",
+		"date": "2017-08-27T18:34:19.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "United Breweries",
-			"size": "micro brewery",
-			"location": "Bangalore, India",
-			"website": "http://unitedbreweries.com"	
+			"country": "India",
+			"city": "",
+			"state": "Bangalore"
 		},
-		"abv": 4.8,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 20,
-		"flavor": ["light", "smooth", "sweet", "spicy", "malty"],
-		"style": "north american adjunct",
+		"abv": 5,
+		"flavor": [
+			"malty",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
 		"rating": 4
 	},
 	{
 		"name": "Kriek Max",
-		"date": "2017-08-30",
-		"serving": "bottle",
+		"date": "2017-08-30T21:32:03.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij Omer Vander Ghinste",
-			"size": "micro brewery",
-			"location": "Bellegem, West-Vlaanderen, Belgium",
-			"website": "http://omervanderghinste.be"
+			"country": "Belgium",
+			"city": "Bellegem",
+			"state": "Vlaanderen"
 		},
+		"venue": {
+			"name": "Tulip Inn Eindhoven Airport",
+			"country": "Nederland",
+			"city": "Eindhoven",
+			"state": "Noord-Brabant",
+			"lat": 51.458,
+			"lng": 5.39185
+		},
+		"ibu": 0,
 		"abv": 3.5,
-		"ibu": null,
-		"flavor": ["sweet", "fruity", "sour"],
-		"style": "fruit beer",
+		"flavor": [
+			"fruity",
+			"sweet",
+			"sour"
+		],
+		"type": "Lambic - Kriek",
 		"rating": 3.5
 	},
 	{
 		"name": "Mežpils Tumšais",
-		"date": "2017-08-31",
-		"serving": "draft",
+		"date": "2017-08-31T14:55:34.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Aldaris",
-			"size": "macro brewery",
-			"location": "Riga, Latvia",
-			"website": "http://alusdarbnica.lv"
+			"country": "Latvia",
+			"city": "Riga",
+			"state": "Vidzeme"
 		},
-		"abv": 5.7,
+		"venue": {
+			"name": "Melnā Bite",
+			"country": "Latvija",
+			"city": "Rīga",
+			"state": "Riga",
+			"lat": 56.9471,
+			"lng": 24.1125
+		},
 		"ibu": 20,
-		"flavor": ["sweet", "malty", "dark", "smooth"],
-		"style": "schwarzbier",
+		"abv": 5.7,
+		"flavor": [
+			"malty",
+			"sweet",
+			"smooth",
+			"dark"
+		],
+		"type": "Schwarzbier",
 		"rating": 4
 	}
 ]

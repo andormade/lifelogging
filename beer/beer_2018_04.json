@@ -1,72 +1,21 @@
 [
 	{
-		"name": "Pineapple Weizen",
-		"date": "2018-04-01 00:39:26",
-		"serving": "draft",
-		"brewery": {
-			"name": "Het Uiltje",
-			"size": null,
-			"location": "Haarlem, Netherlands",
-			"website": null
-		},
-		"venue": {
-			"name": "Uiltje Bar",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.63072,
-			"latitude": 52.3829
-		},
-		"ibu": 6,
-		"abv": 5,
-		"flavor": [
-			"spring",
-			"fruity",
-			"sweet",
-			"pineapple"
-		],
-		"style": "hefeweizen",
-		"rating": 4
-	},
-	{
-		"name": "FF lekker met je bek in het zonnetje (2017)",
-		"date": "2018-04-01 01:08:57",
-		"serving": "draft",
-		"brewery": {
-			"name": "Het Uiltje",
-			"size": null,
-			"location": "Haarlem, Netherlands",
-			"website": null
-		},
-		"venue": {
-			"name": "Uiltje Bar",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.63072,
-			"latitude": 52.3829
-		},
-		"ibu": 55,
-		"abv": 3,
-		"flavor": [
-			"light",
-			"citrus",
-			"bitter"
-		],
-		"style": "ipa - session / india session ale",
-		"rating": 3
-	},
-	{
-		"name": "La ChouffeBlond",
-		"date": "2018-04-02 16:53:04",
-		"serving": "bottle",
+		"name": "La Chouffe Blond",
+		"date": "2018-04-02T14:53:04.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brasserie d'Achouffe",
-			"size": null,
-			"location": "Achouffe, Belgium",
-			"website": null
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
 		},
 		"venue": {
 			"name": "Albert Heijn to go",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.63954,
-			"latitude": 52.3885
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3885,
+			"lng": 4.63954
 		},
 		"ibu": 20,
 		"abv": 8,
@@ -76,27 +25,29 @@
 			"strong",
 			"smooth"
 		],
-		"style": "belgian strong golden ale",
-		"rating": 4
+		"type": "Belgian Strong Golden Ale",
+		"rating": 4.25
 	},
 	{
 		"name": "Kriek Max",
-		"date": "2018-04-06 19:10:18",
+		"date": "2018-04-06T17:10:18.000Z",
 		"serving": "",
 		"brewery": {
 			"name": "Brouwerij Omer Vander Ghinste",
-			"size": null,
-			"location": "Bellegem, Belgium",
-			"website": null
+			"country": "Belgium",
+			"city": "Bellegem",
+			"state": "Vlaanderen"
 		},
 		"venue": {
 			"name": "Black and Blue",
-			"location": "Amsterdam, Nederland",
-			"longitude": 4.88537,
-			"latitude": 52.3757
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3757,
+			"lng": 4.88537
 		},
-		"ibu": null,
-		"abv": 3,
+		"ibu": 0,
+		"abv": 3.5,
 		"flavor": [
 			"fruity",
 			"sweet",
@@ -104,139 +55,163 @@
 			"tart",
 			"cherry"
 		],
-		"style": "fruit beer",
+		"type": "Lambic - Kriek",
 		"rating": 4
 	},
 	{
-		"name": "Igazi Csíki Sör",
-		"date": "2018-04-08 14:56:44",
-		"serving": "bottle",
+		"name": "Tiltott Csíki Sör",
+		"date": "2018-04-08T12:56:44.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Csíki Sör Manufaktúra",
-			"size": null,
-			"location": ", Romania",
-			"website": null
+			"country": "Romania",
+			"city": "Harghita",
+			"state": "Harghita"
 		},
 		"venue": {
 			"name": "Hungarian Corner",
-			"location": "Den Haag, Nederland",
-			"longitude": 4.27148,
-			"latitude": 52.0794
+			"country": "Nederland",
+			"city": "Den Haag",
+			"state": "Zuid-Holland",
+			"lat": 52.0794,
+			"lng": 4.27148
 		},
-		"ibu": null,
+		"ibu": 0,
 		"abv": 6,
 		"flavor": [
 			"malty",
 			"clean",
 			"smooth"
 		],
-		"style": "lager - pale",
-		"rating": 3
+		"type": "Bock - Hell / Maibock / Lentebock",
+		"rating": 3.25
 	},
 	{
 		"name": "Brouwers Pilsener",
-		"date": "2018-04-08 18:22:57",
-		"serving": "bottle",
+		"date": "2018-04-08T16:22:57.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Brouwers Albert Heijn",
-			"size": null,
-			"location": "Zaandam, Netherlands",
-			"website": null
+			"name": "Brouwers",
+			"country": "Netherlands",
+			"city": "Zaandam",
+			"state": "Noord-Holland"
 		},
 		"venue": {
 			"name": "Hofvijver",
-			"location": "Den Haag, Nederland",
-			"longitude": 4.31158,
-			"latitude": 52.0804
+			"country": "Nederland",
+			"city": "Den Haag",
+			"state": "Zuid-Holland",
+			"lat": 52.0804,
+			"lng": 4.31158
 		},
-		"ibu": null,
-		"abv": 4,
+		"ibu": 0,
+		"abv": 5,
 		"flavor": [
 			"light",
 			"dry"
 		],
-		"style": "pilsner - other",
-		"rating": 3
+		"type": "Pilsner - Other",
+		"rating": 3.5
 	},
 	{
 		"name": "Flying Rabbit",
-		"date": "2018-04-14 19:05:58",
-		"serving": "bottle",
+		"date": "2018-04-14T17:05:58.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "MONYO Brewing Co.",
-			"size": null,
-			"location": "Budapest, Hungary",
-			"website": null
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
 		},
 		"venue": {
 			"name": "Sopronkőhida",
-			"location": "Sopron, Magyarország",
-			"longitude": 16.623,
-			"latitude": 47.7225
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopon",
+			"lat": 47.7225,
+			"lng": 16.623
 		},
 		"ibu": 80,
-		"abv": 6,
+		"abv": 6.5,
 		"flavor": [
 			"fruity",
 			"light",
 			"hoppy"
 		],
-		"style": "ipa - american",
+		"type": "IPA - American",
 		"rating": 4
 	},
 	{
 		"name": "Hefe Weissbier",
-		"date": "2018-04-14 20:55:22",
-		"serving": "bottle",
+		"date": "2018-04-14T18:55:22.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Maltman Craft Beer",
-			"size": null,
-			"location": "Budapest, Hungary",
-			"website": null
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": ""
 		},
-		"ibu": null,
-		"abv": 5,
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 5.1,
 		"flavor": [
 			""
 		],
-		"style": "hefeweizen",
+		"type": "Hefeweizen",
 		"rating": null
 	},
 	{
 		"name": "Tesco Finest Unfiltered IPA",
-		"date": "2018-04-14 23:03:16",
+		"date": "2018-04-14T21:03:16.000Z",
 		"serving": "",
 		"brewery": {
 			"name": "Tesco Stores Ltd.",
-			"size": null,
-			"location": "Welwyn Garden City, England",
-			"website": null
+			"country": "England",
+			"city": "Welwyn Garden City",
+			"state": "Hertfordshire"
 		},
-		"ibu": null,
-		"abv": 5,
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 5.8,
 		"flavor": [
 			"sharp",
 			"light",
 			"bitter"
 		],
-		"style": "ipa - international",
+		"type": "IPA - International",
 		"rating": 4
 	},
 	{
 		"name": "1664 Blanc",
-		"date": "2018-04-15 00:03:54",
-		"serving": "bottle",
+		"date": "2018-04-14T22:03:54.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Kronenbourg Brewery",
-			"size": null,
-			"location": "Strasbourg, France",
-			"website": null
+			"country": "France",
+			"city": "Strasbourg",
+			"state": "Grand-Est"
 		},
 		"venue": {
 			"name": "Hajnal tér",
-			"location": "Sopron, Magyarország",
-			"longitude": 16.549,
-			"latitude": 47.6788
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.6788,
+			"lng": 16.549
 		},
 		"ibu": 7,
 		"abv": 5,
@@ -247,26 +222,28 @@
 			"sweet",
 			"smooth"
 		],
-		"style": "witbier",
+		"type": "Wheat Beer - Witbier",
 		"rating": 4
 	},
 	{
 		"name": "Lowlander I.P.A.",
-		"date": "2018-04-20 20:51:58",
-		"serving": "draft",
+		"date": "2018-04-20T18:51:58.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Lowlander Beer",
-			"size": null,
-			"location": "Amsterdam, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
 		"venue": {
-			"name": "Bierlokaal De Uiver",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.63817,
-			"latitude": 52.3811
+			"name": "Bierlokaal de Uiver",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3821,
+			"lng": 4.63898
 		},
-		"ibu": 70,
+		"ibu": 45,
 		"abv": 6,
 		"flavor": [
 			"spicy",
@@ -275,27 +252,29 @@
 			"citrus",
 			"bitter"
 		],
-		"style": "ipa - international",
+		"type": "IPA - International",
 		"rating": 4
 	},
 	{
 		"name": "Session IPA",
-		"date": "2018-04-21 22:23:40",
-		"serving": "bottle",
+		"date": "2018-04-21T20:23:40.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij Kees",
-			"size": null,
-			"location": "Middelburg, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Middelburg",
+			"state": "Zeeland"
 		},
 		"venue": {
 			"name": "Cotton Candy Residence 10",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.64054,
-			"latitude": 52.3929
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
 		},
 		"ibu": 70,
-		"abv": 3,
+		"abv": 3.5,
 		"flavor": [
 			"fruity",
 			"light",
@@ -303,18 +282,26 @@
 			"citrus",
 			"bitter"
 		],
-		"style": "ipa - session / india session ale",
-		"rating": 4
+		"type": "IPA - Session / India Session Ale",
+		"rating": 4.25
 	},
 	{
 		"name": "Mannenliefde",
-		"date": "2018-04-22 11:25:20",
-		"serving": "bottle",
+		"date": "2018-04-22T09:25:20.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Oedipus Brewing",
-			"size": null,
-			"location": "Amsterdam, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
 		},
 		"ibu": 25,
 		"abv": 6,
@@ -325,67 +312,85 @@
 			"dry",
 			"hoppy"
 		],
-		"style": "saison / farmhouse ale",
+		"type": "Farmhouse Ale - Saison",
 		"rating": 4
 	},
 	{
 		"name": "Affligem Blonde",
-		"date": "2018-04-22 13:16:16",
-		"serving": "bottle",
+		"date": "2018-04-22T11:16:16.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Affligem Brouwerij",
-			"size": null,
-			"location": "Opwijk, Belgium",
-			"website": null
+			"country": "Belgium",
+			"city": "Opwijk",
+			"state": "Vlaanderen"
 		},
-		"ibu": null,
-		"abv": 6,
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 6.7,
 		"flavor": [
 			"light",
 			"strong",
 			"smooth"
 		],
-		"style": "blonde ale - belgian blonde / golden",
+		"type": "Belgian Blonde",
 		"rating": 4
 	},
 	{
 		"name": "Classic Apple",
-		"date": "2018-04-22 17:42:42",
-		"serving": "bottle",
+		"date": "2018-04-22T15:42:42.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Apple Bandit Cider",
-			"size": null,
-			"location": "Amsterdam, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
-		"ibu": null,
-		"abv": 4,
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 4.5,
 		"flavor": [
 			"fruity",
 			"dry",
 			"apple",
 			"juicy"
 		],
-		"style": "cider - dry",
+		"type": "Cider - Dry",
 		"rating": 4
 	},
 	{
 		"name": "Zima",
-		"date": "2018-04-28 19:27:49",
-		"serving": "bottle",
+		"date": "2018-04-28T17:27:49.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Coors Brewing Company",
-			"size": null,
-			"location": "Golden, United States",
-			"website": null
+			"country": "United States",
+			"city": "Golden",
+			"state": "CO"
 		},
 		"venue": {
 			"name": "Kawaii Monster Cafe",
-			"location": "東京, 日本",
-			"longitude": 139.706,
-			"latitude": 35.6691
+			"country": "日本",
+			"city": "東京",
+			"state": "東京都",
+			"lat": 35.6691,
+			"lng": 139.706
 		},
-		"ibu": null,
+		"ibu": 0,
 		"abv": 5,
 		"flavor": [
 			"fruity",
@@ -394,24 +399,26 @@
 			"light",
 			"sweet"
 		],
-		"style": "malt liquor ",
-		"rating": 3
+		"type": "Malt Liquor ",
+		"rating": 3.75
 	},
 	{
-		"name": "Ichiban (Ichiban Shibori)",
-		"date": "2018-04-28 23:30:20",
-		"serving": "can",
+		"name": "Ichiban (Ichiban Shibori) (一番搾り)",
+		"date": "2018-04-28T21:30:20.000Z",
+		"serving": "Can",
 		"brewery": {
 			"name": "Kirin Brewery Company",
-			"size": null,
-			"location": "Nakano-ku, Japan",
-			"website": null
+			"country": "Japan",
+			"city": "Nakano-ku",
+			"state": "Tokyo"
 		},
 		"venue": {
 			"name": "Ota (大田区)",
-			"location": ", 日本",
-			"longitude": 139.727,
-			"latitude": 35.5603
+			"country": "日本",
+			"city": "",
+			"state": "東京都",
+			"lat": 35.5603,
+			"lng": 139.727
 		},
 		"ibu": 18,
 		"abv": 5,
@@ -420,76 +427,82 @@
 			"light",
 			"smooth"
 		],
-		"style": "lager - pale",
-		"rating": 3
+		"type": "Lager - Pale",
+		"rating": 3.5
 	},
 	{
 		"name": "Clear Malt",
-		"date": "2018-04-28 23:50:06",
-		"serving": "can",
+		"date": "2018-04-28T21:50:06.000Z",
+		"serving": "Can",
 		"brewery": {
 			"name": "Kirin Brewery Company",
-			"size": null,
-			"location": "Nakano-ku, Japan",
-			"website": null
+			"country": "Japan",
+			"city": "Nakano-ku",
+			"state": "Tokyo"
 		},
 		"venue": {
 			"name": "Ota (大田区)",
-			"location": ",日本",
-			"longitude": 139.727,
-			"latitude": 35.5603
+			"country": "日本",
+			"city": "",
+			"state": "東京都",
+			"lat": 35.5603,
+			"lng": 139.727
 		},
-		"ibu": null,
+		"ibu": 0,
 		"abv": 6,
 		"flavor": [
 			"malty",
 			"clean",
 			"light"
 		],
-		"style": "happoshu",
+		"type": "Happoshu",
 		"rating": 3
 	},
 	{
 		"name": "Hitachino Nest White Ale",
-		"date": "2018-04-29 19:55:47",
-		"serving": "draft",
+		"date": "2018-04-29T17:55:47.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Kiuchi Brewery",
-			"size": null,
-			"location": "Naka-shi, Japan",
-			"website": null
+			"country": "Japan",
+			"city": "Naka-shi",
+			"state": "Ibaraki"
 		},
 		"venue": {
 			"name": "Hitachino Brewing Lab. (常陸野ブルーイング・ラボ)",
-			"location": "千代田区,日本",
-			"longitude": 139.77,
-			"latitude": 35.6971
+			"country": "日本",
+			"city": "千代田区",
+			"state": "東京都",
+			"lat": 35.6971,
+			"lng": 139.771
 		},
 		"ibu": 13,
-		"abv": 5,
+		"abv": 5.5,
 		"flavor": [
 			"fruity",
 			"light",
 			"smooth"
 		],
-		"style": "witbier",
-		"rating": 4
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.5
 	},
 	{
 		"name": "Hitachino Nest Dai Dai Ale",
-		"date": "2018-04-29 20:05:12",
-		"serving": "draft",
+		"date": "2018-04-29T18:05:12.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Kiuchi Brewery",
-			"size": null,
-			"location": "Naka-shi, Japan",
-			"website": null
+			"country": "Japan",
+			"city": "Naka-shi",
+			"state": "Ibaraki"
 		},
 		"venue": {
 			"name": "Hitachino Brewing Lab. (常陸野ブルーイング・ラボ)",
-			"location": "千代田区,日本",
-			"longitude": 139.77,
-			"latitude": 35.6971
+			"country": "日本",
+			"city": "千代田区",
+			"state": "東京都",
+			"lat": 35.6971,
+			"lng": 139.771
 		},
 		"ibu": 17,
 		"abv": 6,
@@ -499,128 +512,138 @@
 			"light",
 			"hoppy"
 		],
-		"style": "ipa - english",
+		"type": "IPA - English",
 		"rating": 4
 	},
 	{
 		"name": "Hitachino Nest Lager",
-		"date": "2018-04-29 20:15:37",
-		"serving": "draft",
+		"date": "2018-04-29T18:15:37.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Kiuchi Brewery",
-			"size": null,
-			"location": "Naka-shi, Japan",
-			"website": null
+			"country": "Japan",
+			"city": "Naka-shi",
+			"state": "Ibaraki"
 		},
 		"venue": {
 			"name": "Hitachino Brewing Lab. (常陸野ブルーイング・ラボ)",
-			"location": "千代田区, 日本",
-			"longitude": 139.77,
-			"latitude": 35.6971
+			"country": "日本",
+			"city": "千代田区",
+			"state": "東京都",
+			"lat": 35.6971,
+			"lng": 139.771
 		},
 		"ibu": 15,
-		"abv": 5,
+		"abv": 5.5,
 		"flavor": [
 			"clean",
 			"light",
 			"hoppy"
 		],
-		"style": "pilsner - other",
+		"type": "Lager - Pale",
 		"rating": 4
 	},
 	{
-		"name": "Ichiban (Shibori) Stout",
-		"date": "2018-04-29 22:47:10",
-		"serving": "draft",
+		"name": "Ichiban Shibori Stout (一番搾り スタウト)",
+		"date": "2018-04-29T20:47:10.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Kirin Brewery Company",
-			"size": null,
-			"location": "Nakano-ku, Japan",
-			"website": null
+			"country": "Japan",
+			"city": "Nakano-ku",
+			"state": "Tokyo"
 		},
 		"venue": {
 			"name": "Kirin City (キリンシティ 新宿東口)",
-			"location": "東京, 日本",
-			"longitude": 139.702,
-			"latitude": 35.6926
+			"country": "日本",
+			"city": "東京",
+			"state": "東京都",
+			"lat": 35.6926,
+			"lng": 139.702
 		},
-		"ibu": null,
+		"ibu": 0,
 		"abv": 5,
 		"flavor": [
 			"smooth",
 			"dark",
 			"coffee"
 		],
-		"style": "stout - other",
-		"rating": 3
+		"type": "Stout - Other",
+		"rating": 3.5
 	},
 	{
 		"name": "Kinmugi Rich Malt (金麦)",
-		"date": "2018-04-29 23:41:22",
-		"serving": "can",
+		"date": "2018-04-29T21:41:22.000Z",
+		"serving": "Can",
 		"brewery": {
 			"name": "Suntory Beer Limited",
-			"size": null,
-			"location": "Minato-ku, Japan",
-			"website": null
+			"country": "Japan",
+			"city": "Minato-ku",
+			"state": "Tokyo"
 		},
 		"venue": {
 			"name": "Ota (大田区)",
-			"location": ", 日本",
-			"longitude": 139.727,
-			"latitude": 35.5603
+			"country": "日本",
+			"city": "",
+			"state": "東京都",
+			"lat": 35.5603,
+			"lng": 139.727
 		},
-		"ibu": null,
+		"ibu": 0,
 		"abv": 5,
 		"flavor": [
 			"malty",
 			"light",
 			"smooth"
 		],
-		"style": "happoshu",
-		"rating": 3
+		"type": "Happoshu",
+		"rating": 3.5
 	},
 	{
 		"name": "Rokko White Madros",
-		"date": "2018-04-30 20:39:16",
-		"serving": "draft",
+		"date": "2018-04-30T18:39:16.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "IN International",
-			"size": null,
-			"location": "Kobe, Japan",
-			"website": null
+			"country": "Japan",
+			"city": "Kobe",
+			"state": "Hyogo"
 		},
 		"venue": {
 			"name": "Craft Beer x Mex-Italian CRAFTSMAN",
-			"location": "横浜市, 日本",
-			"longitude": 139.623,
-			"latitude": 35.4681
+			"country": "日本",
+			"city": "横浜市",
+			"state": "神奈川県",
+			"lat": 35.4681,
+			"lng": 139.623
 		},
-		"ibu": null,
+		"ibu": 0,
 		"abv": 5,
 		"flavor": [
 			"clove",
 			"banana",
 			"light"
 		],
-		"style": "hefeweizen",
+		"type": "Hefeweizen",
 		"rating": 4
 	},
 	{
 		"name": "Hansharo Odoriko Weizen (踊り子ヴァイツェン)",
-		"date": "2018-04-30 20:47:09",
-		"serving": "draft",
+		"date": "2018-04-30T18:47:09.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Kuraya Narusawa",
-			"size": null,
-			"location": "Izunokuni, Japan",
-			"website": null
+			"country": "Japan",
+			"city": "Izunokuni",
+			"state": "Shizuoka"
 		},
 		"venue": {
 			"name": "Craft Beer x Mex-Italian CRAFTSMAN",
-			"location": "横浜市, 日本",
-			"longitude": 139.623,
-			"latitude": 35.4681
+			"country": "日本",
+			"city": "横浜市",
+			"state": "神奈川県",
+			"lat": 35.4681,
+			"lng": 139.623
 		},
 		"ibu": 10,
 		"abv": 5,
@@ -629,7 +652,7 @@
 			"sweet",
 			"bitter"
 		],
-		"style": "hefeweizen",
+		"type": "Hefeweizen",
 		"rating": 4
 	}
 ]

@@ -1,363 +1,613 @@
 [
 	{
-		"name": "Radler Lemon",
-		"date": "2017-05-01",
-		"serving": "bottle",
+		"name": "Bavaria Radler Citroen 2.0%",
+		"date": "2017-05-01T20:11:59.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Bavaria Brouwerij",
-			"size": "macro brewery",
-			"location": "Lieshout, Noord-Brabant Netherlands"
+			"name": "Royal Swinkels Family Brewers",
+			"country": "Netherlands",
+			"city": "Lieshout",
+			"state": "Noord-Brabant"
 		},
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 0,
 		"abv": 2,
-		"ibu": null,
-		"flavor": ["lemony", "fruity", "light", "sweet"],
-		"style": "shandy",
+		"flavor": [
+			"lemony",
+			"fruity",
+			"light",
+			"sweet"
+		],
+		"type": "Shandy / Radler",
 		"rating": 4
 	},
 	{
-		"name": "Radler Lemon",
-		"date": "2017-05-02",
-		"serving": "bottle",
+		"name": "Bavaria Radler Citroen 2.0%",
+		"date": "2017-05-02T18:49:57.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Bavaria Brouwerij",
-			"size": "macro brewery",
-			"location": "Lieshout, Noord-Brabant Netherlands"
+			"name": "Royal Swinkels Family Brewers",
+			"country": "Netherlands",
+			"city": "Lieshout",
+			"state": "Noord-Brabant"
 		},
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 0,
 		"abv": 2,
-		"ibu": null,
-		"flavor": ["lemony", "fruity", "light", "sweet"],
-		"style": "shandy",
+		"flavor": [
+			""
+		],
+		"type": "Shandy / Radler",
 		"rating": 4
 	},
 	{
 		"name": "Heineken",
-		"date": "2017-05-03",
-		"serving": "draft",
+		"date": "2017-05-03T16:10:48.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Heineken",
-			"size": "macro brewery",
-			"location": "Zoeterwoude, Netherlands"
+			"country": "Netherlands",
+			"city": "Zoeterwoude",
+			"state": "Zuid-Holland"
 		},
-		"abv": 5,
+		"venue": {
+			"name": "Docler Holding Amsterdam",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3651,
+			"lng": 4.90602
+		},
 		"ibu": 19,
-		"flavor": ["clean", "light"],
-		"style": "lager",
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light"
+		],
+		"type": "Lager - Euro Pale",
 		"rating": 3
 	},
 	{
 		"name": "Heineken",
-		"date": "2017-05-03",
-		"serving": "draft",
+		"date": "2017-05-03T17:49:51.000Z",
+		"serving": "",
 		"brewery": {
 			"name": "Heineken",
-			"size": "macro brewery",
-			"location": "Zoeterwoude, Netherlands"
+			"country": "Netherlands",
+			"city": "Zoeterwoude",
+			"state": "Zuid-Holland"
 		},
-		"abv": 5,
+		"venue": {
+			"name": "Docler Holding Amsterdam",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3651,
+			"lng": 4.90602
+		},
 		"ibu": 19,
-		"flavor": ["clean", "light"],
-		"style": "lager",
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
 		"rating": 3
 	},
 	{
 		"name": "Jet Black Heart",
-		"date": "2017-05-13",
-		"serving": "draft",
+		"date": "2017-05-13T14:40:24.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "BrewDog",
-			"size": "micro brewery",
-			"location": "Ellon, Aberdeenshire Scotland"
+			"country": "Scotland",
+			"city": "Ellon",
+			"state": "Aberdeenshire"
 		},
-		"abv": 4.7,
+		"venue": {
+			"name": "Kaapse Brouwers",
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9018,
+			"lng": 4.48514
+		},
 		"ibu": 30,
-		"flavor": ["milk", "smooth", "coffee"],
-		"style": "milk stout",
+		"abv": 4.7,
+		"flavor": [
+			"milk",
+			"smooth",
+			"coffee"
+		],
+		"type": "Stout - Milk / Sweet",
 		"rating": 4.5
 	},
 	{
 		"name": "Jupiler",
-		"date": "2017-05-13",
-		"serving": "draft",
+		"date": "2017-05-13T16:05:34.000Z",
+		"serving": "Draft",
 		"brewery": {
-			"name": "Brasserie Piedboeuf",
-			"size": "macro brewery",
-			"location": "Jupille, Liège Belgium"
+			"name": "Brasserie Jupiler",
+			"country": "Belgium",
+			"city": "Jupille-sur-Meuse",
+			"state": "Wallonie"
 		},
-		"abv": 5.2,
+		"venue": {
+			"name": "Lasergame Rotterdam",
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9055,
+			"lng": 4.46553
+		},
 		"ibu": 25,
-		"flavor": ["light", "smooth"],
-		"style": "pale lager",
+		"abv": 5.2,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
 		"rating": 3
 	},
 	{
 		"name": "Grolsch Premium Lager",
-		"date": "2017-05-13",
-		"serving": "draft",
+		"date": "2017-05-13T19:49:42.000Z",
+		"serving": "",
 		"brewery": {
 			"name": "Koninklijke Grolsch",
-			"size": "macro brewery",
-			"location": "Enschede, Overijssel Netherlands"
+			"country": "Netherlands",
+			"city": "Enschede",
+			"state": "Overijssel"
 		},
+		"venue": {
+			"name": "Engels",
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9231,
+			"lng": 4.46982
+		},
+		"ibu": 28,
 		"abv": 5,
-		"ibu": null,
-		"flavor": ["light", "clean", "smooth"],
-		"style": "pilsner",
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
 		"rating": 3
 	},
 	{
 		"name": "Kasteel Rouge",
-		"date": "2017-05-13",
-		"serving": "draft",
+		"date": "2017-05-13T21:24:16.000Z",
+		"serving": "Draft",
 		"brewery": {
-			"name": "Brouwerij Van Honsebrouck",
-			"size": "macro brewery",
-			"location": "Ingelmunster, West-Vlaanderen Belgium",
-			"website": "http://vanhonsebrouck.be/"
+			"name": "Kasteel Brouwerij Vanhonsebrouck",
+			"country": "Belgium",
+			"city": "Izegem",
+			"state": "Vlaanderen"
 		},
+		"venue": {
+			"name": "Belgisch Biercafé Boudewijn",
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9165,
+			"lng": 4.47021
+		},
+		"ibu": 0,
 		"abv": 8,
-		"ibu": 8,
-		"flavor": ["fruity", "sweet", "sour"],
-		"style": "fruit beer",
+		"flavor": [
+			"fruity",
+			"sweet",
+			"sour"
+		],
+		"type": "Fruit Beer",
 		"rating": 4
 	},
 	{
-		"name": "St. Louis Kriek",
-		"date": "2017-05-13",
-		"serving": "bottle",
+		"name": "St-Louis Kriek Lambic",
+		"date": "2017-05-13T21:57:12.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Brouwerij Van Honsebrouck",
-			"size": "macro brewery",
-			"location": "Ingelmunster, West-Vlaanderen Belgium",
-			"website": "http://vanhonsebrouck.be/"
+			"name": "Kasteel Brouwerij Vanhonsebrouck",
+			"country": "Belgium",
+			"city": "Izegem",
+			"state": "Vlaanderen"
 		},
+		"venue": {
+			"name": "Belgisch Biercafé Boudewijn",
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9165,
+			"lng": 4.47021
+		},
+		"ibu": 0,
 		"abv": 4,
-		"ibu": null,
-		"flavor": ["fruity", "sweet", "sour"],
-		"style": "kriek lambic",
+		"flavor": [
+			""
+		],
+		"type": "Lambic - Kriek",
 		"rating": 4
 	},
 	{
 		"name": "Fruitesse",
-		"date": "2017-05-14",
-		"serving": "bottle",
+		"date": "2017-05-13T22:34:35.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij Liefmans",
-			"size": "macro brewery",
-			"location": "Oudenaarde, Oost-Vlaanderen Belgium",
-			"website": "http://liefmans.be"
+			"country": "Belgium",
+			"city": "Oudenaarde",
+			"state": "Vlaanderen"
 		},
+		"venue": {
+			"name": "Belgisch Biercafé Boudewijn",
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9165,
+			"lng": 4.47021
+		},
+		"ibu": 10,
 		"abv": 3.8,
-		"ibu": null,
-		"flavor": ["fruity", "light", "sour", "sweet"],
-		"style": "fruit beer",
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"sour"
+		],
+		"type": "Fruit Beer",
 		"rating": 3.5
 	},
 	{
 		"name": "Kriek Brut",
-		"date": "2017-05-14",
-		"serving": "bottle",
+		"date": "2017-05-13T23:39:14.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij Liefmans",
-			"size": "macro brewery",
-			"location": "Oudenaarde, Oost-Vlaanderen Belgium",
-			"website": "http://liefmans.be"
+			"country": "Belgium",
+			"city": "Oudenaarde",
+			"state": "Vlaanderen"
 		},
-		"abv": 6,
-		"ibu": null,
-		"flavor": ["sour", "sweet"],
-		"style": "fruit beer",
-		"rating": 3
-	},
-	{
-		"name": "Kriek Brut",
-		"date": "2017-05-14",
-		"serving": "bottle",
-		"brewery": {
-			"name": "Brouwerij Liefmans",
-			"size": "macro brewery",
-			"location": "Oudenaarde, Oost-Vlaanderen Belgium",
-			"website": "http://liefmans.be"
+		"venue": {
+			"name": "Belgisch Biercafé Boudewijn",
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9165,
+			"lng": 4.47021
 		},
+		"ibu": 0,
 		"abv": 6,
-		"ibu": null,
-		"flavor": ["sour", "sweet"],
-		"style": "fruit beer",
+		"flavor": [
+			"sweet",
+			"sour"
+		],
+		"type": "Fruit Beer",
 		"rating": 3
 	},
 	{
 		"name": "Heineken",
-		"date": "2017-05-17",
-		"serving": "draft",
+		"date": "2017-05-17T16:40:31.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Heineken",
-			"size": "macro brewery",
-			"location": "Zoeterwoude, Zuid Holland Netherlands",
-			"website": "http://heineken.nl"
+			"country": "Netherlands",
+			"city": "Zoeterwoude",
+			"state": "Zuid-Holland"
 		},
+		"venue": {
+			"name": "Docler Holding Amsterdam",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3651,
+			"lng": 4.90602
+		},
+		"ibu": 19,
 		"abv": 5,
-		"ibu": null,
-		"flavor": ["clean", "light", "smooth"],
-		"style": "lager",
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
 		"rating": 3
 	},
 	{
 		"name": "Heineken",
-		"date": "2017-05-17",
-		"serving": "draft",
+		"date": "2017-05-17T17:36:12.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Heineken",
-			"size": "macro brewery",
-			"location": "Zoeterwoude, Zuid Holland Netherlands",
-			"website": "http://heineken.nl"
+			"country": "Netherlands",
+			"city": "Zoeterwoude",
+			"state": "Zuid-Holland"
 		},
+		"venue": {
+			"name": "Docler Holding Amsterdam",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3651,
+			"lng": 4.90602
+		},
+		"ibu": 19,
 		"abv": 5,
-		"ibu": null,
-		"flavor": ["clean", "light", "smooth"],
-		"style": "lager",
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
 		"rating": 3
 	},
 	{
 		"name": "Dubbelbock",
-		"date": "2017-05-17",
-		"serving": "draft",
+		"date": "2017-05-17T17:49:09.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Koninklijke Brand Bierbrouwerij",
-			"size": "macro brewery",
-			"location": "Wijlre, Limburg Netherlands",
-			"website": "http://brand.nl"
+			"country": "Netherlands",
+			"city": "Wijlre",
+			"state": "Limburg"
 		},
-		"abv": 7.5,
+		"venue": {
+			"name": "Docler Holding Amsterdam",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3651,
+			"lng": 4.90602
+		},
 		"ibu": 27,
-		"flavor": ["sweet", "dark"],
-		"style": "doppelbock",
+		"abv": 7.5,
+		"flavor": [
+			"sweet",
+			"dark"
+		],
+		"type": "Bock - Doppelbock",
 		"rating": 2.5
 	},
 	{
 		"name": "Meggyes Favágó",
-		"date": "2017-05-24",
-		"serving": "bottle",
+		"date": "2017-05-24T17:17:11.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Szarvasi Kézműves Sörfőzde",
-			"size": "micro brewery",
-			"location": "Szarvas, Hungary",
-			"website": "http://szarvasisor.hu"
+			"name": "Szarvasi Kézműves Sörfőzde ",
+			"country": "Hungary",
+			"city": "Szarvas",
+			"state": ""
 		},
+		"venue": {
+			"name": "Local Korner",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.5092,
+			"lng": 19.0619
+		},
+		"ibu": 0,
 		"abv": 5,
-		"ibu": null,
-		"flavor": ["sweet", "fruity", "cherry", "sour"],
-		"style": "fruit beer",
+		"flavor": [
+			"fruity",
+			"sweet",
+			"sour",
+			"cherry"
+		],
+		"type": "Fruit Beer",
 		"rating": 3.5
 	},
 	{
 		"name": "Dupla Köleses Sör",
-		"date": "2017-05-24",
-		"serving": "bottle",
+		"date": "2017-05-24T18:23:16.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Bandusz",
-			"size": "micro brewery",
-			"location": "Hungary",
-			"website": "http://bandusz.hu"
+			"name": "Bandusz (Köleses Sör)",
+			"country": "Hungary",
+			"city": "",
+			"state": ""
 		},
+		"venue": {
+			"name": "Figaró Kávézó Terasz",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.5128,
+			"lng": 19.0545
+		},
+		"ibu": 0,
 		"abv": 5,
-		"ibu": null,
-		"flavor": ["light", "creamy", "sweet", "dark"],
-		"style": "specialty grain",
+		"flavor": [
+			"light",
+			"creamy",
+			"sweet",
+			"dark"
+		],
+		"type": "Specialty Grain",
 		"rating": 4
 	},
 	{
 		"name": "Fóti Zwickl",
-		"date": "2017-05-25",
-		"serving": "bottle",
+		"date": "2017-05-25T20:49:02.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Fóti Kézműves Sörfőzde",
-			"size": "micro brewery",
-			"location": "Fót, Hungary",
-			"website": "http://fotisorfozde.hu"
+			"country": "Hungary",
+			"city": "Fót",
+			"state": "Közép-Magyarország"
 		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
 		"abv": 4.5,
-		"ibu": null,
-		"flavor": ["light", "smooth", "malty", "yeasty"],
-		"style": "kellerbier",
+		"flavor": [
+			"malty",
+			"yeasty",
+			"light",
+			"smooth"
+		],
+		"type": "Kellerbier / Zwickelbier",
 		"rating": 4
 	},
 	{
 		"name": "Geisha",
-		"date": "2017-05-25",
-		"serving": "bottle",
+		"date": "2017-05-25T20:50:28.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Fóti Kézműves Sörfőzde",
-			"size": "micro brewery",
-			"location": "Fót, Hungary",
-			"website": "http://fotisorfozde.hu"
+			"country": "Hungary",
+			"city": "Fót",
+			"state": "Közép-Magyarország"
 		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
 		"abv": 4.5,
-		"ibu": null,
-		"flavor": ["light", "watery", "tea"],
-		"style": "herbed beer",
+		"flavor": [
+			"light",
+			"watery",
+			"tea"
+		],
+		"type": "Spiced / Herbed Beer",
 		"rating": 4.5
 	},
 	{
 		"name": "Almás Favágó",
-		"date": "2017-05-25",
-		"serving": "bottle",
+		"date": "2017-05-25T21:18:00.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Szarvasi Kézműves Sörfőzde",
-			"size": "micro brewery",
-			"location": "Szarvas, Hungary",
-			"website": "http://szarvasisor.hu"
+			"name": "Szarvasi Kézműves Sörfőzde ",
+			"country": "Hungary",
+			"city": "Szarvas",
+			"state": ""
 		},
-		"abv": 4.0,
-		"ibu": null,
-		"flavor": ["fruity", "sweet", "apple"],
-		"style": "fruit beer",
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 4,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"apple"
+		],
+		"type": "Fruit Beer",
 		"rating": 3
 	},
 	{
 		"name": "Chicago",
-		"date": "2017-05-26",
-		"serving": "bottle",
+		"date": "2017-05-25T22:27:24.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Bigfoot Sörfőzde",
-			"size": "micro brewery",
-			"location": "Domony, Hungary",
-			"website": "http://bigfootsorfozde.hu"
+			"country": "Hungary",
+			"city": "Domony",
+			"state": "Közép-Magyarország"
 		},
-		"abv": 6.0,
-		"ibu": null,
-		"flavor": ["malty", "full", "dry"],
-		"style": "pale ale",
-		"rating": 3
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 6,
+		"flavor": [
+			"malty",
+			"full",
+			"dry"
+		],
+		"type": "Pale Ale - American",
+		"rating": 4
 	},
 	{
 		"name": "Amstel Radler",
-		"date": "2017-05-27",
-		"serving": "bottle",
+		"date": "2017-05-27T16:54:53.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Amster Bier",
-			"size": "macro brewery",
-			"location": "Zoeterwoude, Zuid Holland, Netherlands",
-			"website": "http://amstel.nl"
+			"name": "Amstel Bier",
+			"country": "Netherlands",
+			"city": "Zoeterwoude",
+			"state": "Zuid-Holland"
 		},
-		"abv": 2.0,
-		"ibu": null,
-		"flavor": ["lemony", "light", "sweet"],
-		"style": "shandy",
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 0,
+		"abv": 2,
+		"flavor": [
+			"lemony",
+			"light",
+			"sweet"
+		],
+		"type": "Shandy / Radler",
 		"rating": 4
 	},
 	{
 		"name": "Heineken",
-		"date": "2017-05-28",
-		"serving": "can",
+		"date": "2017-05-28T12:23:17.000Z",
+		"serving": "Can",
 		"brewery": {
 			"name": "Heineken",
-			"size": "macro brewery",
-			"location": "Zoeterwoude, Zuid Holland, Netherlands",
-			"website": "http://heineken.nl"
+			"country": "Netherlands",
+			"city": "Zoeterwoude",
+			"state": "Zuid-Holland"
 		},
-		"abv": 5.0,
-		"ibu": null,
-		"flavor": ["light", "smooth", "clean"],
-		"style": "lager",
-		"rating": 3.25
+		"venue": {
+			"name": "Parnassia Strandtent",
+			"country": "Nederland",
+			"city": "Bloemendaal",
+			"state": "Noord-Holland",
+			"lat": 52.4184,
+			"lng": 4.55403
+		},
+		"ibu": 19,
+		"abv": 5,
+		"flavor": [
+			""
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3.5
 	}
 ]

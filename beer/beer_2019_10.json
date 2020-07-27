@@ -1,0 +1,566 @@
+[
+	{
+		"name": "Session IPA",
+		"date": "2019-10-05T18:17:24.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Palm Belgian Craft Brewers",
+			"country": "Belgium",
+			"city": "Steenhuffel",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 3.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "IPA - Session / India Session Ale",
+		"rating": 3.75
+	},
+	{
+		"name": "Cold Gold",
+		"date": "2019-10-06T16:59:51.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Habesha Breweries",
+			"country": "Ethiopia",
+			"city": "Bole",
+			"state": "Oromia"
+		},
+		"venue": {
+			"name": "Lalibela",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.361,
+			"lng": 4.86545
+		},
+		"ibu": 0,
+		"abv": 4.8,
+		"flavor": [
+			"malty",
+			"clean",
+			"light"
+		],
+		"type": "Lager - Pale",
+		"rating": 4
+	},
+	{
+		"name": "Flying Rabbit",
+		"date": "2019-10-06T18:59:11.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "MONYO Brewing Co.",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 80,
+		"abv": 6.5,
+		"flavor": [
+			"malty",
+			"hoppy"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Ichiban (Ichiban Shibori) (一番搾り)",
+		"date": "2019-10-10T18:21:52.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Kirin Brewery Company",
+			"country": "Japan",
+			"city": "Nakano-ku",
+			"state": "Tokyo"
+		},
+		"venue": {
+			"name": "Ramen Brothers Noodle Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3842,
+			"lng": 4.6355
+		},
+		"ibu": 18,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.5
+	},
+	{
+		"name": "Ma Suwa",
+		"date": "2019-10-11T17:25:05.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "De Noord-Hollandse Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Uitgeest",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Abyssinia Afrikaans Eetcafe",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3605,
+			"lng": 4.86548
+		},
+		"ibu": 0,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet"
+		],
+		"type": "Lager - Pale",
+		"rating": 4.25
+	},
+	{
+		"name": "Holy Günter",
+		"date": "2019-10-11T20:22:59.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Two Chefs Brewing",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Café Zouk",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3638,
+			"lng": 4.8746
+		},
+		"ibu": 25,
+		"abv": 5.6,
+		"flavor": [
+			"light",
+			"sweet",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Lager - Helles",
+		"rating": 4
+	},
+	{
+		"name": "Erdinger Weißbier / Hefe-Weizen",
+		"date": "2019-10-18T16:15:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Erdinger Weissbräu",
+			"country": "Germany",
+			"city": "Erding",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Marmaris Grill & Pizza",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3881,
+			"lng": 4.83722
+		},
+		"ibu": 13,
+		"abv": 5.3,
+		"flavor": [
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.25
+	},
+	{
+		"name": "Efes Pilsen",
+		"date": "2019-10-19T18:41:26.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Anadolu Efes",
+			"country": "Turkey",
+			"city": "Istanbul",
+			"state": "Istanbul"
+		},
+		"venue": {
+			"name": "Tekinev",
+			"country": "Nederland",
+			"city": "Groningen",
+			"state": "Groningen",
+			"lat": 53.2175,
+			"lng": 6.5685
+		},
+		"ibu": 22,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "Krušovice Ležák Za Studena Chmelený",
+		"date": "2019-10-21T17:29:17.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Krušovice",
+			"country": "Czech Republic",
+			"city": "Krušovice",
+			"state": ""
+		},
+		"venue": {
+			"name": "MOST Kortárs Bisztró",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.5038,
+			"lng": 19.0572
+		},
+		"ibu": 0,
+		"abv": 4.8,
+		"flavor": [
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Lager - Pale",
+		"rating": 4
+	},
+	{
+		"name": "Staropramen Granát",
+		"date": "2019-10-22T16:39:14.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Pivovary Staropramen",
+			"country": "Czech Republic",
+			"city": "Prague",
+			"state": "Praha"
+		},
+		"venue": {
+			"name": "Tücsök Sörkert",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.5037,
+			"lng": 19.1026
+		},
+		"ibu": 26,
+		"abv": 4.8,
+		"flavor": [
+			"malty",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - Amber",
+		"rating": 4
+	},
+	{
+		"name": "Hoegaarden Wit / Blanche",
+		"date": "2019-10-22T17:20:25.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brouwerij Hoegaarden",
+			"country": "Belgium",
+			"city": "Hoegaarden",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Tücsök Sörkert",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.5037,
+			"lng": 19.1026
+		},
+		"ibu": 15,
+		"abv": 4.9,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.25
+	},
+	{
+		"name": "Borsodi",
+		"date": "2019-10-22T20:54:22.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Borsodi Sörgyár",
+			"country": "Hungary",
+			"city": "Bőcs",
+			"state": "Alföld és Észak"
+		},
+		"venue": {
+			"name": "Lámpás",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4977,
+			"lng": 19.0607
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"clean",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.5
+	},
+	{
+		"name": "Liquid Cocaine",
+		"date": "2019-10-22T21:51:42.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Mad Scientist",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": "Liquid Rock",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4952,
+			"lng": 19.0628
+		},
+		"ibu": 120,
+		"abv": 9,
+		"flavor": [
+			"strong",
+			"smooth",
+			"hoppy"
+		],
+		"type": "IPA - Imperial / Double",
+		"rating": 4.25
+	},
+	{
+		"name": "Soproni Klasszikus",
+		"date": "2019-10-25T19:19:50.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Soproni Sörgyár (Heineken Hungária)",
+			"country": "Hungary",
+			"city": "Sopron",
+			"state": "Dunántúl"
+		},
+		"venue": {
+			"name": "Klub Vittula",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4988,
+			"lng": 19.0693
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3
+	},
+	{
+		"name": "Soproni Óvatos Duhaj IPA",
+		"date": "2019-10-25T19:40:40.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Soproni Sörgyár (Heineken Hungária)",
+			"country": "Hungary",
+			"city": "Sopron",
+			"state": "Dunántúl"
+		},
+		"venue": {
+			"name": "Klub Vittula",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4988,
+			"lng": 19.0693
+		},
+		"ibu": 40,
+		"abv": 4.8,
+		"flavor": [
+			"light",
+			"hoppy",
+			"citrus"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Soproni Óvatos Duhaj IPA",
+		"date": "2019-10-25T20:16:34.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Soproni Sörgyár (Heineken Hungária)",
+			"country": "Hungary",
+			"city": "Sopron",
+			"state": "Dunántúl"
+		},
+		"venue": {
+			"name": "Klub Vittula",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4988,
+			"lng": 19.0693
+		},
+		"ibu": 40,
+		"abv": 4.8,
+		"flavor": [
+			"light",
+			"hoppy",
+			"citrus"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Fehér Nyúl IPA",
+		"date": "2019-10-26T16:27:22.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Fehér Nyúl",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": "Béla. bár, étterem, lakás, arborétum",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4803,
+			"lng": 19.0517
+		},
+		"ibu": 57,
+		"abv": 6.5,
+		"flavor": [
+			"fruity",
+			"clean",
+			"bitter"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Bipolar Bear",
+		"date": "2019-10-26T19:27:25.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "MONYO Brewing Co.",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 40,
+		"abv": 6.1,
+		"flavor": [
+			"banana",
+			"light",
+			"sour",
+			"hoppy"
+		],
+		"type": "IPA - White",
+		"rating": 4.5
+	},
+	{
+		"name": "Tokyo Lemonade",
+		"date": "2019-10-26T20:19:14.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Mad Scientist",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 12,
+		"abv": 4.2,
+		"flavor": [
+			"citrusy",
+			"lemony",
+			"citrus"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.5
+	},
+	{
+		"name": "Fehérlófia",
+		"date": "2019-10-28T18:50:51.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Stari Sör",
+			"country": "Hungary",
+			"city": "Tapolca",
+			"state": ""
+		},
+		"venue": {
+			"name": "Soul Food Budapest",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4983,
+			"lng": 19.0624
+		},
+		"ibu": 0,
+		"abv": 5.4,
+		"flavor": [
+			"fruity",
+			"light"
+		],
+		"type": "Hefeweizen",
+		"rating": 3.25
+	}
+]

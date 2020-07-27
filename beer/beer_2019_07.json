@@ -1,0 +1,311 @@
+[
+	{
+		"name": "Wieckse Witte",
+		"date": "2019-07-07T13:16:25.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Wieckse",
+			"country": "Netherlands",
+			"city": "Maastricht",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Monte Verde",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3547,
+			"lng": 4.88716
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 3
+	},
+	{
+		"name": "Biri",
+		"date": "2019-07-09T18:35:04.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 4.7,
+		"flavor": [
+			"tropical",
+			"light"
+		],
+		"type": "Lager - American",
+		"rating": 4
+	},
+	{
+		"name": "Anker",
+		"date": "2019-07-13T18:02:39.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Hoop",
+			"country": "Netherlands",
+			"city": "Zaandijk",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 12,
+		"abv": 3.4,
+		"flavor": [
+			"floral",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen Light / Leicht",
+		"rating": 4
+	},
+	{
+		"name": "Jever Pilsener",
+		"date": "2019-07-13T18:51:09.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Friesisches Brauhaus zu Jever",
+			"country": "Germany",
+			"city": "Jever",
+			"state": "Niedersachsen"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 33,
+		"abv": 4.9,
+		"flavor": [
+			"clean",
+			"light",
+			"dry",
+			"hoppy"
+		],
+		"type": "Pilsner - German",
+		"rating": 3.25
+	},
+	{
+		"name": "Kaapse Nelis",
+		"date": "2019-07-13T20:34:39.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Kaapse Brouwers",
+			"country": "Netherlands",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 20,
+		"abv": 4.6,
+		"flavor": [
+			"soft",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 4
+	},
+	{
+		"name": "Carrie",
+		"date": "2019-07-13T22:56:41.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Kaapse Brouwers",
+			"country": "Netherlands",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 39,
+		"abv": 6.5,
+		"flavor": [
+			"malty",
+			"sweet",
+			"strong",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - Red",
+		"rating": 3.75
+	},
+	{
+		"name": "Kaapse Nelis",
+		"date": "2019-07-17T18:07:03.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Kaapse Brouwers",
+			"country": "Netherlands",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 20,
+		"abv": 4.6,
+		"flavor": [
+			"soft",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 4
+	},
+	{
+		"name": "Amstel",
+		"date": "2019-07-20T18:32:08.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Amstel Bier",
+			"country": "Netherlands",
+			"city": "Zoeterwoude",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Het Wachtlokaal",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3875,
+			"lng": 4.63721
+		},
+		"ibu": 21,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3.25
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2019-07-21T12:18:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Casa Caracol",
+			"country": "Nederland",
+			"city": "Kaatsheuvel",
+			"state": "Noord-Brabant",
+			"lat": 51.6476,
+			"lng": 5.04911
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Jever Pilsener",
+		"date": "2019-07-23T23:11:11.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Friesisches Brauhaus zu Jever",
+			"country": "Germany",
+			"city": "Jever",
+			"state": "Niedersachsen"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 33,
+		"abv": 4.9,
+		"flavor": [
+			"clean",
+			"light",
+			"hoppy"
+		],
+		"type": "Pilsner - German",
+		"rating": 3.25
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2019-07-24T17:25:41.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	}
+]

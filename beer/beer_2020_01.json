@@ -1,0 +1,141 @@
+[
+	{
+		"name": "Corona Extra",
+		"date": "2020-01-03T21:32:55.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Grand Prestige (2019)",
+		"date": "2020-01-12T00:07:22.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Hertog Jan",
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 25,
+		"abv": 10,
+		"flavor": [
+			"caramelly",
+			"dark",
+			"Brown Sugar"
+		],
+		"type": "Barleywine - Other",
+		"rating": 3.5
+	},
+	{
+		"name": "Green Bullet IPA",
+		"date": "2020-01-21T21:09:38.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Two Chefs Brewing",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "nNea Pizza",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3694,
+			"lng": 4.8704
+		},
+		"ibu": 40,
+		"abv": 5.7,
+		"flavor": [
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-01-29T20:32:37.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Asahi Super Dry",
+		"date": "2020-01-31T18:44:18.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Asahi Breweries",
+			"country": "Japan",
+			"city": "Sumida-ku",
+			"state": "Tokyo"
+		},
+		"venue": {
+			"name": "Izumi Sushi & Grill",
+			"country": "Nederland",
+			"city": "Zantvoort",
+			"state": "",
+			"lat": 52.365,
+			"lng": 4.55615
+		},
+		"ibu": 20,
+		"abv": 5.2,
+		"flavor": [
+			"clean",
+			"light",
+			"dry"
+		],
+		"type": "Lager - Japanese Rice",
+		"rating": 4
+	}
+]

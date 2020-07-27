@@ -1,0 +1,644 @@
+[
+	{
+		"name": "Popstar",
+		"date": "2019-11-01T17:32:26.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Mad Scientist",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": "Gázfröccs",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.6808,
+			"lng": 16.5854
+		},
+		"ibu": 0,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"hoppy"
+		],
+		"type": "Gluten-Free",
+		"rating": 4
+	},
+	{
+		"name": "Dreher Pale Ale",
+		"date": "2019-11-01T19:04:49.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Dreher Sörgyárak",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": "Schmauser Étterem és Söröző",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.6845,
+			"lng": 16.576
+		},
+		"ibu": 20,
+		"abv": 4.8,
+		"flavor": [
+			"light",
+			"watery",
+			"bitter"
+		],
+		"type": "Pale Ale - International",
+		"rating": 3.5
+	},
+	{
+		"name": "Soproni Klasszikus",
+		"date": "2019-11-02T20:57:45.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Soproni Sörgyár (Heineken Hungária)",
+			"country": "Hungary",
+			"city": "Sopron",
+			"state": "Dunántúl"
+		},
+		"venue": {
+			"name": "Gázfröccs",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.6808,
+			"lng": 16.5854
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3
+	},
+	{
+		"name": "Old Foghorn",
+		"date": "2019-11-08T19:52:31.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Anchor Brewing Company",
+			"country": "United States",
+			"city": "San Francisco",
+			"state": "CA"
+		},
+		"venue": {
+			"name": "BeerTemple",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.372,
+			"lng": 4.89032
+		},
+		"ibu": 52,
+		"abv": 8.2,
+		"flavor": [
+			"malty",
+			"sweet",
+			"strong"
+		],
+		"type": "Barleywine - American",
+		"rating": null
+	},
+	{
+		"name": "Torches",
+		"date": "2019-11-08T20:36:21.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Fonta Flora Brewery",
+			"country": "United States",
+			"city": "Morganton",
+			"state": "NC"
+		},
+		"venue": {
+			"name": "BeerTemple",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.372,
+			"lng": 4.89032
+		},
+		"ibu": 0,
+		"abv": 6.2,
+		"flavor": [
+			"herbal",
+			"floral",
+			"tart"
+		],
+		"type": "Farmhouse Ale - Saison",
+		"rating": 3.5
+	},
+	{
+		"name": "Evil Twin",
+		"date": "2019-11-08T21:19:19.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Heretic Brewing Company",
+			"country": "United States",
+			"city": "Fairfield",
+			"state": "CA"
+		},
+		"venue": {
+			"name": "BeerTemple",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.372,
+			"lng": 4.89032
+		},
+		"ibu": 45,
+		"abv": 6.8,
+		"flavor": [
+			"malty",
+			"smooth",
+			"hoppy",
+			"dark"
+		],
+		"type": "IPA - Red",
+		"rating": 3.5
+	},
+	{
+		"name": "2Can",
+		"date": "2019-11-08T22:01:43.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Novo Brazil Brewing",
+			"country": "United States",
+			"city": "Chula Vista",
+			"state": "CA"
+		},
+		"venue": {
+			"name": "BeerTemple",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.372,
+			"lng": 4.89032
+		},
+		"ibu": 45,
+		"abv": 6.9,
+		"flavor": [
+			"floral",
+			"citrus",
+			"bitter"
+		],
+		"type": "IPA - American",
+		"rating": 3.75
+	},
+	{
+		"name": "Sidra Bravo (Bravo Basque)",
+		"date": "2019-11-08T22:56:13.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Reverend Nat's Hard Cider",
+			"country": "United States",
+			"city": "Portland",
+			"state": "OR"
+		},
+		"venue": {
+			"name": "BeerTemple",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.372,
+			"lng": 4.89032
+		},
+		"ibu": 0,
+		"abv": 4.6,
+		"flavor": [
+			"dry",
+			"tart",
+			"apple",
+			"funky"
+		],
+		"type": "Cider - Traditional",
+		"rating": 4
+	},
+	{
+		"name": "Birra Moretti L'Autentica",
+		"date": "2019-11-09T21:05:59.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Birra Moretti",
+			"country": "Italy",
+			"city": "Udine",
+			"state": "Friuli Venezia Giulia"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 12,
+		"abv": 4.6,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Glüh Weizen",
+		"date": "2019-11-16T19:16:09.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Gebrouwen Door Vrouwen",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 6.5,
+		"flavor": [
+			"sweet",
+			"smooth",
+			"cinnamon"
+		],
+		"type": "Spiced / Herbed Beer",
+		"rating": 4
+	},
+	{
+		"name": "Noorderwiend",
+		"date": "2019-11-16T19:29:47.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Texelse Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Oudeschild",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 7.5,
+		"flavor": [
+			"malty",
+			"fruity",
+			"sweet",
+			"warm"
+		],
+		"type": "Winter Ale",
+		"rating": 3.75
+	},
+	{
+		"name": "Lowlander Winter I.P.A.",
+		"date": "2019-11-16T20:25:45.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Lowlander Beer",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 35,
+		"abv": 5,
+		"flavor": [
+			"bitter",
+			"crisp"
+		],
+		"type": "IPA - White",
+		"rating": 4
+	},
+	{
+		"name": "Pilsener",
+		"date": "2019-11-19T19:14:55.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Hertog Jan",
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Hoofddorpplein",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3512,
+			"lng": 4.84968
+		},
+		"ibu": 21,
+		"abv": 5.1,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "IJndejaars (2019)",
+		"date": "2019-11-23T17:37:48.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 9,
+		"flavor": [
+			"herbal",
+			"aromatic",
+			"soft"
+		],
+		"type": "Winter Ale",
+		"rating": 4
+	},
+	{
+		"name": "Pilsener",
+		"date": "2019-11-23T21:29:54.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Koninklijke Brand Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Wijlre",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 27,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3
+	},
+	{
+		"name": "Simon Pils",
+		"date": "2019-11-26T20:16:53.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brasserie Simon",
+			"country": "Luxembourg",
+			"city": "Wiltz",
+			"state": "Wiltz"
+		},
+		"venue": {
+			"name": "Independent",
+			"country": "Lëtzebuerg",
+			"city": "Lëtzebuerg",
+			"state": "Lëtzebuerg",
+			"lat": 49.6083,
+			"lng": 6.13216
+		},
+		"ibu": 0,
+		"abv": 4.8,
+		"flavor": [
+			"light",
+			"flat",
+			"bitter"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "Okult N°1 Blanche",
+		"date": "2019-11-26T21:04:32.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brasserie Simon",
+			"country": "Luxembourg",
+			"city": "Wiltz",
+			"state": "Wiltz"
+		},
+		"venue": {
+			"name": "Independent",
+			"country": "Lëtzebuerg",
+			"city": "Lëtzebuerg",
+			"state": "Lëtzebuerg",
+			"lat": 49.6083,
+			"lng": 6.13216
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"floral",
+			"fruity",
+			"light"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.25
+	},
+	{
+		"name": "Hitachino Nest Non Ale",
+		"date": "2019-11-27T11:10:41.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Kiuchi Brewery",
+			"country": "Japan",
+			"city": "Naka-shi",
+			"state": "Ibaraki"
+		},
+		"venue": {
+			"name": "Raku-An",
+			"country": "Lëtzebuerg",
+			"city": "Lëtzebuerg",
+			"state": "Lëtzebuerg",
+			"lat": 49.6317,
+			"lng": 6.17135
+		},
+		"ibu": 0,
+		"abv": 0.3,
+		"flavor": [
+			"malty",
+			"light"
+		],
+		"type": "Non-Alcoholic Beer",
+		"rating": 3.25
+	},
+	{
+		"name": "Budweiser",
+		"date": "2019-11-30T11:53:59.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Anheuser-Busch",
+			"country": "United States",
+			"city": "St. Louis",
+			"state": "MO"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 12,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4
+	},
+	{
+		"name": "Session IPA",
+		"date": "2019-11-30T14:08:19.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Koninklijke Brand Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Wijlre",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 35,
+		"abv": 3.5,
+		"flavor": [
+			"fruity",
+			"hoppy",
+			"Passion Fruit"
+		],
+		"type": "IPA - Session / India Session Ale",
+		"rating": 4
+	},
+	{
+		"name": "Weizener",
+		"date": "2019-11-30T18:23:29.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Hertog Jan",
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Monsieur Rouge",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3799,
+			"lng": 4.6389
+		},
+		"ibu": 16,
+		"abv": 5.7,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.25
+	},
+	{
+		"name": "Hoegaarden Wit / Blanche",
+		"date": "2019-11-30T20:12:43.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Hoegaarden",
+			"country": "Belgium",
+			"city": "Hoegaarden",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Monsieur Rouge",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3799,
+			"lng": 4.6389
+		},
+		"ibu": 15,
+		"abv": 4.9,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.25
+	},
+	{
+		"name": "Mooie Nel IPA / Northsea IPA",
+		"date": "2019-11-30T21:29:55.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Table 24",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3808,
+			"lng": 4.63793
+		},
+		"ibu": 70,
+		"abv": 6.5,
+		"flavor": [
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - American",
+		"rating": 3.75
+	}
+]

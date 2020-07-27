@@ -1,0 +1,477 @@
+[
+	{
+		"name": "Levensgenieter",
+		"date": "2020-06-01T18:33:59.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "KOMPAAN Dutch Craft Beer Company",
+			"country": "Netherlands",
+			"city": "Den Haag",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 20,
+		"abv": 4.5,
+		"flavor": [
+			"citrusy",
+			"smooth",
+			"hoppy"
+		],
+		"type": "IPA - New England",
+		"rating": 3.5
+	},
+	{
+		"name": "Franziskaner Premium Weissbier Naturtrüb",
+		"date": "2020-06-02T21:20:38.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 12,
+		"abv": 5,
+		"flavor": [
+			"banana",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.5
+	},
+	{
+		"name": "Let There Be Light",
+		"date": "2020-06-06T18:15:18.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Aalsmeerweg",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3501,
+			"lng": 4.84936
+		},
+		"ibu": 40,
+		"abv": 3.3,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "IPA - Session / India Session Ale",
+		"rating": 4
+	},
+	{
+		"name": "B5 IPA",
+		"date": "2020-06-06T20:13:44.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Berging Brouwerij",
+			"country": "Netherlands",
+			"city": "Purmerend",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Aalsmeerweg",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3501,
+			"lng": 4.84936
+		},
+		"ibu": 50,
+		"abv": 5.5,
+		"flavor": [
+			"citrus",
+			"bitter"
+		],
+		"type": "IPA - International",
+		"rating": 4
+	},
+	{
+		"name": "B5 IPA",
+		"date": "2020-06-07T01:14:45.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Berging Brouwerij",
+			"country": "Netherlands",
+			"city": "Purmerend",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Aalsmeerweg",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3501,
+			"lng": 4.84936
+		},
+		"ibu": 50,
+		"abv": 5.5,
+		"flavor": [
+			"hoppy",
+			"citrus",
+			"bitter"
+		],
+		"type": "IPA - International",
+		"rating": 4
+	},
+	{
+		"name": "Paulaner Hefe-Weißbier / Hefe-Weizen / Weissbier",
+		"date": "2020-06-08T19:13:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Paulaner Brauerei",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 16,
+		"abv": 5.5,
+		"flavor": [
+			"banana",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.25
+	},
+	{
+		"name": "Franziskaner Premium Weissbier Naturtrüb",
+		"date": "2020-06-13T20:00:59.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 12,
+		"abv": 5,
+		"flavor": [
+			"banana",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.5
+	},
+	{
+		"name": "Zatte",
+		"date": "2020-06-14T20:54:32.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 19,
+		"abv": 8,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Tripel",
+		"rating": 3.75
+	},
+	{
+		"name": "Affligem Belgisch Wit",
+		"date": "2020-06-18T18:03:40.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Affligem Brouwerij",
+			"country": "Belgium",
+			"city": "Opwijk",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Strand Zandvoort aan Zee",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3755,
+			"lng": 4.52577
+		},
+		"ibu": 0,
+		"abv": 4.8,
+		"flavor": [
+			"citrusy",
+			"sweet",
+			"watery"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4
+	},
+	{
+		"name": "Hoegaarden Wit / Blanche",
+		"date": "2020-06-18T18:25:45.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Hoegaarden",
+			"country": "Belgium",
+			"city": "Hoegaarden",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Strand Zandvoort aan Zee",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3755,
+			"lng": 4.52577
+		},
+		"ibu": 15,
+		"abv": 4.9,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.25
+	},
+	{
+		"name": "Springtij",
+		"date": "2020-06-18T20:02:27.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Texelse Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Oudeschild",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 25,
+		"abv": 7.5,
+		"flavor": [
+			"spring",
+			"soft",
+			"sweet"
+		],
+		"type": "Bock - Hell / Maibock / Lentebock",
+		"rating": 3.25
+	},
+	{
+		"name": "Weizener",
+		"date": "2020-06-19T20:44:15.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Hertog Jan",
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Untappd at Home",
+			"country": "United States",
+			"city": "",
+			"state": "Everywhere",
+			"lat": 34.2347,
+			"lng": -77.9482
+		},
+		"ibu": 16,
+		"abv": 5.7,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.25
+	},
+	{
+		"name": "Peroni Nastro Azzurro",
+		"date": "2020-06-22T16:07:51.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Birra Peroni",
+			"country": "Italy",
+			"city": "Roma",
+			"state": "Lazio"
+		},
+		"venue": {
+			"name": "The Building Hotel",
+			"country": "Italia",
+			"city": "Roma",
+			"state": "MG",
+			"lat": 41.9076,
+			"lng": 12.5033
+		},
+		"ibu": 0,
+		"abv": 5.1,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Peroni Original",
+		"date": "2020-06-23T10:37:48.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Birra Peroni",
+			"country": "Italy",
+			"city": "Roma",
+			"state": "Lazio"
+		},
+		"venue": {
+			"name": "The Building Hotel",
+			"country": "Italia",
+			"city": "Roma",
+			"state": "MG",
+			"lat": 41.9076,
+			"lng": 12.5033
+		},
+		"ibu": 0,
+		"abv": 4.7,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 4
+	},
+	{
+		"name": "Ichnusa Non Filtrata",
+		"date": "2020-06-24T12:06:08.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Ichnusa",
+			"country": "Italy",
+			"city": "Assemini",
+			"state": "Sardegna"
+		},
+		"venue": {
+			"name": "The Building Hotel",
+			"country": "Italia",
+			"city": "Roma",
+			"state": "MG",
+			"lat": 41.9076,
+			"lng": 12.5033
+		},
+		"ibu": 11,
+		"abv": 5,
+		"flavor": [
+			"yeasty",
+			"clean",
+			"light"
+		],
+		"type": "Kellerbier / Zwickelbier",
+		"rating": 4
+	},
+	{
+		"name": "Hofbräu Münchner Weisse / Münchner Kindl / Hefe Weizen",
+		"date": "2020-06-28T16:18:49.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Staatliches Hofbräuhaus München",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Schmauser Étterem és Söröző",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.6845,
+			"lng": 16.576
+		},
+		"ibu": 14,
+		"abv": 5.1,
+		"flavor": [
+			"banana",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 3.75
+	},
+	{
+		"name": "Hofbräu Münchner Weisse / Münchner Kindl / Hefe Weizen",
+		"date": "2020-06-28T19:41:23.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Staatliches Hofbräuhaus München",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Schmauser Étterem és Söröző",
+			"country": "Magyarország",
+			"city": "Sopron",
+			"state": "Győr-Moson-Sopron megye",
+			"lat": 47.6845,
+			"lng": 16.576
+		},
+		"ibu": 14,
+		"abv": 5.1,
+		"flavor": [
+			"banana",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 3.75
+	}
+]

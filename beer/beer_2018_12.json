@@ -1,0 +1,866 @@
+[
+	{
+		"name": "A Little Sumpin' Sumpin' Ale",
+		"date": "2018-12-01T19:52:46.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Lagunitas Brewing Company",
+			"country": "United States",
+			"city": "Petaluma",
+			"state": "CA"
+		},
+		"venue": {
+			"name": "August Allebéplein",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3632,
+			"lng": 4.8372
+		},
+		"ibu": 64,
+		"abv": 7.5,
+		"flavor": [
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"type": "Wheat Beer - American Pale Wheat",
+		"rating": 4
+	},
+	{
+		"name": " Abdij / Abbaye de Crespin Blonde",
+		"date": "2018-12-01T21:49:36.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "ALDI France",
+			"country": "France",
+			"city": "",
+			"state": ""
+		},
+		"venue": {
+			"name": "August Allebéplein",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3632,
+			"lng": 4.8372
+		},
+		"ibu": 0,
+		"abv": 6.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweetness"
+		],
+		"type": "Blonde Ale",
+		"rating": 3.5
+	},
+	{
+		"name": "Zamkowe Export",
+		"date": "2018-12-02T22:15:24.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Browar Namysłów",
+			"country": "Poland",
+			"city": "Namysłów",
+			"state": "województwo opolskie"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 5.7,
+		"flavor": [
+			"malty",
+			"full",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Lowlander Winter I.P.A.",
+		"date": "2018-12-04T21:22:39.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Lowlander Beer",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 35,
+		"abv": 5,
+		"flavor": [
+			"juniper",
+			"light",
+			"bitter",
+			"crisp"
+		],
+		"type": "IPA - White",
+		"rating": 4
+	},
+	{
+		"name": "Chocolate Porter",
+		"date": "2018-12-05T21:42:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij Hoop",
+			"country": "Netherlands",
+			"city": "Zaandijk",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 30,
+		"abv": 6,
+		"flavor": [
+			"roasty",
+			"smoky",
+			"chocolate"
+		],
+		"type": "Porter - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "Karmi Classic",
+		"date": "2018-12-07T19:28:10.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Carlsberg Polska",
+			"country": "Poland",
+			"city": "Warsaw",
+			"state": "województwo mazowieckie"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 0.5,
+		"flavor": [
+			"toffee",
+			"sweet",
+			"dark",
+			"coffee"
+		],
+		"type": "Non-Alcoholic Beer",
+		"rating": 1
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2018-12-08T18:03:12.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "I.P.A.",
+		"date": "2018-12-10T19:48:25.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij De Prael",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 6.5,
+		"flavor": [
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - English",
+		"rating": null
+	},
+	{
+		"name": "Bitterblond",
+		"date": "2018-12-14T17:03:50.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij De Prael",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 5.7,
+		"flavor": [
+			"light",
+			"sweet",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Kölsch",
+		"rating": 4
+	},
+	{
+		"name": "Enkel",
+		"date": "2018-12-14T18:49:36.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Hertog Jan",
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 37,
+		"abv": 4.5,
+		"flavor": [
+			"citrusy",
+			"herbal",
+			"dry",
+			"bitter"
+		],
+		"type": "Blonde Ale",
+		"rating": 3.75
+	},
+	{
+		"name": "Hemelswater Code Blond",
+		"date": "2018-12-14T19:41:43.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij De Prael",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 5.7,
+		"flavor": [
+			"smooth",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Blonde Ale",
+		"rating": 3.75
+	},
+	{
+		"name": "Vedett Extra Ordinary IPA",
+		"date": "2018-12-16T18:25:51.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Duvel Moortgat",
+			"country": "Belgium",
+			"city": "Puurs",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Tramhalte Vennepluimstraat",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3574,
+			"lng": 4.99112
+		},
+		"ibu": 40,
+		"abv": 5.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "IPA - Belgian",
+		"rating": 4
+	},
+	{
+		"name": "Diekirch Grand Cru",
+		"date": "2018-12-20T16:11:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brasserie de Luxembourg Mousel-Diekirch",
+			"country": "Luxembourg",
+			"city": "Diekirch",
+			"state": ""
+		},
+		"venue": {
+			"name": "The Game",
+			"country": "Lëtzebuerg",
+			"city": "Lëtzebuerg",
+			"state": "Lëtzebuerg",
+			"lat": 49.6331,
+			"lng": 6.17229
+		},
+		"ibu": 0,
+		"abv": 5.1,
+		"flavor": [
+			"malty",
+			"sweet",
+			"smooth",
+			"dark"
+		],
+		"type": "Lager - Vienna",
+		"rating": 3.5
+	},
+	{
+		"name": "Leffe Triple / Tripel",
+		"date": "2018-12-20T21:02:44.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Abbaye de Leffe",
+			"country": "Belgium",
+			"city": "Leuven",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Come à la Maison",
+			"country": "Lëtzebuerg",
+			"city": "Lëtzebuerg",
+			"state": "Lëtzebuerg",
+			"lat": 49.6016,
+			"lng": 6.11948
+		},
+		"ibu": 15,
+		"abv": 8.5,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Tripel",
+		"rating": 4
+	},
+	{
+		"name": "Guinness Draught",
+		"date": "2018-12-21T19:13:19.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Guinness",
+			"country": "Ireland",
+			"city": "Saint James' Gate",
+			"state": "Leinster"
+		},
+		"venue": {
+			"name": "Finnstown Castle Hotel",
+			"country": "Ireland",
+			"city": "Lucan",
+			"state": "",
+			"lat": 53.3396,
+			"lng": -6.46089
+		},
+		"ibu": 45,
+		"abv": 4.2,
+		"flavor": [
+			"light",
+			"creamy",
+			"smooth",
+			"dark",
+			"coffee"
+		],
+		"type": "Stout - Irish Dry",
+		"rating": 4.5
+	},
+	{
+		"name": "Little Fawn",
+		"date": "2018-12-22T16:27:49.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "The White Hag Irish Brewing Company",
+			"country": "Ireland",
+			"city": "Ballymote",
+			"state": "Connacht"
+		},
+		"venue": {
+			"name": "Crowbar",
+			"country": "Ireland",
+			"city": "Dublin",
+			"state": "Dublin City",
+			"lat": 53.345,
+			"lng": -6.26429
+		},
+		"ibu": 13,
+		"abv": 4.2,
+		"flavor": [
+			"citrusy",
+			"fruity",
+			"light",
+			"hoppy",
+			"citrus"
+		],
+		"type": "IPA - Session / India Session Ale",
+		"rating": 4
+	},
+	{
+		"name": "Hop House 13 Lager (4.1%)",
+		"date": "2018-12-22T20:01:51.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Guinness",
+			"country": "Ireland",
+			"city": "Saint James' Gate",
+			"state": "Leinster"
+		},
+		"venue": {
+			"name": "Finnstown Castle Hotel",
+			"country": "Ireland",
+			"city": "Lucan",
+			"state": "",
+			"lat": 53.3396,
+			"lng": -6.46089
+		},
+		"ibu": 0,
+		"abv": 4.1,
+		"flavor": [
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Guinness Draught",
+		"date": "2018-12-24T15:03:25.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Guinness",
+			"country": "Ireland",
+			"city": "Saint James' Gate",
+			"state": "Leinster"
+		},
+		"venue": {
+			"name": "Kennedy's",
+			"country": "Ireland",
+			"city": "Dublin",
+			"state": "Dublin City",
+			"lat": 53.3421,
+			"lng": -6.25064
+		},
+		"ibu": 45,
+		"abv": 4.2,
+		"flavor": [
+			"light",
+			"creamy",
+			"smooth",
+			"dark"
+		],
+		"type": "Stout - Irish Dry",
+		"rating": 4.5
+	},
+	{
+		"name": "Smithwick's",
+		"date": "2018-12-25T19:35:40.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Guinness",
+			"country": "Ireland",
+			"city": "Saint James' Gate",
+			"state": "Leinster"
+		},
+		"venue": {
+			"name": "Finnstown Castle Hotel",
+			"country": "Ireland",
+			"city": "Lucan",
+			"state": "",
+			"lat": 53.3396,
+			"lng": -6.46089
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"malty",
+			"light",
+			"smooth",
+			"dark"
+		],
+		"type": "Red Ale - Irish",
+		"rating": 4
+	},
+	{
+		"name": "O'Hara's Irish Pale Ale",
+		"date": "2018-12-26T13:02:45.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "O'Hara's Brewery ",
+			"country": "Ireland",
+			"city": "Carlow",
+			"state": "Leinster"
+		},
+		"venue": {
+			"name": "Bóbó's Gourmet Irish Burgers",
+			"country": "Ireland",
+			"city": "Dublin",
+			"state": "Dublin City",
+			"lat": 53.3483,
+			"lng": -6.26046
+		},
+		"ibu": 45,
+		"abv": 5.2,
+		"flavor": [
+			"light",
+			"dry",
+			"smooth",
+			"hoppy"
+		],
+		"type": "IPA - International",
+		"rating": 4.5
+	},
+	{
+		"name": "Galway Hooker Irish Pale Ale",
+		"date": "2018-12-26T15:13:47.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Galway Hooker Brewery",
+			"country": "Ireland",
+			"city": "Oranmore",
+			"state": "Connacht"
+		},
+		"venue": {
+			"name": "Doheny & Nesbitt",
+			"country": "Ireland",
+			"city": "Dublin",
+			"state": "Dublin City",
+			"lat": 53.3381,
+			"lng": -6.25289
+		},
+		"ibu": 35,
+		"abv": 4.3,
+		"flavor": [
+			"malty",
+			"light",
+			"smooth",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Pale Ale - American",
+		"rating": 3.75
+	},
+	{
+		"name": "Guinness Draught",
+		"date": "2018-12-27T13:07:19.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Guinness",
+			"country": "Ireland",
+			"city": "Saint James' Gate",
+			"state": "Leinster"
+		},
+		"venue": {
+			"name": "The Lord Lucan",
+			"country": "Ireland",
+			"city": "Lucan",
+			"state": "",
+			"lat": 53.3414,
+			"lng": -6.45167
+		},
+		"ibu": 45,
+		"abv": 4.2,
+		"flavor": [
+			"light",
+			"creamy",
+			"smooth",
+			"dark"
+		],
+		"type": "Stout - Irish Dry",
+		"rating": 4.5
+	},
+	{
+		"name": "Francis' Big Bangin' IPA",
+		"date": "2018-12-27T21:20:42.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "McGargles",
+			"country": "Ireland",
+			"city": "Celbridge",
+			"state": "Leinster"
+		},
+		"venue": {
+			"name": "Finnstown Castle Hotel",
+			"country": "Ireland",
+			"city": "Lucan",
+			"state": "",
+			"lat": 53.3396,
+			"lng": -6.46089
+		},
+		"ibu": 70,
+		"abv": 7.1,
+		"flavor": [
+			"tropical",
+			"fruity",
+			"sweet",
+			"strong",
+			"hoppy"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Cute Hoor Irish Pale Ale",
+		"date": "2018-12-28T11:11:42.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Heineken Ireland",
+			"country": "Ireland",
+			"city": "Cork",
+			"state": "Munster"
+		},
+		"venue": {
+			"name": "The Garden Terrace",
+			"country": "Ireland",
+			"city": "Dublin",
+			"state": "Dublin City",
+			"lat": 53.428,
+			"lng": -6.24533
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"malty",
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"type": "Pale Ale - International",
+		"rating": 3
+	},
+	{
+		"name": "Wild Jo",
+		"date": "2018-12-28T18:56:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij De Koninck",
+			"country": "Belgium",
+			"city": "Antwerp",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 28,
+		"abv": 5.8,
+		"flavor": [
+			"light",
+			"sour",
+			"hoppy"
+		],
+		"type": "Belgian Blonde",
+		"rating": 2.5
+	},
+	{
+		"name": "¡Guava Libre!",
+		"date": "2018-12-30T21:03:34.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "The Bruery",
+			"country": "United States",
+			"city": "Placentia",
+			"state": "CA"
+		},
+		"venue": {
+			"name": "Bierlokaal de Uiver",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3821,
+			"lng": 4.63898
+		},
+		"ibu": 0,
+		"abv": 7.5,
+		"flavor": [
+			"fruity",
+			"creamy",
+			"sweet",
+			"vanilla",
+			"peachy"
+		],
+		"type": "Fruit Beer",
+		"rating": 4
+	},
+	{
+		"name": "Wild West Kriek-Framboos / Cherry-Raspberry",
+		"date": "2018-12-30T21:34:14.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brouwerij Alvinne",
+			"country": "Belgium",
+			"city": "Moen",
+			"state": "West-Vlaanderen"
+		},
+		"venue": {
+			"name": "Bierlokaal de Uiver",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3821,
+			"lng": 4.63898
+		},
+		"ibu": 0,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"sour",
+			"tart",
+			"raspberry"
+		],
+		"type": "Sour - Fruited",
+		"rating": 4
+	},
+	{
+		"name": "Boring Night In A Sexchat",
+		"date": "2018-12-30T22:31:39.000Z",
+		"serving": "Taster",
+		"brewery": {
+			"name": "White Pony Microbrewery",
+			"country": "Italy",
+			"city": "Piove di Sacco",
+			"state": "Veneto"
+		},
+		"venue": {
+			"name": "Bierlokaal de Uiver",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3821,
+			"lng": 4.63898
+		},
+		"ibu": 0,
+		"abv": 11.9,
+		"flavor": [
+			"full",
+			"heavy",
+			"strong"
+		],
+		"type": "Barleywine - English",
+		"rating": 4.75
+	},
+	{
+		"name": "Kerasus 2017",
+		"date": "2018-12-30T22:34:41.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brouwerij Alvinne",
+			"country": "Belgium",
+			"city": "Moen",
+			"state": "West-Vlaanderen"
+		},
+		"venue": {
+			"name": "Bierlokaal de Uiver",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3821,
+			"lng": 4.63898
+		},
+		"ibu": 10,
+		"abv": 6,
+		"flavor": [
+			"dry",
+			"sour",
+			"puckering",
+			"cherry"
+		],
+		"type": "Sour - Fruited",
+		"rating": 3.5
+	},
+	{
+		"name": "Frau Schulz",
+		"date": "2018-12-31T21:34:22.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "The Lions Head Brewery",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "The Lions Head Gastropub & Brewery",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3565,
+			"lng": 4.89974
+		},
+		"ibu": 0,
+		"abv": 0,
+		"flavor": [
+			"bread",
+			"watery"
+		],
+		"type": "Kölsch",
+		"rating": 3.5
+	}
+]

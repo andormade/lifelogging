@@ -1,0 +1,624 @@
+[
+	{
+		"name": "Brugse Zot Dubbel",
+		"date": "2019-05-04T18:06:27.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij De Halve Maan",
+			"country": "Belgium",
+			"city": "Bruges",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Toolenburg",
+			"country": "Nederland",
+			"city": "Hoofddorp",
+			"state": "Noord-Holland",
+			"lat": 52.3054,
+			"lng": 4.65788
+		},
+		"ibu": 27,
+		"abv": 7.5,
+		"flavor": [
+			"malty",
+			"sweet",
+			"strong",
+			"smooth",
+			"dark"
+		],
+		"type": "Belgian Dubbel",
+		"rating": 3.75
+	},
+	{
+		"name": "Mythos",
+		"date": "2019-05-04T19:27:08.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Olympic Brewery",
+			"country": "Greece",
+			"city": "Kifissia",
+			"state": "Αττική"
+		},
+		"venue": {
+			"name": "Toolenburg",
+			"country": "Nederland",
+			"city": "Hoofddorp",
+			"state": "Noord-Holland",
+			"lat": 52.3054,
+			"lng": 4.65788
+		},
+		"ibu": 17,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "WEDNESDAY Wheat Beer",
+		"date": "2019-05-04T21:46:27.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "AND UNION",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Toolenburg",
+			"country": "Nederland",
+			"city": "Hoofddorp",
+			"state": "Noord-Holland",
+			"lat": 52.3054,
+			"lng": 4.65788
+		},
+		"ibu": 20,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"banana",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 3.25
+	},
+	{
+		"name": "Polyamorie",
+		"date": "2019-05-07T18:13:31.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Oedipus Brewing",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 15,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"light",
+			"sour"
+		],
+		"type": "Sour - Fruited",
+		"rating": 4
+	},
+	{
+		"name": "Erdinger Weißbier / Hefe-Weizen",
+		"date": "2019-05-10T19:03:49.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Erdinger Weissbräu",
+			"country": "Germany",
+			"city": "Erding",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "InterCityHotel Berlin-Brandenburg Airport",
+			"country": "Deutschland",
+			"city": "Berlin-Schönefeld",
+			"state": "Brandenburg",
+			"lat": 52.3922,
+			"lng": 13.5185
+		},
+		"ibu": 13,
+		"abv": 5.3,
+		"flavor": [
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.25
+	},
+	{
+		"name": "Krombacher Pils",
+		"date": "2019-05-11T16:13:22.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Krombacher Gruppe",
+			"country": "Germany",
+			"city": "Kreuztal",
+			"state": "Nordrhein-Westfalen"
+		},
+		"venue": {
+			"name": "Vapiano",
+			"country": "Deutschland",
+			"city": "Berlin",
+			"state": "Berlin",
+			"lat": 52.5086,
+			"lng": 13.3903
+		},
+		"ibu": 24,
+		"abv": 4.8,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - German",
+		"rating": 3.75
+	},
+	{
+		"name": "Headroom",
+		"date": "2019-05-12T17:16:30.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Butcher’s Tears",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "De Ruimte",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3923,
+			"lng": 4.90567
+		},
+		"ibu": 0,
+		"abv": 7.5,
+		"flavor": [
+			"full",
+			"coffee",
+			"chocolate"
+		],
+		"type": "Stout - Other",
+		"rating": 4.25
+	},
+	{
+		"name": "Smoke and Mirrors",
+		"date": "2019-05-12T21:00:37.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Revision Brewing Company",
+			"country": "United States",
+			"city": "Sparks",
+			"state": "NV"
+		},
+		"venue": {
+			"name": "De Ruimte",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3923,
+			"lng": 4.90567
+		},
+		"ibu": 30,
+		"abv": 8,
+		"flavor": [
+			"citrusy",
+			"tropical",
+			"smooth",
+			"juicy"
+		],
+		"type": "IPA - Imperial / Double New England",
+		"rating": 4
+	},
+	{
+		"name": "Vijfhoek Blond",
+		"date": "2019-05-13T20:10:04.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Café de Vijfhoek",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3789,
+			"lng": 4.6302
+		},
+		"ibu": 25,
+		"abv": 6.3,
+		"flavor": [
+			"soft",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Blonde Ale",
+		"rating": 4
+	},
+	{
+		"name": "IPA",
+		"date": "2019-05-14T21:43:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "De Ruimte",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3923,
+			"lng": 4.90567
+		},
+		"ibu": 60,
+		"abv": 6.5,
+		"flavor": [
+			"hoppy"
+		],
+		"type": "IPA - Belgian",
+		"rating": 4
+	},
+	{
+		"name": "Grimbergen Blonde",
+		"date": "2019-05-16T20:00:24.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brouwerij Alken-Maes",
+			"country": "Belgium",
+			"city": "Mechelen",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Vooges",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.364,
+			"lng": 4.51853
+		},
+		"ibu": 22,
+		"abv": 6.7,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Belgian Blonde",
+		"rating": 4
+	},
+	{
+		"name": "IPA",
+		"date": "2019-05-16T20:01:29.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij 't IJ",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Vooges",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.364,
+			"lng": 4.51853
+		},
+		"ibu": 60,
+		"abv": 6.5,
+		"flavor": [
+			"smoky",
+			"strong",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - Belgian",
+		"rating": 4
+	},
+	{
+		"name": "Petrus Sour Passion Fruit",
+		"date": "2019-05-16T21:40:18.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brouwerij De Brabandere",
+			"country": "Belgium",
+			"city": "Bavikhove",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Lokaal Haarlem",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3811,
+			"lng": 4.63475
+		},
+		"ibu": 0,
+		"abv": 7.3,
+		"flavor": [
+			"tropical",
+			"fruity",
+			"sour",
+			"acidic"
+		],
+		"type": "Sour - Fruited",
+		"rating": 4.5
+	},
+	{
+		"name": "Schillen Blond",
+		"date": "2019-05-17T19:31:09.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Hoofddorppleinbuurt",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3517,
+			"lng": 4.84937
+		},
+		"ibu": 25,
+		"abv": 5.5,
+		"flavor": [
+			"citrusy",
+			"crisp",
+			"refreshing"
+		],
+		"type": "Blonde Ale",
+		"rating": 4
+	},
+	{
+		"name": "Brouwers Pilsener",
+		"date": "2019-05-19T19:40:05.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Brouwers",
+			"country": "Netherlands",
+			"city": "Zaandam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"malty",
+			"light",
+			"dry",
+			"hoppy"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.5
+	},
+	{
+		"name": "Augsburger Original",
+		"date": "2019-05-25T19:15:25.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Hasen-Bräu",
+			"country": "Germany",
+			"city": "Augsburg",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Havixbeck",
+			"country": "Deutschland",
+			"city": "Havixbeck",
+			"state": "Nordrhein-Westfalen",
+			"lat": 51.9761,
+			"lng": 7.42066
+		},
+		"ibu": 25,
+		"abv": 5.4,
+		"flavor": [
+			"malty",
+			"light",
+			"smooth"
+		],
+		"type": "Kellerbier / Zwickelbier",
+		"rating": 3.75
+	},
+	{
+		"name": "Fassbrause Waldmeister",
+		"date": "2019-05-25T20:17:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Bitburger Brauerei",
+			"country": "Germany",
+			"city": "Bitburg",
+			"state": "Rheinland-Pfalz"
+		},
+		"venue": {
+			"name": "Havixbeck",
+			"country": "Deutschland",
+			"city": "Havixbeck",
+			"state": "Nordrhein-Westfalen",
+			"lat": 51.9761,
+			"lng": 7.42066
+		},
+		"ibu": 0,
+		"abv": 0,
+		"flavor": [
+			"aromatic",
+			"fruity",
+			"sweet"
+		],
+		"type": "Non-Alcoholic Beer",
+		"rating": 4
+	},
+	{
+		"name": "Allgäuer Büble Bier Edelbräu",
+		"date": "2019-05-25T21:18:10.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Allgäuer Brauhaus",
+			"country": "Germany",
+			"city": "Kempten (Allgäu)",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Havixbeck",
+			"country": "Deutschland",
+			"city": "Havixbeck",
+			"state": "Nordrhein-Westfalen",
+			"lat": 51.9761,
+			"lng": 7.42066
+		},
+		"ibu": 13,
+		"abv": 5.5,
+		"flavor": [
+			"malty",
+			"bread",
+			"yeasty",
+			"light",
+			"smooth"
+		],
+		"type": "Märzen",
+		"rating": 4
+	},
+	{
+		"name": "Löschzwerg Würzig",
+		"date": "2019-05-25T21:44:24.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brauerei Schimpfle",
+			"country": "Germany",
+			"city": "Gessertshausen",
+			"state": ""
+		},
+		"venue": {
+			"name": "Havixbeck",
+			"country": "Deutschland",
+			"city": "Havixbeck",
+			"state": "Nordrhein-Westfalen",
+			"lat": 51.9761,
+			"lng": 7.42066
+		},
+		"ibu": 0,
+		"abv": 5.2,
+		"flavor": [
+			"spicy",
+			"clean",
+			"light"
+		],
+		"type": "Lager - Helles",
+		"rating": 3.5
+	},
+	{
+		"name": "Pott's Pilsener",
+		"date": "2019-05-26T12:47:50.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Pott's Brauerei",
+			"country": "Germany",
+			"city": "Oelde",
+			"state": "Nordrhein-Westfalen"
+		},
+		"venue": {
+			"name": "Hohensyburg",
+			"country": "Deutschland",
+			"city": "Dortmund",
+			"state": "Nordrhein-Westfalen",
+			"lat": 51.4202,
+			"lng": 7.48684
+		},
+		"ibu": 0,
+		"abv": 4.8,
+		"flavor": [
+			"malty",
+			"grainy"
+		],
+		"type": "Pilsner - German",
+		"rating": 3.5
+	},
+	{
+		"name": "Klutes Landbier Hell",
+		"date": "2019-05-27T17:34:21.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Historisches Brauhaus Klute",
+			"country": "Germany",
+			"city": "",
+			"state": ""
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "Lager - Helles",
+		"rating": 4.25
+	},
+	{
+		"name": "Gin Weizen",
+		"date": "2019-05-30T20:48:54.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Gebrouwen Door Vrouwen",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 16,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.5
+	}
+]

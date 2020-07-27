@@ -1,0 +1,1046 @@
+[
+	{
+		"name": "Leffe Blonde / Blond",
+		"date": "2020-02-01T18:14:51.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Abbaye de Leffe",
+			"country": "Belgium",
+			"city": "Leuven",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "MEZRAB",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.376,
+			"lng": 4.92771
+		},
+		"ibu": 20,
+		"abv": 6.6,
+		"flavor": [
+			"light",
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Blonde",
+		"rating": 4
+	},
+	{
+		"name": "Pilsener",
+		"date": "2020-02-02T02:00:08.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Hertog Jan",
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Hoofddorpplein",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3512,
+			"lng": 4.84968
+		},
+		"ibu": 21,
+		"abv": 5.1,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2020-02-08T21:38:13.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Let There Be Light",
+		"date": "2020-02-09T16:08:33.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Jopenkerk Haarlem",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3812,
+			"lng": 4.62982
+		},
+		"ibu": 40,
+		"abv": 3.3,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy",
+			"citrus"
+		],
+		"type": "IPA - Session / India Session Ale",
+		"rating": 4
+	},
+	{
+		"name": "Tulpomania",
+		"date": "2020-02-09T18:16:09.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 45,
+		"abv": 5.5,
+		"flavor": [
+			"floral",
+			"fruity",
+			"sweet",
+			"hoppy"
+		],
+		"type": "Traditional Ale",
+		"rating": 3.75
+	},
+	{
+		"name": "Hugs & Kisses",
+		"date": "2020-02-10T18:04:54.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij de Molen",
+			"country": "Netherlands",
+			"city": "Bodegraven",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 33,
+		"abv": 3.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - Session / India Session Ale",
+		"rating": 4.5
+	},
+	{
+		"name": "Mega Moka",
+		"date": "2020-02-15T19:53:04.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Birra Del Borgo",
+			"country": "Italy",
+			"city": "Borgorose",
+			"state": "Rieti"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 11",
+			"country": "Nederland",
+			"city": "Zandvoort",
+			"state": "Noord-Holland",
+			"lat": 52.3758,
+			"lng": 4.53197
+		},
+		"ibu": 0,
+		"abv": 6.1,
+		"flavor": [
+			"roasty",
+			"creamy",
+			"coffee",
+			"chocolate"
+		],
+		"type": "Stout - Coffee",
+		"rating": 3.75
+	},
+	{
+		"name": "Murphy's Irish Red",
+		"date": "2020-02-16T17:52:02.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Heineken Ireland",
+			"country": "Ireland",
+			"city": "Cork",
+			"state": "Munster"
+		},
+		"venue": {
+			"name": "Murphy's Irish Pub",
+			"country": "Nederland",
+			"city": "Schiphol",
+			"state": "Noord-Holland",
+			"lat": 52.3082,
+			"lng": 4.76954
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"malty",
+			"light",
+			"smooth"
+		],
+		"type": "Red Ale - Irish",
+		"rating": 4.5
+	},
+	{
+		"name": "Pacific Ale",
+		"date": "2020-02-18T15:51:42.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Stone & Wood",
+			"country": "Australia",
+			"city": "Byron Bay",
+			"state": "New South Wales"
+		},
+		"venue": {
+			"name": "Novotel Sydney Brighton Beach",
+			"country": "Australia",
+			"city": "Sydney",
+			"state": "NSW",
+			"lat": -33.9624,
+			"lng": 151.156
+		},
+		"ibu": 30,
+		"abv": 4.4,
+		"flavor": [
+			"fruity",
+			"light",
+			"smooth"
+		],
+		"type": "Pale Ale - Australian",
+		"rating": 3.75
+	},
+	{
+		"name": "James Squire One Fifty Lashes",
+		"date": "2020-02-19T14:22:55.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Malt Shovel Brewery",
+			"country": "Australia",
+			"city": "Camperdown",
+			"state": "New South Wales"
+		},
+		"venue": {
+			"name": "The Bucket List",
+			"country": "Australia",
+			"city": "Bondi Beach",
+			"state": "NSW",
+			"lat": -33.8903,
+			"lng": 151.278
+		},
+		"ibu": 19,
+		"abv": 4.2,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Pale Ale - Australian",
+		"rating": 4
+	},
+	{
+		"name": "Pale Ale",
+		"date": "2020-02-19T14:25:02.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Little Creatures Brewing",
+			"country": "Australia",
+			"city": "Fremantle",
+			"state": "Western Australia"
+		},
+		"venue": {
+			"name": "The Bucket List",
+			"country": "Australia",
+			"city": "Bondi Beach",
+			"state": "NSW",
+			"lat": -33.8903,
+			"lng": 151.278
+		},
+		"ibu": 36,
+		"abv": 5.1,
+		"flavor": [
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"type": "Pale Ale - American",
+		"rating": 3.75
+	},
+	{
+		"name": "Pacific Ale",
+		"date": "2020-02-19T15:25:15.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "4 Pines Brewing Company",
+			"country": "Australia",
+			"city": "Brookvale",
+			"state": "New South Wales"
+		},
+		"venue": {
+			"name": "Lush on Bondi",
+			"country": "Australia",
+			"city": "Bondi",
+			"state": "NSW",
+			"lat": -33.8906,
+			"lng": 151.277
+		},
+		"ibu": 15,
+		"abv": 3.5,
+		"flavor": [
+			"tropical",
+			"fruity",
+			"clean",
+			"light"
+		],
+		"type": "Pale Ale - Australian",
+		"rating": 3.75
+	},
+	{
+		"name": "Gold Medal Ale",
+		"date": "2020-02-20T23:24:01.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Speight's Brewery",
+			"country": "New Zealand",
+			"city": "Dunedin",
+			"state": "Otago"
+		},
+		"venue": {
+			"name": "Amora Hotel",
+			"country": "New Zealand",
+			"city": "Auckland",
+			"state": "Auckland",
+			"lat": -36.8552,
+			"lng": 174.76
+		},
+		"ibu": 0,
+		"abv": 4,
+		"flavor": [
+			"malty",
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pale Ale - English",
+		"rating": 4
+	},
+	{
+		"name": "Bob Hudson's Bitter",
+		"date": "2020-02-21T16:21:05.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Galbraith's Brewing Co. Ltd.",
+			"country": "New Zealand",
+			"city": "Auckland",
+			"state": "North Island"
+		},
+		"venue": {
+			"name": "Galbraith's",
+			"country": "New Zealand",
+			"city": "Grafton",
+			"state": "Auckland",
+			"lat": -36.8657,
+			"lng": 174.761
+		},
+		"ibu": 0,
+		"abv": 4,
+		"flavor": [
+			"light",
+			"dry",
+			"bitter"
+		],
+		"type": "English Bitter",
+		"rating": 4
+	},
+	{
+		"name": "Southern Isles Sub-tropical Pale Ale",
+		"date": "2020-02-21T16:50:44.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Galbraith's Brewing Co. Ltd.",
+			"country": "New Zealand",
+			"city": "Auckland",
+			"state": "North Island"
+		},
+		"venue": {
+			"name": "Galbraith's",
+			"country": "New Zealand",
+			"city": "Grafton",
+			"state": "Auckland",
+			"lat": -36.8657,
+			"lng": 174.761
+		},
+		"ibu": 15,
+		"abv": 5.5,
+		"flavor": [
+			"hoppy",
+			"bitter",
+			"fragrant"
+		],
+		"type": "IPA - International",
+		"rating": 3.75
+	},
+	{
+		"name": "Man of Kent",
+		"date": "2020-02-21T17:37:31.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Galbraith's Brewing Co. Ltd.",
+			"country": "New Zealand",
+			"city": "Auckland",
+			"state": "North Island"
+		},
+		"venue": {
+			"name": "Galbraith's",
+			"country": "New Zealand",
+			"city": "Grafton",
+			"state": "Auckland",
+			"lat": -36.8657,
+			"lng": 174.761
+		},
+		"ibu": 0,
+		"abv": 6,
+		"flavor": [
+			"smooth",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - English",
+		"rating": 3.5
+	},
+	{
+		"name": "Waikato Draught",
+		"date": "2020-02-22T22:16:42.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Lion Breweries NZ",
+			"country": "New Zealand",
+			"city": "Manukau",
+			"state": "Auckland"
+		},
+		"venue": {
+			"name": "Lake Rotorua",
+			"country": "New Zealand",
+			"city": "Rotorua",
+			"state": "Bay of Plenty",
+			"lat": -38.1265,
+			"lng": 176.265
+		},
+		"ibu": 0,
+		"abv": 4,
+		"flavor": [
+			"malty",
+			"light",
+			"bitter"
+		],
+		"type": "English Bitter",
+		"rating": 3.5
+	},
+	{
+		"name": "IPA",
+		"date": "2020-02-22T22:40:42.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Tuatara Brewery",
+			"country": "New Zealand",
+			"city": "Paraparaumu",
+			"state": "Wellington"
+		},
+		"venue": {
+			"name": "Lake Rotorua",
+			"country": "New Zealand",
+			"city": "Rotorua",
+			"state": "Bay of Plenty",
+			"lat": -38.1265,
+			"lng": 176.265
+		},
+		"ibu": 50,
+		"abv": 6.1,
+		"flavor": [
+			"citrusy",
+			"fruity",
+			"hoppy"
+		],
+		"type": "IPA - American",
+		"rating": 3.75
+	},
+	{
+		"name": "Waikato Draught",
+		"date": "2020-02-23T22:19:32.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Lion Breweries NZ",
+			"country": "New Zealand",
+			"city": "Manukau",
+			"state": "Auckland"
+		},
+		"venue": {
+			"name": "Lake Rotorua",
+			"country": "New Zealand",
+			"city": "Rotorua",
+			"state": "Bay of Plenty",
+			"lat": -38.1265,
+			"lng": 176.265
+		},
+		"ibu": 0,
+		"abv": 4,
+		"flavor": [
+			"malty",
+			"light",
+			"bitter"
+		],
+		"type": "English Bitter",
+		"rating": 3.5
+	},
+	{
+		"name": "Whangamomona Pale Ale",
+		"date": "2020-02-24T19:52:43.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Hawkes Bay Brewing Co",
+			"country": "New Zealand",
+			"city": "Napier City",
+			"state": "Hawke's Bay"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 0,
+		"flavor": [
+			"light",
+			"smooth",
+			"dark"
+		],
+		"type": "Pale Ale - New Zealand",
+		"rating": 3.25
+	},
+	{
+		"name": "Tui East India Pale Ale",
+		"date": "2020-02-24T20:04:19.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Tui Breweries Ltd. (DB Breweries)",
+			"country": "New Zealand",
+			"city": "Mangatainoka",
+			"state": "Manawatu-Wanganui"
+		},
+		"venue": {
+			"name": "Jasmine Café and Thao restaurant",
+			"country": "New Zealand",
+			"city": "Taumarunui",
+			"state": "Manawatu-Wanganui",
+			"lat": -38.8833,
+			"lng": 175.261
+		},
+		"ibu": 0,
+		"abv": 4,
+		"flavor": [
+			"malty",
+			"light",
+			"sweet"
+		],
+		"type": "IPA - English",
+		"rating": 3.75
+	},
+	{
+		"name": "Hobbit Southfärthing Girdley Fine Grain Amber Ale",
+		"date": "2020-02-25T11:42:37.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "The Green Dragon™ Inn",
+			"country": "New Zealand",
+			"city": "Hinuera",
+			"state": "Waikato"
+		},
+		"venue": {
+			"name": "The Green Dragon",
+			"country": "New Zealand",
+			"city": "Matamata",
+			"state": "Waikato",
+			"lat": -37.8597,
+			"lng": 175.681
+		},
+		"ibu": 0,
+		"abv": 3.7,
+		"flavor": [
+			"malty",
+			"light",
+			"smooth"
+		],
+		"type": "Red Ale - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "Xtra Pale Ale",
+		"date": "2020-02-26T12:54:24.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Hot Water Brewing Co.",
+			"country": "New Zealand",
+			"city": "Whenuakite",
+			"state": "Waikato"
+		},
+		"venue": {
+			"name": "Hot Water Brewing Co",
+			"country": "New Zealand",
+			"city": "Whenuakite",
+			"state": "Coromandel",
+			"lat": -36.9159,
+			"lng": 175.778
+		},
+		"ibu": 0,
+		"abv": 4.8,
+		"flavor": [
+			"floral",
+			"hoppy",
+			"citrus",
+			"peachy"
+		],
+		"type": "Pale Ale - New Zealand",
+		"rating": 3.75
+	},
+	{
+		"name": "1664",
+		"date": "2020-02-26T21:01:57.000Z",
+		"serving": "Taster",
+		"brewery": {
+			"name": "Kronenbourg Brewery",
+			"country": "France",
+			"city": "Strasbourg",
+			"state": "Grand-Est"
+		},
+		"venue": {
+			"name": "Paksa Restaurant & Bar",
+			"country": "New Zealand",
+			"city": "Mangere",
+			"state": "Auckland",
+			"lat": -36.9717,
+			"lng": 174.786
+		},
+		"ibu": 20,
+		"abv": 5.5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3
+	},
+	{
+		"name": "The Adventurer",
+		"date": "2020-02-26T21:12:38.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Fortune Favours ",
+			"country": "New Zealand",
+			"city": "Te Aro",
+			"state": "Wellington"
+		},
+		"venue": {
+			"name": "Paksa Restaurant & Bar",
+			"country": "New Zealand",
+			"city": "Mangere",
+			"state": "Auckland",
+			"lat": -36.9717,
+			"lng": 174.786
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"hoppy",
+			"crisp"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.25
+	},
+	{
+		"name": "The Naturalist",
+		"date": "2020-02-26T21:19:02.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Fortune Favours ",
+			"country": "New Zealand",
+			"city": "Te Aro",
+			"state": "Wellington"
+		},
+		"venue": {
+			"name": "Paksa Restaurant & Bar",
+			"country": "New Zealand",
+			"city": "Mangere",
+			"state": "Auckland",
+			"lat": -36.9717,
+			"lng": 174.786
+		},
+		"ibu": 0,
+		"abv": 5.3,
+		"flavor": [
+			"citrusy",
+			"clean",
+			"smooth"
+		],
+		"type": "Pale Ale - New Zealand",
+		"rating": 4
+	},
+	{
+		"name": "The Oregonian",
+		"date": "2020-02-26T21:22:30.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Fortune Favours ",
+			"country": "New Zealand",
+			"city": "Te Aro",
+			"state": "Wellington"
+		},
+		"venue": {
+			"name": "Paksa Restaurant & Bar",
+			"country": "New Zealand",
+			"city": "Mangere",
+			"state": "Auckland",
+			"lat": -36.9717,
+			"lng": 174.786
+		},
+		"ibu": 0,
+		"abv": 5.9,
+		"flavor": [
+			"malty",
+			"smooth",
+			"hoppy"
+		],
+		"type": "Red Ale - American Amber / Red",
+		"rating": 4
+	},
+	{
+		"name": "Pacific Ale",
+		"date": "2020-02-27T11:57:59.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Stone & Wood",
+			"country": "Australia",
+			"city": "Byron Bay",
+			"state": "New South Wales"
+		},
+		"venue": {
+			"name": "Barzura",
+			"country": "Australia",
+			"city": "Coogee",
+			"state": "NSW",
+			"lat": -33.923,
+			"lng": 151.257
+		},
+		"ibu": 30,
+		"abv": 4.4,
+		"flavor": [
+			"fruity",
+			"light"
+		],
+		"type": "Pale Ale - Australian",
+		"rating": 3.75
+	},
+	{
+		"name": "Hop Hog",
+		"date": "2020-02-27T12:06:10.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Feral Brewing Company",
+			"country": "Australia",
+			"city": "Baskerville",
+			"state": "Western Australia"
+		},
+		"venue": {
+			"name": "Barzura",
+			"country": "Australia",
+			"city": "Coogee",
+			"state": "NSW",
+			"lat": -33.923,
+			"lng": 151.257
+		},
+		"ibu": 48,
+		"abv": 5.8,
+		"flavor": [
+			"fruity",
+			"smooth",
+			"hoppy"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Mango Beer",
+		"date": "2020-02-28T12:44:10.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Matso's Broome Brewery",
+			"country": "Australia",
+			"city": "Broome",
+			"state": "WA"
+		},
+		"venue": {
+			"name": "The Lucky Cat",
+			"country": "Australia",
+			"city": "Coogee",
+			"state": "NSW",
+			"lat": -33.9207,
+			"lng": 151.256
+		},
+		"ibu": 6,
+		"abv": 4.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"mango"
+		],
+		"type": "Fruit Beer",
+		"rating": 4.5
+	},
+	{
+		"name": "Pale Ale",
+		"date": "2020-02-28T12:45:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Mountain Goat Beer",
+			"country": "Australia",
+			"city": "Richmond",
+			"state": "Victoria"
+		},
+		"venue": {
+			"name": "The Lucky Cat",
+			"country": "Australia",
+			"city": "Coogee",
+			"state": "NSW",
+			"lat": -33.9207,
+			"lng": 151.256
+		},
+		"ibu": 30,
+		"abv": 5.2,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "Pale Ale - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Pale Ale",
+		"date": "2020-02-28T14:02:52.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Pirate Life Brewing",
+			"country": "Australia",
+			"city": "Adelaide",
+			"state": "South Australia"
+		},
+		"venue": {
+			"name": "Coogee Bay Hotel",
+			"country": "Australia",
+			"city": "Coogee",
+			"state": "NSW",
+			"lat": -33.9211,
+			"lng": 151.256
+		},
+		"ibu": 45,
+		"abv": 5.4,
+		"flavor": [
+			"fruity",
+			"full",
+			"hoppy"
+		],
+		"type": "Pale Ale - American",
+		"rating": 3.5
+	},
+	{
+		"name": "Gold Medal Taiwan Beer",
+		"date": "2020-02-29T15:41:20.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Taiwan Tobacco & Liquor Corporation",
+			"country": "Taiwan",
+			"city": "Taipei",
+			"state": ""
+		},
+		"venue": {
+			"name": "Mrs. Chu - Taiwanese Cuisine",
+			"country": "Australia",
+			"city": "Haymarket",
+			"state": "NSW",
+			"lat": -33.8798,
+			"lng": 151.204
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"sweet"
+		],
+		"type": "Lager - Japanese Rice",
+		"rating": 4
+	},
+	{
+		"name": "Taiwan Beer - Grape",
+		"date": "2020-02-29T15:43:00.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Taiwan Tobacco & Liquor Corporation",
+			"country": "Taiwan",
+			"city": "Taipei",
+			"state": ""
+		},
+		"venue": {
+			"name": "Mrs. Chu - Taiwanese Cuisine",
+			"country": "Australia",
+			"city": "Haymarket",
+			"state": "NSW",
+			"lat": -33.8798,
+			"lng": 151.204
+		},
+		"ibu": 0,
+		"abv": 2.8,
+		"flavor": [
+			"bubblegum",
+			"light",
+			"sweet"
+		],
+		"type": "Shandy / Radler",
+		"rating": 4.5
+	},
+	{
+		"name": "Quickchange XPA",
+		"date": "2020-02-29T19:15:29.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Panhead Custom Ales",
+			"country": "New Zealand",
+			"city": "Upper Hutt",
+			"state": "Wellington"
+		},
+		"venue": {
+			"name": "The Botanist",
+			"country": "Australia",
+			"city": "Kirribilli",
+			"state": "NSW",
+			"lat": -33.8454,
+			"lng": 151.213
+		},
+		"ibu": 40,
+		"abv": 4.6,
+		"flavor": [
+			"tropical",
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "Pale Ale - American",
+		"rating": 4
+	},
+	{
+		"name": "Dead Will Rise",
+		"date": "2020-02-29T20:30:24.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Sailors Grave Brewing",
+			"country": "Australia",
+			"city": "Orbost",
+			"state": "VIC"
+		},
+		"venue": {
+			"name": "dive hotel",
+			"country": "Australia",
+			"city": "",
+			"state": "",
+			"lat": -33.9219,
+			"lng": 151.256
+		},
+		"ibu": 0,
+		"abv": 4.7,
+		"flavor": [
+			"soft",
+			"sweet",
+			"crisp"
+		],
+		"type": "Lager - Pale",
+		"rating": 4
+	},
+	{
+		"name": "Cleansing Ale",
+		"date": "2020-02-29T20:48:58.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Two Metre Tall",
+			"country": "Australia",
+			"city": "Hayes",
+			"state": "TAS"
+		},
+		"venue": {
+			"name": "dive hotel",
+			"country": "Australia",
+			"city": "",
+			"state": "",
+			"lat": -33.9219,
+			"lng": 151.256
+		},
+		"ibu": 0,
+		"abv": 5,
+		"flavor": [
+			"dry",
+			"sour",
+			"tart"
+		],
+		"type": "Sour - Other",
+		"rating": 2
+	}
+]

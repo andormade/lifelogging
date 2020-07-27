@@ -1,0 +1,768 @@
+[
+	{
+		"name": "Wainwright",
+		"date": "2018-06-01T17:48:27.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Marston's Brewery",
+			"country": "England",
+			"city": "Burton-on-Trent",
+			"state": "Staffordshire"
+		},
+		"venue": {
+			"name": "Hoofddorp",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3004,
+			"lng": 4.69537
+		},
+		"ibu": 0,
+		"abv": 4.1,
+		"flavor": [
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"type": "Golden Ale",
+		"rating": 4
+	},
+	{
+		"name": "Chouffe Soleil",
+		"date": "2018-06-01T19:19:24.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
+		},
+		"venue": {
+			"name": "Hoofddorp",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3004,
+			"lng": 4.69537
+		},
+		"ibu": 20,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "Belgian Blonde",
+		"rating": 5
+	},
+	{
+		"name": "Pacífico Clara",
+		"date": "2018-06-03T11:59:28.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 15,
+		"abv": 4.5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4
+	},
+	{
+		"name": "Wit",
+		"date": "2018-06-05T18:56:22.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Texelse Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Oudeschild",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 15,
+		"abv": 5,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 3.5
+	},
+	{
+		"name": "Zhigulevskoe Firmennoye / Жигулевское Фирменное",
+		"date": "2018-06-06T18:37:21.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Baltika Breweries (Балтика)",
+			"country": "Russia",
+			"city": "Saint Petersburg",
+			"state": "Санкт-Петербург"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 4,
+		"flavor": [
+			"grainy",
+			"light",
+			"dry"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 4
+	},
+	{
+		"name": "Corona Extra",
+		"date": "2018-06-07T18:38:52.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupo Modelo",
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
+		},
+		"venue": {
+			"name": "Cantina 023",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3792,
+			"lng": 4.63682
+		},
+		"ibu": 19,
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4.5
+	},
+	{
+		"name": "Zlatý Bažant 12%",
+		"date": "2018-06-08T18:07:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Heineken Slovensko",
+			"country": "Slovakia",
+			"city": "Hurbanovo",
+			"state": ""
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 4.7,
+		"flavor": [
+			"malty",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Czech",
+		"rating": null
+	},
+	{
+		"name": "Namysłów Pils",
+		"date": "2018-06-09T17:21:05.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Browar Namysłów",
+			"country": "Poland",
+			"city": "Namysłów",
+			"state": "województwo opolskie"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 6,
+		"flavor": [
+			"malty",
+			"clean",
+			"light"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.5
+	},
+	{
+		"name": "Żywiec",
+		"date": "2018-06-10T23:02:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Grupa Żywiec",
+			"country": "Poland",
+			"city": "Żywiec",
+			"state": "województwo śląskie"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 24,
+		"abv": 5.6,
+		"flavor": [
+			"malty",
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Cherry Chouffe",
+		"date": "2018-06-11T20:01:22.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 10,
+		"abv": 8,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"tart",
+			"strong",
+			"cherry"
+		],
+		"type": "Fruit Beer",
+		"rating": 4
+	},
+	{
+		"name": "Zamkowe Export",
+		"date": "2018-06-13T22:23:11.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Browar Namysłów",
+			"country": "Poland",
+			"city": "Namysłów",
+			"state": "województwo opolskie"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 5.7,
+		"flavor": [
+			"malty",
+			"light"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Erdinger Weißbier / Hefe-Weizen",
+		"date": "2018-06-15T18:40:55.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Erdinger Weissbräu",
+			"country": "Germany",
+			"city": "Erding",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 13,
+		"abv": 5.3,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": null
+	},
+	{
+		"name": "Chouffe Soleil",
+		"date": "2018-06-16T17:39:01.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 20,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"hoppy"
+		],
+		"type": "Belgian Blonde",
+		"rating": 5
+	},
+	{
+		"name": "Kornuit",
+		"date": "2018-06-17T20:38:48.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Koninklijke Grolsch",
+			"country": "Netherlands",
+			"city": "Enschede",
+			"state": "Overijssel"
+		},
+		"venue": {
+			"name": "Hoofddorp",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3004,
+			"lng": 4.69537
+		},
+		"ibu": 22,
+		"abv": 5,
+		"flavor": [
+			"soft",
+			"light"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "Perlenbacher Hefeweissbier / Wheat Beer",
+		"date": "2018-06-17T20:41:27.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Lidl Deutschland / Germany",
+			"country": "Germany",
+			"city": "Neckarsulm",
+			"state": "Baden-Württemberg"
+		},
+		"venue": {
+			"name": "Hoofddorp",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3004,
+			"lng": 4.69537
+		},
+		"ibu": 15,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"banana",
+			"light",
+			"sweet",
+			"sour"
+		],
+		"type": "Hefeweizen",
+		"rating": 4
+	},
+	{
+		"name": "Weizen",
+		"date": "2018-06-17T20:53:56.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Koninklijke Brand Bierbrouwerij",
+			"country": "Netherlands",
+			"city": "Wijlre",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Hoofddorp",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3004,
+			"lng": 4.69537
+		},
+		"ibu": 12,
+		"abv": 5,
+		"flavor": [
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4
+	},
+	{
+		"name": "Laško Zlatorog",
+		"date": "2018-06-19T18:32:26.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Pivovarna Laško",
+			"country": "Slovenia",
+			"city": "Laško",
+			"state": "Savinja Statistical Region"
+		},
+		"venue": {
+			"name": "Normakert vendéglő",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.5028,
+			"lng": 18.9665
+		},
+		"ibu": 0,
+		"abv": 4.9,
+		"flavor": [
+			"malty",
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "1664 Blanc",
+		"date": "2018-06-19T20:40:16.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Kronenbourg Brewery",
+			"country": "France",
+			"city": "Strasbourg",
+			"state": "Grand-Est"
+		},
+		"venue": {
+			"name": "Lanchid 19 Design Hotel Budapest",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4966,
+			"lng": 19.0417
+		},
+		"ibu": 7,
+		"abv": 5,
+		"flavor": [
+			"citrusy",
+			"fruity",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4
+	},
+	{
+		"name": "Budweiser Budvar B:ORIGINAL / Czechvar B:ORIGINAL",
+		"date": "2018-06-20T19:08:03.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Budějovický Budvar",
+			"country": "Czech Republic",
+			"city": "České Budějovice",
+			"state": "Jihozápad"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 32,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light"
+		],
+		"type": "Pilsner - Czech",
+		"rating": 3.75
+	},
+	{
+		"name": "Arany Ászok Frissenszűrt",
+		"date": "2018-06-20T22:03:32.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Dreher Sörgyárak",
+			"country": "Hungary",
+			"city": "Budapest",
+			"state": "Közép-Magyarország"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 4.3,
+		"flavor": [
+			"light",
+			"sweet",
+			"sour",
+			"watery"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3
+	},
+	{
+		"name": "Málnás Búza",
+		"date": "2018-06-21T16:59:01.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Szent András Sörfőzde",
+			"country": "Hungary",
+			"city": "Békésszentandrás",
+			"state": "Alföld és Észak"
+		},
+		"venue": {
+			"name": "Laguna Beach Bisztró",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4628,
+			"lng": 19.061
+		},
+		"ibu": 0,
+		"abv": 4.9,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"sour",
+			"raspberry"
+		],
+		"type": "Fruit Beer",
+		"rating": 3.5
+	},
+	{
+		"name": "Staropramen Unfiltered / Nefiltrovaný / Wheat / Pšeničný",
+		"date": "2018-06-21T18:42:42.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Pivovary Staropramen",
+			"country": "Czech Republic",
+			"city": "Prague",
+			"state": "Praha"
+		},
+		"venue": {
+			"name": "Kopaszi-gát",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4667,
+			"lng": 19.0619
+		},
+		"ibu": 18,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"light",
+			"smooth"
+		],
+		"type": "Wheat Beer - Other",
+		"rating": 3.5
+	},
+	{
+		"name": "Chang Classic",
+		"date": "2018-06-22T20:46:13.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Thai Beverage PLC",
+			"country": "Thailand",
+			"city": "Kamphaeng Phet",
+			"state": "จังหวัดกำแพงเพชร"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 12,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.5
+	},
+	{
+		"name": "Soproni Óvatos Duhaj IPA",
+		"date": "2018-06-23T09:23:04.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Soproni Sörgyár (Heineken Hungária)",
+			"country": "Hungary",
+			"city": "Sopron",
+			"state": "Dunántúl"
+		},
+		"venue": {
+			"name": "Siófok",
+			"country": "Magyarország",
+			"city": "",
+			"state": "Somogy",
+			"lat": 46.9064,
+			"lng": 18.0555
+		},
+		"ibu": 40,
+		"abv": 4.8,
+		"flavor": [
+			"aromatic",
+			"light",
+			"hoppy",
+			"citrus"
+		],
+		"type": "IPA - American",
+		"rating": 4
+	},
+	{
+		"name": "Tuborg Grøn",
+		"date": "2018-06-23T19:37:06.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Carlsberg Group",
+			"country": "Denmark",
+			"city": "Copenhagen",
+			"state": "Region Hovedstaden"
+		},
+		"venue": {
+			"name": "Corso Pub",
+			"country": "Magyarország",
+			"city": "",
+			"state": "",
+			"lat": 46.9112,
+			"lng": 18.0535
+		},
+		"ibu": 18,
+		"abv": 4.6,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 4
+	},
+	{
+		"name": "Dos Equis Lager Especial",
+		"date": "2018-06-29T13:38:47.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Cervecería Cuauhtémoc Moctezuma S.A. de C.V.",
+			"country": "Mexico",
+			"city": "Monterrey",
+			"state": "Nuevo León"
+		},
+		"venue": {
+			"name": "Salsa Shop",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3796,
+			"lng": 4.90005
+		},
+		"ibu": 10,
+		"abv": 4.5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 3
+	},
+	{
+		"name": "Brighton Bier",
+		"date": "2018-06-30T14:33:06.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brighton Bier",
+			"country": "England",
+			"city": "Brighton",
+			"state": "East Sussex"
+		},
+		"venue": {
+			"name": "plenty",
+			"country": "United Kingdom",
+			"city": "",
+			"state": "",
+			"lat": 51.5186,
+			"lng": -0.137579
+		},
+		"ibu": 0,
+		"abv": 4,
+		"flavor": [
+			"tropical",
+			"light",
+			"hoppy"
+		],
+		"type": "Pale Ale - English",
+		"rating": 4
+	}
+]

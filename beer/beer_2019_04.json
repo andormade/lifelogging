@@ -1,0 +1,424 @@
+[
+	{
+		"name": "Gösser NaturRadler",
+		"date": "2019-04-05T14:07:29.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brauerei Göss",
+			"country": "Austria",
+			"city": "Leoben",
+			"state": "Steiermark"
+		},
+		"venue": {
+			"name": "O'Learys",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4332,
+			"lng": 19.2613
+		},
+		"ibu": 0,
+		"abv": 2,
+		"flavor": [
+			"lemony",
+			"fruity",
+			"light",
+			"sweet"
+		],
+		"type": "Shandy / Radler",
+		"rating": 4.5
+	},
+	{
+		"name": "Lagerbier Hell",
+		"date": "2019-04-06T19:42:09.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Augustiner-Bräu München",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 12,
+		"abv": 5.2,
+		"flavor": [
+			"malty",
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Helles",
+		"rating": 4
+	},
+	{
+		"name": "Lagerbier Hell",
+		"date": "2019-04-07T18:29:05.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Augustiner-Bräu München",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Toolenburg",
+			"country": "Nederland",
+			"city": "Hoofddorp",
+			"state": "Noord-Holland",
+			"lat": 52.3054,
+			"lng": 4.65788
+		},
+		"ibu": 12,
+		"abv": 5.2,
+		"flavor": [
+			"malty",
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Helles",
+		"rating": 4
+	},
+	{
+		"name": "Warsteiner Premium Verum / German Pilsener",
+		"date": "2019-04-07T19:57:15.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Warsteiner",
+			"country": "Germany",
+			"city": "Warstein",
+			"state": "Nordrhein-Westfalen"
+		},
+		"venue": {
+			"name": "Toolenburg",
+			"country": "Nederland",
+			"city": "Hoofddorp",
+			"state": "Noord-Holland",
+			"lat": 52.3054,
+			"lng": 4.65788
+		},
+		"ibu": 28,
+		"abv": 4.8,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - German",
+		"rating": 3.75
+	},
+	{
+		"name": "Mythos",
+		"date": "2019-04-08T18:18:44.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Olympic Brewery",
+			"country": "Greece",
+			"city": "Kifissia",
+			"state": "Αττική"
+		},
+		"venue": {
+			"name": "Restaurant Delphi",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3781,
+			"lng": 4.63674
+		},
+		"ibu": 17,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Yanjing Beer",
+		"date": "2019-04-11T18:34:21.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Beijing Yanjing Brewery",
+			"country": "China / People's Republic of China",
+			"city": "Beijing",
+			"state": "北京市"
+		},
+		"venue": {
+			"name": "CHAO三里屯",
+			"country": "中国",
+			"city": "北京市",
+			"state": "北京市",
+			"lat": 39.9316,
+			"lng": 116.445
+		},
+		"ibu": 18,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Taedonggang 2 Gold Label (5.5%)",
+		"date": "2019-04-16T14:56:51.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Taedonggang Brewing Company",
+			"country": "North Korea",
+			"city": "Pyongyang",
+			"state": "평양시"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 5.5,
+		"flavor": [
+			"clean",
+			"light"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Taedonggang 2 Gold Label (5.5%)",
+		"date": "2019-04-17T04:30:03.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Taedonggang Brewing Company",
+			"country": "North Korea",
+			"city": "Pyongyang",
+			"state": "평양시"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 5.5,
+		"flavor": [
+			"clean",
+			"light",
+			"sweet"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Ryongsong",
+		"date": "2019-04-18T17:00:33.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Ryongsong",
+			"country": "North Korea",
+			"city": "",
+			"state": ""
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			""
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Karlsberg Mild-Frisches Pils",
+		"date": "2019-04-19T21:11:00.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Karlsberg Brauerei",
+			"country": "Germany",
+			"city": "Homburg",
+			"state": "Saarland"
+		},
+		"venue": {
+			"name": "E Werk",
+			"country": "Deutschland",
+			"city": "Saarbrücken",
+			"state": "Saarland",
+			"lat": 49.2382,
+			"lng": 6.9568
+		},
+		"ibu": 26,
+		"abv": 4.8,
+		"flavor": [
+			"herbal",
+			"spritzy",
+			"dry",
+			"smooth"
+		],
+		"type": "Pilsner - German",
+		"rating": 3.5
+	},
+	{
+		"name": "Bavaria Radler Citroen 2.0%",
+		"date": "2019-04-22T16:52:46.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Royal Swinkels Family Brewers",
+			"country": "Netherlands",
+			"city": "Lieshout",
+			"state": "Noord-Brabant"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 2,
+		"flavor": [
+			"lemony",
+			"light",
+			"sweet"
+		],
+		"type": "Shandy / Radler",
+		"rating": 4
+	},
+	{
+		"name": "Jacobus Pale Ale (RPA)",
+		"date": "2019-04-27T09:20:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Jopen",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 45,
+		"abv": 5.5,
+		"flavor": [
+			"malty",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Pale Ale - International",
+		"rating": 3.5
+	},
+	{
+		"name": "Pilsener",
+		"date": "2019-04-27T20:54:21.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Hertog Jan",
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 21,
+		"abv": 5.1,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "Sol",
+		"date": "2019-04-30T19:03:18.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Cervecería Cuauhtémoc Moctezuma S.A. de C.V.",
+			"country": "Mexico",
+			"city": "Monterrey",
+			"state": "Nuevo León"
+		},
+		"venue": {
+			"name": "Claus Event Center",
+			"country": "Nederland",
+			"city": "Hoofddorp",
+			"state": "Noord-Holland",
+			"lat": 52.322,
+			"lng": 4.66424
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"clean",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - American",
+		"rating": 4
+	},
+	{
+		"name": "Desperados Original",
+		"date": "2019-04-30T19:35:29.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Desperados NL",
+			"country": "France",
+			"city": "Schiltigheim",
+			"state": "Grand-Est"
+		},
+		"venue": {
+			"name": "Claus Event Center",
+			"country": "Nederland",
+			"city": "Hoofddorp",
+			"state": "Noord-Holland",
+			"lat": 52.322,
+			"lng": 4.66424
+		},
+		"ibu": 0,
+		"abv": 5.9,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.5
+	}
+]

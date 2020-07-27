@@ -1,188 +1,551 @@
 [
 	{
 		"name": "Gregorius",
-		"date": "2017-10-02",
-		"serving": "bottle",
+		"date": "2017-10-02T18:28:38.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Stift Engelszell",
-			"size": "micro brewery",
-			"location": "Engelhartszell, Austria",
-			"website": "http://www.stift-engelszell.at"	
+			"country": "Austria",
+			"city": "Engelhartszell",
+			"state": "Oberösterreich"
 		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 30,
 		"abv": 10.5,
-		"ibu": null,
-		"flavor": ["dark", "sweet", "strong"],
-		"style": "belgian strong dark ale",
+		"flavor": [
+			"sweet",
+			"strong",
+			"dark"
+		],
+		"type": "Belgian Quadrupel",
 		"rating": 3
 	},
 	{
 		"name": "Trappist Westvleteren 12",
-		"date": "2017-10-04",
-		"serving": "bottle",
+		"date": "2017-10-04T21:41:35.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij De Sint-Sixtusabdij van Westvleteren",
-			"size": "micro brewery",
-			"location": "Westvleteren, West-Vlaanderen, Belgium",
-			"website": "http://www.sintsixtus.be"	
+			"country": "Belgium",
+			"city": "Westvleteren",
+			"state": "Vlaanderen"
 		},
-		"abv": 10.2,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 38,
-		"flavor": ["dark", "smooth", "strong", "rich", "sweet"],
-		"style": "belgian quad",
+		"abv": 10.2,
+		"flavor": [
+			"rich",
+			"sweet",
+			"strong",
+			"smooth",
+			"dark"
+		],
+		"type": "Belgian Quadrupel",
 		"rating": 4.5
 	},
 	{
 		"name": "Rote Grütze",
-		"date": "2017-10-07",
-		"serving": "bottle",
+		"date": "2017-10-07T17:15:42.000Z",
+		"serving": "",
 		"brewery": {
 			"name": "Buddelship Brauerei",
-			"size": "micro brewery",
-			"location": "Hamburg, Germany",
-			"website": "http://www.buddelship.de"	
+			"country": "Germany",
+			"city": "Hamburg",
+			"state": "Hamburg"
 		},
-		"abv": 4.5,
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
 		"ibu": 12,
-		"flavor": ["sour", "fruity", "dry", "tart", "sweet"],
-		"style": "sour ale",
+		"abv": 4.5,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"dry",
+			"sour",
+			"tart"
+		],
+		"type": "Sour - Fruited",
 		"rating": 3.5
 	},
 	{
 		"name": "Tree Swing",
-		"date": "2017-10-07",
-		"serving": "draft",
+		"date": "2017-10-07T17:42:55.000Z",
+		"serving": "Draft",
 		"brewery": {
-			"name": "Het Uiltje",
-			"size": "micro brewery",
-			"location": "Haarlem, Netherlands",
-			"website": "https://www.uiltjecraftbeer.com"	
+			"name": "Uiltje Brewing Company",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
-		"abv": 2.6,
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
 		"ibu": 6,
-		"flavor": ["sour", "light", "citrusy", "hoppy", "bitter"],
-		"style": "berliner weisse",
+		"abv": 2.6,
+		"flavor": [
+			"citrusy",
+			"light",
+			"sour",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Sour - Berliner Weisse",
 		"rating": 4
 	},
 	{
 		"name": "Murphy's Irish Red",
-		"date": "2017-10-07",
-		"serving": "draft",
+		"date": "2017-10-07T19:02:44.000Z",
+		"serving": "Draft",
 		"brewery": {
-			"name": "Heineken Brewery Ireland",
-			"size": "macro brewery",
-			"location": "Cork, Ireland",
-			"website": "http://www.heinekenireland.ie"	
+			"name": "Heineken Ireland",
+			"country": "Ireland",
+			"city": "Cork",
+			"state": "Munster"
 		},
+		"venue": {
+			"name": "The Wolfhound",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3814,
+			"lng": 4.63799
+		},
+		"ibu": 0,
 		"abv": 5,
-		"ibu": null,
-		"flavor": ["smooth", "malty", "light", "sweet", "creamy"],
-		"style": "irish red ale",
+		"flavor": [
+			"malty",
+			"light",
+			"creamy",
+			"sweet",
+			"smooth"
+		],
+		"type": "Red Ale - Irish",
 		"rating": 4.5
 	},
 	{
 		"name": "Rijke Herfstbok",
-		"date": "2017-10-07",
-		"serving": "draft",
+		"date": "2017-10-07T20:55:51.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Koninklijke Grolsch",
-			"size": "macro brewery",
-			"location": "Enschede, Overijssel, Netherlands",
-			"website": "http://www.koninklijkegrolsch.nl"	
+			"country": "Netherlands",
+			"city": "Enschede",
+			"state": "Overijssel"
 		},
+		"venue": {
+			"name": "Café Van Gunsteren",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3789,
+			"lng": 4.63099
+		},
+		"ibu": 33,
 		"abv": 6.6,
-		"ibu": null,
-		"flavor": ["sweet", "dark", "warm", "rich", "malty"],
-		"style": "bock",
+		"flavor": [
+			"malty",
+			"rich",
+			"sweet",
+			"warm",
+			"dark"
+		],
+		"type": "Bock - Single / Traditional",
 		"rating": 3.5
 	},
 	{
 		"name": "Filou",
-		"date": "2017-10-07",
-		"serving": "draft",
+		"date": "2017-10-07T21:38:03.000Z",
+		"serving": "Draft",
 		"brewery": {
-			"name": "Brouwerij Van Honsebrouck",
-			"size": "macro brewery",
-			"location": "Enschede, Overijssel, Netherlands",
-			"website": "https://www.vanhonsebrouck.be"	
+			"name": "Kasteel Brouwerij Vanhonsebrouck",
+			"country": "Belgium",
+			"city": "Izegem",
+			"state": "Vlaanderen"
 		},
+		"venue": {
+			"name": "Café Van Gunsteren",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3789,
+			"lng": 4.63099
+		},
+		"ibu": 0,
 		"abv": 8.5,
-		"ibu": null,
-		"flavor": ["sweet", "light", "strong", "smooth"],
-		"style": "belgian tripel",
+		"flavor": [
+			"light",
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"type": "Blonde Ale",
 		"rating": 3.5
 	},
 	{
 		"name": "IJwit",
-		"date": "2017-10-19",
-		"serving": "draft",
-		"venue": {
-			"name": "Theatercafé De Richer",
-			"category": "bar",
-			"address": "Nes 71, 1012 KD Amsterdam, Netherlands"
-		},
+		"date": "2017-10-19T18:10:53.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Brouwerij 't IJ",
-			"size": "micro brewery",
-			"location": "Amsterdam, Noord-Holland",
-			"website": "https://www.brouwerijhetij.nl"	
-		},			
-		"abv": 6.5,
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Theatercafé De Richel",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3699,
+			"lng": 4.89345
+		},
 		"ibu": 18,
-		"flavor": ["sweet", "light", "soft", "smooth", "fruity"],
-		"style": "witbier",
+		"abv": 6.5,
+		"flavor": [
+			"fruity",
+			"soft",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
 		"rating": 4
 	},
 	{
 		"name": "Original Pale Ale",
-		"date": "2017-10-20",
-		"serving": "bottle",
-		"venue": {
-			"name": "Drovers Dog",
-			"category": "australian restaurant",
-			"address": "Wibautstraat 206, Amsterdam, Netherlands"
-		},
+		"date": "2017-10-20T16:46:11.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Coopers",
-			"size": "macro brewery",
-			"location": "Regency Park, South Australia, Australia",
-			"website": "https://coopers.com.au"	
-		},			
-		"abv": 4.5,
+			"country": "Australia",
+			"city": "Regency Park",
+			"state": "SA"
+		},
+		"venue": {
+			"name": "Drovers Dog",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.352,
+			"lng": 4.91337
+		},
 		"ibu": 24,
-		"flavor": ["light", "smooth", "hoppy"],
-		"style": "australian pale ale",
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth",
+			"hoppy"
+		],
+		"type": "Pale Ale - Australian",
 		"rating": 3.5
 	},
 	{
 		"name": "Chouffe Bok 6666",
-		"date": "2017-10-21",
-		"serving": "bottle",
+		"date": "2017-10-21T19:17:30.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brasserie d'Achouffe",
-			"size": "micro brewery",
-			"location": "Achouffe, Luxembourg, Belgium",
-			"website": "http://www.achouffe.be"	
-		},			
-		"abv": 6.66,
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
 		"ibu": 19,
-		"flavor": ["dark", "smooth", "sweet"],
-		"style": "bock",
+		"abv": 6.66,
+		"flavor": [
+			"sweet",
+			"smooth",
+			"dark"
+		],
+		"type": "Bock - Single / Traditional",
 		"rating": 4.5
 	},
 	{
 		"name": "White Mamba",
-		"date": "2017-10-21",
-		"serving": "bottle",
+		"date": "2017-10-21T19:37:42.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Two Chefs Brewing",
-			"size": "micro brewery",
-			"location": "Amsterdam, Netherlands",
-			"website": "https://twochefsbrewing.com"	
-		},			
-		"abv": 5,
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
 		"ibu": 12,
-		"flavor": ["citrus", "light", "fruity", "floral", "hoppy"],
-		"style": "witbier",
+		"abv": 5,
+		"flavor": [
+			"floral",
+			"fruity",
+			"light",
+			"hoppy",
+			"citrus"
+		],
+		"type": "Wheat Beer - Witbier",
 		"rating": 4
+	},
+	{
+		"name": "Funky Falcon",
+		"date": "2017-10-21T22:20:05.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Two Chefs Brewing",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 25,
+		"abv": 5.2,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Pale Ale - American",
+		"rating": 3.75
+	},
+	{
+		"name": "Ivan 14°",
+		"date": "2017-10-24T20:58:14.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Kláštorný pivovar",
+			"country": "Slovakia",
+			"city": "Bratislava",
+			"state": ""
+		},
+		"venue": {
+			"name": "Bratislavský meštiansky pivovar",
+			"country": "Slovensko",
+			"city": "Bratislava",
+			"state": "Bratislavský kraj",
+			"lat": 48.1471,
+			"lng": 17.1083
+		},
+		"ibu": 0,
+		"abv": 0,
+		"flavor": [
+			"heavy",
+			"dark",
+			"coffee"
+		],
+		"type": "Lager - Dark",
+		"rating": 4.25
+	},
+	{
+		"name": "Pilsner Urquell",
+		"date": "2017-10-24T22:45:42.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Plzeňský Prazdroj",
+			"country": "Czech Republic",
+			"city": "Pilsen",
+			"state": "Jihozápad"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 40,
+		"abv": 4.4,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Czech",
+		"rating": 4
+	},
+	{
+		"name": "Pilsner Urquell",
+		"date": "2017-10-25T19:31:10.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Plzeňský Prazdroj",
+			"country": "Czech Republic",
+			"city": "Pilsen",
+			"state": "Jihozápad"
+		},
+		"venue": {
+			"name": "Botel Gracia Hotel Bratislava",
+			"country": "Slovensko",
+			"city": "Bratislava",
+			"state": "Bratislavský kraj",
+			"lat": 48.1395,
+			"lng": 17.1076
+		},
+		"ibu": 40,
+		"abv": 4.4,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Czech",
+		"rating": 4
+	},
+	{
+		"name": "13° Ján",
+		"date": "2017-10-25T20:13:01.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Holíčsky pivovar Wywar ",
+			"country": "Slovakia",
+			"city": "Holíč",
+			"state": ""
+		},
+		"venue": {
+			"name": "Lokál u Františkánov",
+			"country": "Slovensko",
+			"city": "Bratislava",
+			"state": "Bratislavský kraj",
+			"lat": 48.1446,
+			"lng": 17.108
+		},
+		"ibu": 32,
+		"abv": 5.2,
+		"flavor": [
+			""
+		],
+		"type": "Lager - Amber",
+		"rating": 4
+	},
+	{
+		"name": "Zlatý Bažant '73",
+		"date": "2017-10-26T18:49:01.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Heineken Slovensko",
+			"country": "Slovakia",
+			"city": "Hurbanovo",
+			"state": ""
+		},
+		"venue": {
+			"name": "Rio Grande",
+			"country": "Slovensko",
+			"city": "Bratislava",
+			"state": "Bratislavský kraj",
+			"lat": 48.1412,
+			"lng": 17.1065
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"malty",
+			"full",
+			"sweet",
+			"smooth",
+			"bitter"
+		],
+		"type": "Pilsner - Czech",
+		"rating": 4
+	},
+	{
+		"name": "10° Jozef II.",
+		"date": "2017-10-26T20:32:59.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Holíčsky pivovar Wywar ",
+			"country": "Slovakia",
+			"city": "Holíč",
+			"state": ""
+		},
+		"venue": {
+			"name": "Gorila.sk Urban Space",
+			"country": "Slovensko",
+			"city": "Bratislava",
+			"state": "Bratislavský kraj",
+			"lat": 48.1453,
+			"lng": 17.1102
+		},
+		"ibu": 31,
+		"abv": 3.8,
+		"flavor": [
+			"bread",
+			"light",
+			"strong",
+			"bitter"
+		],
+		"type": "Lager - Pale",
+		"rating": 4
+	},
+	{
+		"name": "Wiener Original",
+		"date": "2017-10-27T09:55:55.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Ottakringer Brauerei",
+			"country": "Austria",
+			"city": "Vienna",
+			"state": "Wien"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 0,
+		"abv": 5.3,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Vienna",
+		"rating": 3.5
 	}
 ]

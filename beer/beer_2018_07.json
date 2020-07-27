@@ -1,0 +1,171 @@
+[
+	{
+		"name": "Carmen Impact Hub",
+		"date": "2018-07-19T17:14:53.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij De Prael",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Impact Hub",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3623,
+			"lng": 4.92169
+		},
+		"ibu": 0,
+		"abv": 0,
+		"flavor": [
+			"banana",
+			"bitter"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.25
+	},
+	{
+		"name": "La Bianca",
+		"date": "2018-07-24T16:07:29.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Birra Moretti",
+			"country": "Italy",
+			"city": "Udine",
+			"state": "Friuli Venezia Giulia"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 33,
+		"abv": 5,
+		"flavor": [
+			"soft",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.5
+	},
+	{
+		"name": "Ichnusa Non Filtrata",
+		"date": "2018-07-24T19:02:24.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Ichnusa",
+			"country": "Italy",
+			"city": "Assemini",
+			"state": "Sardegna"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 11,
+		"abv": 5,
+		"flavor": [
+			"yeasty",
+			"clean",
+			"light"
+		],
+		"type": "Kellerbier / Zwickelbier",
+		"rating": 4
+	},
+	{
+		"name": "Birra Moretti L'Autentica",
+		"date": "2018-07-25T17:09:44.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Birra Moretti",
+			"country": "Italy",
+			"city": "Udine",
+			"state": "Friuli Venezia Giulia"
+		},
+		"venue": {
+			"name": "Pizzeria Vallesanta",
+			"country": "Italia",
+			"city": "Rimbocchi",
+			"state": "Toscana",
+			"lat": 43.7469,
+			"lng": 11.9238
+		},
+		"ibu": 12,
+		"abv": 4.6,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Menabrea Bionda",
+		"date": "2018-07-27T12:36:25.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "G. Menabrea & Figli",
+			"country": "Italy",
+			"city": "Biella",
+			"state": "Piemonte"
+		},
+		"venue": {
+			"name": "Doccione di Sotto",
+			"country": "Italia",
+			"city": "Chiusi della Verna",
+			"state": "Toscana",
+			"lat": 43.7576,
+			"lng": 11.9643
+		},
+		"ibu": 20,
+		"abv": 4.8,
+		"flavor": [
+			"malty",
+			"light",
+			"dry",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Peroni Nastro Azzurro",
+		"date": "2018-07-30T19:19:50.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Birra Peroni",
+			"country": "Italy",
+			"city": "Roma",
+			"state": "Lazio"
+		},
+		"venue": {
+			"name": "Woodstone Pizza And Wine",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3814,
+			"lng": 4.62989
+		},
+		"ibu": 0,
+		"abv": 5.1,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
+		"rating": 3.75
+	}
+]

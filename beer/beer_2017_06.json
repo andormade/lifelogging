@@ -1,354 +1,614 @@
 [
 	{
 		"name": "Peroni Nastro Azzurro",
-		"date": "2017-06-02",
-		"serving": "bottle",
+		"date": "2017-06-02T15:38:49.000Z",
+		"serving": "",
 		"brewery": {
 			"name": "Birra Peroni",
-			"size": "macro brewery",
-			"location": "Roma, Italy",
-			"website": "http://www.birraperoni.it"
+			"country": "Italy",
+			"city": "Roma",
+			"state": "Lazio"
 		},
+		"venue": {
+			"name": "Canvas",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.354,
+			"lng": 4.91186
+		},
+		"ibu": 0,
 		"abv": 5.1,
-		"ibu": null,
-		"flavor": ["light", "clean", "smooth"],
-		"style": "lager",
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Euro Pale",
 		"rating": 3.75
 	},
 	{
-		"name": "La Chouffe",
-		"date": "2017-06-02",
-		"serving": "bottle",
+		"name": "La Chouffe Blond",
+		"date": "2017-06-02T16:27:21.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brasserie d'Achouffe",
-			"size": "micro brewery",
-			"location": "Achouffe, Belgium",
-			"website": "http://achouffe.be"
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
 		},
-		"abv": 8,
+		"venue": {
+			"name": "Canvas",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.354,
+			"lng": 4.91186
+		},
 		"ibu": 20,
-		"flavor": ["fruity", "sweet", "strong", "smooth"],
-		"style": "belgian strong golden ale",
+		"abv": 8,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Strong Golden Ale",
 		"rating": 4
 	},
 	{
 		"name": "Zatte",
-		"date": "2017-06-02",
-		"serving": "bottle",
+		"date": "2017-06-02T18:09:12.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij 't IJ",
-			"size": "micro brewery",
-			"location": "Amsterdam, Noord-Holland, Netherlands",
-			"website": "http://brouwerijhetij.nl"
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
+		"venue": {
+			"name": "Canvas",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.354,
+			"lng": 4.91186
+		},
+		"ibu": 19,
 		"abv": 8,
-		"ibu": null,
-		"flavor": ["sweet", "strong"],
-		"style": "belgian tripel",
+		"flavor": [
+			"sweet",
+			"strong"
+		],
+		"type": "Belgian Tripel",
 		"rating": 3.5
 	},
 	{
 		"name": "Original Pale Ale",
-		"date": "2017-06-02",
-		"serving": "bottle",
+		"date": "2017-06-02T19:57:58.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Coopers Brewery",
-			"size": "macro brewery",
-			"location": "Regency Park, Australia",
-			"website": "https://coopers.com.au"
+			"name": "Coopers",
+			"country": "Australia",
+			"city": "Regency Park",
+			"state": "SA"
 		},
+		"venue": {
+			"name": "Drovers Dog",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.352,
+			"lng": 4.91337
+		},
+		"ibu": 24,
 		"abv": 4.5,
-		"ibu": null,
-		"flavor": ["light", "hoppy"],
-		"style": "pale ale",
+		"flavor": [
+			"light",
+			"hoppy"
+		],
+		"type": "Pale Ale - Australian",
 		"rating": 3.5
 	},
 	{
 		"name": "Sparkling Ale",
-		"date": "2017-06-02",
-		"serving": "bottle",
+		"date": "2017-06-02T21:40:58.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Coopers Brewery",
-			"size": "macro brewery",
-			"location": "Regency Park, Australia",
-			"website": "https://coopers.com.au"
+			"name": "Coopers",
+			"country": "Australia",
+			"city": "Regency Park",
+			"state": "SA"
 		},
-		"abv": 5.8,
+		"venue": {
+			"name": "Drovers Dog",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.352,
+			"lng": 4.91337
+		},
 		"ibu": 35,
-		"flavor": ["malty", "light"],
-		"style": "pale ale",
+		"abv": 5.8,
+		"flavor": [
+			"malty",
+			"light"
+		],
+		"type": "Australian Sparkling Ale",
 		"rating": 3.25
 	},
 	{
 		"name": "Zatte",
-		"date": "2017-06-03",
-		"serving": "draft",
+		"date": "2017-06-03T19:32:11.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Brouwerij 't IJ",
-			"size": "micro brewery",
-			"location": "Amsterdam, Noord-Holland, Netherlands",
-			"website": "http://brouwerijhetij.nl"
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
-		"abv": 8,
+		"venue": {
+			"name": "Radijs",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.371,
+			"lng": 4.85676
+		},
 		"ibu": 19,
-		"flavor": ["sweet", "strong"],
-		"style": "belgian tripel",
+		"abv": 8,
+		"flavor": [
+			"sweet",
+			"strong"
+		],
+		"type": "Belgian Tripel",
 		"rating": 4
 	},
 	{
-		"name": "La Chouffe",
-		"date": "2017-06-03",
-		"serving": "draft",
+		"name": "La Chouffe Blond",
+		"date": "2017-06-03T20:50:00.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Brasserie d'Achouffe",
-			"size": "micro brewery",
-			"location": "Achouffe, Belgium",
-			"website": "http://achouffe.be"
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
 		},
-		"abv": 8,
+		"venue": {
+			"name": "Radijs",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.371,
+			"lng": 4.85676
+		},
 		"ibu": 20,
-		"flavor": ["sweet", "strong"],
-		"style": "belgian strong golden ale",
+		"abv": 8,
+		"flavor": [
+			""
+		],
+		"type": "Belgian Strong Golden Ale",
 		"rating": 4
 	},
 	{
 		"name": "IKEA Öl Mörk Lager",
-		"date": "2017-06-04",
-		"serving": "bottle",
+		"date": "2017-06-04T21:58:20.000Z",
+		"serving": "",
 		"brewery": {
 			"name": "Krönleins Bryggeri",
-			"size": "macro brewery",
-			"location": "Halmstad, Sweden",
-			"website": "http://kronleins.se"
+			"country": "Sweden",
+			"city": "Halmstad",
+			"state": "Hallands län"
 		},
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 0,
 		"abv": 4.7,
-		"ibu": null,
-		"flavor": ["malty", "light", "dry"],
-		"style": "dark lager",
+		"flavor": [
+			"malty",
+			"light",
+			"dry"
+		],
+		"type": "Lager - Euro Dark",
 		"rating": 4
 	},
 	{
 		"name": "Tropical Ralphie",
-		"date": "2017-06-13",
-		"serving": "bottle",
+		"date": "2017-06-13T18:33:38.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Two Chefs Brewing",
-			"size": "micro brewery",
-			"location": "Amsterdam, Netherlands",
-			"website": "http://twochefsbrewing.com"
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
-		"abv": 4.7,
-		"ibu": null,
-		"flavor": ["fruity", "light", "sour"],
-		"style": "hefeweizen",
+		"venue": {
+			"name": "Parnassia Strandtent",
+			"country": "Nederland",
+			"city": "Bloemendaal",
+			"state": "Noord-Holland",
+			"lat": 52.4184,
+			"lng": 4.55403
+		},
+		"ibu": 20,
+		"abv": 5,
+		"flavor": [
+			"fruity",
+			"light",
+			"sour"
+		],
+		"type": "Hefeweizen",
 		"rating": 4
 	},
 	{
-		"name": "Raging Bitch Belgian IPA",
-		"date": "2017-06-14",
-		"serving": "bottle",
+		"name": "Raging Bitch",
+		"date": "2017-06-14T20:20:45.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Flying Dog Brewery",
-			"size": "micro brewery",
-			"location": "Frederick, Maryland, United States",
-			"website": "http://flyingdogbrewery.com"
+			"country": "United States",
+			"city": "Frederick",
+			"state": "MD"
 		},
-		"abv": 8.3,
+		"venue": {
+			"name": "d&a Hummus Bistro",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3784,
+			"lng": 4.88268
+		},
 		"ibu": 60,
-		"flavor": ["fruity", "smooth", "hoppy"],
-		"style": "belgian IPA",
+		"abv": 8.3,
+		"flavor": [
+			"fruity",
+			"smooth",
+			"hoppy"
+		],
+		"type": "IPA - Belgian",
 		"rating": 3.5
 	},
 	{
 		"name": "IKEA Öl Mörk Lager",
-		"date": "2017-06-16",
-		"serving": "bottle",
+		"date": "2017-06-16T21:58:46.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Krönleins Bryggeri",
-			"size": "macro brewery",
-			"location": "Halmstad, Sweden",
-			"website": "http://kronleins.se"
+			"country": "Sweden",
+			"city": "Halmstad",
+			"state": "Hallands län"
 		},
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 0,
 		"abv": 4.7,
-		"ibu": null,
-		"flavor": ["malty", "light", "dry"],
-		"style": "dark lager",
+		"flavor": [
+			"malty",
+			"light",
+			"dark"
+		],
+		"type": "Lager - Euro Dark",
 		"rating": 4
 	},
 	{
 		"name": "Corona Extra",
-		"date": "2017-06-17",
-		"serving": "bottle",
+		"date": "2017-06-17T18:28:12.000Z",
+		"serving": "",
 		"brewery": {
 			"name": "Grupo Modelo",
-			"size": "macro brewery",
-			"location": "Mexico City, Mexico",
-			"website": "https://www.gmodelo.mx"
+			"country": "Mexico",
+			"city": "Nava",
+			"state": "Coahuila de Zaragoza"
 		},
-		"abv": 4.5,
+		"venue": {
+			"name": "Cantina 023",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3792,
+			"lng": 4.63682
+		},
 		"ibu": 19,
-		"flavor": ["light", "smooth"],
-		"style": "north american adjunct lager",
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Lager - American",
 		"rating": 4.5
 	},
 	{
 		"name": "Pilsener",
-		"date": "2017-06-17",
-		"serving": "bottle",
+		"date": "2017-06-17T20:02:49.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Koninklijke Brand Bierbrouwerij",
-			"size": "macro brewery",
-			"location": "Wijlre, Limburg, Netherlands",
-			"website": "http://brand.nl"
+			"country": "Netherlands",
+			"city": "Wijlre",
+			"state": "Limburg"
 		},
-		"abv": 5,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 27,
-		"flavor": ["light", "smooth", "hoppy", "bitter"],
-		"style": "pilsner",
+		"abv": 5,
+		"flavor": [
+			""
+		],
+		"type": "Pilsner - Other",
 		"rating": 3
 	},
 	{
 		"name": "Westmalle Trappist Tripel",
-		"date": "2017-06-17",
-		"serving": "bottle",
+		"date": "2017-06-17T21:55:31.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij der Trappisten van Westmalle",
-			"size": "macro brewery",
-			"location": "Malle, Antwerpen, Belgium",
-			"website": "https://www.trappistwestmalle.be"
+			"country": "Belgium",
+			"city": "Malle",
+			"state": "Vlaanderen"
 		},
-		"abv": 9.5,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 36,
-		"flavor": ["light", "smooth", "sweet"],
-		"style": "belgian tripel",
+		"abv": 9.5,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Belgian Tripel",
 		"rating": 3.5
 	},
 	{
 		"name": "Crybaby",
-		"date": "2017-06-20",
-		"serving": "draft",
+		"date": "2017-06-20T19:37:21.000Z",
+		"serving": "Draft",
 		"brewery": {
-			"name": "Het Uiltje",
-			"size": "micro brewery",
-			"location": "Haarlem, Noord-Holland Netherlands",
-			"website": "https://www.uiltjecraftbeer.com"
+			"name": "Uiltje Brewing Company",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
+		"ibu": 3,
 		"abv": 2.4,
-		"ibu": null,
-		"flavor": ["light", "sour", "citrus"],
-		"style": "berliner weisse",
+		"flavor": [
+			"light",
+			"sour",
+			"citrus"
+		],
+		"type": "Sour - Fruited Berliner Weisse",
 		"rating": 4
 	},
 	{
 		"name": "Mr. Feathers",
-		"date": "2017-06-20",
-		"serving": "draft",
+		"date": "2017-06-20T20:15:20.000Z",
+		"serving": "Draft",
 		"brewery": {
-			"name": "Het Uiltje",
-			"size": "micro brewery",
-			"location": "Haarlem, Noord-Holland Netherlands",
-			"website": "https://www.uiltjecraftbeer.com"
+			"name": "Uiltje Brewing Company",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
-		"abv": 4.9,
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
 		"ibu": 40,
-		"flavor": ["light", "hoppy", "bitter"],
-		"style": "american amber ale",
+		"abv": 4.9,
+		"flavor": [
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Red Ale - American Amber / Red",
 		"rating": 4
 	},
 	{
 		"name": "Epic Saison",
-		"date": "2017-06-20",
-		"serving": "draft",
+		"date": "2017-06-20T21:02:23.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "The Wild Beer Co",
-			"size": "micro brewery",
-			"location": "Evercreech, Somerset, England",
-			"website": "http://wildbeerco.com"
+			"country": "England",
+			"city": "Evercreech",
+			"state": "Somerset"
 		},
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
+		"ibu": 48,
 		"abv": 5,
-		"ibu": null,
-		"flavor": ["spicy", "light", "sour"],
-		"style": "saison",
+		"flavor": [
+			"spicy",
+			"light",
+			"sour"
+		],
+		"type": "Farmhouse Ale - Saison",
 		"rating": 4.5
 	},
 	{
 		"name": "Matryoshka Doll",
-		"date": "2017-06-20",
-		"serving": "draft",
+		"date": "2017-06-20T21:03:52.000Z",
+		"serving": "Draft",
 		"brewery": {
-			"name": "Het Uiltje",
-			"size": "micro brewery",
-			"location": "Haarlem, Noord-Holland Netherlands",
-			"website": "https://www.uiltjecraftbeer.com"
+			"name": "Uiltje Brewing Company",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
-		"abv": 8,
-		"ibu": null,
-		"flavor": ["roasty", "creamy", "dark", "bitter", "caramel"],
-		"style": "baltic porter",
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
+		"ibu": 40,
+		"abv": 7.5,
+		"flavor": [
+			"roasty",
+			"creamy",
+			"dark",
+			"bitter",
+			"caramel"
+		],
+		"type": "Porter - Baltic",
 		"rating": 4
 	},
 	{
-		"name": "Sgt. Night Vision",
-		"date": "2017-06-20",
-		"serving": "bottle",
+		"name": "SGT. Nightvision",
+		"date": "2017-06-20T21:35:07.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Het Uiltje",
-			"size": "micro brewery",
-			"location": "Haarlem, Noord-Holland Netherlands",
-			"website": "https://www.uiltjecraftbeer.com"
+			"name": "Uiltje Brewing Company",
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
-		"abv": 10.5,
+		"venue": {
+			"name": "Uiltje Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3829,
+			"lng": 4.63072
+		},
 		"ibu": 80,
-		"flavor": ["smoky", "dark", "covfefe", "bitter"],
-		"style": "stout",
+		"abv": 10.5,
+		"flavor": [
+			"smoky",
+			"dark",
+			"coffee",
+			"bitter"
+		],
+		"type": "Stout - Imperial / Double",
 		"rating": 3.5
 	},
 	{
 		"name": "Benediktiner Weissbier",
-		"date": "2017-06-25",
-		"serving": "bottle",
+		"date": "2017-06-25T17:21:56.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Benediktiner Weißbräu",
-			"size": "micro brewery",
-			"location": "Ettal, Germany",
-			"website": "http://benediktiner-weissbier.de"
+			"country": "Germany",
+			"city": "82488 Ettal",
+			"state": ""
 		},
-		"abv": 10.5,
-		"ibu": 80,
-		"flavor": ["banana", "light", "smooth"],
-		"style": "hefeweizen",
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 13,
+		"abv": 5.4,
+		"flavor": [
+			"banana",
+			"light",
+			"smooth"
+		],
+		"type": "Hefeweizen",
 		"rating": 4.5
 	},
 	{
-		"name": "Cornet",
-		"date": "2017-06-25",
-		"serving": "bottle",
+		"name": "CORNET oaked",
+		"date": "2017-06-25T18:19:43.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij De Hoorn",
-			"size": "micro brewery",
-			"location": "Steenhuffel, Vlaams-Brabant, Belgium",
-			"website": "http://dehoorn.eu"
+			"country": "Belgium",
+			"city": "Steenhuffel",
+			"state": "Vlaanderen"
 		},
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 25,
 		"abv": 8.5,
-		"ibu": 18,
-		"flavor": ["light", "smooth"],
-		"style": "belgian strong golden ale",
+		"flavor": [
+			"light",
+			"smooth"
+		],
+		"type": "Belgian Strong Golden Ale",
 		"rating": 4
 	},
 	{
 		"name": "La Trappe PUUR",
-		"date": "2017-06-25",
-		"serving": "bottle",
+		"date": "2017-06-25T19:44:00.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Brouwerij De Hoorn",
-			"size": "micro brewery",
-			"location": "Steenhuffel, Vlaams-Brabant, Belgium",
-			"website": "http://dehoorn.eu"
+			"name": "Bierbrouwerij De Koningshoeven",
+			"country": "Netherlands",
+			"city": "Berkel-Enschot",
+			"state": "Noord-Brabant"
 		},
-		"abv": 4.7,
-		"ibu": 27,
-		"flavor": ["clean", "light", "smooth", "hoppy", "bitter"],
-		"style": "belgian pale ale",
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 25,
+		"abv": 4.5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Pale Ale - Belgian",
 		"rating": 3.5
 	}
 ]

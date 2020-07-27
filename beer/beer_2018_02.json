@@ -1,21 +1,23 @@
 [
 	{
 		"name": "Wieckse Witte",
-		"date": "2018-02-01 22:30:22",
-		"serving": "bottle",
+		"date": "2018-02-01T21:30:22.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Wieckse",
-			"size": null,
-			"location": "Maastricht, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Maastricht",
+			"state": "Limburg"
 		},
 		"venue": {
 			"name": "Paradiso",
-			"location": "Amsterdam, Nederland",
-			"longitude": 4.88399,
-			"latitude": 52.3622
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3622,
+			"lng": 4.88387
 		},
-		"ibu": null,
+		"ibu": 0,
 		"abv": 5,
 		"flavor": [
 			"fruity",
@@ -24,24 +26,26 @@
 			"warm",
 			"smooth"
 		],
-		"style": "witbier",
+		"type": "Wheat Beer - Witbier",
 		"rating": 3
 	},
 	{
 		"name": "La Chouffe Blond",
-		"date": "2018-02-02 21:58:45",
-		"serving": "bottle",
+		"date": "2018-02-02T20:58:45.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brasserie d'Achouffe",
-			"size": null,
-			"location": "Achouffe, Belgium",
-			"website": null
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
 		},
 		"venue": {
 			"name": "Albert Heijn to go",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.63954,
-			"latitude": 52.3885
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3885,
+			"lng": 4.63954
 		},
 		"ibu": 20,
 		"abv": 8,
@@ -52,24 +56,26 @@
 			"strong",
 			"smooth"
 		],
-		"style": "belgian strong golden ale",
-		"rating": 4
+		"type": "Belgian Strong Golden Ale",
+		"rating": 4.25
 	},
 	{
-		"name": "Franziskaner Hefe-Weissbier Naturtrüb",
-		"date": "2018-02-06 18:40:16",
-		"serving": "bottle",
+		"name": "Franziskaner Premium Weissbier Naturtrüb",
+		"date": "2018-02-06T17:40:16.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Spaten-Franziskaner-Löwenbräu-Gruppe",
-			"size": null,
-			"location": "München, Germany",
-			"website": null
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
 		},
 		"venue": {
 			"name": "Haarlem",
-			"location": ", Nederland",
-			"longitude": 4.63838,
-			"latitude": 52.3892
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
 		},
 		"ibu": 12,
 		"abv": 5,
@@ -79,51 +85,55 @@
 			"sweet",
 			"smooth"
 		],
-		"style": "hefeweizen",
-		"rating": 4
+		"type": "Hefeweizen",
+		"rating": 4.5
 	},
 	{
 		"name": "Vedett Extra Ordinary IPA",
-		"date": "2018-02-09 22:26:37",
-		"serving": "bottle",
+		"date": "2018-02-09T21:26:37.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Duvel Moortgat",
-			"size": null,
-			"location": "Puurs, Belgium",
-			"website": null
+			"country": "Belgium",
+			"city": "Puurs",
+			"state": "Vlaanderen"
 		},
 		"venue": {
 			"name": "MEZRAB",
-			"location": "Amsterdam, Nederland",
-			"longitude": 4.92771,
-			"latitude": 52.376
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.376,
+			"lng": 4.92771
 		},
 		"ibu": 40,
-		"abv": 5,
+		"abv": 5.5,
 		"flavor": [
 			"fruity",
 			"light",
 			"dry",
 			"hoppy"
 		],
-		"style": "ipa - belgian",
+		"type": "IPA - Belgian",
 		"rating": 4
 	},
 	{
 		"name": "Kingfisher Premium Lager",
-		"date": "2018-02-10 20:52:56",
-		"serving": "bottle",
+		"date": "2018-02-10T19:52:56.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "United Breweries (India)",
-			"size": null,
-			"location": ", India",
-			"website": null
+			"name": "United Breweries",
+			"country": "India",
+			"city": "",
+			"state": "Bangalore"
 		},
 		"venue": {
 			"name": "Jai Bharat",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.63796,
-			"latitude": 52.3808
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3808,
+			"lng": 4.63796
 		},
 		"ibu": 20,
 		"abv": 5,
@@ -133,24 +143,26 @@
 			"light",
 			"smooth"
 		],
-		"style": "lager - north american adjunct",
-		"rating": 3
+		"type": "Lager - American",
+		"rating": 3.5
 	},
 	{
 		"name": "Gin Weizen",
-		"date": "2018-02-11 21:30:42",
-		"serving": "bottle",
+		"date": "2018-02-11T20:30:42.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Gebrouwen Door Vrouwen",
-			"size": null,
-			"location": "Amsterdam, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
 		"venue": {
 			"name": "Haarlem",
-			"location": ", Nederland",
-			"longitude": 4.63838,
-			"latitude": 52.3892
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
 		},
 		"ibu": 16,
 		"abv": 6,
@@ -160,54 +172,58 @@
 			"light",
 			"sweet"
 		],
-		"style": "hefeweizen",
-		"rating": 4
+		"type": "Hefeweizen",
+		"rating": 4.5
 	},
 	{
 		"name": "La Trappe Witte Trappist",
-		"date": "2018-02-12 21:10:42",
-		"serving": "bottle",
+		"date": "2018-02-12T20:10:42.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Bierbrouwerij De Koningshoeven",
-			"size": null,
-			"location": "Berkel-Enschot, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Berkel-Enschot",
+			"state": "Noord-Brabant"
 		},
 		"venue": {
 			"name": "Haarlem",
-			"location": ", Nederland",
-			"longitude": 4.63838,
-			"latitude": 52.3892
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
 		},
 		"ibu": 14,
-		"abv": 5,
+		"abv": 5.5,
 		"flavor": [
 			"fruity",
 			"light",
 			"sweet",
 			"smooth"
 		],
-		"style": "witbier",
-		"rating": 4
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.5
 	},
 	{
 		"name": "Rosemary's Tears",
-		"date": "2018-02-15 19:18:58",
-		"serving": "draft",
+		"date": "2018-02-15T18:18:58.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Austmann",
-			"size": null,
-			"location": "Trondheim, Norway",
-			"website": null
+			"country": "Norway",
+			"city": "Trondheim",
+			"state": "Trøndelag"
 		},
 		"venue": {
-			"name": "Bierlokaal De Uiver",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.63817,
-			"latitude": 52.3811
+			"name": "Bierlokaal de Uiver",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3821,
+			"lng": 4.63898
 		},
-		"ibu": null,
-		"abv": 4,
+		"ibu": 0,
+		"abv": 4.7,
 		"flavor": [
 			"spicy",
 			"aromatic",
@@ -215,54 +231,58 @@
 			"salty",
 			"licorice"
 		],
-		"style": "spiced / herbed beer",
-		"rating": 4
+		"type": "Spiced / Herbed Beer",
+		"rating": 4.5
 	},
 	{
 		"name": "Pumpkin Party",
-		"date": "2018-02-15 20:49:02",
-		"serving": "draft",
+		"date": "2018-02-15T19:49:02.000Z",
+		"serving": "Draft",
 		"brewery": {
-			"name": "GebrouwenDoor Vrouwen",
-			"size": null,
-			"location": "Amsterdam, Netherlands",
-			"website": null
+			"name": "Gebrouwen Door Vrouwen",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
 		"venue": {
-			"name": "Bierlokaal De Uiver",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.63817,
-			"latitude": 52.3811
+			"name": "Bierlokaal de Uiver",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3821,
+			"lng": 4.63898
 		},
 		"ibu": 27,
-		"abv": 6,
+		"abv": 6.9,
 		"flavor": [
 			"malty",
 			"spicy",
 			"sweet",
 			"bitter"
 		],
-		"style": "pumpkin / yam beer",
+		"type": "Pumpkin / Yam Beer",
 		"rating": 4
 	},
 	{
 		"name": "Kompaan 20 Bondgenoot",
-		"date": "2018-02-16 20:20:42",
+		"date": "2018-02-16T19:20:42.000Z",
 		"serving": "",
 		"brewery": {
-			"name": "Kompaan Bier/ Brouwerij Kompaan",
-			"size": null,
-			"location": "Den Haag, Netherlands",
-			"website": null
+			"name": "KOMPAAN Dutch Craft Beer Company",
+			"country": "Netherlands",
+			"city": "Den Haag",
+			"state": "Zuid-Holland"
 		},
 		"venue": {
 			"name": "August Allebéplein",
-			"location": ", Nederland",
-			"longitude": 4.8372,
-			"latitude": 52.3632
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3632,
+			"lng": 4.8372
 		},
 		"ibu": 38,
-		"abv": 5,
+		"abv": 5.2,
 		"flavor": [
 			"fruity",
 			"light",
@@ -270,24 +290,26 @@
 			"hoppy",
 			"bitter"
 		],
-		"style": "pale ale - belgian",
+		"type": "Pale Ale - International",
 		"rating": 4
 	},
 	{
 		"name": "Gin Weizen",
-		"date": "2018-02-16 22:00:14",
-		"serving": "bottle",
+		"date": "2018-02-16T21:00:14.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Gebrouwen Door Vrouwen",
-			"size": null,
-			"location": "Amsterdam, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
 		"venue": {
 			"name": "August Allebéplein",
-			"location": ", Nederland",
-			"longitude": 4.8372,
-			"latitude": 52.3632
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3632,
+			"lng": 4.8372
 		},
 		"ibu": 16,
 		"abv": 6,
@@ -297,24 +319,26 @@
 			"light",
 			"sweet"
 		],
-		"style": "hefeweizen",
-		"rating": 4
+		"type": "Hefeweizen",
+		"rating": 4.25
 	},
 	{
 		"name": "Honingblond",
-		"date": "2018-02-16 22:01:35",
-		"serving": "bottle",
+		"date": "2018-02-16T21:01:35.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij Troost",
-			"size": null,
-			"location": "Amsterdam, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
 		"venue": {
 			"name": "August Allebéplein",
-			"location": ", Nederland",
-			"longitude": 4.8372,
-			"latitude": 52.3632
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3632,
+			"lng": 4.8372
 		},
 		"ibu": 26,
 		"abv": 7,
@@ -324,51 +348,55 @@
 			"hoppy",
 			"honey"
 		],
-		"style": "honey beer",
-		"rating": 3
+		"type": "Honey Beer",
+		"rating": 3.5
 	},
 	{
 		"name": "Punk IPA",
-		"date": "2018-02-17 22:19:11",
-		"serving": "bottle",
+		"date": "2018-02-17T21:19:11.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "BrewDog",
-			"size": null,
-			"location": "Ellon, Scotland",
-			"website": null
+			"country": "Scotland",
+			"city": "Ellon",
+			"state": "Aberdeenshire"
 		},
 		"venue": {
 			"name": "Wunderbar",
-			"location": ", Nederland",
-			"longitude": 4.47652,
-			"latitude": 51.9155
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9156,
+			"lng": 4.47643
 		},
 		"ibu": 35,
-		"abv": 5,
+		"abv": 5.6,
 		"flavor": [
 			"fruity",
 			"light",
 			"smooth",
 			"hoppy"
 		],
-		"style": "ipa - american",
+		"type": "IPA - American",
 		"rating": 4
 	},
 	{
 		"name": "La Chouffe Blond",
-		"date": "2018-02-22 23:00:55",
-		"serving": "bottle",
+		"date": "2018-02-22T22:00:55.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brasserie d'Achouffe",
-			"size": null,
-			"location": "Achouffe, Belgium",
-			"website": null
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
 		},
 		"venue": {
 			"name": "Haarlem",
-			"location": ", Nederland",
-			"longitude": 4.63838,
-			"latitude": 52.3892
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
 		},
 		"ibu": 20,
 		"abv": 8,
@@ -378,24 +406,26 @@
 			"strong",
 			"smooth"
 		],
-		"style": "belgian strong golden ale",
-		"rating": 4
+		"type": "Belgian Strong Golden Ale",
+		"rating": 4.25
 	},
 	{
 		"name": "Silver",
-		"date": "2018-02-24 19:32:36",
-		"serving": "bottle",
+		"date": "2018-02-24T18:32:36.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Bourgogne Kruis",
-			"size": null,
-			"location": "Oosterhout, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Oosterhout",
+			"state": "Noord-Brabant"
 		},
 		"venue": {
 			"name": "Lokaal Haarlem",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.63475,
-			"latitude": 52.3811
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3811,
+			"lng": 4.63475
 		},
 		"ibu": 35,
 		"abv": 8,
@@ -405,34 +435,36 @@
 			"bitter",
 			"body"
 		],
-		"style": "blonde ale",
-		"rating": 4
+		"type": "Blonde Ale",
+		"rating": 4.25
 	},
 	{
 		"name": "Stoeien Met Stout",
-		"date": "2018-02-24 20:17:46",
-		"serving": "draft",
+		"date": "2018-02-24T19:17:46.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Briljant Brouwhuis",
-			"size": null,
-			"location": "Haarlem, Netherlands",
-			"website": null
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
 		"venue": {
 			"name": "Lokaal Haarlem",
-			"location": "Haarlem, Nederland",
-			"longitude": 4.63475,
-			"latitude": 52.3811
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3811,
+			"lng": 4.63475
 		},
 		"ibu": 65,
-		"abv": 9,
+		"abv": 9.8,
 		"flavor": [
 			"malty",
 			"heavy",
 			"sour",
 			"apple"
 		],
-		"style": "stout - russian imperial",
+		"type": "Stout - Russian Imperial",
 		"rating": 4
 	}
 ]

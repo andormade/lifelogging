@@ -1,315 +1,597 @@
 [
 	{
 		"name": "Yakima Red",
-		"date": "2017-07-01",
-		"serving": "draft",
+		"date": "2017-07-01T12:44:34.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Meantime Brewing Company",
-			"size": "macro brewery",
-			"location": "Greenwich, Greater London, England",
-			"website": "https://www.meantimebrewing.com"
+			"country": "England",
+			"city": "City of London",
+			"state": "London"
 		},
-		"abv": 4.1,
+		"venue": {
+			"name": "Park Maasboulevard",
+			"country": "Nederland",
+			"city": "Schiedam",
+			"state": "Zuid-Holland",
+			"lat": 51.9014,
+			"lng": 4.40308
+		},
 		"ibu": 45,
-		"flavor": ["fruity", "light", "hoppy"],
-		"style": "american amber ale",
+		"abv": 4.1,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "Red Ale - American Amber / Red",
 		"rating": 4
 	},
 	{
-		"name": "Franziskaner Weissbier Dunkel",
-		"date": "2017-07-01",
-		"serving": "bottle",
+		"name": "Franziskaner Premium Weissbier Dunkel",
+		"date": "2017-07-01T19:32:49.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Spaten-Löwenbrau-Gruppe",
-			"size": "macro brewery",
-			"location": "München, Germany"
+			"name": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
 		},
-		"abv": 5,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 10,
-		"flavor": ["malty", "sweet", "smooth", "dark"],
-		"style": "lager",
+		"abv": 5,
+		"flavor": [
+			"malty",
+			"sweet",
+			"smooth",
+			"dark"
+		],
+		"type": "Dunkelweizen",
 		"rating": 5
 	},
 	{
 		"name": "Benediktiner Weissbier Dunkel",
-		"date": "2017-07-01",
-		"serving": "bottle",
+		"date": "2017-07-01T20:48:39.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Benediktiner Weißbräu",
-			"size": "micro brewery",
-			"location": "Ettal, Germany"
+			"country": "Germany",
+			"city": "82488 Ettal",
+			"state": ""
 		},
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 13,
 		"abv": 5.4,
-		"ibu": null,
-		"flavor": ["dark", "smooth", "light"],
-		"style": "dunkelweizen",
+		"flavor": [
+			""
+		],
+		"type": "Dunkelweizen",
 		"rating": 4.5
 	},
 	{
 		"name": "Tripel Karmeliet",
-		"date": "2017-07-02",
-		"serving": "bottle",
+		"date": "2017-07-02T18:24:39.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brouwerij Bosteels",
-			"size": "micro brewery",
-			"location": "Buggenhout, Oost-Vlaanderen, Belgium"
+			"country": "Belgium",
+			"city": "Buggenhout",
+			"state": "Vlaanderen"
 		},
-		"abv": 8.4,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 16,
-		"flavor": ["fruity", "smooth", "light", "strong"],
-		"style": "belgian tripel",
+		"abv": 8.4,
+		"flavor": [
+			"fruity",
+			"light",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Tripel",
 		"rating": 4
 	},
 	{
-		"name": "Benediktiner Weissbier Dunkel",
-		"date": "2017-07-03",
-		"serving": "bottle",
+		"name": "Franziskaner Premium Weissbier Dunkel",
+		"date": "2017-07-02T22:38:57.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Benediktiner Weißbräu",
-			"size": "micro brewery",
-			"location": "Ettal, Germany"
+			"name": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
 		},
-		"abv": 5.4,
-		"ibu": null,
-		"flavor": ["dark", "smooth", "light"],
-		"style": "dunkelweizen",
-		"rating": 4.5
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 10,
+		"abv": 5,
+		"flavor": [
+			"malty",
+			"smooth",
+			"dark"
+		],
+		"type": "Dunkelweizen",
+		"rating": 5
 	},
 	{
 		"name": "Gin Weizen",
-		"date": "2017-07-07",
-		"serving": "bottle",
+		"date": "2017-07-07T17:13:48.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Gebrouwen Door Vrouwen",
-			"size": "micro brewery",
-			"location": "Amsterdam, Noord-Holland, Netherlands"
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
+		"venue": {
+			"name": "Lokaal Edel",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3641,
+			"lng": 4.85929
+		},
+		"ibu": 16,
 		"abv": 6,
-		"ibu": null,
-		"flavor": ["juniper", "fruity", "light"],
-		"style": "hefeweizen",
+		"flavor": [
+			"juniper",
+			"fruity",
+			"light"
+		],
+		"type": "Hefeweizen",
 		"rating": 4.5
 	},
 	{
 		"name": "Funky Falcon",
-		"date": "2017-07-07",
-		"serving": "bottle",
+		"date": "2017-07-07T18:18:40.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Two Chefs Brewing",
-			"size": "micro brewery",
-			"location": "Amsterdam, Noord-Holland, Netherlands"
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
-		"abv": 5.2,
+		"venue": {
+			"name": "Lokaal Edel",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3641,
+			"lng": 4.85929
+		},
 		"ibu": 25,
-		"flavor": ["hoppy", "bitter", "light"],
-		"style": "american pale ale",
+		"abv": 5.2,
+		"flavor": [
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Pale Ale - American",
 		"rating": 3.75
 	},
 	{
 		"name": "Mannenliefde",
-		"date": "2017-07-07",
-		"serving": "draft",
+		"date": "2017-07-07T19:33:49.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Oedipus Brewing",
-			"size": "micro brewery",
-			"location": "Amsterdam, Noord-Holland, Netherlands"
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
-		"abv": 6,
+		"venue": {
+			"name": "Radijs",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.371,
+			"lng": 4.85676
+		},
 		"ibu": 25,
-		"flavor": ["hoppy", "bitter", "light"],
-		"style": "saison",
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "Farmhouse Ale - Saison",
 		"rating": 3.5
 	},
 	{
-		"name": "La Chouffe",
-		"date": "2017-07-15",
-		"serving": "bottle",
+		"name": "La Chouffe Blond",
+		"date": "2017-07-15T16:17:38.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Brasserie d'Achouffe",
-			"size": "micro brewery",
-			"location": "Achouffe, Belgium",
-			"website": "http://achouffe.be"	
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
 		},
-		"abv": 8,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 20,
-		"flavor": ["sweet", "strong", "smooth"],
-		"style": "belgian golden ale",
+		"abv": 8,
+		"flavor": [
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Strong Golden Ale",
 		"rating": 4
 	},
 	{
 		"name": "Premium Pils",
-		"date": "2017-07-16",
-		"serving": "bottle",
+		"date": "2017-07-16T12:13:29.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Hasseröder Brauerei",
-			"size": "macro brewery",
-			"location": "Wernigerode, Germany",
-			"website": "https://hasseroeder.de"	
+			"country": "Germany",
+			"city": "Wernigerode",
+			"state": "Sachsen-Anhalt"
 		},
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
+		"ibu": 28,
 		"abv": 4.9,
-		"ibu": null,
-		"flavor": ["clean", "light", "smooth"],
-		"style": "pilsner",
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - German",
 		"rating": 4
 	},
 	{
-		"name": "Dutch Eagle",
-		"date": "2017-07-16",
-		"serving": "draft",
+		"name": "Dutch Eagle (-2018)",
+		"date": "2017-07-16T14:59:33.000Z",
+		"serving": "",
 		"brewery": {
 			"name": "Morebeer Brewing",
-			"size": "micro brewery",
-			"location": "Amsterdam, Noord-Holland, Netherlands",
-			"website": "http://morebeer.nl"	
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
 		},
-		"abv": 5.5,
+		"venue": {
+			"name": "Proeflokaal Arendsnest",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3767,
+			"lng": 4.88956
+		},
 		"ibu": 35,
-		"flavor": ["fruity", "hoppy", "citrus", "bitter"],
-		"style": "pale ale",
+		"abv": 5.5,
+		"flavor": [
+			"fruity",
+			"hoppy",
+			"citrus",
+			"bitter"
+		],
+		"type": "Pale Ale - International",
 		"rating": 4
 	},
 	{
 		"name": "Gerardus Dubbel",
-		"date": "2017-07-16",
-		"serving": "draft",
+		"date": "2017-07-16T15:47:29.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Gulpener Bierbrouwerij",
-			"size": "macro brewery",
-			"location": "Gulpen, Limburg, Netherlands",
-			"website": "http://gulpener.nl"	
+			"country": "Netherlands",
+			"city": "Gulpen",
+			"state": "Limburg"
 		},
+		"venue": {
+			"name": "Proeflokaal Arendsnest",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3767,
+			"lng": 4.88956
+		},
+		"ibu": 0,
 		"abv": 7,
-		"ibu": null,
-		"flavor": ["malty", "sweet", "dark"],
-		"style": "belgian dubbel",
-		"rating": 4.5 
+		"flavor": [
+			"malty",
+			"sweet",
+			"dark"
+		],
+		"type": "Belgian Dubbel",
+		"rating": 4.5
 	},
 	{
 		"name": "Mongozo Coconut",
-		"date": "2017-07-16",
-		"serving": "bottle",
+		"date": "2017-07-16T18:22:07.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Mongozo BV Netherlands",
-			"size": "micro brewery",
-			"location": "Venray, Limburg, Netherlands",
-			"website": "http://mongozo.com"	
+			"name": "Mongozo",
+			"country": "Belgium",
+			"city": "Melle",
+			"state": "Vlaanderen"
 		},
+		"venue": {
+			"name": "Taytu",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3576,
+			"lng": 4.91316
+		},
+		"ibu": 0,
 		"abv": 3.6,
-		"ibu": null,
-		"flavor": ["tropical", "fruity", "light", "sweet", "coconut"],
-		"style": "fruit beer",
+		"flavor": [
+			"tropical",
+			"fruity",
+			"light",
+			"sweet",
+			"coconut"
+		],
+		"type": "Fruit Beer",
 		"rating": 4
 	},
 	{
 		"name": "La Trappe PUUR",
-		"date": "2017-07-20",
-		"serving": "draft",
+		"date": "2017-07-20T18:18:21.000Z",
+		"serving": "Draft",
 		"brewery": {
 			"name": "Bierbrouwerij De Koningshoeven",
-			"size": "micro brewery",
-			"location": "Berkel-Enschot, Noord-Brabant, Netherlands",
-			"website": "http://koningshoeven.nl/producten/brouwerij"	
+			"country": "Netherlands",
+			"city": "Berkel-Enschot",
+			"state": "Noord-Brabant"
 		},
-		"abv": 4.7,
-		"ibu": 27,
-		"flavor": ["clean", "smooth", "light"],
-		"style": "belgian pale ale",
+		"venue": {
+			"name": "Pizzeria Back to Basics",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3827,
+			"lng": 4.63148
+		},
+		"ibu": 25,
+		"abv": 4.5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pale Ale - Belgian",
 		"rating": 4
 	},
 	{
 		"name": "Malle Babbe",
-		"date": "2017-07-26",
-		"serving": "bottle",
+		"date": "2017-07-26T20:29:53.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Jopen",
-			"size": "micro brewery",
-			"location": "Haarlem, Noord-Holland, Netherlands",
-			"website": "https://jopenbier.nl"	
+			"country": "Netherlands",
+			"city": "Haarlem",
+			"state": "Noord-Holland"
 		},
-		"abv": 5.5,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 12,
-		"flavor": ["fruity", "sweet", "light", "sour"],
-		"style": "dunkelweizen",
+		"abv": 5.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"sweet",
+			"sour"
+		],
+		"type": "Dunkelweizen",
 		"rating": 4
 	},
 	{
 		"name": "Sommerweiße",
-		"date": "2017-07-29",
-		"serving": "bottle",
+		"date": "2017-07-29T12:34:38.000Z",
+		"serving": "Bottle",
 		"brewery": {
 			"name": "Erdinger Weissbräu",
-			"size": "macro brewery",
-			"location": "Erding, Germany",
-			"website": "https://int.erdinger.de"	
+			"country": "Germany",
+			"city": "Erding",
+			"state": "Bayern"
 		},
-		"abv": 4.6,
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
 		"ibu": 10,
-		"flavor": ["citrusy", "light", "hoppy"],
-		"style": "hefeweizen",
+		"abv": 4.6,
+		"flavor": [
+			"citrusy",
+			"light",
+			"hoppy"
+		],
+		"type": "Hefeweizen",
 		"rating": 4.5
 	},
 	{
-		"name": "Zundert",
-		"date": "2017-07-29",
-		"serving": "bottle",
+		"name": "Zundert 8",
+		"date": "2017-07-29T18:22:50.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Trappistenbrouwerij de Kievit B.V",
-			"size": "micro brewery",
-			"location": "Klein Zundert, Noord-Brabantm Netherlands",
-			"website": "http://abdijmariatoevlucht.nl/portfolio/brouwerij"	
+			"name": "Trappistenbrouwerij de Kievit B.V.",
+			"country": "Netherlands",
+			"city": "Klein Zundert",
+			"state": "Noord-Brabant"
 		},
-		"abv": 8,
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
 		"ibu": 34,
-		"flavor": ["fruity", "sweet", "strong", "smooth"],
-		"style": "belgian tripel",
+		"abv": 8,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Tripel",
 		"rating": 4.5
+	},
+	{
+		"name": "Straffe Hendrik Brugs Tripel Bier 9°",
+		"date": "2017-07-29T19:00:34.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brouwerij De Halve Maan",
+			"country": "Belgium",
+			"city": "Bruges",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 35,
+		"abv": 9,
+		"flavor": [
+			"light",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Tripel",
+		"rating": 3.75
 	},
 	{
 		"name": "Op & Top",
-		"date": "2017-07-30",
-		"serving": "bottle",
+		"date": "2017-07-30T17:15:38.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Brouwerij De Molen",
-			"size": "micro brewery",
-			"location": "Bodegraven, Zuid Holland, Netherlands",
-			"website": "http://brouwerijdemolen.nl/"	
+			"name": "Brouwerij de Molen",
+			"country": "Netherlands",
+			"city": "Bodegraven",
+			"state": "Zuid-Holland"
 		},
-		"abv": 4.5,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 38,
-		"flavor": ["light", "fruity", "dry", "hoppy", "bitter"],
-		"style": "english bitter",
+		"abv": 4.5,
+		"flavor": [
+			"fruity",
+			"light",
+			"dry",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Blonde Ale",
 		"rating": 3.5
 	},
 	{
 		"name": "Vuur & Vlam",
-		"date": "2017-07-30",
-		"serving": "bottle",
+		"date": "2017-07-30T19:07:48.000Z",
+		"serving": "Bottle",
 		"brewery": {
-			"name": "Brouwerij De Molen",
-			"size": "micro brewery",
-			"location": "Bodegraven, Zuid Holland, Netherlands",
-			"website": "http://brouwerijdemolen.nl/"	
+			"name": "Brouwerij de Molen",
+			"country": "Netherlands",
+			"city": "Bodegraven",
+			"state": "Zuid-Holland"
 		},
-		"abv": 6.2,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 63,
-		"flavor": ["dry", "hoppy", "bitter"],
-		"style": "american IPA",
+		"abv": 6.2,
+		"flavor": [
+			"dry",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - American",
 		"rating": 3.5
 	},
 	{
 		"name": "Op & Top",
-		"date": "2017-07-31",
-		"serving": "bottle",
+		"date": "2017-07-31T20:08:07.000Z",
+		"serving": "",
 		"brewery": {
-			"name": "Brouwerij De Molen",
-			"size": "micro brewery",
-			"location": "Bodegraven, Zuid Holland, Netherlands",
-			"website": "http://brouwerijdemolen.nl/"	
+			"name": "Brouwerij de Molen",
+			"country": "Netherlands",
+			"city": "Bodegraven",
+			"state": "Zuid-Holland"
 		},
-		"abv": 4.5,
+		"venue": {
+			"name": "Haarlem",
+			"country": "Nederland",
+			"city": "",
+			"state": "Noord-Holland",
+			"lat": 52.3892,
+			"lng": 4.63838
+		},
 		"ibu": 38,
-		"flavor": ["light", "fruity", "dry", "hoppy", "bitter"],
-		"style": "english bitter",
+		"abv": 4.5,
+		"flavor": [
+			"light",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Blonde Ale",
 		"rating": 3.5
 	}
 ]

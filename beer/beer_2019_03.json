@@ -1,0 +1,344 @@
+[
+	{
+		"name": "Mythos",
+		"date": "2019-03-03T18:59:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Olympic Brewery",
+			"country": "Greece",
+			"city": "Kifissia",
+			"state": "Αττική"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 17,
+		"abv": 5,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 3.75
+	},
+	{
+		"name": "Chouffe Soleil",
+		"date": "2019-03-09T15:51:15.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
+		},
+		"venue": {
+			"name": "Hillegersberg Zuid",
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9447,
+			"lng": 4.47129
+		},
+		"ibu": 20,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"light",
+			"hoppy"
+		],
+		"type": "Belgian Blonde",
+		"rating": 5
+	},
+	{
+		"name": "A Little Sumpin' Sumpin' Ale",
+		"date": "2019-03-09T15:51:56.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Lagunitas Brewing Company",
+			"country": "United States",
+			"city": "Petaluma",
+			"state": "CA"
+		},
+		"venue": {
+			"name": "Hillegersberg Zuid",
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9447,
+			"lng": 4.47129
+		},
+		"ibu": 64,
+		"abv": 7.5,
+		"flavor": [
+			"light",
+			"sweet",
+			"smooth",
+			"hoppy"
+		],
+		"type": "Wheat Beer - American Pale Wheat",
+		"rating": 4
+	},
+	{
+		"name": "Wannabee 2018",
+		"date": "2019-03-09T17:15:00.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "KOMPAAN Dutch Craft Beer Company",
+			"country": "Netherlands",
+			"city": "Den Haag",
+			"state": "Zuid-Holland"
+		},
+		"venue": {
+			"name": "Hillegersberg Zuid",
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9447,
+			"lng": 4.47129
+		},
+		"ibu": 18,
+		"abv": 5.5,
+		"flavor": [
+			"citrusy",
+			"smooth",
+			"honey",
+			"mouthfeel"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.5
+	},
+	{
+		"name": "Erdinger Weißbier / Hefe-Weizen",
+		"date": "2019-03-09T21:29:01.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Erdinger Weissbräu",
+			"country": "Germany",
+			"city": "Erding",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Hillegersberg Zuid",
+			"country": "Nederland",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"lat": 51.9447,
+			"lng": 4.47129
+		},
+		"ibu": 13,
+		"abv": 5.3,
+		"flavor": [
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.25
+	},
+	{
+		"name": "Cobra Premium",
+		"date": "2019-03-10T18:51:02.000Z",
+		"serving": "",
+		"brewery": {
+			"name": "Molson Coors (UK)",
+			"country": "England",
+			"city": "Burton-On-Trent,",
+			"state": "Staffordshire"
+		},
+		"venue": {
+			"name": "Indiaport Aan De Amstel",
+			"country": "Nederland",
+			"city": "Amstelveen",
+			"state": "Noord-Holland",
+			"lat": 52.2974,
+			"lng": 4.89952
+		},
+		"ibu": 17,
+		"abv": 4.5,
+		"flavor": [
+			"clean",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 4.25
+	},
+	{
+		"name": "Juicy Apple",
+		"date": "2019-03-10T22:13:18.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Apple Bandit Cider",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "JinSo",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3127,
+			"lng": 4.94489
+		},
+		"ibu": 0,
+		"abv": 4.5,
+		"flavor": [
+			"fruity",
+			"sweet",
+			"apple",
+			"juicy"
+		],
+		"type": "Cider - Sweet",
+		"rating": 4
+	},
+	{
+		"name": "Paulaner Hefe-Weißbier / Hefe-Weizen / Weissbier",
+		"date": "2019-03-23T19:50:27.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Paulaner Brauerei",
+			"country": "Germany",
+			"city": "Munich",
+			"state": "Bayern"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 16,
+		"abv": 5.5,
+		"flavor": [
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Hefeweizen",
+		"rating": 4.25
+	},
+	{
+		"name": "Lager",
+		"date": "2019-03-28T20:16:37.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Kirin Brewery Company",
+			"country": "Japan",
+			"city": "Nakano-ku",
+			"state": "Tokyo"
+		},
+		"venue": {
+			"name": "Ramen Brothers Noodle Bar",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3842,
+			"lng": 4.6355
+		},
+		"ibu": 0,
+		"abv": 4.9,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Japanese Rice",
+		"rating": 4
+	},
+	{
+		"name": "Cidre Brut",
+		"date": "2019-03-29T16:54:09.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Stassen",
+			"country": "Belgium",
+			"city": "Aubel",
+			"state": "Wallonie"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 0,
+		"abv": 7.4,
+		"flavor": [
+			"sparkling",
+			"dry",
+			"smooth"
+		],
+		"type": "Cider - Dry",
+		"rating": 4
+	},
+	{
+		"name": "La Chouffe Blond",
+		"date": "2019-03-29T19:31:47.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
+		},
+		"venue": {
+			"name": "Charlie's",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3799,
+			"lng": 4.63147
+		},
+		"ibu": 20,
+		"abv": 8,
+		"flavor": [
+			"light",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Strong Golden Ale",
+		"rating": 4.25
+	},
+	{
+		"name": "Asahi Super Dry",
+		"date": "2019-03-31T21:57:57.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Asahi Breweries",
+			"country": "Japan",
+			"city": "Sumida-ku",
+			"state": "Tokyo"
+		},
+		"venue": {
+			"name": "Expo Congress Hotel Budapest",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.4934,
+			"lng": 19.1217
+		},
+		"ibu": 20,
+		"abv": 5.2,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Japanese Rice",
+		"rating": 4
+	}
+]

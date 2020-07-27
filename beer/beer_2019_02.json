@@ -1,0 +1,374 @@
+[
+	{
+		"name": "La Rossa/Malto Brunito",
+		"date": "2019-02-08T20:39:36.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Birra Moretti",
+			"country": "Italy",
+			"city": "Udine",
+			"state": "Friuli Venezia Giulia"
+		},
+		"venue": {
+			"name": "Kis-Tómalom",
+			"country": "Magyarország",
+			"city": "",
+			"state": "",
+			"lat": 47.7102,
+			"lng": 16.6254
+		},
+		"ibu": 16,
+		"abv": 7.2,
+		"flavor": [
+			"malty",
+			"light",
+			"sweet",
+			"smooth",
+			"dark"
+		],
+		"type": "Bock - Doppelbock",
+		"rating": 4
+	},
+	{
+		"name": "Alakor Biosör",
+		"date": "2019-02-10T19:08:54.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Körös-Maros Biofarm Kft.",
+			"country": "Hungary",
+			"city": "Gyula",
+			"state": ""
+		},
+		"venue": {
+			"name": "Kozmosz Vegán Étterem",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.5064,
+			"lng": 19.0671
+		},
+		"ibu": 0,
+		"abv": 4.8,
+		"flavor": [
+			"malty",
+			"deep",
+			"full",
+			"sweet"
+		],
+		"type": "Specialty Grain",
+		"rating": 4.5
+	},
+	{
+		"name": "Hoegaarden Wit / Blanche",
+		"date": "2019-02-11T19:33:16.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Brouwerij Hoegaarden",
+			"country": "Belgium",
+			"city": "Hoegaarden",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Tájfun",
+			"country": "Magyarország",
+			"city": "Budapest",
+			"state": "Budapest",
+			"lat": 47.5154,
+			"lng": 19.1138
+		},
+		"ibu": 15,
+		"abv": 4.9,
+		"flavor": [
+			"fruity",
+			"banana",
+			"light",
+			"sweet",
+			"smooth"
+		],
+		"type": "Wheat Beer - Witbier",
+		"rating": 4.25
+	},
+	{
+		"name": "La Chouffe Blond",
+		"date": "2019-02-16T21:50:17.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Brasserie d'Achouffe",
+			"country": "Belgium",
+			"city": "Achouffe",
+			"state": "Wallonie"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 20,
+		"abv": 8,
+		"flavor": [
+			"sweet",
+			"strong",
+			"smooth"
+		],
+		"type": "Belgian Strong Golden Ale",
+		"rating": 4.25
+	},
+	{
+		"name": "Vedett Extra Ordinary IPA",
+		"date": "2019-02-16T23:48:33.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Duvel Moortgat",
+			"country": "Belgium",
+			"city": "Puurs",
+			"state": "Vlaanderen"
+		},
+		"venue": {
+			"name": "Cotton Candy Residence 10",
+			"country": "Nederland",
+			"city": "Haarlem",
+			"state": "Noord-Holland",
+			"lat": 52.3929,
+			"lng": 4.64054
+		},
+		"ibu": 40,
+		"abv": 5.5,
+		"flavor": [
+			"fruity",
+			"light"
+		],
+		"type": "IPA - Belgian",
+		"rating": 4
+	},
+	{
+		"name": "Pilsener",
+		"date": "2019-02-22T19:50:04.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Hertog Jan",
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Hoofddorppleinbuurt",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3517,
+			"lng": 4.84937
+		},
+		"ibu": 21,
+		"abv": 5.1,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "Green Cap",
+		"date": "2019-02-22T20:55:43.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Butcher’s Tears",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Butcher's Tears Brewery and Taprooom",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3474,
+			"lng": 4.85378
+		},
+		"ibu": 0,
+		"abv": 6,
+		"flavor": [
+			"fruity",
+			"dry",
+			"hoppy",
+			"bitter"
+		],
+		"type": "Pale Ale - English",
+		"rating": 4.25
+	},
+	{
+		"name": "Smoke & Mirrors",
+		"date": "2019-02-22T21:49:35.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Butcher’s Tears",
+			"country": "Netherlands",
+			"city": "Amsterdam",
+			"state": "Noord-Holland"
+		},
+		"venue": {
+			"name": "Butcher's Tears Brewery and Taprooom",
+			"country": "Nederland",
+			"city": "Amsterdam",
+			"state": "Noord-Holland",
+			"lat": 52.3474,
+			"lng": 4.85378
+		},
+		"ibu": 0,
+		"abv": 8.5,
+		"flavor": [
+			"smoky",
+			"light",
+			"smoked",
+			"hoppy"
+		],
+		"type": "Farmhouse Ale - Saison",
+		"rating": 4.5
+	},
+	{
+		"name": "Pilsener",
+		"date": "2019-02-22T23:29:08.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "Hertog Jan",
+			"country": "Netherlands",
+			"city": "Arcen",
+			"state": "Limburg"
+		},
+		"venue": {
+			"name": "Hoofddorppleinbuurt",
+			"country": "Nederland",
+			"city": "",
+			"state": "",
+			"lat": 52.3517,
+			"lng": 4.84937
+		},
+		"ibu": 21,
+		"abv": 5.1,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Pilsner - Other",
+		"rating": 3.75
+	},
+	{
+		"name": "Estrella Damm",
+		"date": "2019-02-25T10:48:46.000Z",
+		"serving": "Draft",
+		"brewery": {
+			"name": "Grupo Damm",
+			"country": "Spain",
+			"city": "Barcelona",
+			"state": "Catalunya"
+		},
+		"venue": {
+			"name": "Fira Barcelona Gran Via",
+			"country": "España",
+			"city": "Hospitalet de Llobregat",
+			"state": "Cataluña",
+			"lat": 41.3556,
+			"lng": 2.13242
+		},
+		"ibu": 21,
+		"abv": 5.4,
+		"flavor": [
+			"clean",
+			"light",
+			"smooth"
+		],
+		"type": "Lager - Pale",
+		"rating": 4
+	},
+	{
+		"name": "Voll-Damm Doble Malta",
+		"date": "2019-02-25T16:11:37.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Grupo Damm",
+			"country": "Spain",
+			"city": "Barcelona",
+			"state": "Catalunya"
+		},
+		"venue": {
+			"name": null,
+			"country": null,
+			"city": null,
+			"state": null,
+			"lat": null,
+			"lng": null
+		},
+		"ibu": 34,
+		"abv": 7.2,
+		"flavor": [
+			"malty",
+			"full",
+			"strong",
+			"smooth"
+		],
+		"type": "Märzen",
+		"rating": 3.75
+	},
+	{
+		"name": "Viakrucis",
+		"date": "2019-02-25T21:43:17.000Z",
+		"serving": "Bottle",
+		"brewery": {
+			"name": "La Pirata Brewing",
+			"country": "Spain",
+			"city": "Súria",
+			"state": "Catalunya"
+		},
+		"venue": {
+			"name": "Bao Bao",
+			"country": "España",
+			"city": "Barcelona",
+			"state": "Cataluña",
+			"lat": 41.3765,
+			"lng": 2.13828
+		},
+		"ibu": 62,
+		"abv": 6,
+		"flavor": [
+			"tropical",
+			"fruity",
+			"hoppy",
+			"bitter"
+		],
+		"type": "IPA - American",
+		"rating": 4.25
+	},
+	{
+		"name": "Damm Lemon",
+		"date": "2019-02-28T13:10:25.000Z",
+		"serving": "Can",
+		"brewery": {
+			"name": "Grupo Damm",
+			"country": "Spain",
+			"city": "Barcelona",
+			"state": "Catalunya"
+		},
+		"venue": {
+			"name": "Fira Barcelona Gran Via",
+			"country": "España",
+			"city": "Hospitalet de Llobregat",
+			"state": "Cataluña",
+			"lat": 41.3556,
+			"lng": 2.13242
+		},
+		"ibu": 9,
+		"abv": 3.2,
+		"flavor": [
+			"lemony",
+			"light",
+			"sweet"
+		],
+		"type": "Shandy / Radler",
+		"rating": 4
+	}
+]
