@@ -2,106 +2,290 @@
 	{
 		"date": "2012-01-03T15:31:37.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-01-05T10:22:36.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-01-09T12:05:25.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-01-10T06:37:45.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-01-10T22:44:16.000Z",
 		"name": "Móricz Zsigmond körtér",
-		"id": "4bbdbe1a8ec3d13a2a5a1c28"
+		"id": "4bbdbe1a8ec3d13a2a5a1c28",
+		"lat": 47.47730207013187,
+		"lng": 19.04743043972232,
+		"address": "Móricz Zsigmond körtér",
+		"postalCode": "1114",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-01-10T23:39:12.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-01-11T11:23:35.000Z",
 		"name": "Duna Plaza",
-		"id": "4b792be7f964a520c1ed2ee3"
+		"id": "4b792be7f964a520c1ed2ee3",
+		"lat": 47.549968911966374,
+		"lng": 19.072988426793735,
+		"address": "Váci út 178.",
+		"postalCode": "1138",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-01-11T11:23:49.000Z",
 		"name": "iSTYLE Duna Pláza",
-		"id": "4be1b7d7ae55a593c14f5b62"
+		"id": "4be1b7d7ae55a593c14f5b62",
+		"lat": 47.55008378338685,
+		"lng": 19.073044250882806,
+		"address": "Váci út 178.",
+		"postalCode": "1138",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2012-01-11T12:56:52.000Z",
 		"name": "Corvin Plaza",
-		"id": "4cc701eabe40a35d1d6a8d4c"
+		"id": "4cc701eabe40a35d1d6a8d4c",
+		"lat": 47.486046352980296,
+		"lng": 19.07288581182118,
+		"address": "Futó u. 37-45.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-01-12T08:46:29.000Z",
 		"name": "Várkerület",
-		"id": "4d3d55cb44f5a0933e04d4bb"
+		"id": "4d3d55cb44f5a0933e04d4bb",
+		"lat": 47.6850115484087,
+		"lng": 16.592843179592137,
+		"address": "Várkerület",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Road",
+			"Pedestrian Plaza"
+		]
 	},
 	{
 		"date": "2012-01-12T09:06:57.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-01-16T11:51:06.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-01-16T13:25:05.000Z",
 		"name": "Corvin Plaza",
-		"id": "4cc701eabe40a35d1d6a8d4c"
+		"id": "4cc701eabe40a35d1d6a8d4c",
+		"lat": 47.486046352980296,
+		"lng": 19.07288581182118,
+		"address": "Futó u. 37-45.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-01-17T11:03:14.000Z",
 		"name": "Móricz Zsigmond körtér",
-		"id": "4bbdbe1a8ec3d13a2a5a1c28"
+		"id": "4bbdbe1a8ec3d13a2a5a1c28",
+		"lat": 47.47730207013187,
+		"lng": 19.04743043972232,
+		"address": "Móricz Zsigmond körtér",
+		"postalCode": "1114",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-01-17T12:19:44.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-01-17T12:40:25.000Z",
 		"name": "BME Q épület",
-		"id": "4c85f24fd4e23704bdf58688"
+		"id": "4c85f24fd4e23704bdf58688",
+		"lat": 47.473393661934686,
+		"lng": 19.059766255018825,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2012-01-17T15:44:43.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-01-20T17:07:08.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-01-22T10:57:45.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-01-25T09:20:51.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-01-26T13:03:03.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]
