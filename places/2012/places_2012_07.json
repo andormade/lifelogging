@@ -2,501 +2,1347 @@
 	{
 		"date": "2012-07-01T10:22:34.000Z",
 		"name": "Várkerület",
-		"id": "4d3d55cb44f5a0933e04d4bb"
+		"id": "4d3d55cb44f5a0933e04d4bb",
+		"lat": 47.6850115484087,
+		"lng": 16.592843179592137,
+		"address": "Várkerület",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Road",
+			"Pedestrian Plaza"
+		]
 	},
 	{
 		"date": "2012-07-01T10:23:14.000Z",
 		"name": "Grandma's Place",
-		"id": "4f5c86b7e4b086681c0fa476"
+		"id": "4f5c86b7e4b086681c0fa476",
+		"lat": 47.685079492343135,
+		"lng": 16.59042726764715,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-01T14:08:44.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-02T22:10:32.000Z",
 		"name": "Schmauser Étterem és Söröző",
-		"id": "4d03c11ba2685481edbbb3bd"
+		"id": "4d03c11ba2685481edbbb3bd",
+		"lat": 47.68445244555685,
+		"lng": 16.5760290306692,
+		"address": "Kossuth Lajos u. 49.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Restaurant",
+			"Pub"
+		]
 	},
 	{
 		"date": "2012-07-03T01:52:04.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-04T15:51:39.000Z",
 		"name": "Sopron vasútállomás",
-		"id": "4bd6fe6529eb9c749dee95e1"
+		"id": "4bd6fe6529eb9c749dee95e1",
+		"lat": 47.67771249028291,
+		"lng": 16.58738136291504,
+		"address": "Állomás u. 2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2012-07-04T16:44:25.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-05T05:14:56.000Z",
 		"name": "BP Österreich",
-		"id": "4e568c7852b12ddfc1e2a43a"
+		"id": "4e568c7852b12ddfc1e2a43a",
+		"lat": 48.15508715,
+		"lng": 15.10027527,
+		"address": "Rasthausstr. 10",
+		"postalCode": "3373",
+		"city": "Kemmelbach",
+		"country": "Österreich",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2012-07-05T05:15:10.000Z",
 		"name": "Autobahnraststätte Kemmelbach",
-		"id": "4c63ceb34be3b713524deee8"
+		"id": "4c63ceb34be3b713524deee8",
+		"lat": 48.15489303205366,
+		"lng": 15.09990579028058,
+		"address": "Rasthausstr. 8",
+		"postalCode": "3373",
+		"city": "Kemmelbach",
+		"country": "Österreich",
+		"categories": [
+			"Rest Area",
+			"Restaurant",
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2012-07-05T05:21:44.000Z",
 		"name": "Landzeit Kemmelbach",
-		"id": "4c02bdcb39d476b0c3192fa7"
+		"id": "4c02bdcb39d476b0c3192fa7",
+		"lat": 48.154925091092494,
+		"lng": 15.099899527241991,
+		"address": "Rasthausstr. 8",
+		"postalCode": "3373",
+		"city": "Kemmelbach",
+		"country": "Österreich",
+		"categories": [
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2012-07-05T17:24:20.000Z",
 		"name": "Hasseröder Ferienpark",
-		"id": "4c9339af1221b1f73c1a18e2"
+		"id": "4c9339af1221b1f73c1a18e2",
+		"lat": 51.82053110219114,
+		"lng": 10.757033930328694,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Resort"
+		]
 	},
 	{
 		"date": "2012-07-05T19:47:33.000Z",
 		"name": "Brockenbad",
-		"id": "4e5107498877402b06d96d11"
+		"id": "4e5107498877402b06d96d11",
+		"lat": 51.8203956195072,
+		"lng": 10.756891022083067,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Water Park"
+		]
 	},
 	{
 		"date": "2012-07-06T10:52:00.000Z",
 		"name": "Spielplatz",
-		"id": "4ff6c34ce4b0f1abbb68ce53"
+		"id": "4ff6c34ce4b0f1abbb68ce53",
+		"lat": 51.78666422225472,
+		"lng": 11.141502270587404,
+		"country": "Deutschland",
+		"categories": [
+			"Playground"
+		]
 	},
 	{
 		"date": "2012-07-06T10:55:26.000Z",
 		"name": "Wernigerode",
-		"id": "4de38ad718385df2b03deb78"
+		"id": "4de38ad718385df2b03deb78",
+		"lat": 51.83429746105626,
+		"lng": 10.786120196404106,
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Town"
+		]
 	},
 	{
 		"date": "2012-07-06T11:27:33.000Z",
 		"name": "Hasseröder Ferienpark",
-		"id": "4c9339af1221b1f73c1a18e2"
+		"id": "4c9339af1221b1f73c1a18e2",
+		"lat": 51.82053110219114,
+		"lng": 10.757033930328694,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Resort"
+		]
 	},
 	{
 		"date": "2012-07-06T18:01:56.000Z",
 		"name": "Brockenbad",
-		"id": "4e5107498877402b06d96d11"
+		"id": "4e5107498877402b06d96d11",
+		"lat": 51.8203956195072,
+		"lng": 10.756891022083067,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Water Park"
+		]
 	},
 	{
 		"date": "2012-07-06T18:57:00.000Z",
 		"name": "Hasseröder Ferienpark",
-		"id": "4c9339af1221b1f73c1a18e2"
+		"id": "4c9339af1221b1f73c1a18e2",
+		"lat": 51.82053110219114,
+		"lng": 10.757033930328694,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Resort"
+		]
 	},
 	{
 		"date": "2012-07-07T12:33:01.000Z",
 		"name": "Alter Markt",
-		"id": "4ca72289a6e08cfa85418194"
+		"id": "4ca72289a6e08cfa85418194",
+		"lat": 52.131644537856445,
+		"lng": 11.637566673412111,
+		"address": "Alter Markt",
+		"postalCode": "39104",
+		"city": "Magdeburg",
+		"country": "Deutschland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-07-07T12:33:14.000Z",
 		"name": "Flair",
-		"id": "4b7ef3a9f964a520cf0b30e3"
+		"id": "4b7ef3a9f964a520cf0b30e3",
+		"lat": 52.1315246143063,
+		"lng": 11.636629374096701,
+		"address": "Breiter Weg 21",
+		"postalCode": "39104",
+		"country": "Deutschland",
+		"categories": [
+			"Café"
+		]
 	},
 	{
 		"date": "2012-07-07T14:22:38.000Z",
 		"name": "Alter Markt",
-		"id": "4ca72289a6e08cfa85418194"
+		"id": "4ca72289a6e08cfa85418194",
+		"lat": 52.131644537856445,
+		"lng": 11.637566673412111,
+		"address": "Alter Markt",
+		"postalCode": "39104",
+		"city": "Magdeburg",
+		"country": "Deutschland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-07-07T18:52:19.000Z",
 		"name": "Hasseröder Ferienpark",
-		"id": "4c9339af1221b1f73c1a18e2"
+		"id": "4c9339af1221b1f73c1a18e2",
+		"lat": 51.82053110219114,
+		"lng": 10.757033930328694,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Resort"
+		]
 	},
 	{
 		"date": "2012-07-07T19:12:34.000Z",
 		"name": "Brockenbad",
-		"id": "4e5107498877402b06d96d11"
+		"id": "4e5107498877402b06d96d11",
+		"lat": 51.8203956195072,
+		"lng": 10.756891022083067,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Water Park"
+		]
 	},
 	{
 		"date": "2012-07-08T10:57:35.000Z",
 		"name": "Hasseröder Ferienpark",
-		"id": "4c9339af1221b1f73c1a18e2"
+		"id": "4c9339af1221b1f73c1a18e2",
+		"lat": 51.82053110219114,
+		"lng": 10.757033930328694,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Resort"
+		]
 	},
 	{
 		"date": "2012-07-08T12:14:48.000Z",
 		"name": "Hasseröder Kramladen",
-		"id": "4ff979b5e4b0b3e699f208d4"
+		"id": "4ff979b5e4b0b3e699f208d4",
+		"lat": 51.820575,
+		"lng": 10.756927,
+		"country": "Deutschland",
+		"categories": [
+			"Gift Shop"
+		]
 	},
 	{
 		"date": "2012-07-08T14:58:36.000Z",
 		"name": "Helmstedt",
-		"id": "4db7ded204376df997679c9f"
+		"id": "4db7ded204376df997679c9f",
+		"lat": 52.23559152820139,
+		"lng": 10.992903510725707,
+		"postalCode": "38350",
+		"city": "Helmstedt",
+		"country": "Deutschland",
+		"categories": [
+			"Town"
+		]
 	},
 	{
 		"date": "2012-07-08T14:58:55.000Z",
 		"name": "Rathaus Helmstedt",
-		"id": "4e9e9ba64901fd63b81ebe9e"
+		"id": "4e9e9ba64901fd63b81ebe9e",
+		"lat": 52.22758206059354,
+		"lng": 11.010537824428823,
+		"address": "Markt 1",
+		"postalCode": "38350",
+		"city": "Helmstedt",
+		"country": "Deutschland",
+		"categories": [
+			"City Hall"
+		]
 	},
 	{
 		"date": "2012-07-08T14:59:36.000Z",
 		"name": "Eiscafé Venezia",
-		"id": "4f8b2e330cd6dbbc4ca72338"
+		"id": "4f8b2e330cd6dbbc4ca72338",
+		"lat": 52.22777313220154,
+		"lng": 11.007335186004639,
+		"address": "Neumärker Straße 10",
+		"postalCode": "38350",
+		"city": "Helmstedt",
+		"country": "Deutschland",
+		"categories": [
+			"Ice Cream Shop"
+		]
 	},
 	{
 		"date": "2012-07-08T16:56:21.000Z",
 		"name": "Wernigerode",
-		"id": "4de38ad718385df2b03deb78"
+		"id": "4de38ad718385df2b03deb78",
+		"lat": 51.83429746105626,
+		"lng": 10.786120196404106,
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Town"
+		]
 	},
 	{
 		"date": "2012-07-08T16:56:35.000Z",
 		"name": "Brockenbad",
-		"id": "4e5107498877402b06d96d11"
+		"id": "4e5107498877402b06d96d11",
+		"lat": 51.8203956195072,
+		"lng": 10.756891022083067,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Water Park"
+		]
 	},
 	{
 		"date": "2012-07-08T18:51:28.000Z",
 		"name": "Spielplatz",
-		"id": "4ff6c34ce4b0f1abbb68ce53"
+		"id": "4ff6c34ce4b0f1abbb68ce53",
+		"lat": 51.78666422225472,
+		"lng": 11.141502270587404,
+		"country": "Deutschland",
+		"categories": [
+			"Playground"
+		]
 	},
 	{
 		"date": "2012-07-08T19:41:09.000Z",
 		"name": "Hasseröder Ferienpark",
-		"id": "4c9339af1221b1f73c1a18e2"
+		"id": "4c9339af1221b1f73c1a18e2",
+		"lat": 51.82053110219114,
+		"lng": 10.757033930328694,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Resort"
+		]
 	},
 	{
 		"date": "2012-07-09T06:24:45.000Z",
 		"name": "Spielplatz",
-		"id": "4ff6c34ce4b0f1abbb68ce53"
+		"id": "4ff6c34ce4b0f1abbb68ce53",
+		"lat": 51.78666422225472,
+		"lng": 11.141502270587404,
+		"country": "Deutschland",
+		"categories": [
+			"Playground"
+		]
 	},
 	{
 		"date": "2012-07-09T06:25:11.000Z",
 		"name": "Hasseröder Ferienpark",
-		"id": "4c9339af1221b1f73c1a18e2"
+		"id": "4c9339af1221b1f73c1a18e2",
+		"lat": 51.82053110219114,
+		"lng": 10.757033930328694,
+		"address": "Nesseltal 11",
+		"postalCode": "38855",
+		"city": "Wernigerode",
+		"country": "Deutschland",
+		"categories": [
+			"Resort"
+		]
 	},
 	{
 		"date": "2012-07-09T16:27:52.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-10T11:54:46.000Z",
 		"name": "Sopron vasútállomás",
-		"id": "4bd6fe6529eb9c749dee95e1"
+		"id": "4bd6fe6529eb9c749dee95e1",
+		"lat": 47.67771249028291,
+		"lng": 16.58738136291504,
+		"address": "Állomás u. 2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2012-07-10T14:41:43.000Z",
 		"name": "Roxxy Music Cafe",
-		"id": "4caf266b1463a143fc0992a9"
+		"id": "4caf266b1463a143fc0992a9",
+		"lat": 47.58480082037948,
+		"lng": 18.395169503498295,
+		"address": "Győri út 3.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Rock Club",
+			"Pub"
+		]
 	},
 	{
 		"date": "2012-07-10T16:41:32.000Z",
 		"name": "Vértes Center",
-		"id": "4cf26461e9425481f2f46fc5"
+		"id": "4cf26461e9425481f2f46fc5",
+		"lat": 47.58627385111341,
+		"lng": 18.393827125687846,
+		"address": "Győri út 7-9.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-07-10T16:57:01.000Z",
 		"name": "Vértes Center",
-		"id": "4cf26461e9425481f2f46fc5"
+		"id": "4cf26461e9425481f2f46fc5",
+		"lat": 47.58627385111341,
+		"lng": 18.393827125687846,
+		"address": "Győri út 7-9.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-07-10T16:58:15.000Z",
 		"name": "H&M",
-		"id": "4f4e989c6d86379025fdb83b"
+		"id": "4f4e989c6d86379025fdb83b",
+		"lat": 47.58672802491148,
+		"lng": 18.39367026463151,
+		"address": "Győri út 7-9",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2012-07-10T16:58:54.000Z",
 		"name": "New Yorker",
-		"id": "4e944bdc61afe52cf39b02b8"
+		"id": "4e944bdc61afe52cf39b02b8",
+		"lat": 47.58651184611867,
+		"lng": 18.39386909027224,
+		"address": "Vértes Center",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2012-07-10T17:03:25.000Z",
 		"name": "Takko Fashion",
-		"id": "4e944f6db63439ea0139a894"
+		"id": "4e944f6db63439ea0139a894",
+		"lat": 47.586199,
+		"lng": 18.393876,
+		"address": "Győri út 7-9.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2012-07-10T17:05:04.000Z",
 		"name": "Cosmos City",
-		"id": "4ffc60bbe4b07dd22fbe106d"
+		"id": "4ffc60bbe4b07dd22fbe106d",
+		"lat": 47.58613,
+		"lng": 18.393571,
+		"address": "Vértes Center",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Boutique"
+		]
 	},
 	{
 		"date": "2012-07-10T17:07:23.000Z",
 		"name": "Glo-Jeans",
-		"id": "4ffc6148e4b08049d9ce20d4"
+		"id": "4ffc6148e4b08049d9ce20d4",
+		"lat": 47.586092,
+		"lng": 18.393792,
+		"address": "Vértes Center",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Boutique"
+		]
 	},
 	{
 		"date": "2012-07-10T17:10:23.000Z",
 		"name": "H&M",
-		"id": "4f4e989c6d86379025fdb83b"
+		"id": "4f4e989c6d86379025fdb83b",
+		"lat": 47.58672802491148,
+		"lng": 18.39367026463151,
+		"address": "Győri út 7-9",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2012-07-10T17:18:47.000Z",
 		"name": "C&A",
-		"id": "4e9444c0be7b8f7220251427"
+		"id": "4e9444c0be7b8f7220251427",
+		"lat": 47.58644481169767,
+		"lng": 18.393650828915032,
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2012-07-10T17:29:00.000Z",
 		"name": "Kenvelo",
-		"id": "4e9448a9722e42857aecceaf"
+		"id": "4e9448a9722e42857aecceaf",
+		"lat": 47.58678977034288,
+		"lng": 18.393407133429392,
+		"address": "Vértes Center",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2012-07-10T17:32:37.000Z",
 		"name": "New Yorker",
-		"id": "4e944bdc61afe52cf39b02b8"
+		"id": "4e944bdc61afe52cf39b02b8",
+		"lat": 47.58651184611867,
+		"lng": 18.39386909027224,
+		"address": "Vértes Center",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2012-07-10T17:39:40.000Z",
 		"name": "Tatabánya autóbusz-állomás (Vértes Center)",
-		"id": "4d9231b75cf5236a106e48a3"
+		"id": "4d9231b75cf5236a106e48a3",
+		"lat": 47.586394687856036,
+		"lng": 18.392904240848797,
+		"address": "Győri út",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2012-07-10T17:39:51.000Z",
 		"name": "Tatabánya vasútállomás",
-		"id": "4b7ff81cf964a5209f4730e3"
+		"id": "4b7ff81cf964a5209f4730e3",
+		"lat": 47.58529710183436,
+		"lng": 18.39315176010132,
+		"address": "Jedlik Ányos u. 1.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2012-07-11T09:22:30.000Z",
 		"name": "Vértes Center",
-		"id": "4cf26461e9425481f2f46fc5"
+		"id": "4cf26461e9425481f2f46fc5",
+		"lat": 47.58627385111341,
+		"lng": 18.393827125687846,
+		"address": "Győri út 7-9.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-07-11T09:23:37.000Z",
 		"name": "Tatabánya autóbusz-állomás (Vértes Center)",
-		"id": "4d9231b75cf5236a106e48a3"
+		"id": "4d9231b75cf5236a106e48a3",
+		"lat": 47.586394687856036,
+		"lng": 18.392904240848797,
+		"address": "Győri út",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2012-07-11T09:52:10.000Z",
 		"name": "Gyémánt Strand-és Élményfürdő",
-		"id": "4d73596fd145a1cdd007c2f3"
+		"id": "4d73596fd145a1cdd007c2f3",
+		"lat": 47.55389206739634,
+		"lng": 18.418955492951202,
+		"address": "Cseri u. 33.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Water Park",
+			"Pool"
+		]
 	},
 	{
 		"date": "2012-07-11T10:49:33.000Z",
 		"name": "Gyémánt Strand-és Élményfürdő",
-		"id": "4d73596fd145a1cdd007c2f3"
+		"id": "4d73596fd145a1cdd007c2f3",
+		"lat": 47.55389206739634,
+		"lng": 18.418955492951202,
+		"address": "Cseri u. 33.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Water Park",
+			"Pool"
+		]
 	},
 	{
 		"date": "2012-07-12T18:12:48.000Z",
 		"name": "Kertvarosi Lakotelep",
-		"id": "4ea1c97cf7909c68ddd42a08"
+		"id": "4ea1c97cf7909c68ddd42a08",
+		"lat": 47.589562708023045,
+		"lng": 18.36782851339897,
+		"country": "Magyarország",
+		"categories": [
+			"Residential Building (Apartment / Condo)"
+		]
 	},
 	{
 		"date": "2012-07-13T16:43:19.000Z",
 		"name": "Mordor 2",
-		"id": "4e46adc745dd2955e59aa8ef"
+		"id": "4e46adc745dd2955e59aa8ef",
+		"lat": 47.54498888001689,
+		"lng": 18.264753297830538,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-13T20:03:39.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-14T13:19:45.000Z",
 		"name": "Sopron",
-		"id": "4d17aa00f4ee6a31b0224912"
+		"id": "4d17aa00f4ee6a31b0224912",
+		"lat": 47.67983622284605,
+		"lng": 16.59759521484375,
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Town"
+		]
 	},
 	{
 		"date": "2012-07-14T13:20:02.000Z",
 		"name": "Várkerület",
-		"id": "4d3d55cb44f5a0933e04d4bb"
+		"id": "4d3d55cb44f5a0933e04d4bb",
+		"lat": 47.6850115484087,
+		"lng": 16.592843179592137,
+		"address": "Várkerület",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Road",
+			"Pedestrian Plaza"
+		]
 	},
 	{
 		"date": "2012-07-14T13:20:21.000Z",
 		"name": "Livia áruház",
-		"id": "4f9bda0ae4b02343c8022dec"
+		"id": "4f9bda0ae4b02343c8022dec",
+		"lat": 47.687218,
+		"lng": 16.589812,
+		"country": "Magyarország",
+		"categories": [
+			"Boutique"
+		]
 	},
 	{
 		"date": "2012-07-14T15:54:46.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-15T10:33:31.000Z",
 		"name": "Grandma's Place",
-		"id": "4f5c86b7e4b086681c0fa476"
+		"id": "4f5c86b7e4b086681c0fa476",
+		"lat": 47.685079492343135,
+		"lng": 16.59042726764715,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-15T11:46:26.000Z",
 		"name": "Várkerület",
-		"id": "4d3d55cb44f5a0933e04d4bb"
+		"id": "4d3d55cb44f5a0933e04d4bb",
+		"lat": 47.6850115484087,
+		"lng": 16.592843179592137,
+		"address": "Várkerület",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Road",
+			"Pedestrian Plaza"
+		]
 	},
 	{
 		"date": "2012-07-15T12:19:58.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-17T08:09:00.000Z",
 		"name": "Universität Wien",
-		"id": "4b0e65f9f964a5205e5723e3"
+		"id": "4b0e65f9f964a5205e5723e3",
+		"lat": 48.213249393957526,
+		"lng": 16.360552310943604,
+		"address": "Universitätsring 1",
+		"postalCode": "1010",
+		"city": "Wien",
+		"country": "Österreich",
+		"categories": [
+			"University"
+		]
 	},
 	{
 		"date": "2012-07-17T08:11:58.000Z",
 		"name": "H Schottentor - Universität",
-		"id": "4bbdf9368a4fb713169d3d9d"
+		"id": "4bbdf9368a4fb713169d3d9d",
+		"lat": 48.2140710421612,
+		"lng": 16.361822851230357,
+		"address": "Schottentor",
+		"postalCode": "1010",
+		"city": "Wien",
+		"country": "Österreich",
+		"categories": [
+			"Tram Station",
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2012-07-17T08:14:37.000Z",
 		"name": "Rathausplatz",
-		"id": "4b32b480f964a520421225e3"
+		"id": "4b32b480f964a520421225e3",
+		"lat": 48.21063269505329,
+		"lng": 16.358706951141357,
+		"address": "Rathausplatz",
+		"postalCode": "1010",
+		"city": "Wien",
+		"country": "Österreich",
+		"categories": [
+			"Plaza",
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2012-07-17T09:18:13.000Z",
 		"name": "Shopping City Süd",
-		"id": "4b7bd21af964a520676f2fe3"
+		"id": "4b7bd21af964a520676f2fe3",
+		"lat": 48.10989555579132,
+		"lng": 16.317787170410156,
+		"address": "Westring",
+		"postalCode": "2334",
+		"city": "Vösendorf",
+		"country": "Österreich",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-07-17T09:18:40.000Z",
 		"name": "H&M",
-		"id": "4c31f4223896e21e5fb1e790"
+		"id": "4c31f4223896e21e5fb1e790",
+		"lat": 48.11083518425277,
+		"lng": 16.318677663803104,
+		"address": "SCS-Straße 132A",
+		"postalCode": "2334",
+		"city": "Wien",
+		"country": "Österreich",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2012-07-17T09:22:02.000Z",
 		"name": "THOMAS SABO",
-		"id": "4eeca18e8b81bbbf5c2918ed"
+		"id": "4eeca18e8b81bbbf5c2918ed",
+		"lat": 48.10864213,
+		"lng": 16.31733619,
+		"address": "Triester Str.",
+		"postalCode": "2334",
+		"city": "Vösendorf",
+		"country": "Österreich",
+		"categories": [
+			"Jewelry Store",
+			"Watch Shop"
+		]
 	},
 	{
 		"date": "2012-07-17T09:25:24.000Z",
 		"name": "Kuci Muci",
-		"id": "4db2b8cfa86e8d27075f938c"
+		"id": "4db2b8cfa86e8d27075f938c",
+		"lat": 48.1092938025852,
+		"lng": 16.317079067230225,
+		"address": "Shopping City Süd",
+		"postalCode": "2334",
+		"city": "Vösendorf",
+		"country": "Österreich",
+		"categories": [
+			"Accessories Store"
+		]
 	},
 	{
 		"date": "2012-07-17T09:26:59.000Z",
 		"name": "Schokothek",
-		"id": "4fd1bdc5e4b00095e9ab4d22"
+		"id": "4fd1bdc5e4b00095e9ab4d22",
+		"lat": 48.10853153616077,
+		"lng": 16.318075680984425,
+		"address": "SCS, UG Allee 227",
+		"postalCode": "2334",
+		"city": "Vösendorf",
+		"country": "Österreich",
+		"categories": [
+			"Candy Store",
+			"Chocolate Shop"
+		]
 	},
 	{
 		"date": "2012-07-17T09:41:33.000Z",
 		"name": "Butlers",
-		"id": "4d3aad46979ea143dd1793fc"
+		"id": "4d3aad46979ea143dd1793fc",
+		"lat": 48.108822381550326,
+		"lng": 16.318197761436362,
+		"address": "Shopping City Süd",
+		"postalCode": "2234",
+		"city": "Vösendorf",
+		"country": "Österreich",
+		"categories": [
+			"Furniture / Home Store"
+		]
 	},
 	{
 		"date": "2012-07-17T09:46:23.000Z",
 		"name": "MYFC",
-		"id": "4eeca679775b3c580c828f1d"
+		"id": "4eeca679775b3c580c828f1d",
+		"lat": 48.108928231040615,
+		"lng": 16.31774170855779,
+		"address": "Shopping City Süd",
+		"postalCode": "2334",
+		"city": "Vösendorf",
+		"country": "Österreich",
+		"categories": [
+			"Women's Store"
+		]
 	},
 	{
 		"date": "2012-07-17T10:12:20.000Z",
 		"name": "Fussl",
-		"id": "4fe1c8bce4b01d6ee80ddf33"
+		"id": "4fe1c8bce4b01d6ee80ddf33",
+		"lat": 48.11006871316922,
+		"lng": 16.395102013308545,
+		"city": "Wien",
+		"country": "Österreich",
+		"categories": [
+			"Women's Store"
+		]
 	},
 	{
 		"date": "2012-07-17T10:17:10.000Z",
 		"name": "Trachten",
-		"id": "50053ba4e4b0859fa7768ca8"
+		"id": "50053ba4e4b0859fa7768ca8",
+		"lat": 48.11057958760003,
+		"lng": 16.317851983706884,
+		"country": "Österreich",
+		"categories": [
+			"Boutique"
+		]
 	},
 	{
 		"date": "2012-07-17T10:25:52.000Z",
 		"name": "Bijou Brigitte",
-		"id": "50053daae4b067e568ed7229"
+		"id": "50053daae4b067e568ed7229",
+		"lat": 48.110641,
+		"lng": 16.317853,
+		"address": "Shopping City Süd",
+		"postalCode": "2334",
+		"city": "Vösendorf",
+		"country": "Österreich",
+		"categories": [
+			"Accessories Store"
+		]
 	},
 	{
 		"date": "2012-07-17T10:59:26.000Z",
 		"name": "INTERSPAR",
-		"id": "4b6d9153f964a520117d2ce3"
+		"id": "4b6d9153f964a520117d2ce3",
+		"lat": 48.1118189,
+		"lng": 16.3189855,
+		"address": "Shopping City Süd",
+		"postalCode": "2334",
+		"city": "Vösendorf Süd",
+		"country": "Österreich",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-07-17T11:01:16.000Z",
 		"name": "I am",
-		"id": "500545f8e4b0594c438e0bb3"
+		"id": "500545f8e4b0594c438e0bb3",
+		"lat": 48.11197326997007,
+		"lng": 16.31832936649151,
+		"address": "Shopping City Süd",
+		"postalCode": "2334",
+		"city": "Vösendorf",
+		"country": "Österreich",
+		"categories": [
+			"Accessories Store"
+		]
 	},
 	{
 		"date": "2012-07-17T11:01:30.000Z",
 		"name": "Syndikat",
-		"id": "4fc7a16fe4b0647c52b11fe4"
+		"id": "4fc7a16fe4b0647c52b11fe4",
+		"lat": 48.1111407751028,
+		"lng": 16.31786005942799,
+		"address": "Shopping City Süd",
+		"postalCode": "2334",
+		"city": "Vösendorf",
+		"country": "Österreich",
+		"categories": [
+			"Women's Store"
+		]
 	},
 	{
 		"date": "2012-07-17T11:10:01.000Z",
 		"name": "Vero Moda",
-		"id": "4c9dfb8f8afca09377d9fb15"
+		"id": "4c9dfb8f8afca09377d9fb15",
+		"lat": 48.1103086902913,
+		"lng": 16.31778784376373,
+		"address": "Shopping City Süd",
+		"postalCode": "2334",
+		"city": "Vösendorf",
+		"country": "Österreich",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2012-07-17T12:19:05.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-20T17:14:31.000Z",
 		"name": "Central Park Café",
-		"id": "4ccef459c0378cfaa0ea9648"
+		"id": "4ccef459c0378cfaa0ea9648",
+		"lat": 47.68100131022882,
+		"lng": 16.5857230942081,
+		"address": "Deák tér",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Café",
+			"Lounge"
+		]
 	},
 	{
 		"date": "2012-07-20T17:14:59.000Z",
 		"name": "Deák tér",
-		"id": "4d7cceeb34f7721e4f0acc25"
+		"id": "4d7cceeb34f7721e4f0acc25",
+		"lat": 47.68042933030541,
+		"lng": 16.587352485307203,
+		"address": "Deák tér",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Park",
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-07-20T19:01:51.000Z",
 		"name": "Padlás Club",
-		"id": "4fec5150e4b0b0d53e694563"
+		"id": "4fec5150e4b0b0d53e694563",
+		"lat": 47.67921804345885,
+		"lng": 16.586955220951932,
+		"address": "Csenger u. 42.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Bar"
+		]
 	},
 	{
 		"date": "2012-07-20T20:50:58.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-22T10:08:19.000Z",
 		"name": "Várkerület",
-		"id": "4d3d55cb44f5a0933e04d4bb"
+		"id": "4d3d55cb44f5a0933e04d4bb",
+		"lat": 47.6850115484087,
+		"lng": 16.592843179592137,
+		"address": "Várkerület",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Road",
+			"Pedestrian Plaza"
+		]
 	},
 	{
 		"date": "2012-07-22T10:08:49.000Z",
 		"name": "Grandma's Place",
-		"id": "4f5c86b7e4b086681c0fa476"
+		"id": "4f5c86b7e4b086681c0fa476",
+		"lat": 47.685079492343135,
+		"lng": 16.59042726764715,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-22T11:43:41.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-23T15:10:41.000Z",
 		"name": "McDonald's",
-		"id": "4bc829fe15a7ef3bc6a27ada"
+		"id": "4bc829fe15a7ef3bc6a27ada",
+		"lat": 47.6861,
+		"lng": 17.63416,
+		"address": "Baross u. 23.",
+		"postalCode": "9021",
+		"city": "Győr",
+		"country": "Magyarország",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2012-07-23T15:10:55.000Z",
 		"name": "Belváros",
-		"id": "4df797fcb3adec5a0b9ab55a"
+		"id": "4df797fcb3adec5a0b9ab55a",
+		"lat": 47.68588039780518,
+		"lng": 17.63460889079319,
+		"postalCode": "9022",
+		"city": "Győr",
+		"country": "Magyarország",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2012-07-23T15:11:07.000Z",
 		"name": "Baross Gábor út - Sétálóutca",
-		"id": "4d89b5f61508a143b787131e"
+		"id": "4d89b5f61508a143b787131e",
+		"lat": 47.68638327595537,
+		"lng": 17.633755545951328,
+		"address": "Baross Gábor út",
+		"postalCode": "9027",
+		"city": "Győr",
+		"country": "Magyarország",
+		"categories": [
+			"Pedestrian Plaza"
+		]
 	},
 	{
 		"date": "2012-07-23T17:07:29.000Z",
 		"name": "Roxxy Music Cafe",
-		"id": "4caf266b1463a143fc0992a9"
+		"id": "4caf266b1463a143fc0992a9",
+		"lat": 47.58480082037948,
+		"lng": 18.395169503498295,
+		"address": "Győri út 3.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Rock Club",
+			"Pub"
+		]
 	},
 	{
 		"date": "2012-07-23T17:07:41.000Z",
 		"name": "Tatabánya vasútállomás",
-		"id": "4b7ff81cf964a5209f4730e3"
+		"id": "4b7ff81cf964a5209f4730e3",
+		"lat": 47.58529710183436,
+		"lng": 18.39315176010132,
+		"address": "Jedlik Ányos u. 1.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2012-07-23T17:17:09.000Z",
 		"name": "Tatabánya autóbusz-állomás (Vértes Center)",
-		"id": "4d9231b75cf5236a106e48a3"
+		"id": "4d9231b75cf5236a106e48a3",
+		"lat": 47.586394687856036,
+		"lng": 18.392904240848797,
+		"address": "Győri út",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2012-07-24T17:51:14.000Z",
 		"name": "Roxxy Music Cafe",
-		"id": "4caf266b1463a143fc0992a9"
+		"id": "4caf266b1463a143fc0992a9",
+		"lat": 47.58480082037948,
+		"lng": 18.395169503498295,
+		"address": "Győri út 3.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Rock Club",
+			"Pub"
+		]
 	},
 	{
 		"date": "2012-07-24T21:50:07.000Z",
 		"name": "Kertvarosi Lakotelep",
-		"id": "4ea1c97cf7909c68ddd42a08"
+		"id": "4ea1c97cf7909c68ddd42a08",
+		"lat": 47.589562708023045,
+		"lng": 18.36782851339897,
+		"country": "Magyarország",
+		"categories": [
+			"Residential Building (Apartment / Condo)"
+		]
 	},
 	{
 		"date": "2012-07-27T19:57:17.000Z",
 		"name": "Sopron vasútállomás",
-		"id": "4bd6fe6529eb9c749dee95e1"
+		"id": "4bd6fe6529eb9c749dee95e1",
+		"lat": 47.67771249028291,
+		"lng": 16.58738136291504,
+		"address": "Állomás u. 2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2012-07-27T20:15:58.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-29T10:05:17.000Z",
 		"name": "Grandma's Place",
-		"id": "4f5c86b7e4b086681c0fa476"
+		"id": "4f5c86b7e4b086681c0fa476",
+		"lat": 47.685079492343135,
+		"lng": 16.59042726764715,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-07-29T12:18:59.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]

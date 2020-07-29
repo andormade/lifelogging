@@ -2,641 +2,1766 @@
 	{
 		"date": "2012-06-01T05:43:49.000Z",
 		"name": "Goldmann Menza",
-		"id": "4cb440fd1168a093dd0a4723"
+		"id": "4cb440fd1168a093dd0a4723",
+		"lat": 47.47731123979614,
+		"lng": 19.058393239974976,
+		"address": "Goldmann György tér 1.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Cafeteria",
+			"Diner"
+		]
 	},
 	{
 		"date": "2012-06-01T05:52:12.000Z",
 		"name": "BME E épület",
-		"id": "4ba8e6fbf964a5208ef839e3"
+		"id": "4ba8e6fbf964a5208ef839e3",
+		"lat": 47.477616135843945,
+		"lng": 19.057630443325607,
+		"address": "Egry József u. 1.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2012-06-01T05:52:32.000Z",
 		"name": "BME E1.B előadóterem",
-		"id": "4e799da9aeb79f7dab8b437b"
+		"id": "4e799da9aeb79f7dab8b437b",
+		"lat": 47.477768,
+		"lng": 19.057303,
+		"address": "BME E épület",
+		"postalCode": "1111",
+		"city": "Budapest XI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"College Auditorium"
+		]
 	},
 	{
 		"date": "2012-06-01T10:15:56.000Z",
 		"name": "Nyugati pályaudvar M (4, 6)",
-		"id": "4bbf6921006dc9b6ae8bfc3f"
+		"id": "4bbf6921006dc9b6ae8bfc3f",
+		"lat": 47.51014375432035,
+		"lng": 19.056376540412806,
+		"address": "Nyugati tér",
+		"postalCode": "1055",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-06-01T10:16:14.000Z",
 		"name": "Nyugati tér",
-		"id": "4c04bf449a7920a1e5aad179"
+		"id": "4c04bf449a7920a1e5aad179",
+		"lat": 47.510273139564326,
+		"lng": 19.05600070953369,
+		"address": "Nyugati tér",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-06-01T12:05:13.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-01T12:05:28.000Z",
 		"name": "Andor's Home",
-		"id": "4f6b1ddce4b01cb02e173517"
+		"id": "4f6b1ddce4b01cb02e173517",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-01T20:54:23.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-03T10:10:31.000Z",
 		"name": "Várkerület",
-		"id": "4d3d55cb44f5a0933e04d4bb"
+		"id": "4d3d55cb44f5a0933e04d4bb",
+		"lat": 47.6850115484087,
+		"lng": 16.592843179592137,
+		"address": "Várkerület",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Road",
+			"Pedestrian Plaza"
+		]
 	},
 	{
 		"date": "2012-06-03T10:11:04.000Z",
 		"name": "Grandma's Place",
-		"id": "4f5c86b7e4b086681c0fa476"
+		"id": "4f5c86b7e4b086681c0fa476",
+		"lat": 47.685079492343135,
+		"lng": 16.59042726764715,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-03T19:23:12.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-04T10:04:22.000Z",
 		"name": "BME E épület",
-		"id": "4ba8e6fbf964a5208ef839e3"
+		"id": "4ba8e6fbf964a5208ef839e3",
+		"lat": 47.477616135843945,
+		"lng": 19.057630443325607,
+		"address": "Egry József u. 1.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2012-06-04T11:33:55.000Z",
 		"name": "BME Hallgatói Számítógép Központ",
-		"id": "4ea694f07ee5bebc94b27a20"
+		"id": "4ea694f07ee5bebc94b27a20",
+		"lat": 47.4787908396799,
+		"lng": 19.05989973266769,
+		"address": "BME R épület III.-IV. emelet",
+		"postalCode": "1111",
+		"city": "Budapest XI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-04T11:34:31.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-04T15:49:42.000Z",
 		"name": "Campona Bevásárló és Szórakoztatóközpont",
-		"id": "4bcd9a91937ca593fef0ac92"
+		"id": "4bcd9a91937ca593fef0ac92",
+		"lat": 47.40696527095432,
+		"lng": 19.017238074599398,
+		"address": "Nagytétényi út 37-43.",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-06-04T15:51:12.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ca4ed7797c8a1cdc05c62a5"
+		"id": "4ca4ed7797c8a1cdc05c62a5",
+		"lat": 47.40764243835762,
+		"lng": 19.019182931058598,
+		"address": "Campona földszint",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-06-04T17:02:21.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-04T17:03:11.000Z",
 		"name": "Andor's Home",
-		"id": "4f6b1ddce4b01cb02e173517"
+		"id": "4f6b1ddce4b01cb02e173517",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-05T07:53:30.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-06-05T11:53:03.000Z",
 		"name": "BME Hallgatói Számítógép Központ",
-		"id": "4ea694f07ee5bebc94b27a20"
+		"id": "4ea694f07ee5bebc94b27a20",
+		"lat": 47.4787908396799,
+		"lng": 19.05989973266769,
+		"address": "BME R épület III.-IV. emelet",
+		"postalCode": "1111",
+		"city": "Budapest XI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-05T11:53:16.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-05T13:19:02.000Z",
 		"name": "Campona Bevásárló és Szórakoztatóközpont",
-		"id": "4bcd9a91937ca593fef0ac92"
+		"id": "4bcd9a91937ca593fef0ac92",
+		"lat": 47.40696527095432,
+		"lng": 19.017238074599398,
+		"address": "Nagytétényi út 37-43.",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-06-05T13:19:18.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ca4ed7797c8a1cdc05c62a5"
+		"id": "4ca4ed7797c8a1cdc05c62a5",
+		"lat": 47.40764243835762,
+		"lng": 19.019182931058598,
+		"address": "Campona földszint",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-06-05T19:16:52.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-05T19:17:07.000Z",
 		"name": "Andor's Home",
-		"id": "4f6b1ddce4b01cb02e173517"
+		"id": "4f6b1ddce4b01cb02e173517",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-06T06:13:39.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-06T06:15:07.000Z",
 		"name": "BME R108",
-		"id": "4fcef568e4b0b4dd488d5295"
+		"id": "4fcef568e4b0b4dd488d5295",
+		"lat": 47.479013643238304,
+		"lng": 19.059062585260257,
+		"address": "BME R épület",
+		"city": "Budapest XIII. kerülete",
+		"country": "Magyarország",
+		"categories": [
+			"College Classroom"
+		]
 	},
 	{
 		"date": "2012-06-06T11:59:34.000Z",
 		"name": "BME Hallgatói Számítógép Központ",
-		"id": "4ea694f07ee5bebc94b27a20"
+		"id": "4ea694f07ee5bebc94b27a20",
+		"lat": 47.4787908396799,
+		"lng": 19.05989973266769,
+		"address": "BME R épület III.-IV. emelet",
+		"postalCode": "1111",
+		"city": "Budapest XI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-06T14:22:19.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-06T15:00:51.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-06-06T16:26:12.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-06-06T20:41:59.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-06T20:42:14.000Z",
 		"name": "Andor's Home",
-		"id": "4f6b1ddce4b01cb02e173517"
+		"id": "4f6b1ddce4b01cb02e173517",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-07T05:52:03.000Z",
 		"name": "BME E épület",
-		"id": "4ba8e6fbf964a5208ef839e3"
+		"id": "4ba8e6fbf964a5208ef839e3",
+		"lat": 47.477616135843945,
+		"lng": 19.057630443325607,
+		"address": "Egry József u. 1.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2012-06-07T05:55:00.000Z",
 		"name": "BME E1.B előadóterem",
-		"id": "4e799da9aeb79f7dab8b437b"
+		"id": "4e799da9aeb79f7dab8b437b",
+		"lat": 47.477768,
+		"lng": 19.057303,
+		"address": "BME E épület",
+		"postalCode": "1111",
+		"city": "Budapest XI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"College Auditorium"
+		]
 	},
 	{
 		"date": "2012-06-07T08:58:41.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-06-07T08:59:59.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-06-07T13:38:04.000Z",
 		"name": "Mammut I.",
-		"id": "4b570185f964a520972228e3"
+		"id": "4b570185f964a520972228e3",
+		"lat": 47.50846117427292,
+		"lng": 19.026230429308974,
+		"address": "Lövőház u. 2-6.",
+		"postalCode": "1024",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-06-07T14:47:44.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-08T11:07:22.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-08T13:14:36.000Z",
 		"name": "Andor's Home",
-		"id": "4f6b1ddce4b01cb02e173517"
+		"id": "4f6b1ddce4b01cb02e173517",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-08T15:45:22.000Z",
 		"name": "OMV Bábolna-Dél",
-		"id": "4ddb1ca5d16419ce67324b73"
+		"id": "4ddb1ca5d16419ce67324b73",
+		"lat": 47.68048269045468,
+		"lng": 17.976010163956694,
+		"address": "M1 93 km",
+		"postalCode": "2943",
+		"city": "Bábolna",
+		"country": "Magyarország",
+		"categories": [
+			"Gas Station",
+			"Rest Area"
+		]
 	},
 	{
 		"date": "2012-06-08T17:41:30.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-10T19:15:23.000Z",
 		"name": "MOL",
-		"id": "4df64e71fa76abc3d875f2d1"
+		"id": "4df64e71fa76abc3d875f2d1",
+		"lat": 47.43976330903009,
+		"lng": 19.044234607565794,
+		"address": "Hunyadi János út 23",
+		"postalCode": "1116",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2012-06-10T19:30:53.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-11T04:25:52.000Z",
 		"name": "Andor's Home",
-		"id": "4f6b1ddce4b01cb02e173517"
+		"id": "4f6b1ddce4b01cb02e173517",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-11T05:31:44.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-06-11T07:45:38.000Z",
 		"name": "BME IB025",
-		"id": "4fd5a21fe4b034e1fafcecb4"
+		"id": "4fd5a21fe4b034e1fafcecb4",
+		"lat": 47.47263453447567,
+		"lng": 19.059688263931424,
+		"address": "BME I épület",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Auditorium"
+		]
 	},
 	{
 		"date": "2012-06-11T08:12:37.000Z",
 		"name": "BME Hallgatói Számítógép Központ",
-		"id": "4ea694f07ee5bebc94b27a20"
+		"id": "4ea694f07ee5bebc94b27a20",
+		"lat": 47.4787908396799,
+		"lng": 19.05989973266769,
+		"address": "BME R épület III.-IV. emelet",
+		"postalCode": "1111",
+		"city": "Budapest XI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-11T08:12:59.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-11T11:28:34.000Z",
 		"name": "BME CH épület",
-		"id": "4bbdf3e94e069c745d579fe3"
+		"id": "4bbdf3e94e069c745d579fe3",
+		"lat": 47.483102249225375,
+		"lng": 19.054201789682196,
+		"address": "Szent Gellért tér 4.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Science Building"
+		]
 	},
 	{
 		"date": "2012-06-11T11:31:24.000Z",
 		"name": "BME CHMAX",
-		"id": "4fd5d705e4b0abd665ea4592"
+		"id": "4fd5d705e4b0abd665ea4592",
+		"lat": 47.48273006694391,
+		"lng": 19.05433780804033,
+		"address": "BME CH épület",
+		"country": "Magyarország",
+		"categories": [
+			"College Auditorium"
+		]
 	},
 	{
 		"date": "2012-06-11T15:09:12.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-11T15:14:39.000Z",
 		"name": "Andor's Home",
-		"id": "4f6b1ddce4b01cb02e173517"
+		"id": "4f6b1ddce4b01cb02e173517",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-11T15:47:31.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ca4ed7797c8a1cdc05c62a5"
+		"id": "4ca4ed7797c8a1cdc05c62a5",
+		"lat": 47.40764243835762,
+		"lng": 19.019182931058598,
+		"address": "Campona földszint",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-06-11T15:47:46.000Z",
 		"name": "Campona Bevásárló és Szórakoztatóközpont",
-		"id": "4bcd9a91937ca593fef0ac92"
+		"id": "4bcd9a91937ca593fef0ac92",
+		"lat": 47.40696527095432,
+		"lng": 19.017238074599398,
+		"address": "Nagytétényi út 37-43.",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-06-11T16:26:05.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-06-11T16:26:23.000Z",
 		"name": "Harminckettesek tere",
-		"id": "4bf6a540bfeac92810af9436"
+		"id": "4bf6a540bfeac92810af9436",
+		"lat": 47.48950129908545,
+		"lng": 19.071492778445887,
+		"address": "Harminckettesek tere",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-06-11T16:54:58.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-06-12T19:20:07.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ca4ed7797c8a1cdc05c62a5"
+		"id": "4ca4ed7797c8a1cdc05c62a5",
+		"lat": 47.40764243835762,
+		"lng": 19.019182931058598,
+		"address": "Campona földszint",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-06-12T19:20:24.000Z",
 		"name": "Campona Bevásárló és Szórakoztatóközpont",
-		"id": "4bcd9a91937ca593fef0ac92"
+		"id": "4bcd9a91937ca593fef0ac92",
+		"lat": 47.40696527095432,
+		"lng": 19.017238074599398,
+		"address": "Nagytétényi út 37-43.",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-06-12T19:36:25.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-12T19:37:03.000Z",
 		"name": "Andor's Home",
-		"id": "4f6b1ddce4b01cb02e173517"
+		"id": "4f6b1ddce4b01cb02e173517",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-13T05:56:37.000Z",
 		"name": "BME R108",
-		"id": "4fcef568e4b0b4dd488d5295"
+		"id": "4fcef568e4b0b4dd488d5295",
+		"lat": 47.479013643238304,
+		"lng": 19.059062585260257,
+		"address": "BME R épület",
+		"city": "Budapest XIII. kerülete",
+		"country": "Magyarország",
+		"categories": [
+			"College Classroom"
+		]
 	},
 	{
 		"date": "2012-06-13T05:57:13.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-13T08:55:18.000Z",
 		"name": "BME Hallgatói Számítógép Központ",
-		"id": "4ea694f07ee5bebc94b27a20"
+		"id": "4ea694f07ee5bebc94b27a20",
+		"lat": 47.4787908396799,
+		"lng": 19.05989973266769,
+		"address": "BME R épület III.-IV. emelet",
+		"postalCode": "1111",
+		"city": "Budapest XI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-13T15:07:11.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-06-13T15:29:40.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-06-14T07:48:15.000Z",
 		"name": "BME E épület",
-		"id": "4ba8e6fbf964a5208ef839e3"
+		"id": "4ba8e6fbf964a5208ef839e3",
+		"lat": 47.477616135843945,
+		"lng": 19.057630443325607,
+		"address": "Egry József u. 1.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2012-06-14T08:26:57.000Z",
 		"name": "BME Q épület",
-		"id": "4c85f24fd4e23704bdf58688"
+		"id": "4c85f24fd4e23704bdf58688",
+		"lat": 47.473393661934686,
+		"lng": 19.059766255018825,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2012-06-14T08:27:20.000Z",
 		"name": "BME QA240 előadóterem",
-		"id": "4e80520c9adff098ba0037c9"
+		"id": "4e80520c9adff098ba0037c9",
+		"lat": 47.4733350351183,
+		"lng": 19.06004245256534,
+		"address": "BME Q épület",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Auditorium"
+		]
 	},
 	{
 		"date": "2012-06-14T09:17:24.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ca4ed7797c8a1cdc05c62a5"
+		"id": "4ca4ed7797c8a1cdc05c62a5",
+		"lat": 47.40764243835762,
+		"lng": 19.019182931058598,
+		"address": "Campona földszint",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-06-14T09:17:35.000Z",
 		"name": "Campona Bevásárló és Szórakoztatóközpont",
-		"id": "4bcd9a91937ca593fef0ac92"
+		"id": "4bcd9a91937ca593fef0ac92",
+		"lat": 47.40696527095432,
+		"lng": 19.017238074599398,
+		"address": "Nagytétényi út 37-43.",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-06-14T13:16:31.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-14T13:16:51.000Z",
 		"name": "Andor's Home",
-		"id": "4f6b1ddce4b01cb02e173517"
+		"id": "4f6b1ddce4b01cb02e173517",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-14T14:14:18.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-06-14T14:14:30.000Z",
 		"name": "Harminckettesek tere",
-		"id": "4bf6a540bfeac92810af9436"
+		"id": "4bf6a540bfeac92810af9436",
+		"lat": 47.48950129908545,
+		"lng": 19.071492778445887,
+		"address": "Harminckettesek tere",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-06-14T16:07:13.000Z",
 		"name": "Pepsi ABC",
-		"id": "4ca57bf6a6e08cfa90c87194"
+		"id": "4ca57bf6a6e08cfa90c87194",
+		"lat": 47.48790215068848,
+		"lng": 19.081916674868864,
+		"country": "Magyarország",
+		"categories": [
+			"Deli / Bodega"
+		]
 	},
 	{
 		"date": "2012-06-14T19:52:55.000Z",
 		"name": "Móricz Zsigmond körtér M (6)",
-		"id": "4c814dd8d34ca143ee262180"
+		"id": "4c814dd8d34ca143ee262180",
+		"lat": 47.47742997325234,
+		"lng": 19.048785384508754,
+		"address": "Karinthy Frigyes út",
+		"postalCode": "1114",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-06-14T19:53:53.000Z",
 		"name": "Móricz Zsigmond körtér",
-		"id": "4bbdbe1a8ec3d13a2a5a1c28"
+		"id": "4bbdbe1a8ec3d13a2a5a1c28",
+		"lat": 47.47730207013187,
+		"lng": 19.04743043972232,
+		"address": "Móricz Zsigmond körtér",
+		"postalCode": "1114",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-06-14T20:27:51.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ca4ed7797c8a1cdc05c62a5"
+		"id": "4ca4ed7797c8a1cdc05c62a5",
+		"lat": 47.40764243835762,
+		"lng": 19.019182931058598,
+		"address": "Campona földszint",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-06-14T20:32:00.000Z",
 		"name": "Campona Bevásárló és Szórakoztatóközpont",
-		"id": "4bcd9a91937ca593fef0ac92"
+		"id": "4bcd9a91937ca593fef0ac92",
+		"lat": 47.40696527095432,
+		"lng": 19.017238074599398,
+		"address": "Nagytétényi út 37-43.",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-06-15T05:40:15.000Z",
 		"name": "BME E épület",
-		"id": "4ba8e6fbf964a5208ef839e3"
+		"id": "4ba8e6fbf964a5208ef839e3",
+		"lat": 47.477616135843945,
+		"lng": 19.057630443325607,
+		"address": "Egry József u. 1.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2012-06-15T08:11:55.000Z",
 		"name": "BME E1.B előadóterem",
-		"id": "4e799da9aeb79f7dab8b437b"
+		"id": "4e799da9aeb79f7dab8b437b",
+		"lat": 47.477768,
+		"lng": 19.057303,
+		"address": "BME E épület",
+		"postalCode": "1111",
+		"city": "Budapest XI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"College Auditorium"
+		]
 	},
 	{
 		"date": "2012-06-15T09:23:10.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ca4ed7797c8a1cdc05c62a5"
+		"id": "4ca4ed7797c8a1cdc05c62a5",
+		"lat": 47.40764243835762,
+		"lng": 19.019182931058598,
+		"address": "Campona földszint",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-06-15T09:23:21.000Z",
 		"name": "Campona Bevásárló és Szórakoztatóközpont",
-		"id": "4bcd9a91937ca593fef0ac92"
+		"id": "4bcd9a91937ca593fef0ac92",
+		"lat": 47.40696527095432,
+		"lng": 19.017238074599398,
+		"address": "Nagytétényi út 37-43.",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-06-15T14:44:10.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-15T14:45:21.000Z",
 		"name": "Andor's Home",
-		"id": "4f6b1ddce4b01cb02e173517"
+		"id": "4f6b1ddce4b01cb02e173517",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-15T15:05:33.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ca4ed7797c8a1cdc05c62a5"
+		"id": "4ca4ed7797c8a1cdc05c62a5",
+		"lat": 47.40764243835762,
+		"lng": 19.019182931058598,
+		"address": "Campona földszint",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-06-15T15:05:42.000Z",
 		"name": "Campona Bevásárló és Szórakoztatóközpont",
-		"id": "4bcd9a91937ca593fef0ac92"
+		"id": "4bcd9a91937ca593fef0ac92",
+		"lat": 47.40696527095432,
+		"lng": 19.017238074599398,
+		"address": "Nagytétényi út 37-43.",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-06-15T17:28:27.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-06-15T21:16:51.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-06-15T21:17:40.000Z",
 		"name": "Harminckettesek tere",
-		"id": "4bf6a540bfeac92810af9436"
+		"id": "4bf6a540bfeac92810af9436",
+		"lat": 47.48950129908545,
+		"lng": 19.071492778445887,
+		"address": "Harminckettesek tere",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-06-15T21:57:44.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-15T21:58:48.000Z",
 		"name": "Andor's Home",
-		"id": "4f6b1ddce4b01cb02e173517"
+		"id": "4f6b1ddce4b01cb02e173517",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-16T12:36:05.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-06-16T17:23:44.000Z",
 		"name": "Széll Kálmán tér (M2)",
-		"id": "4d748dfb9d2fa1437332f3d6"
+		"id": "4d748dfb9d2fa1437332f3d6",
+		"lat": 47.506986577412206,
+		"lng": 19.024892449378967,
+		"address": "Széll Kálmán tér",
+		"postalCode": "1024",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Metro Station"
+		]
 	},
 	{
 		"date": "2012-06-16T17:27:19.000Z",
 		"name": "McDonald's",
-		"id": "4b8fdf2df964a5209c6633e3"
+		"id": "4b8fdf2df964a5209c6633e3",
+		"lat": 47.50783450840434,
+		"lng": 19.024511575698853,
+		"address": "Margit krt. 103.",
+		"postalCode": "1026",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Fast Food Restaurant",
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2012-06-16T23:27:00.000Z",
 		"name": "Instant",
-		"id": "4b5ba74bf964a520e60d29e3"
+		"id": "4b5ba74bf964a520e60d29e3",
+		"lat": 47.50065923417731,
+		"lng": 19.065268925640257,
+		"address": "Akácfa u. 49-51.",
+		"postalCode": "1072",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Nightclub",
+			"Bar"
+		]
 	},
 	{
 		"date": "2012-06-16T23:33:21.000Z",
 		"name": "Nagymenő",
-		"id": "4e18ca3bd22d512258874509"
+		"id": "4e18ca3bd22d512258874509",
+		"lat": 47.50432033119684,
+		"lng": 19.059125109105302,
+		"address": "Nagymező 34.",
+		"postalCode": "1065",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Pub"
+		]
 	},
 	{
 		"date": "2012-06-17T14:45:51.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-06-17T21:44:20.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ca4ed7797c8a1cdc05c62a5"
+		"id": "4ca4ed7797c8a1cdc05c62a5",
+		"lat": 47.40764243835762,
+		"lng": 19.019182931058598,
+		"address": "Campona földszint",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-06-17T21:44:33.000Z",
 		"name": "Campona Bevásárló és Szórakoztatóközpont",
-		"id": "4bcd9a91937ca593fef0ac92"
+		"id": "4bcd9a91937ca593fef0ac92",
+		"lat": 47.40696527095432,
+		"lng": 19.017238074599398,
+		"address": "Nagytétényi út 37-43.",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-06-18T08:12:55.000Z",
 		"name": "BME Hallgatói Számítógép Központ",
-		"id": "4ea694f07ee5bebc94b27a20"
+		"id": "4ea694f07ee5bebc94b27a20",
+		"lat": 47.4787908396799,
+		"lng": 19.05989973266769,
+		"address": "BME R épület III.-IV. emelet",
+		"postalCode": "1111",
+		"city": "Budapest XI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-18T08:13:12.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-06-18T12:22:15.000Z",
 		"name": "Bem József tér (109, 960)",
-		"id": "4e68e1d414954826addcd06f"
+		"id": "4e68e1d414954826addcd06f",
+		"lat": 47.511790613872066,
+		"lng": 19.038738012313843,
+		"address": "Bem rkp.",
+		"postalCode": "1013",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2012-06-18T12:22:31.000Z",
 		"name": "Bem tér",
-		"id": "4ca58b7da6e08cfa1b387294"
+		"id": "4ca58b7da6e08cfa1b387294",
+		"lat": 47.51205584131837,
+		"lng": 19.03879165649414,
+		"address": "Bem tér",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2012-06-18T13:54:25.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-06-18T22:44:51.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-06-18T23:15:07.000Z",
 		"name": "Harminckettesek tere",
-		"id": "4bf6a540bfeac92810af9436"
+		"id": "4bf6a540bfeac92810af9436",
+		"lat": 47.48950129908545,
+		"lng": 19.071492778445887,
+		"address": "Harminckettesek tere",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-06-18T23:33:29.000Z",
 		"name": "Móricz Zsigmond körtér",
-		"id": "4bbdbe1a8ec3d13a2a5a1c28"
+		"id": "4bbdbe1a8ec3d13a2a5a1c28",
+		"lat": 47.47730207013187,
+		"lng": 19.04743043972232,
+		"address": "Móricz Zsigmond körtér",
+		"postalCode": "1114",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-06-18T23:33:56.000Z",
 		"name": "Móricz Zsigmond körtér M (17, 41, 47, 47B, 48, 56, 56A, 61, 973)",
-		"id": "4c89e8fba92fa093aab28cbf"
+		"id": "4c89e8fba92fa093aab28cbf",
+		"lat": 47.47730450559686,
+		"lng": 19.04736248039663,
+		"address": "Móricz Zsigmond körtér",
+		"postalCode": "1114",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station",
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2012-06-19T00:05:49.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2012-06-19T13:09:47.000Z",
 		"name": "Andor's Home",
-		"id": "4f6b1ddce4b01cb02e173517"
+		"id": "4f6b1ddce4b01cb02e173517",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-19T13:21:54.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ca4ed7797c8a1cdc05c62a5"
+		"id": "4ca4ed7797c8a1cdc05c62a5",
+		"lat": 47.40764243835762,
+		"lng": 19.019182931058598,
+		"address": "Campona földszint",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-06-21T09:43:29.000Z",
 		"name": "Háda",
-		"id": "4f894473e4b0abaa027b79ce"
+		"id": "4f894473e4b0abaa027b79ce",
+		"lat": 47.581335,
+		"lng": 18.392178,
+		"country": "Magyarország",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2012-06-21T09:43:46.000Z",
 		"name": "Szent Borbála Kórház",
-		"id": "4d940b4d45ae5481815dfceb"
+		"id": "4d940b4d45ae5481815dfceb",
+		"lat": 47.579578061553065,
+		"lng": 18.393379262570683,
+		"address": "Dózsa György út 77.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Hospital"
+		]
 	},
 	{
 		"date": "2012-06-21T10:17:54.000Z",
 		"name": "Vértes Center",
-		"id": "4cf26461e9425481f2f46fc5"
+		"id": "4cf26461e9425481f2f46fc5",
+		"lat": 47.58627385111341,
+		"lng": 18.393827125687846,
+		"address": "Győri út 7-9.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-06-23T17:01:33.000Z",
 		"name": "Mordor 2",
-		"id": "4e46adc745dd2955e59aa8ef"
+		"id": "4e46adc745dd2955e59aa8ef",
+		"lat": 47.54498888001689,
+		"lng": 18.264753297830538,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-25T07:22:20.000Z",
 		"name": "Roxxy Music Cafe",
-		"id": "4caf266b1463a143fc0992a9"
+		"id": "4caf266b1463a143fc0992a9",
+		"lat": 47.58480082037948,
+		"lng": 18.395169503498295,
+		"address": "Győri út 3.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Rock Club",
+			"Pub"
+		]
 	},
 	{
 		"date": "2012-06-25T10:29:21.000Z",
 		"name": "Kertvarosi Lakotelep",
-		"id": "4ea1c97cf7909c68ddd42a08"
+		"id": "4ea1c97cf7909c68ddd42a08",
+		"lat": 47.589562708023045,
+		"lng": 18.36782851339897,
+		"country": "Magyarország",
+		"categories": [
+			"Residential Building (Apartment / Condo)"
+		]
 	},
 	{
 		"date": "2012-06-25T13:29:59.000Z",
 		"name": "Vértes Center",
-		"id": "4cf26461e9425481f2f46fc5"
+		"id": "4cf26461e9425481f2f46fc5",
+		"lat": 47.58627385111341,
+		"lng": 18.393827125687846,
+		"address": "Győri út 7-9.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-06-25T13:30:37.000Z",
 		"name": "Tatabánya autóbusz-állomás (Vértes Center)",
-		"id": "4d9231b75cf5236a106e48a3"
+		"id": "4d9231b75cf5236a106e48a3",
+		"lat": 47.586394687856036,
+		"lng": 18.392904240848797,
+		"address": "Győri út",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2012-06-26T16:05:06.000Z",
 		"name": "Sopron vasútállomás",
-		"id": "4bd6fe6529eb9c749dee95e1"
+		"id": "4bd6fe6529eb9c749dee95e1",
+		"lat": 47.67771249028291,
+		"lng": 16.58738136291504,
+		"address": "Állomás u. 2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2012-06-26T17:02:12.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-06-26T22:48:04.000Z",
 		"name": "McDonald's",
-		"id": "4c2f08963896e21edb43e390"
+		"id": "4c2f08963896e21edb43e390",
+		"lat": 47.69342888945339,
+		"lng": 16.582018388219954,
+		"address": "Lackner Kristóf u. 60.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2012-06-26T22:48:26.000Z",
 		"name": "Shell",
-		"id": "4cb3328cdb32f04d2880d54d"
+		"id": "4cb3328cdb32f04d2880d54d",
+		"lat": 47.69300357,
+		"lng": 16.58202333,
+		"address": "Lackner Kristóf u. 60",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2012-06-26T23:44:28.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]
