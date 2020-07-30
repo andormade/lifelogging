@@ -2,726 +2,1973 @@
 	{
 		"date": "2012-10-02T05:48:31.000Z",
 		"name": "BME IL504",
-		"id": "50580eb4e4b07e9d89fe1314"
+		"id": "50580eb4e4b07e9d89fe1314",
+		"lat": 47.472952,
+		"lng": 19.061199,
+		"address": "BME I épület",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Lab"
+		]
 	},
 	{
 		"date": "2012-10-02T05:48:43.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-10-02T11:49:09.000Z",
 		"name": "IKEA",
-		"id": "4baf84eff964a520a3063ce3"
+		"id": "4baf84eff964a520a3063ce3",
+		"lat": 47.505179791600206,
+		"lng": 19.137999590978485,
+		"address": "Örs vezér tere 22.",
+		"postalCode": "1148",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Furniture / Home Store"
+		]
 	},
 	{
 		"date": "2012-10-02T13:48:36.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-03T08:09:33.000Z",
 		"name": "BME Cisco Oktatólabor",
-		"id": "4e9ff3422c5b9f62faf6f56f"
+		"id": "4e9ff3422c5b9f62faf6f56f",
+		"lat": 47.472704949270835,
+		"lng": 19.05971140524067,
+		"address": "BME I épület",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Lab"
+		]
 	},
 	{
 		"date": "2012-10-03T08:09:45.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-10-03T12:08:39.000Z",
 		"name": "BME IB145",
-		"id": "4f38fdc0e4b0a8274071361b"
+		"id": "4f38fdc0e4b0a8274071361b",
+		"lat": 47.47250459547692,
+		"lng": 19.05985818496417,
+		"address": "BME I épület",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Classroom"
+		]
 	},
 	{
 		"date": "2012-10-03T15:28:36.000Z",
 		"name": "Losonci tér 3.",
-		"id": "50658860e4b0675fa466d3bb"
+		"id": "50658860e4b0675fa466d3bb",
+		"lat": 47.488038,
+		"lng": 19.082002,
+		"address": "Losonci tér 3.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Residential Building (Apartment / Condo)"
+		]
 	},
 	{
 		"date": "2012-10-03T15:29:09.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-03T15:29:17.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-04T10:18:59.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-10-04T10:19:07.000Z",
 		"name": "McDonald's",
-		"id": "4bcb3068511f95214be5b0c7"
+		"id": "4bcb3068511f95214be5b0c7",
+		"lat": 47.489294984947776,
+		"lng": 19.070887881098344,
+		"address": "József krt. 52-56.",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2012-10-04T10:19:57.000Z",
 		"name": "McCafé",
-		"id": "5020ba15e4b05bc1264292b9"
+		"id": "5020ba15e4b05bc1264292b9",
+		"lat": 47.48943767100104,
+		"lng": 19.07084615891728,
+		"address": "József krt. 52-56.",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2012-10-04T11:20:08.000Z",
 		"name": "ELTE BTK",
-		"id": "4ca03e46604c76b081ab927b"
+		"id": "4ca03e46604c76b081ab927b",
+		"lat": 47.49347218758811,
+		"lng": 19.061193466186523,
+		"address": "Múzeum krt. 4-8.",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"University",
+			"College Auditorium"
+		]
 	},
 	{
 		"date": "2012-10-04T11:20:28.000Z",
 		"name": "ELTE BTK Germanisztika Intézet Könyvtára",
-		"id": "4f3ba647e4b082304748e6b0"
+		"id": "4f3ba647e4b082304748e6b0",
+		"lat": 47.492909163860055,
+		"lng": 19.061653817211642,
+		"address": "Múzeum körút 6",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Library"
+		]
 	},
 	{
 		"date": "2012-10-04T11:20:50.000Z",
 		"name": "ELTE BTK A épület",
-		"id": "4cff59060457b1f7295c2b78"
+		"id": "4cff59060457b1f7295c2b78",
+		"lat": 47.4931528383444,
+		"lng": 19.06116693322576,
+		"address": "Múzeum krt. 4-8.",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Auditorium"
+		]
 	},
 	{
 		"date": "2012-10-04T12:48:27.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-04T19:53:54.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-10-04T19:54:02.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-05T07:58:10.000Z",
 		"name": "Bem tér",
-		"id": "4ca58b7da6e08cfa1b387294"
+		"id": "4ca58b7da6e08cfa1b387294",
+		"lat": 47.51205584131837,
+		"lng": 19.03879165649414,
+		"address": "Bem tér",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-05T07:58:16.000Z",
 		"name": "Bem József tér (109, 960)",
-		"id": "4e68e1d414954826addcd06f"
+		"id": "4e68e1d414954826addcd06f",
+		"lat": 47.511790613872066,
+		"lng": 19.038738012313843,
+		"address": "Bem rkp.",
+		"postalCode": "1013",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2012-10-05T13:37:11.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-06T06:54:55.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-06T08:38:16.000Z",
 		"name": "Natura fitt",
-		"id": "501bd0b1e4b07af9f3668728"
+		"id": "501bd0b1e4b07af9f3668728",
+		"lat": 47.67579620806769,
+		"lng": 16.609582436522807,
+		"country": "Magyarország",
+		"categories": [
+			"Salon / Barbershop"
+		]
 	},
 	{
 		"date": "2012-10-06T09:30:00.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-07T18:20:19.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-08T06:11:48.000Z",
 		"name": "BME IB026",
-		"id": "4f3b973be4b04e90d76db8d3"
+		"id": "4f3b973be4b04e90d76db8d3",
+		"lat": 47.47282447600605,
+		"lng": 19.059547324692293,
+		"address": "BME I épület",
+		"city": "Budapest XI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"College Auditorium"
+		]
 	},
 	{
 		"date": "2012-10-08T06:12:55.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-10-08T11:23:23.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-08T13:50:47.000Z",
 		"name": "ELTE BTK",
-		"id": "4ca03e46604c76b081ab927b"
+		"id": "4ca03e46604c76b081ab927b",
+		"lat": 47.49347218758811,
+		"lng": 19.061193466186523,
+		"address": "Múzeum krt. 4-8.",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"University",
+			"College Auditorium"
+		]
 	},
 	{
 		"date": "2012-10-08T13:51:25.000Z",
 		"name": "ELTE BTK A épület",
-		"id": "4cff59060457b1f7295c2b78"
+		"id": "4cff59060457b1f7295c2b78",
+		"lat": 47.4931528383444,
+		"lng": 19.06116693322576,
+		"address": "Múzeum krt. 4-8.",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Auditorium"
+		]
 	},
 	{
 		"date": "2012-10-08T14:51:54.000Z",
 		"name": "Oktogon M (4, 6)",
-		"id": "4d54e68e143ca093235fa9fc"
+		"id": "4d54e68e143ca093235fa9fc",
+		"lat": 47.5058173109262,
+		"lng": 19.062614255153175,
+		"address": "Oktogon",
+		"postalCode": "1066",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-10-08T16:12:21.000Z",
 		"name": "Király utca (4, 6)",
-		"id": "4c96542a94a0236af9f59d12"
+		"id": "4c96542a94a0236af9f59d12",
+		"lat": 47.50311239155214,
+		"lng": 19.065948848368812,
+		"address": "Erzsébet krt. 58.",
+		"postalCode": "1066",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-10-08T16:12:38.000Z",
 		"name": "Presszó 53",
-		"id": "4c7a9b95794e224b7e0a6928"
+		"id": "4c7a9b95794e224b7e0a6928",
+		"lat": 47.50308949585218,
+		"lng": 19.065896942786875,
+		"address": "Erzsébet krt. 53.",
+		"postalCode": "1073",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Café"
+		]
 	},
 	{
 		"date": "2012-10-09T21:36:04.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-09T21:36:13.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-10T08:03:36.000Z",
 		"name": "BME Cisco Oktatólabor",
-		"id": "4e9ff3422c5b9f62faf6f56f"
+		"id": "4e9ff3422c5b9f62faf6f56f",
+		"lat": 47.472704949270835,
+		"lng": 19.05971140524067,
+		"address": "BME I épület",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Lab"
+		]
 	},
 	{
 		"date": "2012-10-10T08:03:46.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-10-10T12:47:37.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-10T12:47:47.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-10T15:12:14.000Z",
 		"name": "Oktogon M (4, 6)",
-		"id": "4d54e68e143ca093235fa9fc"
+		"id": "4d54e68e143ca093235fa9fc",
+		"lat": 47.5058173109262,
+		"lng": 19.062614255153175,
+		"address": "Oktogon",
+		"postalCode": "1066",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-10-10T15:12:39.000Z",
 		"name": "Lomex Elektro Bolt",
-		"id": "4c6c83eb99b9236a12f1e2c9"
+		"id": "4c6c83eb99b9236a12f1e2c9",
+		"lat": 47.519013673608626,
+		"lng": 19.06575250058414,
+		"address": "Lehel u. 17.",
+		"postalCode": "1134",
+		"country": "Magyarország",
+		"categories": [
+			"Hobby Shop"
+		]
 	},
 	{
 		"date": "2012-10-10T18:41:06.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-11T06:08:48.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-10-11T06:22:31.000Z",
 		"name": "BME IB138",
-		"id": "5075168fe4b05275680b6cf7"
+		"id": "5075168fe4b05275680b6cf7",
+		"lat": 47.472396893134395,
+		"lng": 19.060042032053556,
+		"address": "BME I Épület",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Classroom"
+		]
 	},
 	{
 		"date": "2012-10-11T08:02:46.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-10-11T08:02:54.000Z",
 		"name": "Harminckettesek tere",
-		"id": "4bf6a540bfeac92810af9436"
+		"id": "4bf6a540bfeac92810af9436",
+		"lat": 47.48950129908545,
+		"lng": 19.071492778445887,
+		"address": "Harminckettesek tere",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-10-11T08:03:19.000Z",
 		"name": "Harminckettesek tere (9, 83, 109, 909)",
-		"id": "4d45c5681b62b1f7248200e3"
+		"id": "4d45c5681b62b1f7248200e3",
+		"lat": 47.489483785039134,
+		"lng": 19.07141840391857,
+		"address": "Baross u.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2012-10-11T11:08:09.000Z",
 		"name": "Hotel Regnum Residence",
-		"id": "4c0e6c6ef319b7137f824b9a"
+		"id": "4c0e6c6ef319b7137f824b9a",
+		"lat": 47.5108313103247,
+		"lng": 19.037090623934713,
+		"address": "Ganz u. 8.",
+		"postalCode": "1025",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2012-10-11T11:08:29.000Z",
 		"name": "Regnum Étterem & Drink Bar",
-		"id": "4ca47868554b236aec2d2f48"
+		"id": "4ca47868554b236aec2d2f48",
+		"lat": 47.5107136892502,
+		"lng": 19.03711146007726,
+		"address": "Ganz u. 8.",
+		"postalCode": "1025",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2012-10-11T11:08:37.000Z",
 		"name": "Bem tér",
-		"id": "4ca58b7da6e08cfa1b387294"
+		"id": "4ca58b7da6e08cfa1b387294",
+		"lat": 47.51205584131837,
+		"lng": 19.03879165649414,
+		"address": "Bem tér",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-11T12:11:12.000Z",
 		"name": "Harminckettesek tere",
-		"id": "4bf6a540bfeac92810af9436"
+		"id": "4bf6a540bfeac92810af9436",
+		"lat": 47.48950129908545,
+		"lng": 19.071492778445887,
+		"address": "Harminckettesek tere",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-10-11T14:14:27.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-11T14:14:36.000Z",
 		"name": "Losonci tér 3.",
-		"id": "50658860e4b0675fa466d3bb"
+		"id": "50658860e4b0675fa466d3bb",
+		"lat": 47.488038,
+		"lng": 19.082002,
+		"address": "Losonci tér 3.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Residential Building (Apartment / Condo)"
+		]
 	},
 	{
 		"date": "2012-10-11T14:14:46.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-12T12:01:04.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-12T14:19:51.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-10-12T14:20:01.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-12T16:05:05.000Z",
 		"name": "Szimpla Kert",
-		"id": "4b630e1af964a52020602ae3"
+		"id": "4b630e1af964a52020602ae3",
+		"lat": 47.49689071315625,
+		"lng": 19.062936992141815,
+		"address": "Kazinczy u. 14.",
+		"postalCode": "1075",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Pub"
+		]
 	},
 	{
 		"date": "2012-10-12T18:50:06.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-10-12T18:50:22.000Z",
 		"name": "Harminckettesek tere",
-		"id": "4bf6a540bfeac92810af9436"
+		"id": "4bf6a540bfeac92810af9436",
+		"lat": 47.48950129908545,
+		"lng": 19.071492778445887,
+		"address": "Harminckettesek tere",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-10-12T19:06:41.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-12T19:06:47.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-13T09:53:21.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-13T23:16:08.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-14T10:13:39.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-14T10:13:47.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-10-14T11:46:43.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-14T15:45:48.000Z",
 		"name": "WestEnd City Center",
-		"id": "4bcc1b343740b71309846365"
+		"id": "4bcc1b343740b71309846365",
+		"lat": 47.51328376254626,
+		"lng": 19.05914504127989,
+		"address": "Váci út 1-3.",
+		"postalCode": "1062",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-10-14T15:46:12.000Z",
 		"name": "Tiszacipő Márkabolt",
-		"id": "4d878e989324236a3da8f80e"
+		"id": "4d878e989324236a3da8f80e",
+		"lat": 47.513307006834644,
+		"lng": 19.057716593534003,
+		"address": "Westend földszint, Széchenyi nagykörút 27/a.",
+		"postalCode": "1062",
+		"city": "Budapest VI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Shoe Store",
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2012-10-14T19:06:35.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-14T19:06:41.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-15T07:26:40.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-15T09:03:00.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-15T09:03:12.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-10-16T10:20:44.000Z",
 		"name": "BME IB142",
-		"id": "4f6af375e4b08858d5e23449"
+		"id": "4f6af375e4b08858d5e23449",
+		"lat": 47.47255206953077,
+		"lng": 19.060265455789978,
+		"address": "BME I épület",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Lab"
+		]
 	},
 	{
 		"date": "2012-10-16T10:21:49.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-10-16T10:55:11.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-16T10:55:18.000Z",
 		"name": "Losonci tér 3.",
-		"id": "50658860e4b0675fa466d3bb"
+		"id": "50658860e4b0675fa466d3bb",
+		"lat": 47.488038,
+		"lng": 19.082002,
+		"address": "Losonci tér 3.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Residential Building (Apartment / Condo)"
+		]
 	},
 	{
 		"date": "2012-10-16T10:55:27.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-16T17:01:40.000Z",
 		"name": "Pepsi ABC",
-		"id": "4ca57bf6a6e08cfa90c87194"
+		"id": "4ca57bf6a6e08cfa90c87194",
+		"lat": 47.48790215068848,
+		"lng": 19.081916674868864,
+		"country": "Magyarország",
+		"categories": [
+			"Deli / Bodega"
+		]
 	},
 	{
 		"date": "2012-10-17T13:43:32.000Z",
 		"name": "Lomex Elektro Bolt",
-		"id": "4c6c83eb99b9236a12f1e2c9"
+		"id": "4c6c83eb99b9236a12f1e2c9",
+		"lat": 47.519013673608626,
+		"lng": 19.06575250058414,
+		"address": "Lehel u. 17.",
+		"postalCode": "1134",
+		"country": "Magyarország",
+		"categories": [
+			"Hobby Shop"
+		]
 	},
 	{
 		"date": "2012-10-17T13:43:57.000Z",
 		"name": "Conrad Szaküzlet",
-		"id": "4c86518b51ada1cd2df13e10"
+		"id": "4c86518b51ada1cd2df13e10",
+		"lat": 47.506261301470275,
+		"lng": 19.062057306172957,
+		"address": "Teréz krt. 23.",
+		"postalCode": "1067",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2012-10-17T13:44:11.000Z",
 		"name": "Oktogon M (4, 6)",
-		"id": "4d54e68e143ca093235fa9fc"
+		"id": "4d54e68e143ca093235fa9fc",
+		"lat": 47.5058173109262,
+		"lng": 19.062614255153175,
+		"address": "Oktogon",
+		"postalCode": "1066",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-10-17T14:03:22.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-10-17T14:03:30.000Z",
 		"name": "Harminckettesek tere",
-		"id": "4bf6a540bfeac92810af9436"
+		"id": "4bf6a540bfeac92810af9436",
+		"lat": 47.48950129908545,
+		"lng": 19.071492778445887,
+		"address": "Harminckettesek tere",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2012-10-17T14:03:35.000Z",
 		"name": "Harminckettesek tere (9, 83, 109, 909)",
-		"id": "4d45c5681b62b1f7248200e3"
+		"id": "4d45c5681b62b1f7248200e3",
+		"lat": 47.489483785039134,
+		"lng": 19.07141840391857,
+		"address": "Baross u.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2012-10-17T14:14:22.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-17T14:14:30.000Z",
 		"name": "Losonci tér 3.",
-		"id": "50658860e4b0675fa466d3bb"
+		"id": "50658860e4b0675fa466d3bb",
+		"lat": 47.488038,
+		"lng": 19.082002,
+		"address": "Losonci tér 3.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Residential Building (Apartment / Condo)"
+		]
 	},
 	{
 		"date": "2012-10-17T14:14:36.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-18T06:13:50.000Z",
 		"name": "BME IB138",
-		"id": "5075168fe4b05275680b6cf7"
+		"id": "5075168fe4b05275680b6cf7",
+		"lat": 47.472396893134395,
+		"lng": 19.060042032053556,
+		"address": "BME I Épület",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Classroom"
+		]
 	},
 	{
 		"date": "2012-10-18T06:14:09.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-10-18T08:34:33.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-18T16:03:34.000Z",
 		"name": "KöKi Terminál",
-		"id": "4d707acbb246a093bf941f5f"
+		"id": "4d707acbb246a093bf941f5f",
+		"lat": 47.46289028997198,
+		"lng": 19.147652492225603,
+		"address": "Vak Bottyán u. 75a/c",
+		"postalCode": "1191",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-10-18T16:04:23.000Z",
 		"name": "OBI",
-		"id": "4e53d302fa766dacede9fbee"
+		"id": "4e53d302fa766dacede9fbee",
+		"lat": 47.46283840369147,
+		"lng": 19.144454568304354,
+		"address": "Vak Bottyán utca 75/a",
+		"postalCode": "1191",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hardware Store"
+		]
 	},
 	{
 		"date": "2012-10-18T16:36:23.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4e97432c6d86d74d39133eeb"
+		"id": "4e97432c6d86d74d39133eeb",
+		"lat": 47.463053260733055,
+		"lng": 19.145856262728685,
+		"address": "KÖKI Terminál",
+		"postalCode": "1191",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-10-18T19:05:59.000Z",
 		"name": "Presszó 53",
-		"id": "4c7a9b95794e224b7e0a6928"
+		"id": "4c7a9b95794e224b7e0a6928",
+		"lat": 47.50308949585218,
+		"lng": 19.065896942786875,
+		"address": "Erzsébet krt. 53.",
+		"postalCode": "1073",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Café"
+		]
 	},
 	{
 		"date": "2012-10-19T08:03:27.000Z",
 		"name": "Árkád",
-		"id": "4b633a37f964a520076c2ae3"
+		"id": "4b633a37f964a520076c2ae3",
+		"lat": 47.502778918320374,
+		"lng": 19.138653558212173,
+		"address": "Örs vezér tere 25.",
+		"postalCode": "1106",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-10-19T08:03:47.000Z",
 		"name": "Sugár Üzletközpont",
-		"id": "4b646d0df964a5202eb22ae3"
+		"id": "4b646d0df964a5202eb22ae3",
+		"lat": 47.50431644434759,
+		"lng": 19.13845753024394,
+		"address": "Örs vezér tere 24.",
+		"postalCode": "1148",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-10-19T08:04:04.000Z",
 		"name": "CIB Bank",
-		"id": "4d8a16fdb799a35d9faea363"
+		"id": "4d8a16fdb799a35d9faea363",
+		"lat": 47.504291085715074,
+		"lng": 19.138380292642573,
+		"address": "Sugár Üzletközpont",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2012-10-19T12:09:41.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-19T12:09:46.000Z",
 		"name": "Losonci tér 3.",
-		"id": "50658860e4b0675fa466d3bb"
+		"id": "50658860e4b0675fa466d3bb",
+		"lat": 47.488038,
+		"lng": 19.082002,
+		"address": "Losonci tér 3.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Residential Building (Apartment / Condo)"
+		]
 	},
 	{
 		"date": "2012-10-19T12:09:51.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-19T17:29:25.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-20T14:03:55.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-21T10:55:05.000Z",
 		"name": "Várkerület",
-		"id": "4d3d55cb44f5a0933e04d4bb"
+		"id": "4d3d55cb44f5a0933e04d4bb",
+		"lat": 47.6850115484087,
+		"lng": 16.592843179592137,
+		"address": "Várkerület",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Road",
+			"Pedestrian Plaza"
+		]
 	},
 	{
 		"date": "2012-10-21T10:55:32.000Z",
 		"name": "Grandma's Place",
-		"id": "4f5c86b7e4b086681c0fa476"
+		"id": "4f5c86b7e4b086681c0fa476",
+		"lat": 47.685079492343135,
+		"lng": 16.59042726764715,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-21T11:52:46.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-22T11:57:29.000Z",
 		"name": "AlphaPark",
-		"id": "4e086ed6d22d658532ab9895"
+		"id": "4e086ed6d22d658532ab9895",
+		"lat": 47.67284854195521,
+		"lng": 16.61173954192847,
+		"address": "Határdomb u. 1-2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2012-10-22T11:57:58.000Z",
 		"name": "C&A",
-		"id": "4f8c059ce4b0abaa05051621"
+		"id": "4f8c059ce4b0abaa05051621",
+		"lat": 47.67301685634941,
+		"lng": 16.611714363098145,
+		"address": "Alphapark",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2012-10-22T13:09:12.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-23T11:00:21.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-23T19:46:32.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-24T08:01:23.000Z",
 		"name": "BME Cisco Oktatólabor",
-		"id": "4e9ff3422c5b9f62faf6f56f"
+		"id": "4e9ff3422c5b9f62faf6f56f",
+		"lat": 47.472704949270835,
+		"lng": 19.05971140524067,
+		"address": "BME I épület",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Lab"
+		]
 	},
 	{
 		"date": "2012-10-24T08:01:36.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-10-24T15:46:21.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-10-24T16:04:18.000Z",
 		"name": "BME Q épület",
-		"id": "4c85f24fd4e23704bdf58688"
+		"id": "4c85f24fd4e23704bdf58688",
+		"lat": 47.473393661934686,
+		"lng": 19.059766255018825,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2012-10-24T16:04:27.000Z",
 		"name": "QII - Heller Farkas nagyelőadó",
-		"id": "4e788fd6c65b409c46d7d0d1"
+		"id": "4e788fd6c65b409c46d7d0d1",
+		"lat": 47.47343073516407,
+		"lng": 19.059825667724137,
+		"address": "BME Q épület",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Auditorium",
+			"University"
+		]
 	},
 	{
 		"date": "2012-10-24T18:14:09.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-25T20:10:42.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-25T20:10:48.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-26T08:17:23.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2012-10-26T17:28:09.000Z",
 		"name": "dm",
-		"id": "4c15fec1a9c220a10de4599d"
+		"id": "4c15fec1a9c220a10de4599d",
+		"lat": 47.48932443832361,
+		"lng": 19.080645269017623,
+		"address": "Baross utca 98.",
+		"postalCode": "1082",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cosmetics Shop"
+		]
 	},
 	{
 		"date": "2012-10-26T17:28:20.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-10-26T17:28:28.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-26T17:28:37.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-26T19:16:31.000Z",
 		"name": "Gong Café Presszó",
-		"id": "4c5cf20cbfa5952162cb7aff"
+		"id": "4c5cf20cbfa5952162cb7aff",
+		"lat": 47.49906051564836,
+		"lng": 19.069851644028628,
+		"address": "Erzsébet krt. 15.",
+		"postalCode": "1073",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Café"
+		]
 	},
 	{
 		"date": "2012-10-26T20:27:00.000Z",
 		"name": "Wesselényi utca (4, 6)",
-		"id": "4c96548b6b35a14324e12cdc"
+		"id": "4c96548b6b35a14324e12cdc",
+		"lat": 47.50039106917211,
+		"lng": 19.06885988353938,
+		"address": "Wesselényi u.",
+		"postalCode": "1073",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2012-10-26T21:27:22.000Z",
 		"name": "Cairo Étterem",
-		"id": "4f4fbc5be4b0a99a79629993"
+		"id": "4f4fbc5be4b0a99a79629993",
+		"lat": 47.498855760022536,
+		"lng": 19.06989421984007,
+		"address": "Erzsébet Körút 15",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Falafel Restaurant"
+		]
 	},
 	{
 		"date": "2012-10-26T22:48:53.000Z",
 		"name": "Golgota Keresztény Gyülekezet Budapest",
-		"id": "4b97d7e9f964a520831935e3"
+		"id": "4b97d7e9f964a520831935e3",
+		"lat": 47.498840999187976,
+		"lng": 19.070406088031696,
+		"address": "Erzsébet krt. 13",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Church"
+		]
 	},
 	{
 		"date": "2012-10-27T14:32:57.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-27T14:33:07.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-28T13:48:24.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-29T00:03:43.000Z",
 		"name": "Pepsi ABC",
-		"id": "4ca57bf6a6e08cfa90c87194"
+		"id": "4ca57bf6a6e08cfa90c87194",
+		"lat": 47.48790215068848,
+		"lng": 19.081916674868864,
+		"country": "Magyarország",
+		"categories": [
+			"Deli / Bodega"
+		]
 	},
 	{
 		"date": "2012-10-29T00:03:54.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-29T00:04:00.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-30T15:18:07.000Z",
 		"name": "BME E épület",
-		"id": "4ba8e6fbf964a5208ef839e3"
+		"id": "4ba8e6fbf964a5208ef839e3",
+		"lat": 47.477616135843945,
+		"lng": 19.057630443325607,
+		"address": "Egry József u. 1.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2012-10-31T01:00:21.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-31T01:00:31.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-31T09:08:36.000Z",
 		"name": "BME Cisco Oktatólabor",
-		"id": "4e9ff3422c5b9f62faf6f56f"
+		"id": "4e9ff3422c5b9f62faf6f56f",
+		"lat": 47.472704949270835,
+		"lng": 19.05971140524067,
+		"address": "BME I épület",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Lab"
+		]
 	},
 	{
 		"date": "2012-10-31T09:08:55.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2012-10-31T11:45:14.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2012-10-31T11:45:24.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2012-10-31T11:45:34.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2012-10-31T19:13:31.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]
