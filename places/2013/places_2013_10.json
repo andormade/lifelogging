@@ -2,671 +2,1818 @@
 	{
 		"date": "2013-10-01T06:38:33.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-01T06:56:55.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-01T10:15:11.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-01T19:20:53.000Z",
 		"name": "Cotton Candy Residence 2",
-		"id": "51a3ce00498e1300ffabc88e"
+		"id": "51a3ce00498e1300ffabc88e",
+		"lat": 47.50928216012272,
+		"lng": 19.080727604787995,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-03T09:46:46.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-03T09:46:58.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-03T09:47:11.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-03T19:43:00.000Z",
 		"name": "Cotton Candy Residence 2",
-		"id": "51a3ce00498e1300ffabc88e"
+		"id": "51a3ce00498e1300ffabc88e",
+		"lat": 47.50928216012272,
+		"lng": 19.080727604787995,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-04T09:45:24.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-04T16:49:47.000Z",
 		"name": "WestEnd City Center",
-		"id": "4bcc1b343740b71309846365"
+		"id": "4bcc1b343740b71309846365",
+		"lat": 47.51328376254626,
+		"lng": 19.05914504127989,
+		"address": "Váci út 1-3.",
+		"postalCode": "1062",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2013-10-04T17:00:46.000Z",
 		"name": "H&M Home",
-		"id": "523476e011d20a4073eb97b0"
+		"id": "523476e011d20a4073eb97b0",
+		"lat": 47.511893000394934,
+		"lng": 19.05715529212626,
+		"address": "WestEnd I. emelet",
+		"country": "Magyarország",
+		"categories": [
+			"Furniture / Home Store"
+		]
 	},
 	{
 		"date": "2013-10-05T10:36:54.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-06T10:15:20.000Z",
 		"name": "Grandma's Place",
-		"id": "4f5c86b7e4b086681c0fa476"
+		"id": "4f5c86b7e4b086681c0fa476",
+		"lat": 47.685079492343135,
+		"lng": 16.59042726764715,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-06T13:16:57.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-07T07:53:31.000Z",
 		"name": "Cotton Candy Residence 2",
-		"id": "51a3ce00498e1300ffabc88e"
+		"id": "51a3ce00498e1300ffabc88e",
+		"lat": 47.50928216012272,
+		"lng": 19.080727604787995,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-07T14:18:21.000Z",
 		"name": "Villányi Dent Fogászat",
-		"id": "4c8e36451992a1cd6fabdbfb"
+		"id": "4c8e36451992a1cd6fabdbfb",
+		"lat": 47.47784008445723,
+		"lng": 19.045090005461073,
+		"address": "Villányi út 6.",
+		"postalCode": "1114",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Dentist's Office"
+		]
 	},
 	{
 		"date": "2013-10-07T15:54:07.000Z",
 		"name": "CBA",
-		"id": "4f4fa8abe4b09d63ccb018aa"
+		"id": "4f4fa8abe4b09d63ccb018aa",
+		"lat": 47.506660805033846,
+		"lng": 19.08577075644528,
+		"address": "Dózsa György út 54",
+		"postalCode": "1071",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-10-08T13:17:45.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-08T13:17:55.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-09T07:29:43.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-09T07:29:49.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-09T13:18:20.000Z",
 		"name": "Villányi Dent Fogászat",
-		"id": "4c8e36451992a1cd6fabdbfb"
+		"id": "4c8e36451992a1cd6fabdbfb",
+		"lat": 47.47784008445723,
+		"lng": 19.045090005461073,
+		"address": "Villányi út 6.",
+		"postalCode": "1114",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Dentist's Office"
+		]
 	},
 	{
 		"date": "2013-10-09T13:46:06.000Z",
 		"name": "Könyvudvar",
-		"id": "4cfd17402d80a1434bec54d8"
+		"id": "4cfd17402d80a1434bec54d8",
+		"lat": 47.49319338889511,
+		"lng": 19.059610759527796,
+		"address": "Múzeum Krt. 7.",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bookstore"
+		]
 	},
 	{
 		"date": "2013-10-10T08:57:12.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-10T08:57:20.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-10T09:52:25.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-10T18:38:28.000Z",
 		"name": "Corvin Plaza",
-		"id": "4cc701eabe40a35d1d6a8d4c"
+		"id": "4cc701eabe40a35d1d6a8d4c",
+		"lat": 47.486046352980296,
+		"lng": 19.07288581182118,
+		"address": "Futó u. 37-45.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2013-10-10T18:38:43.000Z",
 		"name": "CBA Príma",
-		"id": "4cd037a59d87224b14ce533b"
+		"id": "4cd037a59d87224b14ce533b",
+		"lat": 47.48601991975846,
+		"lng": 19.073800320225235,
+		"address": "Corvin Bevásárlóközpont",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-10-10T21:47:09.000Z",
 		"name": "Cino HQ",
-		"id": "5086dc03b0edaa2ba440e06a"
+		"id": "5086dc03b0edaa2ba440e06a",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-11T00:06:27.000Z",
 		"name": "Cotton Candy Residence 2",
-		"id": "51a3ce00498e1300ffabc88e"
+		"id": "51a3ce00498e1300ffabc88e",
+		"lat": 47.50928216012272,
+		"lng": 19.080727604787995,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-11T09:42:40.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-11T09:42:47.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-11T09:43:13.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-11T19:34:22.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-13T18:01:14.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-14T06:17:44.000Z",
 		"name": "Széll Kálmán tér",
-		"id": "4b4cc7dff964a5209abe26e3"
+		"id": "4b4cc7dff964a5209abe26e3",
+		"lat": 47.50695100795283,
+		"lng": 19.024874284275235,
+		"address": "Széll Kálmán tér",
+		"postalCode": "1014",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2013-10-14T07:45:32.000Z",
 		"name": "Cotton Candy Residence 2",
-		"id": "51a3ce00498e1300ffabc88e"
+		"id": "51a3ce00498e1300ffabc88e",
+		"lat": 47.50928216012272,
+		"lng": 19.080727604787995,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-14T13:38:02.000Z",
 		"name": "Villányi Dent Fogászat",
-		"id": "4c8e36451992a1cd6fabdbfb"
+		"id": "4c8e36451992a1cd6fabdbfb",
+		"lat": 47.47784008445723,
+		"lng": 19.045090005461073,
+		"address": "Villányi út 6.",
+		"postalCode": "1114",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Dentist's Office"
+		]
 	},
 	{
 		"date": "2013-10-15T10:54:26.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-15T10:54:33.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-15T16:24:58.000Z",
 		"name": "Damjanich utca (30, 30A, 75, 79)",
-		"id": "4e3816f9fa7606f144016f2f"
+		"id": "4e3816f9fa7606f144016f2f",
+		"lat": 47.50972329331389,
+		"lng": 19.08220950971164,
+		"address": "Dózsa György út",
+		"postalCode": "1071",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2013-10-15T21:02:35.000Z",
 		"name": "Cotton Candy Residence 3",
-		"id": "525dad14498eabd978becc86"
+		"id": "525dad14498eabd978becc86",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-16T06:59:28.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-16T06:59:41.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-16T09:26:35.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-16T22:19:31.000Z",
 		"name": "Cotton Candy Residence 3",
-		"id": "525dad14498eabd978becc86"
+		"id": "525dad14498eabd978becc86",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-17T05:14:27.000Z",
 		"name": "Tomori Pál Főiskola",
-		"id": "4dcd4976183899ddfab48695"
+		"id": "4dcd4976183899ddfab48695",
+		"lat": 47.41125819531315,
+		"lng": 19.01293983461239,
+		"address": "Művelődés utca 21-27",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"General College & University"
+		]
 	},
 	{
 		"date": "2013-10-17T06:37:36.000Z",
 		"name": "Erzsébetvárosi Önkormányzat Polgármesteri Hivatala VII. ker.",
-		"id": "4e89bcd29adf3c00aedd2938"
+		"id": "4e89bcd29adf3c00aedd2938",
+		"lat": 47.498085205547156,
+		"lng": 19.070234584275692,
+		"address": "Erzsébet körút 6.",
+		"postalCode": "1074",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"City Hall",
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-17T07:04:43.000Z",
 		"name": "CopyGuru",
-		"id": "4edde09e46907c1b46ba8368"
+		"id": "4edde09e46907c1b46ba8368",
+		"lat": 47.494646104371974,
+		"lng": 19.070951907842865,
+		"address": "József krt. 17.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Paper / Office Supplies Store"
+		]
 	},
 	{
 		"date": "2013-10-17T07:41:16.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-17T07:41:25.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-17T09:24:19.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-17T17:13:21.000Z",
 		"name": "Astoria M (5, 7, 8, 8A, 112, 133E, 178, 233E, 239, 907, 908, 916, 931, 956, 973, 990)",
-		"id": "4db3a30bf7b121c29f3c373c"
+		"id": "4db3a30bf7b121c29f3c373c",
+		"lat": 47.49456115113125,
+		"lng": 19.06089980472061,
+		"address": "Rákóczi út",
+		"postalCode": "1072",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2013-10-17T17:14:07.000Z",
 		"name": "TESCO Expressz",
-		"id": "518d4a87498e9237f23e8f49"
+		"id": "518d4a87498e9237f23e8f49",
+		"lat": 47.49441979638465,
+		"lng": 19.06107342218089,
+		"address": "Rákóczi út 1-3.",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2013-10-17T18:21:34.000Z",
 		"name": "Grill tanya",
-		"id": "4f2a4103c2eeafc8a7b15d45"
+		"id": "4f2a4103c2eeafc8a7b15d45",
+		"lat": 47.40723970868181,
+		"lng": 19.018337811727754,
+		"address": "Nagytétényi út 37-43",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Diner"
+		]
 	},
 	{
 		"date": "2013-10-18T09:41:20.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-18T09:41:28.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-18T14:20:17.000Z",
 		"name": "Astoria M (5, 7, 8, 8A, 112, 133E, 178, 233E, 239, 907, 908, 916, 931, 956, 973, 990)",
-		"id": "4db3a30bf7b121c29f3c373c"
+		"id": "4db3a30bf7b121c29f3c373c",
+		"lat": 47.49456115113125,
+		"lng": 19.06089980472061,
+		"address": "Rákóczi út",
+		"postalCode": "1072",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2013-10-18T15:06:46.000Z",
 		"name": "Budatétény",
-		"id": "4deba18fae60e98923772890"
+		"id": "4deba18fae60e98923772890",
+		"lat": 47.411504424697874,
+		"lng": 19.011725744988894,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2013-10-18T15:07:10.000Z",
 		"name": "Cotton Candy Residence 3",
-		"id": "525dad14498eabd978becc86"
+		"id": "525dad14498eabd978becc86",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-18T16:54:59.000Z",
 		"name": "Ciano Kúria",
-		"id": "502e1ee2e4b00d67edf0008f"
+		"id": "502e1ee2e4b00d67edf0008f",
+		"lat": 47.54498888001689,
+		"lng": 18.264753297830538,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-20T16:53:33.000Z",
 		"name": "Kömlőd",
-		"id": "503b8c5ae4b0d21c218fe9eb"
+		"id": "503b8c5ae4b0d21c218fe9eb",
+		"lat": 47.546862852392515,
+		"lng": 18.26221506721866,
+		"postalCode": "2853",
+		"city": "Kömlőd",
+		"country": "Magyarország",
+		"categories": [
+			"Farm"
+		]
 	},
 	{
 		"date": "2013-10-20T19:16:59.000Z",
 		"name": "Vértes Center",
-		"id": "4cf26461e9425481f2f46fc5"
+		"id": "4cf26461e9425481f2f46fc5",
+		"lat": 47.58627385111341,
+		"lng": 18.393827125687846,
+		"address": "Győri út 7-9.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2013-10-20T19:17:22.000Z",
 		"name": "Tatabánya autóbusz-állomás (Vértes Center)",
-		"id": "4d9231b75cf5236a106e48a3"
+		"id": "4d9231b75cf5236a106e48a3",
+		"lat": 47.586394687856036,
+		"lng": 18.392904240848797,
+		"address": "Győri út",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2013-10-20T19:31:31.000Z",
 		"name": "Tatabánya vasútállomás",
-		"id": "4b7ff81cf964a5209f4730e3"
+		"id": "4b7ff81cf964a5209f4730e3",
+		"lat": 47.58529710183436,
+		"lng": 18.39315176010132,
+		"address": "Jedlik Ányos u. 1.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2013-10-20T20:39:04.000Z",
 		"name": "Bártfai utca (58, 103, 907)",
-		"id": "4df8e2317d8bc47540715766"
+		"id": "4df8e2317d8bc47540715766",
+		"lat": 47.464327930931006,
+		"lng": 19.02800063664816,
+		"address": "Etele út",
+		"postalCode": "1119",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2013-10-20T20:44:27.000Z",
 		"name": "Bikás park M (7, 58, 114, 153, 213, 214, 907)",
-		"id": "4cf809f24ebaa090cd3fca9d"
+		"id": "4cf809f24ebaa090cd3fca9d",
+		"lat": 47.46444497434736,
+		"lng": 19.033684355944587,
+		"address": "Tétényi út",
+		"postalCode": "1119",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2013-10-20T21:04:56.000Z",
 		"name": "McDonald's",
-		"id": "4cb93c6443ec6dcb0bf89b31"
+		"id": "4cb93c6443ec6dcb0bf89b31",
+		"lat": 47.40999046644655,
+		"lng": 19.021139568904417,
+		"address": "Nagytétényi út 27.",
+		"postalCode": "1225",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2013-10-20T21:10:03.000Z",
 		"name": "Jókai Mór utca (33, 114, 133E, 138, 150, 213, 214, 233E, 973)",
-		"id": "4e09f6c562e100e58180a7a3"
+		"id": "4e09f6c562e100e58180a7a3",
+		"lat": 47.41002896823317,
+		"lng": 19.021250816208266,
+		"address": "Nagytétényi út",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2013-10-20T22:46:25.000Z",
 		"name": "Cotton Candy Residence 3",
-		"id": "525dad14498eabd978becc86"
+		"id": "525dad14498eabd978becc86",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-21T04:54:57.000Z",
 		"name": "Cotton Candy Residence 3",
-		"id": "525dad14498eabd978becc86"
+		"id": "525dad14498eabd978becc86",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-21T06:34:03.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-21T06:35:07.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-21T09:27:43.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-21T16:36:43.000Z",
 		"name": "Erzsébet tér",
-		"id": "4bb1a92af964a520ff9d3ce3"
+		"id": "4bb1a92af964a520ff9d3ce3",
+		"lat": 47.49843040475713,
+		"lng": 19.053243398666382,
+		"address": "Erzsébet tér",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Park",
+			"Plaza",
+			"Playground"
+		]
 	},
 	{
 		"date": "2013-10-21T16:39:03.000Z",
 		"name": "iSTYLE Deák tér \"Fashion Street\"",
-		"id": "501ab118e4b07abf1834b562"
+		"id": "501ab118e4b07abf1834b562",
+		"lat": 47.49729272904457,
+		"lng": 19.053511626700026,
+		"address": "Deák Ferenc u. 23.",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2013-10-21T16:49:07.000Z",
 		"name": "Arany János utca M (9, 72, 73, 914, 914A, 931, 950)",
-		"id": "4d2b07d955a8b60ce032e4c0"
+		"id": "4d2b07d955a8b60ce032e4c0",
+		"lat": 47.503173051171004,
+		"lng": 19.054879492772553,
+		"address": "Bajcsy-Zsilinszky út",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2013-10-21T17:40:47.000Z",
 		"name": "Blaha Lujza tér M (4, 6)",
-		"id": "4d22d6f95c4ca1cd7801b53d"
+		"id": "4d22d6f95c4ca1cd7801b53d",
+		"lat": 47.49681104021115,
+		"lng": 19.070411510985824,
+		"address": "Blaha Lujza tér",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-10-21T17:43:30.000Z",
 		"name": "Hauzol Café",
-		"id": "4ff6fbd3e4b0a0306c1fcc9d"
+		"id": "4ff6fbd3e4b0a0306c1fcc9d",
+		"lat": 47.5001622840797,
+		"lng": 19.068908538942345,
+		"address": "Erzsébet krt. 26.",
+		"postalCode": "1073",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Café",
+			"Pub"
+		]
 	},
 	{
 		"date": "2013-10-21T18:46:43.000Z",
 		"name": "DiVino Gozsdu",
-		"id": "517fbaf7e4b0b2f39a5cc5bf"
+		"id": "517fbaf7e4b0b2f39a5cc5bf",
+		"lat": 47.498989065490456,
+		"lng": 19.05851268638242,
+		"address": "Gozsdu udvar",
+		"postalCode": "1075",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Wine Bar",
+			"Bar"
+		]
 	},
 	{
 		"date": "2013-10-21T21:17:26.000Z",
 		"name": "Móricz Zsigmond körtér",
-		"id": "4bbdbe1a8ec3d13a2a5a1c28"
+		"id": "4bbdbe1a8ec3d13a2a5a1c28",
+		"lat": 47.47730207013187,
+		"lng": 19.04743043972232,
+		"address": "Móricz Zsigmond körtér",
+		"postalCode": "1114",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2013-10-21T21:24:06.000Z",
 		"name": "McDonald's",
-		"id": "4b7eab6ef964a5203df82fe3"
+		"id": "4b7eab6ef964a5203df82fe3",
+		"lat": 47.47797702105746,
+		"lng": 19.047123496277717,
+		"address": "Móricz Zsigmond körtér 3.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2013-10-21T21:27:59.000Z",
 		"name": "Móricz Zsigmond körtér M (33)",
-		"id": "4df0f38f88775c5de12963bd"
+		"id": "4df0f38f88775c5de12963bd",
+		"lat": 47.47753183895215,
+		"lng": 19.048658935604358,
+		"address": "Karinthy Frigyes út",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2013-10-22T09:31:08.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-22T18:04:28.000Z",
 		"name": "Cotton Candy Residence 3",
-		"id": "525dad14498eabd978becc86"
+		"id": "525dad14498eabd978becc86",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-22T20:15:23.000Z",
 		"name": "Campona Bevásárló és Szórakoztatóközpont",
-		"id": "4bcd9a91937ca593fef0ac92"
+		"id": "4bcd9a91937ca593fef0ac92",
+		"lat": 47.40696527095432,
+		"lng": 19.017238074599398,
+		"address": "Nagytétényi út 37-43.",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2013-10-22T20:17:28.000Z",
 		"name": "Cinema City",
-		"id": "4bc4b33b461576b0614e8032"
+		"id": "4bc4b33b461576b0614e8032",
+		"lat": 47.40733540082592,
+		"lng": 19.018350737143717,
+		"address": "Campona emelet",
+		"postalCode": "1222",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Multiplex"
+		]
 	},
 	{
 		"date": "2013-10-23T15:12:26.000Z",
 		"name": "Cotton Candy Residence 3",
-		"id": "525dad14498eabd978becc86"
+		"id": "525dad14498eabd978becc86",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-24T09:31:45.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-24T09:31:56.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-24T09:32:02.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-24T18:32:16.000Z",
 		"name": "Cotton Candy Residence 3",
-		"id": "525dad14498eabd978becc86"
+		"id": "525dad14498eabd978becc86",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-25T09:22:59.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-25T09:23:08.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-25T09:23:15.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-25T14:44:08.000Z",
 		"name": "iSTYLE Deák tér \"Fashion Street\"",
-		"id": "501ab118e4b07abf1834b562"
+		"id": "501ab118e4b07abf1834b562",
+		"lat": 47.49729272904457,
+		"lng": 19.053511626700026,
+		"address": "Deák Ferenc u. 23.",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2013-10-25T14:45:31.000Z",
 		"name": "Deák Ferenc tér",
-		"id": "4d52c0d74015b1f7b1017ecf"
+		"id": "4d52c0d74015b1f7b1017ecf",
+		"lat": 47.49751050552186,
+		"lng": 19.054739042164343,
+		"address": "Deák Ferenc tér",
+		"postalCode": "1052",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2013-10-25T15:44:26.000Z",
 		"name": "Cotton Candy Residence 3",
-		"id": "525dad14498eabd978becc86"
+		"id": "525dad14498eabd978becc86",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-25T20:37:59.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-26T09:23:03.000Z",
 		"name": "Natura fitt",
-		"id": "501bd0b1e4b07af9f3668728"
+		"id": "501bd0b1e4b07af9f3668728",
+		"lat": 47.67579620806769,
+		"lng": 16.609582436522807,
+		"country": "Magyarország",
+		"categories": [
+			"Salon / Barbershop"
+		]
 	},
 	{
 		"date": "2013-10-26T10:23:48.000Z",
 		"name": "Homm Bútor",
-		"id": "4f85314ee4b0ae40e1502256"
+		"id": "4f85314ee4b0ae40e1502256",
+		"lat": 47.674331676444325,
+		"lng": 16.602423191070557,
+		"address": "Győri út 17.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Furniture / Home Store"
+		]
 	},
 	{
 		"date": "2013-10-26T10:45:04.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ce6721f0f196dcb236437ae"
+		"id": "4ce6721f0f196dcb236437ae",
+		"lat": 47.66973675901383,
+		"lng": 16.612279833176512,
+		"address": "Ipar krt. 30.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-10-26T12:23:04.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-26T13:59:15.000Z",
 		"name": "Müller",
-		"id": "4d0788898620224bc4aab840"
+		"id": "4d0788898620224bc4aab840",
+		"lat": 47.670202751212386,
+		"lng": 16.60932172484716,
+		"address": "Family Center",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Cosmetics Shop"
+		]
 	},
 	{
 		"date": "2013-10-26T14:19:37.000Z",
 		"name": "Takko",
-		"id": "509cf593e4b0fe0aa45c650e"
+		"id": "509cf593e4b0fe0aa45c650e",
+		"lat": 47.67252912715853,
+		"lng": 16.6141489294256,
+		"address": "Ipar krt. 30.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2013-10-26T19:46:50.000Z",
 		"name": "Green Café",
-		"id": "4d12739bd0fda09322fdab57"
+		"id": "4d12739bd0fda09322fdab57",
+		"lat": 47.68168595564943,
+		"lng": 16.577098075778334,
+		"address": "Ady Endre u. 5.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Café"
+		]
 	},
 	{
 		"date": "2013-10-26T23:10:00.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-27T11:24:31.000Z",
 		"name": "Grandma's Place",
-		"id": "4f5c86b7e4b086681c0fa476"
+		"id": "4f5c86b7e4b086681c0fa476",
+		"lat": 47.685079492343135,
+		"lng": 16.59042726764715,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-28T08:01:01.000Z",
 		"name": "Cotton Candy Residence 3",
-		"id": "525dad14498eabd978becc86"
+		"id": "525dad14498eabd978becc86",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-28T17:40:49.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-28T17:40:58.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-28T18:20:08.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2013-10-28T18:20:49.000Z",
 		"name": "Best Byte",
-		"id": "5066dcc4e4b0c7c051858d2f"
+		"id": "5066dcc4e4b0c7c051858d2f",
+		"lat": 47.47551375104372,
+		"lng": 19.048874462021168,
+		"address": "Allee Bevásárlóközpont, 2. szint",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2013-10-28T18:49:14.000Z",
 		"name": "Andor utca (17, 41, 47, 47B, 48, 56)",
-		"id": "4d90c8c23bfef04d3708cb86"
+		"id": "4d90c8c23bfef04d3708cb86",
+		"lat": 47.45605241240459,
+		"lng": 19.039812857765284,
+		"address": "Fehérvári út",
+		"postalCode": "1116",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-10-28T18:50:35.000Z",
 		"name": "Andor utca (114, 213, 214, 973)",
-		"id": "4eff0bcd4690f6ece977f361"
+		"id": "4eff0bcd4690f6ece977f361",
+		"lat": 47.45603214092713,
+		"lng": 19.0397335341552,
+		"address": "Fehérvári út",
+		"postalCode": "1119",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2013-10-28T21:46:53.000Z",
 		"name": "Jókai Mór utca (33, 114, 133E, 138, 150, 213, 214, 233E, 973)",
-		"id": "4e09f6c562e100e58180a7a3"
+		"id": "4e09f6c562e100e58180a7a3",
+		"lat": 47.41002896823317,
+		"lng": 19.021250816208266,
+		"address": "Nagytétényi út",
+		"postalCode": "1223",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2013-10-29T07:39:27.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-29T07:39:33.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-29T10:29:48.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-29T18:23:30.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2013-10-29T18:24:17.000Z",
 		"name": "Best Byte",
-		"id": "5066dcc4e4b0c7c051858d2f"
+		"id": "5066dcc4e4b0c7c051858d2f",
+		"lat": 47.47551375104372,
+		"lng": 19.048874462021168,
+		"address": "Allee Bevásárlóközpont, 2. szint",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2013-10-29T19:36:05.000Z",
 		"name": "IV. Magyarországi Klímacsúcs",
-		"id": "4fd09926e4b05eb61ed98e41"
+		"id": "4fd09926e4b05eb61ed98e41",
+		"lat": 47.411346435546875,
+		"lng": 19.012840270996094,
+		"country": "Magyarország",
+		"categories": [
+			"Garden Center"
+		]
 	},
 	{
 		"date": "2013-10-30T08:40:34.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-30T08:40:42.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-30T11:07:36.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-30T23:15:36.000Z",
 		"name": "Ergoline Stúdió",
-		"id": "5071479ee4b09145cd29404a"
+		"id": "5071479ee4b09145cd29404a",
+		"lat": 47.49901642594713,
+		"lng": 19.069822912770242,
+		"address": "Erzsébet Krt. 14.",
+		"country": "Magyarország",
+		"categories": [
+			"Tanning Salon"
+		]
 	},
 	{
 		"date": "2013-10-31T00:43:47.000Z",
 		"name": "Cotton Candy Residence 3",
-		"id": "525dad14498eabd978becc86"
+		"id": "525dad14498eabd978becc86",
+		"lat": 47.40937552246047,
+		"lng": 19.011491535783943,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-10-31T07:59:08.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-31T07:59:24.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-10-31T09:19:09.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-10-31T17:05:44.000Z",
 		"name": "Blaha Lujza tér M (4, 6)",
-		"id": "4d22d6f95c4ca1cd7801b53d"
+		"id": "4d22d6f95c4ca1cd7801b53d",
+		"lat": 47.49681104021115,
+		"lng": 19.070411510985824,
+		"address": "Blaha Lujza tér",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-10-31T17:36:48.000Z",
 		"name": "A4Team",
-		"id": "4ba8e2c3f964a52015f739e3"
+		"id": "4ba8e2c3f964a52015f739e3",
+		"lat": 47.47886731308024,
+		"lng": 19.067406327864582,
+		"address": "Boráros tér 7",
+		"postalCode": "1095",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2013-10-31T17:37:21.000Z",
 		"name": "Duna Ház",
-		"id": "4ba7c330f964a52022b139e3"
+		"id": "4ba7c330f964a52022b139e3",
+		"lat": 47.478875864699006,
+		"lng": 19.067380162627543,
+		"address": "Boráros tér 7.",
+		"postalCode": "1095",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall",
+			"Office"
+		]
 	},
 	{
 		"date": "2013-10-31T20:04:38.000Z",
 		"name": "Ciano Kúria",
-		"id": "502e1ee2e4b00d67edf0008f"
+		"id": "502e1ee2e4b00d67edf0008f",
+		"lat": 47.54498888001689,
+		"lng": 18.264753297830538,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]

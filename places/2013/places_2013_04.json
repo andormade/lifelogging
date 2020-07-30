@@ -2,716 +2,1955 @@
 	{
 		"date": "2013-04-01T14:21:56.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-01T14:47:48.000Z",
 		"name": "Sopron vasútállomás",
-		"id": "4bd6fe6529eb9c749dee95e1"
+		"id": "4bd6fe6529eb9c749dee95e1",
+		"lat": 47.67771249028291,
+		"lng": 16.58738136291504,
+		"address": "Állomás u. 2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2013-04-01T18:36:18.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-02T06:47:37.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-02T06:48:10.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-02T17:11:41.000Z",
 		"name": "Arena Mall",
-		"id": "4b86a275f964a520649331e3"
+		"id": "4b86a275f964a520649331e3",
+		"lat": 47.49844483059031,
+		"lng": 19.09249868486114,
+		"address": "Kerepesi út 9.",
+		"postalCode": "1087",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2013-04-02T17:15:34.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4d7143ca722ef04d9fb10e9c"
+		"id": "4d7143ca722ef04d9fb10e9c",
+		"lat": 47.49847499000863,
+		"lng": 19.09417747870573,
+		"address": "Aréna Pláza földszint",
+		"postalCode": "1087",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2013-04-02T18:08:36.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-03T08:04:09.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-03T08:06:14.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-03T09:48:22.000Z",
 		"name": "TESCO Extra",
-		"id": "4b9932e4f964a520186935e3"
+		"id": "4b9932e4f964a520186935e3",
+		"lat": 47.50489370035606,
+		"lng": 19.11722971101336,
+		"address": "Pillangó u. 15.",
+		"postalCode": "1149",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2013-04-03T14:35:05.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-03T14:35:41.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-03T17:25:09.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-04T09:43:12.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-04T09:45:29.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-04-04T10:16:08.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-04T16:56:46.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-04-04T17:07:46.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-04T21:25:46.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-05T15:16:46.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-06T13:11:38.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-07T11:48:03.000Z",
 		"name": "Sopron vasútállomás",
-		"id": "4bd6fe6529eb9c749dee95e1"
+		"id": "4bd6fe6529eb9c749dee95e1",
+		"lat": 47.67771249028291,
+		"lng": 16.58738136291504,
+		"address": "Állomás u. 2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2013-04-07T13:17:42.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-07T18:43:58.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-08T06:58:29.000Z",
 		"name": "BME I épület",
-		"id": "4bcd89a5fb84c9b6311c223e"
+		"id": "4bcd89a5fb84c9b6311c223e",
+		"lat": 47.472654177471675,
+		"lng": 19.059821807961907,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Technology Building"
+		]
 	},
 	{
 		"date": "2013-04-08T07:46:52.000Z",
 		"name": "IB028 - Kozma László nagyelőadó",
-		"id": "4de4d643d164df857532987b"
+		"id": "4de4d643d164df857532987b",
+		"lat": 47.472822016033966,
+		"lng": 19.060108883515067,
+		"country": "Magyarország",
+		"categories": [
+			"College Auditorium"
+		]
 	},
 	{
 		"date": "2013-04-08T09:51:18.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-08T10:03:47.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-04-08T12:01:09.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-08T16:26:35.000Z",
 		"name": "Brozie",
-		"id": "50fc4fb952621be1af185a9a"
+		"id": "50fc4fb952621be1af185a9a",
+		"lat": 47.49618331755929,
+		"lng": 19.118270874023438,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-08T17:13:55.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-04-08T18:37:27.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-09T07:02:28.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-09T07:02:50.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-09T17:07:35.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-04-09T17:24:20.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-10T06:34:52.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-10T10:04:47.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-10T16:20:48.000Z",
 		"name": "Kutyafuttató (Albertirsai út)",
-		"id": "4e807b108b8146351100ef34"
+		"id": "4e807b108b8146351100ef34",
+		"lat": 47.496763220236076,
+		"lng": 19.117562770843506,
+		"address": "Albertirsai út",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Dog Run"
+		]
 	},
 	{
 		"date": "2013-04-10T17:23:08.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4d7143ca722ef04d9fb10e9c"
+		"id": "4d7143ca722ef04d9fb10e9c",
+		"lat": 47.49847499000863,
+		"lng": 19.09417747870573,
+		"address": "Aréna Pláza földszint",
+		"postalCode": "1087",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2013-04-10T18:06:20.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-11T06:07:01.000Z",
 		"name": "BME Q épület",
-		"id": "4c85f24fd4e23704bdf58688"
+		"id": "4c85f24fd4e23704bdf58688",
+		"lat": 47.473393661934686,
+		"lng": 19.059766255018825,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2013-04-11T06:07:14.000Z",
 		"name": "QBP108",
-		"id": "4f45fff4e4b007cd8cd1fd87"
+		"id": "4f45fff4e4b007cd8cd1fd87",
+		"lat": 47.47337354217068,
+		"lng": 19.05939130676707,
+		"country": "Magyarország",
+		"categories": [
+			"College Lab"
+		]
 	},
 	{
 		"date": "2013-04-11T09:53:55.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-11T09:55:14.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-04-11T17:05:21.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-11T17:44:23.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4d7143ca722ef04d9fb10e9c"
+		"id": "4d7143ca722ef04d9fb10e9c",
+		"lat": 47.49847499000863,
+		"lng": 19.09417747870573,
+		"address": "Aréna Pláza földszint",
+		"postalCode": "1087",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2013-04-11T17:44:38.000Z",
 		"name": "Arena Mall",
-		"id": "4b86a275f964a520649331e3"
+		"id": "4b86a275f964a520649331e3",
+		"lat": 47.49844483059031,
+		"lng": 19.09249868486114,
+		"address": "Kerepesi út 9.",
+		"postalCode": "1087",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2013-04-11T18:26:45.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-11T19:04:52.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-04-12T07:56:06.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2013-04-12T13:07:19.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-12T13:07:49.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-12T19:56:36.000Z",
 		"name": "Sopron vasútállomás",
-		"id": "4bd6fe6529eb9c749dee95e1"
+		"id": "4bd6fe6529eb9c749dee95e1",
+		"lat": 47.67771249028291,
+		"lng": 16.58738136291504,
+		"address": "Állomás u. 2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2013-04-12T20:11:26.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-13T20:06:28.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-14T11:06:24.000Z",
 		"name": "Sopron vasútállomás",
-		"id": "4bd6fe6529eb9c749dee95e1"
+		"id": "4bd6fe6529eb9c749dee95e1",
+		"lat": 47.67771249028291,
+		"lng": 16.58738136291504,
+		"address": "Állomás u. 2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2013-04-14T14:20:49.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-14T14:47:08.000Z",
 		"name": "Sopron vasútállomás",
-		"id": "4bd6fe6529eb9c749dee95e1"
+		"id": "4bd6fe6529eb9c749dee95e1",
+		"lat": 47.67771249028291,
+		"lng": 16.58738136291504,
+		"address": "Állomás u. 2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2013-04-14T18:57:51.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-15T14:28:24.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-15T14:28:44.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-15T16:44:56.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4d7143ca722ef04d9fb10e9c"
+		"id": "4d7143ca722ef04d9fb10e9c",
+		"lat": 47.49847499000863,
+		"lng": 19.09417747870573,
+		"address": "Aréna Pláza földszint",
+		"postalCode": "1087",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2013-04-15T16:45:10.000Z",
 		"name": "Arena Mall",
-		"id": "4b86a275f964a520649331e3"
+		"id": "4b86a275f964a520649331e3",
+		"lat": 47.49844483059031,
+		"lng": 19.09249868486114,
+		"address": "Kerepesi út 9.",
+		"postalCode": "1087",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2013-04-15T17:56:26.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-16T07:45:28.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-16T10:00:51.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-16T10:03:45.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2013-04-16T18:33:15.000Z",
 		"name": "Losonci tér",
-		"id": "4d9d5189a695721e11340f0d"
+		"id": "4d9d5189a695721e11340f0d",
+		"lat": 47.48958911031985,
+		"lng": 19.08032029942558,
+		"address": "Losonci tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2013-04-16T18:33:47.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-17T06:49:55.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-17T06:50:50.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-17T17:14:31.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-17T18:25:10.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-04-17T19:58:54.000Z",
 		"name": "Baráti kávézó",
-		"id": "5036a750e4b0e6196e1e5384"
+		"id": "5036a750e4b0e6196e1e5384",
+		"lat": 47.499027,
+		"lng": 19.070183,
+		"address": "Erzsébet krt. 13.",
+		"postalCode": "1076",
+		"city": "Budapest VII. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Café"
+		]
 	},
 	{
 		"date": "2013-04-17T21:13:40.000Z",
 		"name": "Cino HQ",
-		"id": "5086dc03b0edaa2ba440e06a"
+		"id": "5086dc03b0edaa2ba440e06a",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-17T23:51:13.000Z",
 		"name": "Harminckettesek tere",
-		"id": "4bf6a540bfeac92810af9436"
+		"id": "4bf6a540bfeac92810af9436",
+		"lat": 47.48950129908545,
+		"lng": 19.071492778445887,
+		"address": "Harminckettesek tere",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2013-04-18T07:53:23.000Z",
 		"name": "BME E épület",
-		"id": "4ba8e6fbf964a5208ef839e3"
+		"id": "4ba8e6fbf964a5208ef839e3",
+		"lat": 47.477616135843945,
+		"lng": 19.057630443325607,
+		"address": "Egry József u. 1.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2013-04-18T12:31:22.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-18T12:32:10.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-18T17:21:54.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-04-18T17:22:58.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-18T20:21:14.000Z",
 		"name": "Pepsi ABC",
-		"id": "4ca57bf6a6e08cfa90c87194"
+		"id": "4ca57bf6a6e08cfa90c87194",
+		"lat": 47.48790215068848,
+		"lng": 19.081916674868864,
+		"country": "Magyarország",
+		"categories": [
+			"Deli / Bodega"
+		]
 	},
 	{
 		"date": "2013-04-19T09:37:44.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-19T09:38:07.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-19T17:14:02.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-04-19T17:38:01.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-04-19T18:14:13.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-20T10:38:03.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-04-20T13:07:13.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-20T23:02:09.000Z",
 		"name": "Cino HQ",
-		"id": "5086dc03b0edaa2ba440e06a"
+		"id": "5086dc03b0edaa2ba440e06a",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-21T01:29:30.000Z",
 		"name": "Harminckettesek tere",
-		"id": "4bf6a540bfeac92810af9436"
+		"id": "4bf6a540bfeac92810af9436",
+		"lat": 47.48950129908545,
+		"lng": 19.071492778445887,
+		"address": "Harminckettesek tere",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2013-04-21T01:45:45.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-21T14:48:04.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-04-21T14:55:40.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-22T07:04:10.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-22T07:05:16.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-22T17:09:34.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-04-22T17:32:44.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-04-22T21:00:47.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-23T06:51:53.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-23T06:52:23.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-23T18:10:31.000Z",
 		"name": "Erzsébet tér",
-		"id": "4bb1a92af964a520ff9d3ce3"
+		"id": "4bb1a92af964a520ff9d3ce3",
+		"lat": 47.49843040475713,
+		"lng": 19.053243398666382,
+		"address": "Erzsébet tér",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Park",
+			"Plaza",
+			"Playground"
+		]
 	},
 	{
 		"date": "2013-04-23T18:10:57.000Z",
 		"name": "Deák Ferenc tér",
-		"id": "4d52c0d74015b1f7b1017ecf"
+		"id": "4d52c0d74015b1f7b1017ecf",
+		"lat": 47.49751050552186,
+		"lng": 19.054739042164343,
+		"address": "Deák Ferenc tér",
+		"postalCode": "1052",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2013-04-23T19:23:42.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-24T08:30:59.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-24T08:31:34.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-24T17:39:23.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-04-24T19:17:29.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-25T06:02:48.000Z",
 		"name": "BME Q épület",
-		"id": "4c85f24fd4e23704bdf58688"
+		"id": "4c85f24fd4e23704bdf58688",
+		"lat": 47.473393661934686,
+		"lng": 19.059766255018825,
+		"address": "Magyar tudósok körútja 2.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building"
+		]
 	},
 	{
 		"date": "2013-04-25T11:51:09.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-25T11:51:43.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-25T17:44:40.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-04-25T18:10:24.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-26T07:33:52.000Z",
 		"name": "BME R épület",
-		"id": "4ba8e306f964a5202cf739e3"
+		"id": "4ba8e306f964a5202cf739e3",
+		"lat": 47.47900888118355,
+		"lng": 19.058887218991554,
+		"address": "Műegyetem rakpart 7-9.",
+		"postalCode": "1111",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Academic Building",
+			"College Administrative Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2013-04-26T12:22:52.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-26T12:23:04.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-26T17:57:21.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-26T23:59:12.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-04-26T23:59:28.000Z",
 		"name": "Harminckettesek tere",
-		"id": "4bf6a540bfeac92810af9436"
+		"id": "4bf6a540bfeac92810af9436",
+		"lat": 47.48950129908545,
+		"lng": 19.071492778445887,
+		"address": "Harminckettesek tere",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2013-04-27T00:13:56.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-27T15:26:02.000Z",
 		"name": "CBA Príma",
-		"id": "4cd037a59d87224b14ce533b"
+		"id": "4cd037a59d87224b14ce533b",
+		"lat": 47.48601991975846,
+		"lng": 19.073800320225235,
+		"address": "Corvin Bevásárlóközpont",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-04-27T15:40:45.000Z",
 		"name": "Corvin Plaza",
-		"id": "4cc701eabe40a35d1d6a8d4c"
+		"id": "4cc701eabe40a35d1d6a8d4c",
+		"lat": 47.486046352980296,
+		"lng": 19.07288581182118,
+		"address": "Futó u. 37-45.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2013-04-27T15:44:25.000Z",
 		"name": "Corvin sétány",
-		"id": "4bd025fab221c9b62f24d3d0"
+		"id": "4bd025fab221c9b62f24d3d0",
+		"lat": 47.48591798026536,
+		"lng": 19.07603144645691,
+		"address": "Futó u. 34-36",
+		"postalCode": "1082",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Pedestrian Plaza"
+		]
 	},
 	{
 		"date": "2013-04-27T16:00:29.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-27T18:15:59.000Z",
 		"name": "Deák Ferenc tér",
-		"id": "4d52c0d74015b1f7b1017ecf"
+		"id": "4d52c0d74015b1f7b1017ecf",
+		"lat": 47.49751050552186,
+		"lng": 19.054739042164343,
+		"address": "Deák Ferenc tér",
+		"postalCode": "1052",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2013-04-27T18:16:21.000Z",
 		"name": "Cserpes Tejivó",
-		"id": "4fc8c79ee4b042a57f146f59"
+		"id": "4fc8c79ee4b042a57f146f59",
+		"lat": 47.49672335213205,
+		"lng": 19.053935408592224,
+		"address": "Sütő u. 2.",
+		"postalCode": "1052",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Sandwich Place",
+			"Breakfast Spot",
+			"Café"
+		]
 	},
 	{
 		"date": "2013-04-27T20:22:52.000Z",
 		"name": "Baráti kávézó",
-		"id": "5036a750e4b0e6196e1e5384"
+		"id": "5036a750e4b0e6196e1e5384",
+		"lat": 47.499027,
+		"lng": 19.070183,
+		"address": "Erzsébet krt. 13.",
+		"postalCode": "1076",
+		"city": "Budapest VII. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Café"
+		]
 	},
 	{
 		"date": "2013-04-27T22:42:45.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-27T23:19:05.000Z",
 		"name": "Losonci tér 3.",
-		"id": "50658860e4b0675fa466d3bb"
+		"id": "50658860e4b0675fa466d3bb",
+		"lat": 47.488038,
+		"lng": 19.082002,
+		"address": "Losonci tér 3.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Residential Building (Apartment / Condo)"
+		]
 	},
 	{
 		"date": "2013-04-28T12:08:49.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-04-28T12:23:03.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-29T06:40:05.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-29T09:31:51.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-29T17:08:17.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-04-29T20:50:46.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-30T06:30:17.000Z",
 		"name": "DuoDecad Kft.",
-		"id": "4e4b84b5b0fbbc2182acff38"
+		"id": "4e4b84b5b0fbbc2182acff38",
+		"lat": 47.496434392414756,
+		"lng": 19.118222320749695,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office",
+			"Coworking Space"
+		]
 	},
 	{
 		"date": "2013-04-30T13:07:35.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2013-04-30T17:11:40.000Z",
 		"name": "Harminckettesek tere (4, 6)",
-		"id": "4c41fa8ce26920a1614f5fe7"
+		"id": "4c41fa8ce26920a1614f5fe7",
+		"lat": 47.491346061078474,
+		"lng": 19.07721140890305,
+		"address": "József krt.",
+		"postalCode": "1085",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2013-04-30T17:32:07.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2013-04-30T19:35:38.000Z",
 		"name": "SPAR",
-		"id": "4be83036c5220f476867a9ca"
+		"id": "4be83036c5220f476867a9ca",
+		"lat": 47.486964687669555,
+		"lng": 19.080367093254154,
+		"address": "Szigony utca 12.",
+		"postalCode": "1083",
+		"city": "Budapest VIII.",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2013-04-30T23:20:29.000Z",
 		"name": "Vattacukor Rezidencia",
-		"id": "50434c04e4b03ccc1763379d"
+		"id": "50434c04e4b03ccc1763379d",
+		"lat": 47.48882521834965,
+		"lng": 19.08135897878659,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]
