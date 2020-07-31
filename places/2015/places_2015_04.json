@@ -2,6 +2,15 @@
 	{
 		"date": "2015-04-04T14:55:05.000Z",
 		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
-		"id": "4b61c2daf964a5200f212ae3"
+		"id": "4b61c2daf964a5200f212ae3",
+		"lat": 47.43090022934757,
+		"lng": 19.260798463708202,
+		"address": "Budapest Airport",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport"
+		]
 	}
 ]

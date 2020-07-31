@@ -2,11 +2,28 @@
 	{
 		"date": "2015-03-30T10:45:19.000Z",
 		"name": "Vegas Burger",
-		"id": "54c29096498eeda16760737b"
+		"id": "54c29096498eeda16760737b",
+		"lat": 47.57494049215295,
+		"lng": 18.40337001769066,
+		"address": "Sárbereki ltp. 105.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"American Restaurant",
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2015-03-30T12:11:20.000Z",
 		"name": "Békepipa",
-		"id": "4e19c6fcc65b6bfb591b3d80"
+		"id": "4e19c6fcc65b6bfb591b3d80",
+		"lat": 47.57231545440444,
+		"lng": 18.40306407507719,
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Pub"
+		]
 	}
 ]
