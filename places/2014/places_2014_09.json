@@ -2,196 +2,536 @@
 	{
 		"date": "2014-09-01T19:46:34.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-09-02T05:09:51.000Z",
 		"name": "Sparkasse Trier (Theodor-Heuss-Allee)",
-		"id": "4bcc7ade3740b7138e0c6465"
+		"id": "4bcc7ade3740b7138e0c6465",
+		"lat": 49.759485789862126,
+		"lng": 6.645067863852004,
+		"address": "Theodor-Heuss-Allee 1",
+		"postalCode": "54292",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2014-09-02T12:26:41.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-09-03T14:19:16.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-09-03T19:53:32.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-09-04T14:29:10.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-09-05T14:52:56.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-09-06T11:54:20.000Z",
 		"name": "Alleencenter",
-		"id": "4d80f5a6490f8eec93c66f2e"
+		"id": "4d80f5a6490f8eec93c66f2e",
+		"lat": 49.756290067396584,
+		"lng": 6.649675928291878,
+		"address": "Ostallee 3-5",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2014-09-06T12:05:31.000Z",
 		"name": "Kaufland",
-		"id": "4b9fdd75f964a520c24537e3"
+		"id": "4b9fdd75f964a520c24537e3",
+		"lat": 49.7566412,
+		"lng": 6.6498349,
+		"address": "Ostallee 3-7",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Big Box Store",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2014-09-06T15:39:37.000Z",
 		"name": "Dean & David",
-		"id": "53288e8711d2ad54eef962f3"
+		"id": "53288e8711d2ad54eef962f3",
+		"lat": 49.63359181756525,
+		"lng": 6.173222788183037,
+		"address": "45, avenue J.-F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Salad Place"
+		]
 	},
 	{
 		"date": "2014-09-06T16:47:44.000Z",
 		"name": "Café Coyote",
-		"id": "4bcf445f462cb713715ed607"
+		"id": "4bcf445f462cb713715ed607",
+		"lat": 49.63369918766768,
+		"lng": 6.1733699425430295,
+		"address": "45 Avenue J.-F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Bar",
+			"American Restaurant"
+		]
 	},
 	{
 		"date": "2014-09-06T19:56:26.000Z",
 		"name": "Luxembourg Railway Station (Gare CFL de Luxembourg)",
-		"id": "4b4ca760f964a5200fb926e3"
+		"id": "4b4ca760f964a5200fb926e3",
+		"lat": 49.59990526320813,
+		"lng": 6.134598255157471,
+		"address": "Place de la Gare",
+		"postalCode": "1616",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2014-09-08T16:01:41.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-09-08T17:25:32.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-09-08T17:28:59.000Z",
 		"name": "Alleencenter",
-		"id": "4d80f5a6490f8eec93c66f2e"
+		"id": "4d80f5a6490f8eec93c66f2e",
+		"lat": 49.756290067396584,
+		"lng": 6.649675928291878,
+		"address": "Ostallee 3-5",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2014-09-09T19:14:27.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-09-10T05:12:23.000Z",
 		"name": "Sparkasse Trier (Theodor-Heuss-Allee)",
-		"id": "4bcc7ade3740b7138e0c6465"
+		"id": "4bcc7ade3740b7138e0c6465",
+		"lat": 49.759485789862126,
+		"lng": 6.645067863852004,
+		"address": "Theodor-Heuss-Allee 1",
+		"postalCode": "54292",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2014-09-12T13:20:16.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-09-14T14:21:28.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-09-15T05:12:12.000Z",
 		"name": "Sparkasse Trier (Theodor-Heuss-Allee)",
-		"id": "4bcc7ade3740b7138e0c6465"
+		"id": "4bcc7ade3740b7138e0c6465",
+		"lat": 49.759485789862126,
+		"lng": 6.645067863852004,
+		"address": "Theodor-Heuss-Allee 1",
+		"postalCode": "54292",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2014-09-15T11:00:20.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-09-16T20:13:39.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-09-17T18:45:35.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-09-18T11:06:50.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-09-18T17:28:49.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-09-19T14:48:51.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-09-21T10:00:18.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-09-23T15:21:54.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-09-24T03:45:12.000Z",
 		"name": "Sparkasse Trier (Theodor-Heuss-Allee)",
-		"id": "4bcc7ade3740b7138e0c6465"
+		"id": "4bcc7ade3740b7138e0c6465",
+		"lat": 49.759485789862126,
+		"lng": 6.645067863852004,
+		"address": "Theodor-Heuss-Allee 1",
+		"postalCode": "54292",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2014-09-24T08:18:07.000Z",
 		"name": "Brussels South Charleroi Airport (CRL) (Aéroport de Charleroi-Bruxelles-Sud)",
-		"id": "4b4fc478f964a520ac1427e3"
+		"id": "4b4fc478f964a520ac1427e3",
+		"lat": 50.46958948506467,
+		"lng": 4.4706033409129216,
+		"address": "Rue des Frères Wright 8",
+		"postalCode": "6041",
+		"city": "Gosselies",
+		"country": "Belgique",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2014-09-24T16:24:51.000Z",
 		"name": "Kings Hotel",
-		"id": "4c20d8c215b39c74bec635f2"
+		"id": "4c20d8c215b39c74bec635f2",
+		"lat": 47.498395672150686,
+		"lng": 19.064189886688304,
+		"address": "Nagy Diofa 25",
+		"postalCode": "Hungary",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2014-09-24T17:36:30.000Z",
 		"name": "Akácfa Söröző by Kakas",
-		"id": "4dc4687f922ef0b11255e340"
+		"id": "4dc4687f922ef0b11255e340",
+		"lat": 47.49781191363984,
+		"lng": 19.068692077220103,
+		"address": "Dohány u. 56.",
+		"postalCode": "1072",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Pub",
+			"Bar"
+		]
 	},
 	{
 		"date": "2014-09-25T08:03:10.000Z",
 		"name": "Kings Hotel",
-		"id": "4c20d8c215b39c74bec635f2"
+		"id": "4c20d8c215b39c74bec635f2",
+		"lat": 47.498395672150686,
+		"lng": 19.064189886688304,
+		"address": "Nagy Diofa 25",
+		"postalCode": "Hungary",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2014-09-25T12:15:28.000Z",
 		"name": "Starbucks",
-		"id": "4be6d3fc910020a1d2a5d414"
+		"id": "4be6d3fc910020a1d2a5d414",
+		"lat": 47.51194774839248,
+		"lng": 19.05724984341424,
+		"address": "WestEnd City Center",
+		"postalCode": "1062",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2014-09-25T14:00:46.000Z",
 		"name": "Eastern Railway Station (Keleti pályaudvar)",
-		"id": "4b6e7d14f964a52065bf2ce3"
+		"id": "4b6e7d14f964a52065bf2ce3",
+		"lat": 47.50041327485257,
+		"lng": 19.083804935752624,
+		"address": "Baross tér 10.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2014-09-25T17:25:40.000Z",
 		"name": "Villa Polgar",
-		"id": "4caaebc0965c9c74f70dcbfa"
+		"id": "4caaebc0965c9c74f70dcbfa",
+		"lat": 47.671899642379415,
+		"lng": 16.611052697881373,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-09-26T13:10:40.000Z",
 		"name": "AlphaPark",
-		"id": "4e086ed6d22d658532ab9895"
+		"id": "4e086ed6d22d658532ab9895",
+		"lat": 47.67284854195521,
+		"lng": 16.61173954192847,
+		"address": "Határdomb u. 1-2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2014-09-28T12:41:39.000Z",
 		"name": "Hotel Fagus****",
-		"id": "4bb62a552ea195215f3bab2f"
+		"id": "4bb62a552ea195215f3bab2f",
+		"lat": 47.66660887603627,
+		"lng": 16.580091892392055,
+		"address": "Ojtózi fasor 3.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel",
+			"Hotel Pool",
+			"Residential Building (Apartment / Condo)"
+		]
 	},
 	{
 		"date": "2014-09-29T13:39:34.000Z",
 		"name": "Central Park Café",
-		"id": "4ccef459c0378cfaa0ea9648"
+		"id": "4ccef459c0378cfaa0ea9648",
+		"lat": 47.68100131022882,
+		"lng": 16.5857230942081,
+		"address": "Deák tér",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Café",
+			"Lounge"
+		]
 	}
 ]

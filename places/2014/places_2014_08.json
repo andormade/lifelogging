@@ -2,231 +2,623 @@
 	{
 		"date": "2014-08-01T13:44:16.000Z",
 		"name": "Pizza Hut",
-		"id": "4c0e918cc6cf76b0f7f18051"
+		"id": "4c0e918cc6cf76b0f7f18051",
+		"lat": 49.75452279757575,
+		"lng": 6.640258068530749,
+		"address": "Brotstr. 40",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Pizza Place",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2014-08-02T04:33:51.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-08-02T05:36:42.000Z",
 		"name": "Sparkasse Trier (Theodor-Heuss-Allee)",
-		"id": "4bcc7ade3740b7138e0c6465"
+		"id": "4bcc7ade3740b7138e0c6465",
+		"lat": 49.759485789862126,
+		"lng": 6.645067863852004,
+		"address": "Theodor-Heuss-Allee 1",
+		"postalCode": "54292",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2014-08-02T10:31:03.000Z",
 		"name": "Brussels Central Station (Station Brussel-Centraal)",
-		"id": "4fcefb4ae4b0a25461600022"
+		"id": "4fcefb4ae4b0a25461600022",
+		"lat": 50.84551360214657,
+		"lng": 4.357044696807861,
+		"address": "Europakruispunt 2 Carrefour de l'Europe",
+		"postalCode": "1000",
+		"city": "Brussel",
+		"country": "België",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2014-08-02T11:26:27.000Z",
 		"name": "Belgian Frit 'N Toast",
-		"id": "52b6fd3a11d225bfaca2ce6a"
+		"id": "52b6fd3a11d225bfaca2ce6a",
+		"lat": 50.846249,
+		"lng": 4.354702,
+		"country": "België",
+		"categories": [
+			"Friterie"
+		]
 	},
 	{
 		"date": "2014-08-02T12:26:08.000Z",
 		"name": "Manneken Pis",
-		"id": "4ade0d83f964a520006c21e3"
+		"id": "4ade0d83f964a520006c21e3",
+		"lat": 50.84498759069778,
+		"lng": 4.3498780786111695,
+		"address": "Stoofstraat 46 Rue de l'Etuve",
+		"postalCode": "1000",
+		"city": "Brussel",
+		"country": "België",
+		"categories": [
+			"Monument / Landmark",
+			"Outdoor Sculpture"
+		]
 	},
 	{
 		"date": "2014-08-02T13:22:31.000Z",
 		"name": "À la Mort Subite",
-		"id": "4ade0d71f964a5209a6b21e3"
+		"id": "4ade0d71f964a5209a6b21e3",
+		"lat": 50.84872671940585,
+		"lng": 4.356016483512712,
+		"address": "Warmoesberg 7 Rue Montagne-aux-Herbes-Potagères",
+		"postalCode": "1000",
+		"city": "Brussel",
+		"country": "België",
+		"categories": [
+			"Pub",
+			"Bar"
+		]
 	},
 	{
 		"date": "2014-08-02T16:53:00.000Z",
 		"name": "Glacier Zizi",
-		"id": "4bacc6f4f964a520690b3be3"
+		"id": "4bacc6f4f964a520690b3be3",
+		"lat": 50.81371834199386,
+		"lng": 4.344922158222264,
+		"address": "57a Rue de la Mutualité / Onderlinge Bijstandstraat 57a",
+		"postalCode": "1180",
+		"city": "Ukkel",
+		"country": "België",
+		"categories": [
+			"Ice Cream Shop"
+		]
 	},
 	{
 		"date": "2014-08-03T05:58:40.000Z",
 		"name": "Glacier Zizi",
-		"id": "4bacc6f4f964a520690b3be3"
+		"id": "4bacc6f4f964a520690b3be3",
+		"lat": 50.81371834199386,
+		"lng": 4.344922158222264,
+		"address": "57a Rue de la Mutualité / Onderlinge Bijstandstraat 57a",
+		"postalCode": "1180",
+		"city": "Ukkel",
+		"country": "België",
+		"categories": [
+			"Ice Cream Shop"
+		]
 	},
 	{
 		"date": "2014-08-03T10:57:48.000Z",
 		"name": "Atomium",
-		"id": "4ade0d7ff964a520ea6b21e3"
+		"id": "4ade0d7ff964a520ea6b21e3",
+		"lat": 50.89495444433718,
+		"lng": 4.341513925772141,
+		"address": "Square de l'Atomiumsquare",
+		"postalCode": "1020",
+		"city": "Laken",
+		"country": "België",
+		"categories": [
+			"Monument / Landmark",
+			"Outdoor Sculpture"
+		]
 	},
 	{
 		"date": "2014-08-04T21:25:14.000Z",
 		"name": "Schlabbergass",
-		"id": "4c6c31ab1fb2a143d0c8fae6"
+		"id": "4c6c31ab1fb2a143d0c8fae6",
+		"lat": 49.75771505286679,
+		"lng": 6.642777878772435,
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"German Restaurant"
+		]
 	},
 	{
 		"date": "2014-08-05T05:09:17.000Z",
 		"name": "Sparkasse Trier (Theodor-Heuss-Allee)",
-		"id": "4bcc7ade3740b7138e0c6465"
+		"id": "4bcc7ade3740b7138e0c6465",
+		"lat": 49.759485789862126,
+		"lng": 6.645067863852004,
+		"address": "Theodor-Heuss-Allee 1",
+		"postalCode": "54292",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2014-08-05T15:04:15.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-08-05T18:39:09.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-08-06T19:29:02.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-08-07T17:48:38.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-08-07T21:20:55.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-08-11T05:15:09.000Z",
 		"name": "Sparkasse Trier (Theodor-Heuss-Allee)",
-		"id": "4bcc7ade3740b7138e0c6465"
+		"id": "4bcc7ade3740b7138e0c6465",
+		"lat": 49.759485789862126,
+		"lng": 6.645067863852004,
+		"address": "Theodor-Heuss-Allee 1",
+		"postalCode": "54292",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2014-08-11T11:01:24.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-08-11T19:46:27.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-08-12T05:15:52.000Z",
 		"name": "Sparkasse Trier (Theodor-Heuss-Allee)",
-		"id": "4bcc7ade3740b7138e0c6465"
+		"id": "4bcc7ade3740b7138e0c6465",
+		"lat": 49.759485789862126,
+		"lng": 6.645067863852004,
+		"address": "Theodor-Heuss-Allee 1",
+		"postalCode": "54292",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2014-08-12T10:15:19.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-08-12T20:19:41.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-08-13T08:36:34.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-08-14T17:11:34.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-08-18T06:16:44.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-08-23T13:44:53.000Z",
 		"name": "Kaufland",
-		"id": "4b9fdd75f964a520c24537e3"
+		"id": "4b9fdd75f964a520c24537e3",
+		"lat": 49.7566412,
+		"lng": 6.6498349,
+		"address": "Ostallee 3-7",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Big Box Store",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2014-08-23T16:08:23.000Z",
 		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
-		"id": "4ba14c55f964a52045aa37e3"
+		"id": "4ba14c55f964a52045aa37e3",
+		"lat": 49.634630283133625,
+		"lng": 6.216286980455832,
+		"address": "4 Rue de Trèves",
+		"postalCode": "2016",
+		"city": "Findel",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2014-08-23T16:08:55.000Z",
 		"name": "Gate A12",
-		"id": "4e68b41f52b128a09ed44094"
+		"id": "4e68b41f52b128a09ed44094",
+		"lat": 49.63393437572336,
+		"lng": 6.216778543873711,
+		"address": "Terminal A",
+		"city": "Findel",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2014-08-23T18:45:05.000Z",
 		"name": "Zurich Airport (ZRH) (Flughafen Zürich)",
-		"id": "4b03a460f964a520f34f22e3"
+		"id": "4b03a460f964a520f34f22e3",
+		"lat": 47.45322169582368,
+		"lng": 8.561077950289473,
+		"address": "Flughafenstrasse",
+		"postalCode": "8302",
+		"city": "Kloten",
+		"country": "Schweiz",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2014-08-23T18:45:32.000Z",
 		"name": "Burger King",
-		"id": "4bf7b4ebb182c9b6ea24765a"
+		"id": "4bf7b4ebb182c9b6ea24765a",
+		"lat": 47.45132703486063,
+		"lng": 8.560676703273572,
+		"address": "ZRH Airport",
+		"postalCode": "8058",
+		"city": "Zürich-Flughafen",
+		"country": "Schweiz",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2014-08-24T01:06:47.000Z",
 		"name": "Ronda De Sant Pere",
-		"id": "51de61b1498e9813b3877d92"
+		"id": "51de61b1498e9813b3877d92",
+		"lat": 41.38996816295894,
+		"lng": 2.175182017912614,
+		"country": "España",
+		"categories": [
+			"Other Great Outdoors"
+		]
 	},
 	{
 		"date": "2014-08-24T14:00:00.000Z",
 		"name": "Soulkitchen Dolç",
-		"id": "5172a214e4b05b64278fdbeb"
+		"id": "5172a214e4b05b64278fdbeb",
+		"lat": 41.3895464069076,
+		"lng": 2.179065636345471,
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Cupcake Shop"
+		]
 	},
 	{
 		"date": "2014-08-25T13:34:47.000Z",
 		"name": "La Rambla",
-		"id": "4bfbce6dab180f475b44b4ce"
+		"id": "4bfbce6dab180f475b44b4ce",
+		"lat": 41.38242770450345,
+		"lng": 2.1721601486206055,
+		"address": "La Rambla",
+		"postalCode": "08002",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Pedestrian Plaza",
+			"Road"
+		]
 	},
 	{
 		"date": "2014-08-28T20:22:40.000Z",
 		"name": "Ronda De Sant Pere",
-		"id": "51de61b1498e9813b3877d92"
+		"id": "51de61b1498e9813b3877d92",
+		"lat": 41.38996816295894,
+		"lng": 2.175182017912614,
+		"country": "España",
+		"categories": [
+			"Other Great Outdoors"
+		]
 	},
 	{
 		"date": "2014-08-29T11:20:45.000Z",
 		"name": "Dakmar",
-		"id": "4bf298a377b4c928146d6a1c"
+		"id": "4bf298a377b4c928146d6a1c",
+		"lat": 41.410249584699486,
+		"lng": 2.1560533562624395,
+		"address": "Travessera de Dalt, 77",
+		"postalCode": "08024",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Bar"
+		]
 	},
 	{
 		"date": "2014-08-29T21:19:07.000Z",
 		"name": "TapaTapa",
-		"id": "4d8e61096174a093e73ac7e3"
+		"id": "4d8e61096174a093e73ac7e3",
+		"lat": 41.375956931716814,
+		"lng": 2.150123526606945,
+		"address": "CC Arenas",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Tapas Restaurant",
+			"Spanish Restaurant"
+		]
 	},
 	{
 		"date": "2014-08-30T02:51:36.000Z",
 		"name": "Barcelona–El Prat Josep Tarradellas Airport (BCN) (Aeropuerto Josep Tarradellas Barcelona-El Prat)",
-		"id": "4b7980a2f964a5202bfd2ee3"
+		"id": "4b7980a2f964a5202bfd2ee3",
+		"lat": 41.29560699312263,
+		"lng": 2.0762228965759277,
+		"address": "Ctra. de El Prat de Llobregat",
+		"postalCode": "08820",
+		"city": "El Prat de Llobregat",
+		"country": "España",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2014-08-30T02:52:15.000Z",
 		"name": "McDonald's",
-		"id": "4c4ec8b6db2c20a1758ff474"
+		"id": "4c4ec8b6db2c20a1758ff474",
+		"lat": 41.29015607279652,
+		"lng": 2.0738840103149414,
+		"address": "Terminal 1, Gates D",
+		"postalCode": "08820",
+		"city": "El Prat de Llobregat",
+		"country": "España",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2014-08-30T02:57:36.000Z",
 		"name": "Gate B34",
-		"id": "4d6ff78bb73bb1f7a87db272"
+		"id": "4d6ff78bb73bb1f7a87db272",
+		"lat": 41.29029658786315,
+		"lng": 2.0782942854568773,
+		"address": "Terminal 1",
+		"postalCode": "08820",
+		"city": "El Prat de Llobregat",
+		"country": "España",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2014-08-30T08:27:32.000Z",
 		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
-		"id": "4ba14c55f964a52045aa37e3"
+		"id": "4ba14c55f964a52045aa37e3",
+		"lat": 49.634630283133625,
+		"lng": 6.216286980455832,
+		"address": "4 Rue de Trèves",
+		"postalCode": "2016",
+		"city": "Findel",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2014-08-30T08:28:32.000Z",
 		"name": "Baggage Claim",
-		"id": "51d7de23498eb1cf171bd4e8"
+		"id": "51d7de23498eb1cf171bd4e8",
+		"lat": 49.63472299522555,
+		"lng": 6.216480210176613,
+		"address": "Terminal A",
+		"city": "Findel",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Baggage Claim"
+		]
 	},
 	{
 		"date": "2014-08-30T09:53:41.000Z",
 		"name": "Vapiano",
-		"id": "4c51b35b3940be9a6a8e4e09"
+		"id": "4c51b35b3940be9a6a8e4e09",
+		"lat": 49.63180649278271,
+		"lng": 6.17125118616227,
+		"address": "Avenue John F. Kennedy 44",
+		"postalCode": "1855",
+		"city": "Kirchberg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Italian Restaurant",
+			"Mediterranean Restaurant"
+		]
 	},
 	{
 		"date": "2014-08-30T12:03:39.000Z",
 		"name": "Kaufland",
-		"id": "4b9fdd75f964a520c24537e3"
+		"id": "4b9fdd75f964a520c24537e3",
+		"lat": 49.7566412,
+		"lng": 6.6498349,
+		"address": "Ostallee 3-7",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Big Box Store",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2014-08-30T12:24:10.000Z",
 		"name": "Alleencenter",
-		"id": "4d80f5a6490f8eec93c66f2e"
+		"id": "4d80f5a6490f8eec93c66f2e",
+		"lat": 49.756290067396584,
+		"lng": 6.649675928291878,
+		"address": "Ostallee 3-5",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2014-08-30T19:48:43.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]

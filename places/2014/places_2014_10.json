@@ -2,36 +2,96 @@
 	{
 		"date": "2014-10-01T11:45:50.000Z",
 		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
-		"id": "4b61c2daf964a5200f212ae3"
+		"id": "4b61c2daf964a5200f212ae3",
+		"lat": 47.43090022934757,
+		"lng": 19.260798463708202,
+		"address": "Budapest Airport",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2014-10-01T12:04:25.000Z",
 		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
-		"id": "4b61c2daf964a5200f212ae3"
+		"id": "4b61c2daf964a5200f212ae3",
+		"lat": 47.43090022934757,
+		"lng": 19.260798463708202,
+		"address": "Budapest Airport",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2014-10-01T12:05:09.000Z",
 		"name": "SkyCourt",
-		"id": "4d5a0c73296d548171955fb1"
+		"id": "4d5a0c73296d548171955fb1",
+		"lat": 47.43328163180528,
+		"lng": 19.26130453618838,
+		"address": "Liszt Ferenc Int. Airport (BUD)",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Lounge",
+			"Travel Lounge"
+		]
 	},
 	{
 		"date": "2014-10-01T15:23:05.000Z",
 		"name": "Brussels South Charleroi Airport (CRL) (Aéroport de Charleroi-Bruxelles-Sud)",
-		"id": "4b4fc478f964a520ac1427e3"
+		"id": "4b4fc478f964a520ac1427e3",
+		"lat": 50.46958948506467,
+		"lng": 4.4706033409129216,
+		"address": "Rue des Frères Wright 8",
+		"postalCode": "6041",
+		"city": "Gosselies",
+		"country": "Belgique",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2014-10-01T19:04:40.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2014-10-01T20:35:37.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2014-10-05T20:49:52.000Z",
 		"name": "Cotton Candy Residence 4",
-		"id": "52a22aa9498e89ee46de6d01"
+		"id": "52a22aa9498e89ee46de6d01",
+		"lat": 49.75121242954277,
+		"lng": 6.6495358280281724,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]
