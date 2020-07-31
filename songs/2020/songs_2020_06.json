@@ -6,16 +6,25 @@
 		"date": "2020-06-04T15:41:00.000Z",
 		"songId": "",
 		"artistId": "e21857d5-3256-4547-afb3-4b6ded592596",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Bleed It Out",
 		"artist": "Linkin Park",
 		"album": "Minutes to Midnight",
 		"date": "2020-06-04T15:47:00.000Z",
-		"songId": "02f3fe8b-7547-41fe-828f-eb8945fab2c0",
+		"songId": "5bbf09b5-2bf4-4c19-8228-36dc1f7e2f16",
 		"artistId": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
-		"albumId": "012514b5-dc0f-4418-b67a-c6a8d3af4096"
+		"albumId": "012514b5-dc0f-4418-b67a-c6a8d3af4096",
+		"tags": [
+			"rock",
+			"Nu Metal",
+			"alternative rock",
+			"Linkin Park",
+			"alternative"
+		],
+		"published": "2009-07-22T01:21:00.000Z"
 	},
 	{
 		"name": "Overflow(変身)",
@@ -42,7 +51,15 @@
 		"date": "2020-06-04T15:58:00.000Z",
 		"songId": "66e83b79-e3f3-405a-905a-983012541bc7",
 		"artistId": "b7539c32-53e7-4908-bda3-81449c367da6",
-		"albumId": "d9b9f943-28b6-4ff8-a3af-94a5324a6136"
+		"albumId": "d9b9f943-28b6-4ff8-a3af-94a5324a6136",
+		"tags": [
+			"folk",
+			"indie",
+			"pop",
+			"alternative",
+			"alternative pop"
+		],
+		"published": "2019-08-08T16:56:00.000Z"
 	},
 	{
 		"name": "Slide Away",
@@ -51,7 +68,15 @@
 		"date": "2020-06-04T16:01:00.000Z",
 		"songId": "0463c940-64ac-4dca-96d9-2c65f630780b",
 		"artistId": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
-		"albumId": "b6e7ae08-5870-4223-a850-f777b916a9ec"
+		"albumId": "b6e7ae08-5870-4223-a850-f777b916a9ec",
+		"tags": [
+			"2010s",
+			"Miley Cyrus",
+			"pop",
+			"2019",
+			"bop"
+		],
+		"published": "2020-07-30T06:46:00.000Z"
 	},
 	{
 		"name": "Thinking Of A Place",
@@ -60,7 +85,14 @@
 		"date": "2020-06-04T16:04:00.000Z",
 		"songId": "036b899b-4587-4a9d-9011-bc6f7e34d29c",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": [
+			"indie rock",
+			"americana",
+			"american",
+			"folk rock",
+			"nice"
+		]
 	},
 	{
 		"name": "Up All Night",
@@ -69,7 +101,14 @@
 		"date": "2020-06-08T18:35:00.000Z",
 		"songId": "05bfae19-7c44-4109-87c0-9bc21e2d082a",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": [
+			"soft rock",
+			"fip",
+			"heartland rock",
+			"neo-80s",
+			"80s revival"
+		]
 	},
 	{
 		"name": "Pain",
@@ -78,7 +117,15 @@
 		"date": "2020-06-08T18:42:00.000Z",
 		"songId": "12415192-1826-4bf7-8701-6d58e3ad03bb",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": [
+			"rock",
+			"alternative",
+			"american",
+			"fav",
+			"fallon"
+		],
+		"published": "2017-12-17T12:27:00.000Z"
 	},
 	{
 		"name": "Holding On",
@@ -87,7 +134,13 @@
 		"date": "2020-06-08T18:47:00.000Z",
 		"songId": "0b011065-229e-4d47-a62d-bc520b2e9f36",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": [
+			"american",
+			"FM4",
+			"colbert",
+			"2017 single"
+		]
 	},
 	{
 		"name": "Strangest Thing",
@@ -96,7 +149,14 @@
 		"date": "2020-06-08T18:53:00.000Z",
 		"songId": "096e140d-0f54-4646-a22f-bfda90322835",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": [
+			"2017",
+			"indie",
+			"indie rock",
+			"american",
+			"fip"
+		]
 	},
 	{
 		"name": "Knocked Down",
@@ -105,7 +165,10 @@
 		"date": "2020-06-08T19:00:00.000Z",
 		"songId": "15693ad4-7151-452a-8bbb-276f272c23a5",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": [
+			"fip"
+		]
 	},
 	{
 		"name": "Nothing To Find",
@@ -114,7 +177,11 @@
 		"date": "2020-06-08T19:04:00.000Z",
 		"songId": "0939fe76-56ab-460d-866e-b3b29150e82b",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": [
+			"american",
+			"2017 single"
+		]
 	},
 	{
 		"name": "Thinking Of A Place",
@@ -123,7 +190,14 @@
 		"date": "2020-06-08T19:10:00.000Z",
 		"songId": "036b899b-4587-4a9d-9011-bc6f7e34d29c",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": [
+			"indie rock",
+			"americana",
+			"american",
+			"folk rock",
+			"nice"
+		]
 	},
 	{
 		"name": "In Chains",
@@ -132,7 +206,14 @@
 		"date": "2020-06-08T19:21:00.000Z",
 		"songId": "1196e044-9329-43bf-a021-9c9327c1e760",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": [
+			"2017",
+			"american",
+			"harmonica",
+			"fav",
+			"E"
+		]
 	},
 	{
 		"name": "Clean Living",
@@ -141,7 +222,8 @@
 		"date": "2020-06-08T19:29:00.000Z",
 		"songId": "122135c4-65ed-4300-b332-1171f83da9f8",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": []
 	},
 	{
 		"name": "You Don't Have To Go",
@@ -150,7 +232,8 @@
 		"date": "2020-06-08T19:35:00.000Z",
 		"songId": "00e0ace9-4a80-4591-90ba-99bc0d0da94f",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": []
 	},
 	{
 		"name": "You Don't Have To Go",
@@ -159,7 +242,8 @@
 		"date": "2020-06-08T19:42:00.000Z",
 		"songId": "00e0ace9-4a80-4591-90ba-99bc0d0da94f",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": []
 	},
 	{
 		"name": "The Wonderwhy (Hidden Track)",
@@ -168,16 +252,24 @@
 		"date": "2020-06-08T19:44:00.000Z",
 		"songId": "",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "35168eb5-eed5-4835-a495-857f480786f0"
+		"albumId": "35168eb5-eed5-4835-a495-857f480786f0",
+		"tags": []
 	},
 	{
 		"name": "Bros",
 		"artist": "Wolf Alice",
 		"album": "My Love Is Cool",
 		"date": "2020-06-08T19:48:00.000Z",
-		"songId": "085249ec-100c-4475-945f-d9dc25941781",
+		"songId": "2c4bb263-1bf3-4e20-bf9f-4bd0ebd1f07f",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "35168eb5-eed5-4835-a495-857f480786f0"
+		"albumId": "35168eb5-eed5-4835-a495-857f480786f0",
+		"tags": [
+			"indie",
+			"alternative",
+			"alternative rock",
+			"indie rock",
+			"life is strange"
+		]
 	},
 	{
 		"name": "Your Loves Whore",
@@ -186,7 +278,13 @@
 		"date": "2020-06-08T19:52:00.000Z",
 		"songId": "0249acb5-311a-4285-a7ca-15145bf93e49",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "35168eb5-eed5-4835-a495-857f480786f0"
+		"albumId": "35168eb5-eed5-4835-a495-857f480786f0",
+		"tags": [
+			"indie rock",
+			"indiepop",
+			"summer",
+			"somafm"
+		]
 	},
 	{
 		"name": "You’re A Germ",
@@ -204,7 +302,14 @@
 		"date": "2020-06-08T20:00:00.000Z",
 		"songId": "2c1b8f87-94f2-4a8e-b01f-d827713bd9b6",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "35168eb5-eed5-4835-a495-857f480786f0"
+		"albumId": "35168eb5-eed5-4835-a495-857f480786f0",
+		"tags": [
+			"rock",
+			"british",
+			"indie rock",
+			"rel-yr:2015",
+			"Roaming the Globe"
+		]
 	},
 	{
 		"name": "Silk",
@@ -213,7 +318,10 @@
 		"date": "2020-06-08T20:03:00.000Z",
 		"songId": "318a137a-cfb5-4a1a-9980-7aad023836b1",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "35168eb5-eed5-4835-a495-857f480786f0"
+		"albumId": "35168eb5-eed5-4835-a495-857f480786f0",
+		"tags": [
+			"british"
+		]
 	},
 	{
 		"name": "Lisbon",
@@ -222,7 +330,14 @@
 		"date": "2020-06-08T20:03:00.000Z",
 		"songId": "2c1b8f87-94f2-4a8e-b01f-d827713bd9b6",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "35168eb5-eed5-4835-a495-857f480786f0"
+		"albumId": "35168eb5-eed5-4835-a495-857f480786f0",
+		"tags": [
+			"rock",
+			"british",
+			"indie rock",
+			"rel-yr:2015",
+			"Roaming the Globe"
+		]
 	},
 	{
 		"name": "Freazy",
@@ -231,7 +346,14 @@
 		"date": "2020-06-08T20:07:00.000Z",
 		"songId": "1490831f-c5e3-41e1-b438-744018ee339e",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "35168eb5-eed5-4835-a495-857f480786f0"
+		"albumId": "35168eb5-eed5-4835-a495-857f480786f0",
+		"tags": [
+			"indie",
+			"british",
+			"alternative",
+			"personal favourites",
+			"somafm"
+		]
 	},
 	{
 		"name": "Giant Peach",
@@ -240,7 +362,14 @@
 		"date": "2020-06-08T20:11:00.000Z",
 		"songId": "123d5b5c-bbfe-4d32-a9b3-20d43b7cc30b",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "35168eb5-eed5-4835-a495-857f480786f0"
+		"albumId": "35168eb5-eed5-4835-a495-857f480786f0",
+		"tags": [
+			"british",
+			"punk",
+			"Grunge",
+			"alternative rock",
+			"noise rock"
+		]
 	},
 	{
 		"name": "Work This Time",
@@ -258,7 +387,14 @@
 		"date": "2020-06-17T08:49:00.000Z",
 		"songId": "2a3a0cfc-8431-4133-abfa-76456aeb2067",
 		"artistId": "b8c5cc4f-239f-4e02-b46f-b040b77c2030",
-		"albumId": "1241167a-27ce-4649-8158-848a7c895628"
+		"albumId": "1241167a-27ce-4649-8158-848a7c895628",
+		"tags": [
+			"chillout",
+			"electronic",
+			"downtempo",
+			"trip hop",
+			"chill out"
+		]
 	},
 	{
 		"name": "Nonbinary",
@@ -267,16 +403,31 @@
 		"date": "2020-06-17T08:53:00.000Z",
 		"songId": "11401c68-416c-43df-b0e2-6aab1c772c95",
 		"artistId": "f7625f34-1799-42a4-a1c6-22b5377c767b",
-		"albumId": "9ee4e86c-821f-4590-8c73-2fb117bd9e2f"
+		"albumId": "9ee4e86c-821f-4590-8c73-2fb117bd9e2f",
+		"tags": [
+			"experimental",
+			"electronic",
+			"experimental hip hop",
+			"Experimental pop",
+			"avant garde"
+		]
 	},
 	{
 		"name": "The Daily Mail",
 		"artist": "Radiohead",
 		"album": "The Daily Mail / Staircase",
 		"date": "2020-06-17T08:55:00.000Z",
-		"songId": "01dfe5b1-4c8f-4bd7-8f89-c1747d3a169a",
+		"songId": "2445e401-c720-479c-937b-4df626ac6a83",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"if this song were a human i would marry it twice",
+			"indie",
+			"2011",
+			"pxs: loved",
+			"seen live"
+		],
+		"published": "2012-01-04T17:49:00.000Z"
 	},
 	{
 		"name": "Exist For Love",
@@ -285,7 +436,15 @@
 		"date": "2020-06-17T09:00:00.000Z",
 		"songId": "3587c2f1-1386-41e8-ab40-94c5ff50fb8d",
 		"artistId": "",
-		"albumId": "2570cff6-030a-4e22-8de6-373506596c21"
+		"albumId": "2570cff6-030a-4e22-8de6-373506596c21",
+		"tags": [
+			"Love",
+			"baroque pop",
+			"lovesong",
+			"folk pop",
+			"love at first listen"
+		],
+		"published": "2020-05-16T13:42:00.000Z"
 	},
 	{
 		"name": "Mucho Más Allá",
@@ -303,7 +462,15 @@
 		"date": "2020-06-17T09:06:00.000Z",
 		"songId": "2d4ea359-13de-4c7b-99f0-0d1b43ba8de8",
 		"artistId": "",
-		"albumId": "37c74a82-2937-4b72-bdb5-e3357050cc26"
+		"albumId": "37c74a82-2937-4b72-bdb5-e3357050cc26",
+		"tags": [
+			"cover",
+			"oasis",
+			"indie",
+			"pop",
+			"christmas"
+		],
+		"published": "2015-11-07T18:52:00.000Z"
 	},
 	{
 		"name": "The River",
@@ -312,7 +479,14 @@
 		"date": "2020-06-17T09:10:00.000Z",
 		"songId": "127e620c-95fe-4ef2-a555-9150bfd3ca76",
 		"artistId": "",
-		"albumId": "278841c5-69b0-492c-a5a6-e265f6b2d392"
+		"albumId": "278841c5-69b0-492c-a5a6-e265f6b2d392",
+		"tags": [
+			"indie pop",
+			"art pop",
+			"indie",
+			"alternative",
+			"synthpop"
+		]
 	},
 	{
 		"name": "The Seed",
@@ -321,7 +495,12 @@
 		"date": "2020-06-17T09:13:00.000Z",
 		"songId": "1534e37f-7e6b-4528-b780-0b99e5c30097",
 		"artistId": "",
-		"albumId": "278841c5-69b0-492c-a5a6-e265f6b2d392"
+		"albumId": "278841c5-69b0-492c-a5a6-e265f6b2d392",
+		"tags": [
+			"indie",
+			"alternative",
+			"norwegian"
+		]
 	},
 	{
 		"name": "Queendom",
@@ -330,7 +509,14 @@
 		"date": "2020-06-17T09:18:00.000Z",
 		"songId": "17b88aae-5f7d-47e0-8f9e-18409de802ec",
 		"artistId": "",
-		"albumId": "041cf98d-63a3-4fd2-8035-03587297f690"
+		"albumId": "041cf98d-63a3-4fd2-8035-03587297f690",
+		"tags": [
+			"indie",
+			"alternative",
+			"dance-pop",
+			"norwegian",
+			"synthpop"
+		]
 	},
 	{
 		"name": "Animal",
@@ -339,7 +525,12 @@
 		"date": "2020-06-17T09:21:00.000Z",
 		"songId": "083e46b4-7339-4bce-bdff-2b804b8fdcd1",
 		"artistId": "",
-		"albumId": "278841c5-69b0-492c-a5a6-e265f6b2d392"
+		"albumId": "278841c5-69b0-492c-a5a6-e265f6b2d392",
+		"tags": [
+			"indie",
+			"alternative",
+			"indie pop"
+		]
 	},
 	{
 		"name": "Into the Unknown",
@@ -348,7 +539,8 @@
 		"date": "2020-06-17T09:25:00.000Z",
 		"songId": "2913f639-36c7-4b80-855b-441848dafb04",
 		"artistId": "",
-		"albumId": "ad246472-33a3-4ce0-8b3d-42b84129bb6e"
+		"albumId": "ad246472-33a3-4ce0-8b3d-42b84129bb6e",
+		"tags": []
 	},
 	{
 		"name": "Exist For Love",
@@ -357,7 +549,15 @@
 		"date": "2020-06-17T09:55:00.000Z",
 		"songId": "3587c2f1-1386-41e8-ab40-94c5ff50fb8d",
 		"artistId": "",
-		"albumId": "2570cff6-030a-4e22-8de6-373506596c21"
+		"albumId": "2570cff6-030a-4e22-8de6-373506596c21",
+		"tags": [
+			"Love",
+			"baroque pop",
+			"lovesong",
+			"folk pop",
+			"love at first listen"
+		],
+		"published": "2020-05-16T13:42:00.000Z"
 	},
 	{
 		"name": "Runaway",
@@ -366,7 +566,14 @@
 		"date": "2020-06-17T09:59:00.000Z",
 		"songId": "0026b8bf-374e-4b03-93a2-46c30f589d4a",
 		"artistId": "",
-		"albumId": "37c74a82-2937-4b72-bdb5-e3357050cc26"
+		"albumId": "37c74a82-2937-4b72-bdb5-e3357050cc26",
+		"tags": [
+			"indie",
+			"norwegian",
+			"alternative",
+			"art pop",
+			"ambient pop"
+		]
 	},
 	{
 		"name": "Familiär",
@@ -393,7 +600,15 @@
 		"date": "2020-06-17T10:14:00.000Z",
 		"songId": "365171e6-34e2-47cf-bd34-ca4194a8f643",
 		"artistId": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"Call Me By Your Name",
+			"Soundtrack",
+			"indie",
+			"folk",
+			"beautiful"
+		],
+		"published": "2017-11-19T21:53:00.000Z"
 	},
 	{
 		"name": "PISTA (Great Start)",
@@ -402,7 +617,12 @@
 		"date": "2020-06-17T10:16:00.000Z",
 		"songId": "3db68103-e7c7-4aa4-afe9-b40f780071d1",
 		"artistId": "685051dc-49ad-496a-acab-57ad1ad1e491",
-		"albumId": "dda021bd-d687-4fba-bafa-f74053bdc03d"
+		"albumId": "dda021bd-d687-4fba-bafa-f74053bdc03d",
+		"tags": [
+			"Surf",
+			"cumbia",
+			"fip"
+		]
 	},
 	{
 		"name": "PISTA (Great Start)",
@@ -411,7 +631,12 @@
 		"date": "2020-06-17T10:18:00.000Z",
 		"songId": "3db68103-e7c7-4aa4-afe9-b40f780071d1",
 		"artistId": "685051dc-49ad-496a-acab-57ad1ad1e491",
-		"albumId": "dda021bd-d687-4fba-bafa-f74053bdc03d"
+		"albumId": "dda021bd-d687-4fba-bafa-f74053bdc03d",
+		"tags": [
+			"Surf",
+			"cumbia",
+			"fip"
+		]
 	},
 	{
 		"name": "Shades of blue",
@@ -420,7 +645,13 @@
 		"date": "2020-06-17T10:23:00.000Z",
 		"songId": "f05d1910-b8f3-429d-9400-3758dd009d43",
 		"artistId": "b5970f40-4de3-43fc-9dad-e9b160b3db04",
-		"albumId": "dd9e2235-7245-40c8-a6b7-b05c29329d51"
+		"albumId": "dd9e2235-7245-40c8-a6b7-b05c29329d51",
+		"tags": [
+			"indie",
+			"chamber pop",
+			"colours",
+			"2018 single"
+		]
 	},
 	{
 		"name": "L'Ile neu",
@@ -429,7 +660,8 @@
 		"date": "2020-06-17T10:27:00.000Z",
 		"songId": "",
 		"artistId": "25e90311-d34f-443f-bdd5-26333a5f0ec2",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Moon",
@@ -438,7 +670,8 @@
 		"date": "2020-06-17T10:31:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": "29fbc9db-01a3-4f9f-8bed-ba8f2702ab3b"
+		"albumId": "29fbc9db-01a3-4f9f-8bed-ba8f2702ab3b",
+		"tags": []
 	},
 	{
 		"name": "Momentary Bliss (feat. slowthai and Slaves)",
@@ -447,7 +680,8 @@
 		"date": "2020-06-17T10:36:00.000Z",
 		"songId": "",
 		"artistId": "e21857d5-3256-4547-afb3-4b6ded592596",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "The Wonderwhy (Hidden Track)",
@@ -456,7 +690,8 @@
 		"date": "2020-06-17T10:39:00.000Z",
 		"songId": "",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "35168eb5-eed5-4835-a495-857f480786f0"
+		"albumId": "35168eb5-eed5-4835-a495-857f480786f0",
+		"tags": []
 	},
 	{
 		"name": "Down the Road (Slow Burner Mix) (feat. YVA, Dhruv Sangari & Nicki Wells)",
@@ -472,18 +707,33 @@
 		"artist": "Carpenters",
 		"album": "A Kind Of Hush",
 		"date": "2020-06-17T10:49:00.000Z",
-		"songId": "0321e2bd-7b35-33f6-bd48-9af8a38817f6",
+		"songId": "226b86ef-b674-48c9-b3b2-bf81fe2d2a7d",
 		"artistId": "4580d83b-093e-4241-91fb-2dd71f5f1f3f",
-		"albumId": "214cb063-2177-4e2f-9c64-58e381349948"
+		"albumId": "214cb063-2177-4e2f-9c64-58e381349948",
+		"tags": [
+			"70s",
+			"female vocalists",
+			"pop",
+			"easy listening",
+			"carpenters"
+		],
+		"published": "2010-09-08T08:20:00.000Z"
 	},
 	{
 		"name": "Tempos Idos",
 		"artist": "Cartola",
 		"album": "Talento",
 		"date": "2020-06-17T10:53:00.000Z",
-		"songId": "3691ae83-9d98-306a-8750-4ac7eb06b43f",
+		"songId": "196b2474-0650-453a-9f44-4aed16f9b497",
 		"artistId": "7c743881-aed4-47d4-93d5-9fdd6e2904bb",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"samba",
+			"brasil",
+			"mpb",
+			"tantotempotaste",
+			"cartola"
+		]
 	},
 	{
 		"name": "A Canção Que Chegou",
@@ -501,7 +751,14 @@
 		"date": "2020-06-17T10:59:00.000Z",
 		"songId": "838b8fb7-a143-4228-a398-708ea415ed6f",
 		"artistId": "d51ce0e4-027e-4ecf-a87e-c02a08149f42",
-		"albumId": "520b24f7-79e5-408a-b2be-14b6142a3d85"
+		"albumId": "520b24f7-79e5-408a-b2be-14b6142a3d85",
+		"tags": [
+			"indie pop",
+			"indie rock",
+			"energy",
+			"shoegaze",
+			"Dreamy"
+		]
 	},
 	{
 		"name": "From When I Wake the Want Is",
@@ -510,25 +767,42 @@
 		"date": "2020-06-17T11:02:00.000Z",
 		"songId": "17efa28d-2e06-4c13-afd3-b404db3db707",
 		"artistId": "b78ccb63-c6af-485a-93e9-d7c0b1e74e30",
-		"albumId": "f8664fed-1eba-4a2e-ab66-5df4fe45cf39"
+		"albumId": "f8664fed-1eba-4a2e-ab66-5df4fe45cf39",
+		"tags": []
 	},
 	{
 		"name": "No Distance Left to Run",
 		"artist": "Blur",
 		"album": "13",
 		"date": "2020-06-17T11:06:00.000Z",
-		"songId": "08c6eb16-ba0b-3b79-b58f-6bf47845999c",
+		"songId": "4a66aba1-6cdd-487c-85c1-9b0da692d4d3",
 		"artistId": "ba853904-ae25-4ebb-89d6-c44cfbd71bd2",
-		"albumId": "09d31e04-3e4c-4811-a99b-1297a8ad79e7"
+		"albumId": "09d31e04-3e4c-4811-a99b-1297a8ad79e7",
+		"tags": [
+			"britpop",
+			"indie",
+			"british",
+			"alternative",
+			"rock"
+		],
+		"published": "2008-11-22T08:23:00.000Z"
 	},
 	{
 		"name": "Knights of Cydonia",
 		"artist": "Muse",
 		"album": "Black Holes and Revelations",
 		"date": "2020-06-17T11:10:00.000Z",
-		"songId": "0176e577-63c4-3fb8-8d04-f126d1cf5a63",
+		"songId": "a28635ae-0520-401c-be53-20f4846f0113",
 		"artistId": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
-		"albumId": "2b91931d-477d-31c7-8938-b965e97a0d88"
+		"albumId": "2b91931d-477d-31c7-8938-b965e97a0d88",
+		"tags": [
+			"rock",
+			"alternative rock",
+			"alternative",
+			"epic",
+			"Muse"
+		],
+		"published": "2008-07-19T08:22:00.000Z"
 	},
 	{
 		"name": "Boyish",
@@ -537,7 +811,14 @@
 		"date": "2020-06-17T11:17:00.000Z",
 		"songId": "09f9b97d-2ccc-4a53-b498-9aac50340812",
 		"artistId": "8c529495-91f5-4e2f-b71b-adcb66878d04",
-		"albumId": "4ef65daf-6677-447c-965a-ad2295264bcb"
+		"albumId": "4ef65daf-6677-447c-965a-ad2295264bcb",
+		"tags": [
+			"indie",
+			"indie pop",
+			"indie rock",
+			"Lo-Fi",
+			"dream pop"
+		]
 	},
 	{
 		"name": "Pink in the Night",
@@ -546,16 +827,26 @@
 		"date": "2020-06-17T11:21:00.000Z",
 		"songId": "554117d1-be14-42f0-865c-7da42115c91f",
 		"artistId": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
-		"albumId": "34896707-186f-4eda-aabe-61e28ea94de2"
+		"albumId": "34896707-186f-4eda-aabe-61e28ea94de2",
+		"tags": [
+			"ambient pop"
+		]
 	},
 	{
 		"name": "Laura",
 		"artist": "Bat for Lashes",
 		"album": "The Haunted Man",
 		"date": "2020-06-17T11:23:00.000Z",
-		"songId": "04499e24-c9e4-48a4-ab4e-d223109bfbe1",
+		"songId": "b52c11e5-39a7-4868-8ba8-c2e58d62b916",
 		"artistId": "10000730-525f-4ed5-aaa8-92888f060f5f",
-		"albumId": "138edfef-da8d-4992-a93b-d41ac314e93c"
+		"albumId": "138edfef-da8d-4992-a93b-d41ac314e93c",
+		"tags": [
+			"alternative",
+			"female vocalists",
+			"british",
+			"piano",
+			"beautiful"
+		]
 	},
 	{
 		"name": "Japanisches Abschiedslied",
@@ -564,7 +855,8 @@
 		"date": "2020-06-17T11:28:00.000Z",
 		"songId": "",
 		"artistId": "a3384da9-7098-4fdb-aff8-6b1f151048c6",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Two Time",
@@ -573,7 +865,11 @@
 		"date": "2020-06-17T11:30:00.000Z",
 		"songId": "8e32c83d-c50f-458d-8195-f6ac320d3b85",
 		"artistId": "9f4c3bca-4d80-428f-9ed2-0de052d92ecc",
-		"albumId": "c00eed39-36fc-4b78-a5f9-3e3761fc0e45"
+		"albumId": "c00eed39-36fc-4b78-a5f9-3e3761fc0e45",
+		"tags": [
+			"indie",
+			"experimental"
+		]
 	},
 	{
 		"name": "Lambaláda",
@@ -591,7 +887,8 @@
 		"date": "2020-06-17T11:36:00.000Z",
 		"songId": "",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Nature Boy",
@@ -600,61 +897,115 @@
 		"date": "2020-06-17T11:41:00.000Z",
 		"songId": "9949b1d9-d4f0-43d0-a27a-7adc49e9b36d",
 		"artistId": "54799c0e-eb45-4eea-996d-c4d71a63c499",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"Queen",
+			"soft",
+			"divine",
+			"so smooth",
+			"simply beautiful"
+		]
 	},
 	{
 		"name": "Karma Police",
 		"artist": "Radiohead",
 		"album": "OK Computer",
 		"date": "2020-06-19T15:22:00.000Z",
-		"songId": "02322e6d-a1ab-3c94-bddd-b3969bed6c6e",
+		"songId": "0790ba6c-e0b1-4891-b82f-b4db9a5a927f",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "0b6b4ba0-d36f-47bd-b4ea-6a5b91842d29"
+		"albumId": "0b6b4ba0-d36f-47bd-b4ea-6a5b91842d29",
+		"tags": [
+			"alternative",
+			"alternative rock",
+			"rock",
+			"radiohead",
+			"indie"
+		],
+		"published": "2008-07-17T12:32:00.000Z"
 	},
 	{
 		"name": "Hiding Tonight",
 		"artist": "Alex Turner",
 		"album": "Submarine - Original Songs From The Film By Alex Turner",
 		"date": "2020-06-19T15:27:00.000Z",
-		"songId": "87a19d7f-4b53-3319-ae05-db8c72825ee0",
+		"songId": "88fa8e7b-76cc-4bca-8bf5-ab59fcf1a011",
 		"artistId": "7e1e0117-7e99-4ca4-b231-4ebd5115d7da",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"british",
+			"indie",
+			"Soundtrack",
+			"acoustic",
+			"alternative"
+		]
 	},
 	{
 		"name": "Pale Blue Eyes",
 		"artist": "The Velvet Underground",
 		"album": "The Velvet Underground (45th Anniversary)",
 		"date": "2020-06-19T15:30:00.000Z",
-		"songId": "030ed003-ebfc-3bd5-ae71-5c48aac01785",
+		"songId": "9c1af8d0-faf6-4758-b4a6-a30f6f869862",
 		"artistId": "94b0fb9d-a066-4823-b2ec-af1d324bcfcf",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"classic rock",
+			"60s",
+			"rock",
+			"Mellow",
+			"psychedelic"
+		],
+		"published": "2009-03-19T21:02:00.000Z"
 	},
 	{
 		"name": "Reckoner",
 		"artist": "Radiohead",
 		"album": "In Rainbows",
 		"date": "2020-06-19T15:36:00.000Z",
-		"songId": "06ec1673-50b9-4209-a02f-594144366398",
+		"songId": "76cc0d1b-c44f-4252-829e-9f55ef45b1ab",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "1475431a-cfd3-43ad-bf09-b3826118446f"
+		"albumId": "1475431a-cfd3-43ad-bf09-b3826118446f",
+		"tags": [
+			"alternative",
+			"alternative rock",
+			"rock",
+			"indie",
+			"british"
+		],
+		"published": "2009-03-31T17:08:00.000Z"
 	},
 	{
 		"name": "One Last Breath",
 		"artist": "Creed",
 		"album": "Weathered",
 		"date": "2020-06-19T16:56:00.000Z",
-		"songId": "0d584ebc-265e-3704-b96d-40529beb133f",
+		"songId": "2a95c13d-c58d-46ee-8499-8a34f4311e75",
 		"artistId": "4b1a830b-0a1f-42e5-b8d5-1d6743912e99",
-		"albumId": "36950834-0c25-43e3-a7ee-4475fe1cc6ea"
+		"albumId": "36950834-0c25-43e3-a7ee-4475fe1cc6ea",
+		"tags": [
+			"rock",
+			"alternative rock",
+			"Creed",
+			"Grunge",
+			"alternative"
+		],
+		"published": "2008-08-17T19:14:00.000Z"
 	},
 	{
 		"name": "My Sacrifice",
 		"artist": "Creed",
 		"album": "Weathered",
 		"date": "2020-06-19T17:00:00.000Z",
-		"songId": "0ff0ecb8-635a-4f0b-b7ac-d816ba4f4725",
+		"songId": "89eb636d-0f7a-4c91-a488-65f5e0c87a51",
 		"artistId": "4b1a830b-0a1f-42e5-b8d5-1d6743912e99",
-		"albumId": "36950834-0c25-43e3-a7ee-4475fe1cc6ea"
+		"albumId": "36950834-0c25-43e3-a7ee-4475fe1cc6ea",
+		"tags": [
+			"rock",
+			"Creed",
+			"alternative rock",
+			"alternative",
+			"hard rock"
+		],
+		"published": "2009-07-09T12:04:00.000Z"
 	},
 	{
 		"name": "bad idea!",
@@ -663,7 +1014,11 @@
 		"date": "2020-06-19T17:05:00.000Z",
 		"songId": "08aab1f1-23e0-402b-869b-ea3da536fb8f",
 		"artistId": "4ae429fe-735c-4968-8253-a591421b1bd0",
-		"albumId": "0f7d643d-29fb-47b4-a519-11d25387128b"
+		"albumId": "0f7d643d-29fb-47b4-a519-11d25387128b",
+		"tags": [
+			"indie",
+			"FM4"
+		]
 	},
 	{
 		"name": "Eclipse (feat. Los Macorinos)",
@@ -672,7 +1027,8 @@
 		"date": "2020-06-19T17:09:00.000Z",
 		"songId": "",
 		"artistId": "2ceb4e66-4eaa-4dba-ad3a-30df3b742557",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Tape 23 Track 3, Pt. 1",
@@ -681,7 +1037,8 @@
 		"date": "2020-06-19T17:14:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Siwezi Kuiacha Rumba (I Cannot Give Up Rumba)",
@@ -690,7 +1047,8 @@
 		"date": "2020-06-19T17:16:00.000Z",
 		"songId": "",
 		"artistId": "6b351896-6723-4219-92e9-31a147f34a42",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Stanleyville Putulú (Stanleyville Is Dusty)",
@@ -708,7 +1066,8 @@
 		"date": "2020-06-19T17:22:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Pini Ochama (I Was Without Hope)",
@@ -717,7 +1076,8 @@
 		"date": "2020-06-19T17:24:00.000Z",
 		"songId": "",
 		"artistId": "12c59b67-2592-4bee-bab0-3633808861f7",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Soko Olingi Na-Boma (If You Want to Kill Me)",
@@ -726,7 +1086,8 @@
 		"date": "2020-06-19T17:27:00.000Z",
 		"songId": "",
 		"artistId": "dffb70a2-5e03-434e-a914-a06da2053279",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Caroline Zibula Bango",
@@ -735,7 +1096,8 @@
 		"date": "2020-06-19T17:30:00.000Z",
 		"songId": "e9178123-acc5-4f59-9b7b-d7c0078e1890",
 		"artistId": "9e821367-57c6-4730-ba22-da4cef9d5823",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Tála Bango (Watch Them)",
@@ -753,7 +1115,8 @@
 		"date": "2020-06-19T17:36:00.000Z",
 		"songId": "",
 		"artistId": "b7a3a7cd-12c5-4f06-9706-bfe589da35b0",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Birima",
@@ -762,7 +1125,8 @@
 		"date": "2020-06-19T17:39:00.000Z",
 		"songId": "cc823fe7-8f50-4b7e-92c1-cd26aed0b5ce",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Mangwasi",
@@ -771,7 +1135,8 @@
 		"date": "2020-06-19T17:42:00.000Z",
 		"songId": "b177fda6-392d-46f6-b3ac-1d4424792b4e",
 		"artistId": "e87b237e-28a6-4f67-b67c-e9d2152f2b5b",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Napenda (I Love)",
@@ -780,7 +1145,8 @@
 		"date": "2020-06-19T17:44:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Mamie Sistah Mai Deah (Mommy, Sister My Dear)",
@@ -789,7 +1155,8 @@
 		"date": "2020-06-19T17:47:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Chemirocha III",
@@ -798,7 +1165,8 @@
 		"date": "2020-06-19T17:50:00.000Z",
 		"songId": "7bf47ea9-bde7-462d-9cd8-2338e2fa1450",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Mpenzi Wangu Wanitupa (My Sweetheart Left Me)",
@@ -807,7 +1175,8 @@
 		"date": "2020-06-19T17:52:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Mpenzi Wangu, Umepotea Mjini (My Love, You Have Disappeared in Town)",
@@ -816,7 +1185,8 @@
 		"date": "2020-06-19T17:55:00.000Z",
 		"songId": "",
 		"artistId": "12c59b67-2592-4bee-bab0-3633808861f7",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Jumamosi Kuna Vigelegele (On Saturday, There Is Celebration)",
@@ -825,7 +1195,8 @@
 		"date": "2020-06-19T17:58:00.000Z",
 		"songId": "",
 		"artistId": "12c59b67-2592-4bee-bab0-3633808861f7",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Maivuno ni Kilema (Jealousy Is a Vice)",
@@ -834,7 +1205,8 @@
 		"date": "2020-06-19T18:01:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Kisima cha Wivu (Well of Jealousy)",
@@ -843,7 +1215,8 @@
 		"date": "2020-06-19T18:04:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Moyo Wanitanga-Tanga (My Heart Is Troubled)",
@@ -852,7 +1225,8 @@
 		"date": "2020-06-19T18:07:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Nali Kisafiri (As I Was Traveling)",
@@ -861,7 +1235,8 @@
 		"date": "2020-06-19T18:10:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Wapenzi Kuwaona (We Are Pleased to See You and to Be Together)",
@@ -870,7 +1245,8 @@
 		"date": "2020-06-19T18:12:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Mama Josefina (Mama Josefina)",
@@ -879,7 +1255,8 @@
 		"date": "2020-06-19T18:16:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Jean Ndjela ku Parquet (Jean Ndjela Before the High Court)",
@@ -888,7 +1265,8 @@
 		"date": "2020-06-19T18:18:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Pipi na Dongo (Candy and Okra)",
@@ -897,7 +1275,8 @@
 		"date": "2020-06-19T18:22:00.000Z",
 		"songId": "",
 		"artistId": "64eb2b51-cea3-41c4-aeae-be8a24429653",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Kilio Mama (Mother's Cries)",
@@ -906,7 +1285,8 @@
 		"date": "2020-06-19T18:24:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Mwendo Tulikwenda (The Journey That We Took)",
@@ -915,7 +1295,8 @@
 		"date": "2020-06-19T18:27:00.000Z",
 		"songId": "",
 		"artistId": "d159a451-9e04-4bdb-b977-95bfb8fbffa2",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Doa Jeupe (White Spot)",
@@ -924,7 +1305,8 @@
 		"date": "2020-06-19T18:30:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Eh, Mwajuma Wanikataa (Eh, Mwajuma, You Have Turned Me Down)",
@@ -933,7 +1315,8 @@
 		"date": "2020-06-19T18:33:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Marie Wabolingo (Marie, My Love)",
@@ -942,7 +1325,8 @@
 		"date": "2020-06-19T18:35:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Hayo Siyakweli (It's Not True)",
@@ -951,7 +1335,8 @@
 		"date": "2020-06-19T18:38:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Nimepata Mpenzi, Mtoto, Mdogo, Mzuri Simwachi (I Got a Young, Beautiful Girl that I Won't Leave)",
@@ -960,7 +1345,8 @@
 		"date": "2020-06-19T18:41:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Nimepata Mpenzi, Mtoto Mzuri (I Got a Young, Beautiful Girl)",
@@ -969,7 +1355,8 @@
 		"date": "2020-06-19T18:44:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Mtoto Mzuri Simwachi (I Won't Leave a Young, Beautiful Girl)",
@@ -978,7 +1365,8 @@
 		"date": "2020-06-19T18:47:00.000Z",
 		"songId": "",
 		"artistId": "6b351896-6723-4219-92e9-31a147f34a42",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Chineno (Little Speech)",
@@ -987,7 +1375,8 @@
 		"date": "2020-06-19T18:50:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Chaupele Mpenzi (Chaupele, My Love)",
@@ -996,7 +1385,8 @@
 		"date": "2020-06-19T18:53:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Ushuru wa Guitare (Payments for [Playing] Guitar)",
@@ -1005,7 +1395,8 @@
 		"date": "2020-06-19T18:55:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Mapani (Mapani's Band)",
@@ -1014,7 +1405,8 @@
 		"date": "2020-06-19T18:58:00.000Z",
 		"songId": "",
 		"artistId": "5982ce78-740c-4a63-bbe6-0b50b5851287",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Mahaba Matamu (How Sweet Is Our Love)",
@@ -1023,7 +1415,8 @@
 		"date": "2020-06-19T19:01:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Shukurani (Give Thanks)",
@@ -1032,7 +1425,8 @@
 		"date": "2020-06-19T19:04:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Hawana Kazi Makarani (They Have No Work, Those Clerks)",
@@ -1041,7 +1435,8 @@
 		"date": "2020-06-19T19:06:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Dada Mwajuma Nifichie Siri Yangu (Sister Mwajuma, Keep My Secret)",
@@ -1050,25 +1445,42 @@
 		"date": "2020-06-19T19:09:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "The Daily Mail",
 		"artist": "Radiohead",
 		"album": "The Daily Mail / Staircase",
 		"date": "2020-06-19T19:13:00.000Z",
-		"songId": "01dfe5b1-4c8f-4bd7-8f89-c1747d3a169a",
+		"songId": "2445e401-c720-479c-937b-4df626ac6a83",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"if this song were a human i would marry it twice",
+			"indie",
+			"2011",
+			"pxs: loved",
+			"seen live"
+		],
+		"published": "2012-01-04T17:49:00.000Z"
 	},
 	{
 		"name": "Dark Was the Night, Cold Was the Ground",
 		"artist": "Blind Willie Johnson",
 		"album": "Dark Was the Night (Mojo Workin'- Blues for the Next Generation)",
 		"date": "2020-06-19T19:17:00.000Z",
-		"songId": "0bb7e290-6018-4da3-88ef-aac8adf9d958",
+		"songId": "27a746fb-a5ad-4475-adbe-0a98506a5c1a",
 		"artistId": "8a14c00b-4779-44e4-9b2e-4cc9dcd92e9b",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"blues",
+			"delta blues",
+			"slide guitar",
+			"laid back",
+			"gospel"
+		],
+		"published": "2008-12-03T15:19:00.000Z"
 	},
 	{
 		"name": "I Want It All",
@@ -1077,16 +1489,24 @@
 		"date": "2020-06-19T19:20:00.000Z",
 		"songId": "e2515061-e44d-40f5-bf48-af85fcf241c6",
 		"artistId": "84f32a42-7cc0-4b55-98ec-7e3fdfdd7a67",
-		"albumId": "12b1ac52-bcc6-47b2-ad54-85c446ff4a9b"
+		"albumId": "12b1ac52-bcc6-47b2-ad54-85c446ff4a9b",
+		"tags": []
 	},
 	{
 		"name": "I'd Love to Kill You",
 		"artist": "Katie Melua",
 		"album": "The House",
 		"date": "2020-06-19T19:24:00.000Z",
-		"songId": "86153253-bf8e-33a4-bec4-fe60d537176b",
+		"songId": "ed8ec743-5094-4468-899d-d8a5d4650503",
 		"artistId": "39e32995-6515-40b2-a6f0-841524047edc",
-		"albumId": "da7f308f-d48c-41a4-9101-cdc062857ad5"
+		"albumId": "da7f308f-d48c-41a4-9101-cdc062857ad5",
+		"tags": [
+			"jazz",
+			"pop",
+			"female vocalists",
+			"acoustic",
+			"jazzysfemalejazz"
+		]
 	},
 	{
 		"name": "Churchyard",
@@ -1095,7 +1515,10 @@
 		"date": "2020-06-19T19:27:00.000Z",
 		"songId": "80464c41-f098-4d84-96e8-77bc7eaaac7f",
 		"artistId": "",
-		"albumId": "041cf98d-63a3-4fd2-8035-03587297f690"
+		"albumId": "041cf98d-63a3-4fd2-8035-03587297f690",
+		"tags": [
+			"2018 single"
+		]
 	},
 	{
 		"name": "Titan",
@@ -1104,7 +1527,8 @@
 		"date": "2020-06-19T19:31:00.000Z",
 		"songId": "20abc286-cf42-4865-81fc-482150a5a850",
 		"artistId": "8a562589-9650-45f6-ab82-332625c0bf2d",
-		"albumId": "147452f4-a0ae-4881-bc84-2985c866462b"
+		"albumId": "147452f4-a0ae-4881-bc84-2985c866462b",
+		"tags": []
 	},
 	{
 		"name": "Theme From Mahogany (Do You Know Where You're Going To) - Single Version",
@@ -1113,16 +1537,26 @@
 		"date": "2020-06-19T19:34:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": "1bad8c24-d818-4ff8-9d45-76601920b1f7"
+		"albumId": "1bad8c24-d818-4ff8-9d45-76601920b1f7",
+		"tags": [
+			"soul"
+		]
 	},
 	{
 		"name": "Coming Around Again",
 		"artist": "Carly Simon",
 		"album": "Coming Around Again",
 		"date": "2020-06-19T19:37:00.000Z",
-		"songId": "0d880cf8-7312-4c88-aa03-c202f4f8f31c",
+		"songId": "b90f14cf-2596-4e27-9080-a534306b7697",
 		"artistId": "c4df30f5-5487-4806-9189-b69c9f27532c",
-		"albumId": "269dd1ae-4568-407a-972a-325e57d13acd"
+		"albumId": "269dd1ae-4568-407a-972a-325e57d13acd",
+		"tags": [
+			"female vocalists",
+			"pop",
+			"80s",
+			"singer-songwriter",
+			"70s"
+		]
 	},
 	{
 		"name": "Evergreen (Love Theme from, \"A Star Is Born\")",
@@ -1131,7 +1565,8 @@
 		"date": "2020-06-19T19:41:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": "084b4455-d8a0-4c48-968c-d978220a1e81"
+		"albumId": "084b4455-d8a0-4c48-968c-d978220a1e81",
+		"tags": []
 	},
 	{
 		"name": "Turning Teeth",
@@ -1149,7 +1584,15 @@
 		"date": "2020-06-19T19:48:00.000Z",
 		"songId": "365171e6-34e2-47cf-bd34-ca4194a8f643",
 		"artistId": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"Call Me By Your Name",
+			"Soundtrack",
+			"indie",
+			"folk",
+			"beautiful"
+		],
+		"published": "2017-11-19T21:53:00.000Z"
 	},
 	{
 		"name": "Come On, Dreamer",
@@ -1158,7 +1601,8 @@
 		"date": "2020-06-19T19:53:00.000Z",
 		"songId": "6e516c5c-32e4-4b43-b3fd-e8e2237c9b49",
 		"artistId": "544a72cb-2030-4e69-a915-ca9897fec810",
-		"albumId": "d79540c3-6eef-41ae-81d7-2cabe952ce40"
+		"albumId": "d79540c3-6eef-41ae-81d7-2cabe952ce40",
+		"tags": []
 	},
 	{
 		"name": "Static",
@@ -1167,7 +1611,8 @@
 		"date": "2020-06-19T19:58:00.000Z",
 		"songId": "d45e0922-2a4b-4757-99b8-b90e10defd1b",
 		"artistId": "544a72cb-2030-4e69-a915-ca9897fec810",
-		"albumId": "d79540c3-6eef-41ae-81d7-2cabe952ce40"
+		"albumId": "d79540c3-6eef-41ae-81d7-2cabe952ce40",
+		"tags": []
 	},
 	{
 		"name": "Let It begin",
@@ -1176,7 +1621,10 @@
 		"date": "2020-06-19T20:03:00.000Z",
 		"songId": "3bfef5fa-878a-4eec-bb85-f4d4588b32a1",
 		"artistId": "6533674b-9d30-4328-bdfe-92318e12e53a",
-		"albumId": "49532bbe-b678-41b4-8a3b-22365f46aead"
+		"albumId": "49532bbe-b678-41b4-8a3b-22365f46aead",
+		"tags": [
+			"surfgaze"
+		]
 	},
 	{
 		"name": "Static",
@@ -1185,7 +1633,8 @@
 		"date": "2020-06-19T20:03:00.000Z",
 		"songId": "d45e0922-2a4b-4757-99b8-b90e10defd1b",
 		"artistId": "544a72cb-2030-4e69-a915-ca9897fec810",
-		"albumId": "d79540c3-6eef-41ae-81d7-2cabe952ce40"
+		"albumId": "d79540c3-6eef-41ae-81d7-2cabe952ce40",
+		"tags": []
 	},
 	{
 		"name": "Without A Blush",
@@ -1194,7 +1643,13 @@
 		"date": "2020-06-19T20:09:00.000Z",
 		"songId": "36995833-34a0-4336-a5f8-e2eea7b0a7c5",
 		"artistId": "b51f07c9-a42c-4ea7-b5ed-ce4b7f47101a",
-		"albumId": "28c52355-8580-4359-9f5d-effaa658eeaf"
+		"albumId": "28c52355-8580-4359-9f5d-effaa658eeaf",
+		"tags": [
+			"shoegaze",
+			"noise pop",
+			"dream pop",
+			"synthpop"
+		]
 	},
 	{
 		"name": "Sure",
@@ -1203,7 +1658,14 @@
 		"date": "2020-06-19T20:14:00.000Z",
 		"songId": "3b646873-7a5d-4e0b-957a-a7690cfba155",
 		"artistId": "b51f07c9-a42c-4ea7-b5ed-ce4b7f47101a",
-		"albumId": "3415432a-7df8-438a-b391-838024b2e1c7"
+		"albumId": "3415432a-7df8-438a-b391-838024b2e1c7",
+		"tags": [
+			"indie rock",
+			"twee pop",
+			"dream pop",
+			"comfort songs",
+			"janglegaze"
+		]
 	},
 	{
 		"name": "I'm Fine",
@@ -1212,7 +1674,14 @@
 		"date": "2020-06-19T20:18:00.000Z",
 		"songId": "233a14a7-9de8-4021-829c-f6c9fb376943",
 		"artistId": "ef67a875-9e45-4057-b91d-56c4e744d901",
-		"albumId": "202fd89b-404f-4b8b-b949-5daba31538fc"
+		"albumId": "202fd89b-404f-4b8b-b949-5daba31538fc",
+		"tags": [
+			"indie",
+			"Fave Indie Pop",
+			"2016",
+			"BIRP",
+			" 2016"
+		]
 	},
 	{
 		"name": "Combat",
@@ -1221,7 +1690,8 @@
 		"date": "2020-06-19T20:21:00.000Z",
 		"songId": "1e8fb469-4ed3-46fe-a575-622c9c5b16be",
 		"artistId": "ef67a875-9e45-4057-b91d-56c4e744d901",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "'O Sole Mio",
@@ -1230,7 +1700,8 @@
 		"date": "2020-06-19T20:25:00.000Z",
 		"songId": "",
 		"artistId": "8b245ff7-279a-45ff-a62f-bc81eae89f64",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "אתה מתעורר",
@@ -1248,7 +1719,15 @@
 		"date": "2020-06-19T20:35:00.000Z",
 		"songId": "5606ca56-cdea-40c7-9c6d-22d49a38da26",
 		"artistId": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
-		"albumId": "89977247-1834-47b1-ac15-d303a870d9f6"
+		"albumId": "89977247-1834-47b1-ac15-d303a870d9f6",
+		"tags": [
+			"james bond",
+			"2020",
+			"Soundtrack",
+			"Ballad",
+			"2020s"
+		],
+		"published": "2020-02-14T10:36:00.000Z"
 	},
 	{
 		"name": "goodbye",
@@ -1257,7 +1736,14 @@
 		"date": "2020-06-19T20:39:00.000Z",
 		"songId": "0588d193-80e6-4829-af9e-b8101a455047",
 		"artistId": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
-		"albumId": "1d8f0dc1-3e99-4f18-af60-588c88d10ca9"
+		"albumId": "1d8f0dc1-3e99-4f18-af60-588c88d10ca9",
+		"tags": [
+			"2010s",
+			"pop",
+			"dark pop",
+			"Billie Eilish",
+			"indie"
+		]
 	},
 	{
 		"name": "Six Feet Apart",
@@ -1266,16 +1752,29 @@
 		"date": "2020-06-19T20:41:00.000Z",
 		"songId": "56a8f91f-48a4-40e5-956b-d64217a42f62",
 		"artistId": "21a14ee3-cede-420a-9d6d-a33517d2f952",
-		"albumId": "290617c9-44c5-49d8-9a98-404e24b24e5f"
+		"albumId": "290617c9-44c5-49d8-9a98-404e24b24e5f",
+		"tags": [
+			"indie pop",
+			"2020",
+			"2020s",
+			"alec benjamin"
+		]
 	},
 	{
 		"name": "Ameno",
 		"artist": "Era",
 		"album": "Era I 2002",
 		"date": "2020-06-19T20:44:00.000Z",
-		"songId": "012b986a-f55c-3848-aff7-bebed8c4e358",
+		"songId": "5a900334-cee8-4a89-8491-f7c4cb269507",
 		"artistId": "e10e6a79-ba96-4c45-bd8a-0655d45f9351",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"new age",
+			"ambient",
+			"celtic",
+			"ERA",
+			"chillout"
+		]
 	},
 	{
 		"name": "Sadboy",
@@ -1284,16 +1783,30 @@
 		"date": "2020-06-19T20:49:00.000Z",
 		"songId": "28b5c2b7-34f0-4445-8eb7-4355a93a0cac",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "a32aca75-248f-4497-8812-f9170f74ab28"
+		"albumId": "a32aca75-248f-4497-8812-f9170f74ab28",
+		"tags": [
+			"rock",
+			"alternative rock",
+			"indie rock",
+			"shoegaze"
+		]
 	},
 	{
 		"name": "Maggot Brain",
 		"artist": "Funkadelic",
 		"album": "Maggot Brain",
 		"date": "2020-06-19T20:53:00.000Z",
-		"songId": "12a8d5db-9e0d-39cf-b7d4-dd41647bcd35",
+		"songId": "322bd366-b772-44f3-953b-5432ce5cbcf3",
 		"artistId": "cf042013-3edd-46c4-9b0e-a62faac98d0b",
-		"albumId": "04a73b9b-1219-4b9f-be49-8a974764d493"
+		"albumId": "04a73b9b-1219-4b9f-be49-8a974764d493",
+		"tags": [
+			"funk",
+			"psychedelic",
+			"instrumental",
+			"guitar",
+			"Awesome Guitar Jams"
+		],
+		"published": "2009-03-27T03:15:00.000Z"
 	},
 	{
 		"name": "Blackbird",
@@ -1302,7 +1815,8 @@
 		"date": "2020-06-19T20:58:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "In The Wee Small Hours Of The Morning - Remastered 1998",
@@ -1311,7 +1825,8 @@
 		"date": "2020-06-19T21:02:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": "0711168c-446c-3653-aa31-524eb6354ffb"
+		"albumId": "0711168c-446c-3653-aa31-524eb6354ffb",
+		"tags": []
 	},
 	{
 		"name": "4æm",
@@ -1329,7 +1844,8 @@
 		"date": "2020-06-19T21:09:00.000Z",
 		"songId": "84d516d2-d574-4857-8a24-b288780cf881",
 		"artistId": "bc880664-6751-4998-984d-ebdbff15d229",
-		"albumId": "6d17224e-19b7-4d8a-ae6b-dd2f638c0a3b"
+		"albumId": "6d17224e-19b7-4d8a-ae6b-dd2f638c0a3b",
+		"tags": []
 	},
 	{
 		"name": "Tonya Harding (in Eb major)",
@@ -1338,7 +1854,10 @@
 		"date": "2020-06-19T21:11:00.000Z",
 		"songId": "2098f9da-741d-45cf-9bd6-925bb05066fe",
 		"artistId": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
-		"albumId": "081a5e4f-3d53-44f7-881d-226d1e6924ee"
+		"albumId": "081a5e4f-3d53-44f7-881d-226d1e6924ee",
+		"tags": [
+			"name check"
+		]
 	},
 	{
 		"name": "Tonya Harding (in Eb major)",
@@ -1347,7 +1866,10 @@
 		"date": "2020-06-19T21:15:00.000Z",
 		"songId": "2098f9da-741d-45cf-9bd6-925bb05066fe",
 		"artistId": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
-		"albumId": "081a5e4f-3d53-44f7-881d-226d1e6924ee"
+		"albumId": "081a5e4f-3d53-44f7-881d-226d1e6924ee",
+		"tags": [
+			"name check"
+		]
 	},
 	{
 		"name": "Heavenward",
@@ -1356,7 +1878,14 @@
 		"date": "2020-06-19T21:15:00.000Z",
 		"songId": "13ca5638-5782-40c0-9dc2-a227dea7a8f3",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "a32aca75-248f-4497-8812-f9170f74ab28"
+		"albumId": "a32aca75-248f-4497-8812-f9170f74ab28",
+		"tags": [
+			"shoegaze",
+			"rock",
+			"indie",
+			"british",
+			"alternative"
+		]
 	},
 	{
 		"name": "Formidable Cool",
@@ -1365,25 +1894,46 @@
 		"date": "2020-06-19T21:20:00.000Z",
 		"songId": "45fa94b5-e9c3-49a4-8588-77b55d8b5dfd",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "a32aca75-248f-4497-8812-f9170f74ab28"
+		"albumId": "a32aca75-248f-4497-8812-f9170f74ab28",
+		"tags": [
+			"rock",
+			"alternative",
+			"alternative rock",
+			"indie rock",
+			"banger"
+		]
 	},
 	{
 		"name": "Story of an Artist",
 		"artist": "Daniel Johnston",
 		"album": "Welcome To My World",
 		"date": "2020-06-19T21:24:00.000Z",
-		"songId": "a23f7609-c634-4442-b978-b9a9877f3432",
+		"songId": "70eb6312-6dfa-46fc-b84a-2ee79936e0c4",
 		"artistId": "8a7ca8b0-d23c-4eff-8fe9-6220ba5c9c76",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"freak folk",
+			"indie",
+			"Lo-Fi",
+			"Outsider and Incorrect Music",
+			"ese hueco bajo el esternon"
+		]
 	},
 	{
 		"name": "Blind My Mind",
 		"artist": "Flunk",
 		"album": "Morning Star",
 		"date": "2020-06-20T03:31:00.000Z",
-		"songId": "044c4407-71c4-33b0-b23c-586dcc6b4fbf",
+		"songId": "97005abe-eb57-43e8-88d4-0e0c3a7c1f90",
 		"artistId": "101e0102-841f-4858-972b-edf716ee67c9",
-		"albumId": "03ed734c-a547-4c89-a45a-4a47b701c026"
+		"albumId": "03ed734c-a547-4c89-a45a-4a47b701c026",
+		"tags": [
+			"chillout",
+			"female vocalists",
+			"trip-hop",
+			"downtempo",
+			"electronic"
+		]
 	},
 	{
 		"name": "Choir To The Wild - Extended",
@@ -1392,34 +1942,54 @@
 		"date": "2020-06-20T03:35:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": "3e0bf46a-562e-4dc9-a89f-df353ec1f49f"
+		"albumId": "3e0bf46a-562e-4dc9-a89f-df353ec1f49f",
+		"tags": []
 	},
 	{
 		"name": "Strange Pleasures",
 		"artist": "Still Corners",
 		"album": "Strange Pleasures",
 		"date": "2020-06-20T03:41:00.000Z",
-		"songId": "bd9345c7-a12d-4de0-8a99-49b198032605",
+		"songId": "90176fae-5308-452b-8355-847eba504f87",
 		"artistId": "ea5493df-b8d9-4c89-bd5b-6c4aeba7a0ac",
-		"albumId": "8e2ce692-11cc-4c21-aacb-c95b4e2a2564"
+		"albumId": "8e2ce692-11cc-4c21-aacb-c95b4e2a2564",
+		"tags": [
+			"indie",
+			"dream pop",
+			"indie pop",
+			"48",
+			"chillout"
+		]
 	},
 	{
 		"name": "When I Need You",
 		"artist": "jj",
 		"album": "V",
 		"date": "2020-06-20T03:46:00.000Z",
-		"songId": "6f772e3d-c75f-4448-abe6-94634452dfcc",
+		"songId": "b0749b8a-b2f4-4fb0-9277-0799cd83a3b1",
 		"artistId": "12d0e9fc-231e-4b85-bf0c-67b93d666127",
-		"albumId": "0049330e-7f7f-47a4-843a-5cd050ef87a7"
+		"albumId": "0049330e-7f7f-47a4-843a-5cd050ef87a7",
+		"tags": [
+			"swedish",
+			"darkwave",
+			"sincerely yours"
+		]
 	},
 	{
 		"name": "The Trip",
 		"artist": "Still Corners",
 		"album": "Strange Pleasures",
 		"date": "2020-06-20T03:51:00.000Z",
-		"songId": "207a75fe-f5bf-4178-8f76-a9002fac0941",
+		"songId": "53038c78-8c3c-4e37-9076-5bd162a294e9",
 		"artistId": "ea5493df-b8d9-4c89-bd5b-6c4aeba7a0ac",
-		"albumId": "8e2ce692-11cc-4c21-aacb-c95b4e2a2564"
+		"albumId": "8e2ce692-11cc-4c21-aacb-c95b4e2a2564",
+		"tags": [
+			"dream pop",
+			"indie",
+			"psychedelic",
+			"indie pop",
+			"Love"
+		]
 	},
 	{
 		"name": "The Spoils",
@@ -1428,7 +1998,14 @@
 		"date": "2020-06-20T03:57:00.000Z",
 		"songId": "6b07bd88-fe03-4f01-8ae5-d30d9d7dffbc",
 		"artistId": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
-		"albumId": "5bd245e5-8a9d-4743-bb27-9bd9926f2023"
+		"albumId": "5bd245e5-8a9d-4743-bb27-9bd9926f2023",
+		"tags": [
+			"trip-hop",
+			"alternative",
+			"atmospheric",
+			"2016",
+			"gute-laune-chill-lieder"
+		]
 	},
 	{
 		"name": "Half the World Away",
@@ -1437,70 +2014,133 @@
 		"date": "2020-06-20T04:03:00.000Z",
 		"songId": "2d4ea359-13de-4c7b-99f0-0d1b43ba8de8",
 		"artistId": "",
-		"albumId": "37c74a82-2937-4b72-bdb5-e3357050cc26"
+		"albumId": "37c74a82-2937-4b72-bdb5-e3357050cc26",
+		"tags": [
+			"cover",
+			"oasis",
+			"indie",
+			"pop",
+			"christmas"
+		],
+		"published": "2015-11-07T18:52:00.000Z"
 	},
 	{
 		"name": "Karma Police",
 		"artist": "Radiohead",
 		"album": "OK Computer",
 		"date": "2020-06-21T13:20:00.000Z",
-		"songId": "02322e6d-a1ab-3c94-bddd-b3969bed6c6e",
+		"songId": "0790ba6c-e0b1-4891-b82f-b4db9a5a927f",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "0b6b4ba0-d36f-47bd-b4ea-6a5b91842d29"
+		"albumId": "0b6b4ba0-d36f-47bd-b4ea-6a5b91842d29",
+		"tags": [
+			"alternative",
+			"alternative rock",
+			"rock",
+			"radiohead",
+			"indie"
+		],
+		"published": "2008-07-17T12:32:00.000Z"
 	},
 	{
 		"name": "Resistance",
 		"artist": "Muse",
 		"album": "The Resistance",
 		"date": "2020-06-21T13:24:00.000Z",
-		"songId": "01456a14-74ea-4282-bdaf-d5e64c7943f5",
+		"songId": "d779652f-28a1-4394-b0d7-44293a14a919",
 		"artistId": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
-		"albumId": "0928fb22-a17c-4600-8cd8-f96de0de049b"
+		"albumId": "0928fb22-a17c-4600-8cd8-f96de0de049b",
+		"tags": [
+			"alternative rock",
+			"rock",
+			"Progressive rock",
+			"alternative",
+			"Muse"
+		],
+		"published": "2009-09-11T21:31:00.000Z"
 	},
 	{
 		"name": "Karma Police",
 		"artist": "Radiohead",
 		"album": "OK Computer",
 		"date": "2020-06-21T13:24:00.000Z",
-		"songId": "02322e6d-a1ab-3c94-bddd-b3969bed6c6e",
+		"songId": "0790ba6c-e0b1-4891-b82f-b4db9a5a927f",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "0b6b4ba0-d36f-47bd-b4ea-6a5b91842d29"
+		"albumId": "0b6b4ba0-d36f-47bd-b4ea-6a5b91842d29",
+		"tags": [
+			"alternative",
+			"alternative rock",
+			"rock",
+			"radiohead",
+			"indie"
+		],
+		"published": "2008-07-17T12:32:00.000Z"
 	},
 	{
 		"name": "Resistance",
 		"artist": "Muse",
 		"album": "The Resistance",
 		"date": "2020-06-21T13:30:00.000Z",
-		"songId": "01456a14-74ea-4282-bdaf-d5e64c7943f5",
+		"songId": "d779652f-28a1-4394-b0d7-44293a14a919",
 		"artistId": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
-		"albumId": "0928fb22-a17c-4600-8cd8-f96de0de049b"
+		"albumId": "0928fb22-a17c-4600-8cd8-f96de0de049b",
+		"tags": [
+			"alternative rock",
+			"rock",
+			"Progressive rock",
+			"alternative",
+			"Muse"
+		],
+		"published": "2009-09-11T21:31:00.000Z"
 	},
 	{
 		"name": "Out of Time",
 		"artist": "Blur",
 		"album": "Think Tank [Special Edition]",
 		"date": "2020-06-21T13:30:00.000Z",
-		"songId": "0633258a-9999-3384-a7f9-46e6a7f611b0",
+		"songId": "ef4d5122-c06b-4ac7-b845-5da2325f059a",
 		"artistId": "ba853904-ae25-4ebb-89d6-c44cfbd71bd2",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"britpop",
+			"indie",
+			"alternative",
+			"british",
+			"alternative rock"
+		],
+		"published": "2009-06-27T18:35:00.000Z"
 	},
 	{
 		"name": "Lost Cause",
 		"artist": "Beck",
 		"album": "Sea Change",
 		"date": "2020-06-21T13:34:00.000Z",
-		"songId": "028c146f-c3c5-3d80-9e3d-e5fa43ce345c",
+		"songId": "bfc733a7-adc7-409c-b50b-1aaf3014e0b4",
 		"artistId": "",
-		"albumId": "037ce41b-f6b9-46bc-822c-0320002448dd"
+		"albumId": "037ce41b-f6b9-46bc-822c-0320002448dd",
+		"tags": [
+			"Mellow",
+			"alternative",
+			"indie",
+			"singer-songwriter",
+			"sad"
+		],
+		"published": "2009-02-22T19:06:00.000Z"
 	},
 	{
 		"name": "Forget Her",
 		"artist": "Jeff Buckley",
 		"album": "Grace",
 		"date": "2020-06-21T13:38:00.000Z",
-		"songId": "049fdaac-1447-45dd-a6e6-e5d6ec18e1d4",
+		"songId": "4f724f5f-270b-467a-8fd2-5faf30469f5f",
 		"artistId": "e6e879c0-3d56-4f12-b3c5-3ce459661a8e",
-		"albumId": "1964ad07-cf2b-3508-88d7-fc96e7bb0803"
+		"albumId": "1964ad07-cf2b-3508-88d7-fc96e7bb0803",
+		"tags": [
+			"rock",
+			"singer-songwriter",
+			"sad",
+			"beautiful",
+			"alternative"
+		]
 	},
 	{
 		"name": "Into My Arms - 2011 Remastered Version",
@@ -1516,9 +2156,16 @@
 		"artist": "Low",
 		"album": "I Could Live in Hope",
 		"date": "2020-06-21T13:47:00.000Z",
-		"songId": "029307f0-a639-4364-bb33-8601ef0dca13",
+		"songId": "be0700de-56d0-4996-ad9d-109842cc720a",
 		"artistId": "92de643f-fa8f-4e68-b627-4376711b7b33",
-		"albumId": "2592a0a0-f1d6-4b31-923f-56ec9baa6f68"
+		"albumId": "2592a0a0-f1d6-4b31-923f-56ec9baa6f68",
+		"tags": [
+			"slowcore",
+			"indie",
+			"dream pop",
+			"post-rock",
+			"calm"
+		]
 	},
 	{
 		"name": "Suspirium",
@@ -1527,16 +2174,31 @@
 		"date": "2020-06-21T13:57:00.000Z",
 		"songId": "0244b500-2895-464c-9491-ac49e37ba958",
 		"artistId": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
-		"albumId": "316f0377-2982-42dd-ac39-d79ab4d6b567"
+		"albumId": "316f0377-2982-42dd-ac39-d79ab4d6b567",
+		"tags": [
+			"piano",
+			"Soundtrack",
+			"british",
+			"electronic",
+			"alternative"
+		]
 	},
 	{
 		"name": "No Surprises",
 		"artist": "Radiohead",
 		"album": "OK Computer",
 		"date": "2020-06-22T04:26:00.000Z",
-		"songId": "00fbb6fa-ae39-3577-9002-3382e9de2a5a",
+		"songId": "980a426e-623e-4ea5-98c7-008d037a0508",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "0b6b4ba0-d36f-47bd-b4ea-6a5b91842d29"
+		"albumId": "0b6b4ba0-d36f-47bd-b4ea-6a5b91842d29",
+		"tags": [
+			"alternative",
+			"alternative rock",
+			"radiohead",
+			"rock",
+			"indie"
+		],
+		"published": "2008-08-01T12:34:00.000Z"
 	},
 	{
 		"name": "Space Song",
@@ -1545,16 +2207,30 @@
 		"date": "2020-06-22T04:30:00.000Z",
 		"songId": "2a5eaabf-8c46-4b1e-b450-89d18b071f2d",
 		"artistId": "d5cc67b8-1cc4-453b-96e8-44487acdebea",
-		"albumId": "06399b45-57a0-42e4-b048-43908b3e4a53"
+		"albumId": "06399b45-57a0-42e4-b048-43908b3e4a53",
+		"tags": [
+			"dream pop",
+			"indie pop",
+			"space",
+			"best of 2015",
+			"chill"
+		]
 	},
 	{
 		"name": "Pink Moon",
 		"artist": "Nick Drake",
 		"album": "Pink Moon",
 		"date": "2020-06-22T04:36:00.000Z",
-		"songId": "075c79dc-348e-333e-a993-ad8cbea78699",
+		"songId": "d840d505-c0e0-44fe-9c03-3a272cfff88e",
 		"artistId": "99ea432a-e3d8-42cb-9d5e-db316a6a8458",
-		"albumId": "278903c5-465e-4dfe-b278-10e7ce02f0d3"
+		"albumId": "278903c5-465e-4dfe-b278-10e7ce02f0d3",
+		"tags": [
+			"folk",
+			"singer-songwriter",
+			"acoustic",
+			"Mellow",
+			"Nick Drake"
+		]
 	},
 	{
 		"name": "Olsen Olsen",
@@ -1572,7 +2248,8 @@
 		"date": "2020-06-22T04:44:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Fitter Happier - Remastered",
@@ -1581,16 +2258,24 @@
 		"date": "2020-06-22T04:50:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "I Promise",
 		"artist": "Radiohead",
 		"album": "OK Computer OKNOTOK 1997 2017",
 		"date": "2020-06-22T04:50:00.000Z",
-		"songId": "011735fa-7cf7-45f4-bc26-242abf36aa91",
+		"songId": "a7df332b-809d-4262-be6c-d2448346c649",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"live",
+			"alternative rock",
+			"Love",
+			"Experimental Rock",
+			"90s"
+		]
 	},
 	{
 		"name": "Man of War",
@@ -1599,16 +2284,31 @@
 		"date": "2020-06-22T04:54:00.000Z",
 		"songId": "3c809e58-25ba-45b4-8ba7-d481325b19af",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"alternative rock",
+			"british",
+			"epic",
+			"england",
+			"fip"
+		]
 	},
 	{
 		"name": "Lift",
 		"artist": "Radiohead",
 		"album": "OK Computer OKNOTOK 1997 2017",
 		"date": "2020-06-22T04:59:00.000Z",
-		"songId": "001a3a3b-f6c4-4b7a-a922-d1b814a83ce6",
+		"songId": "111e0818-4097-47a8-8227-aa2018dd0908",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"Unreleased",
+			"live",
+			"rock",
+			"alternative rock",
+			"90s"
+		],
+		"published": "2018-07-08T17:58:00.000Z"
 	},
 	{
 		"name": "Lull - Remastered",
@@ -1617,7 +2317,8 @@
 		"date": "2020-06-22T05:03:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Lull - Remastered",
@@ -1626,7 +2327,8 @@
 		"date": "2020-06-22T05:05:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Exit Music (For a Film) - Remastered",
@@ -1635,34 +2337,59 @@
 		"date": "2020-06-22T05:20:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "The Daily Mail",
 		"artist": "Radiohead",
 		"album": "The Daily Mail / Staircase",
 		"date": "2020-06-22T05:25:00.000Z",
-		"songId": "01dfe5b1-4c8f-4bd7-8f89-c1747d3a169a",
+		"songId": "2445e401-c720-479c-937b-4df626ac6a83",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"if this song were a human i would marry it twice",
+			"indie",
+			"2011",
+			"pxs: loved",
+			"seen live"
+		],
+		"published": "2012-01-04T17:49:00.000Z"
 	},
 	{
 		"name": "The Daily Mail",
 		"artist": "Radiohead",
 		"album": "The Daily Mail / Staircase",
 		"date": "2020-06-22T05:28:00.000Z",
-		"songId": "01dfe5b1-4c8f-4bd7-8f89-c1747d3a169a",
+		"songId": "2445e401-c720-479c-937b-4df626ac6a83",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"if this song were a human i would marry it twice",
+			"indie",
+			"2011",
+			"pxs: loved",
+			"seen live"
+		],
+		"published": "2012-01-04T17:49:00.000Z"
 	},
 	{
 		"name": "Dark Was the Night, Cold Was the Ground",
 		"artist": "Blind Willie Johnson",
 		"album": "Dark Was the Night (Mojo Workin'- Blues for the Next Generation)",
 		"date": "2020-06-22T05:28:00.000Z",
-		"songId": "0bb7e290-6018-4da3-88ef-aac8adf9d958",
+		"songId": "27a746fb-a5ad-4475-adbe-0a98506a5c1a",
 		"artistId": "8a14c00b-4779-44e4-9b2e-4cc9dcd92e9b",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"blues",
+			"delta blues",
+			"slide guitar",
+			"laid back",
+			"gospel"
+		],
+		"published": "2008-12-03T15:19:00.000Z"
 	},
 	{
 		"name": "I Want It All",
@@ -1671,7 +2398,8 @@
 		"date": "2020-06-22T05:31:00.000Z",
 		"songId": "e2515061-e44d-40f5-bf48-af85fcf241c6",
 		"artistId": "84f32a42-7cc0-4b55-98ec-7e3fdfdd7a67",
-		"albumId": "12b1ac52-bcc6-47b2-ad54-85c446ff4a9b"
+		"albumId": "12b1ac52-bcc6-47b2-ad54-85c446ff4a9b",
+		"tags": []
 	},
 	{
 		"name": "I Want It All",
@@ -1680,16 +2408,24 @@
 		"date": "2020-06-22T05:36:00.000Z",
 		"songId": "e2515061-e44d-40f5-bf48-af85fcf241c6",
 		"artistId": "84f32a42-7cc0-4b55-98ec-7e3fdfdd7a67",
-		"albumId": "12b1ac52-bcc6-47b2-ad54-85c446ff4a9b"
+		"albumId": "12b1ac52-bcc6-47b2-ad54-85c446ff4a9b",
+		"tags": []
 	},
 	{
 		"name": "I'd Love to Kill You",
 		"artist": "Katie Melua",
 		"album": "The House",
 		"date": "2020-06-22T05:36:00.000Z",
-		"songId": "86153253-bf8e-33a4-bec4-fe60d537176b",
+		"songId": "ed8ec743-5094-4468-899d-d8a5d4650503",
 		"artistId": "39e32995-6515-40b2-a6f0-841524047edc",
-		"albumId": "da7f308f-d48c-41a4-9101-cdc062857ad5"
+		"albumId": "da7f308f-d48c-41a4-9101-cdc062857ad5",
+		"tags": [
+			"jazz",
+			"pop",
+			"female vocalists",
+			"acoustic",
+			"jazzysfemalejazz"
+		]
 	},
 	{
 		"name": "Churchyard",
@@ -1698,16 +2434,26 @@
 		"date": "2020-06-22T05:39:00.000Z",
 		"songId": "80464c41-f098-4d84-96e8-77bc7eaaac7f",
 		"artistId": "",
-		"albumId": "041cf98d-63a3-4fd2-8035-03587297f690"
+		"albumId": "041cf98d-63a3-4fd2-8035-03587297f690",
+		"tags": [
+			"2018 single"
+		]
 	},
 	{
 		"name": "I'd Love to Kill You",
 		"artist": "Katie Melua",
 		"album": "The House",
 		"date": "2020-06-22T05:39:00.000Z",
-		"songId": "86153253-bf8e-33a4-bec4-fe60d537176b",
+		"songId": "ed8ec743-5094-4468-899d-d8a5d4650503",
 		"artistId": "39e32995-6515-40b2-a6f0-841524047edc",
-		"albumId": "da7f308f-d48c-41a4-9101-cdc062857ad5"
+		"albumId": "da7f308f-d48c-41a4-9101-cdc062857ad5",
+		"tags": [
+			"jazz",
+			"pop",
+			"female vocalists",
+			"acoustic",
+			"jazzysfemalejazz"
+		]
 	},
 	{
 		"name": "Momentary Bliss (feat. slowthai and Slaves)",
@@ -1716,7 +2462,8 @@
 		"date": "2020-06-22T05:46:00.000Z",
 		"songId": "",
 		"artistId": "e21857d5-3256-4547-afb3-4b6ded592596",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "The Wonderwhy (Hidden Track)",
@@ -1725,7 +2472,8 @@
 		"date": "2020-06-22T05:49:00.000Z",
 		"songId": "",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "35168eb5-eed5-4835-a495-857f480786f0"
+		"albumId": "35168eb5-eed5-4835-a495-857f480786f0",
+		"tags": []
 	},
 	{
 		"name": "Innuendo - Remastered 2011",
@@ -1734,7 +2482,12 @@
 		"date": "2020-06-22T05:57:00.000Z",
 		"songId": "",
 		"artistId": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"classic rock",
+			"atheist",
+			"mistagged by spotify"
+		]
 	},
 	{
 		"name": "Junk - Remastered 2011",
@@ -1743,7 +2496,8 @@
 		"date": "2020-06-22T06:03:00.000Z",
 		"songId": "",
 		"artistId": "ba550d0e-adac-4864-b88b-407cab5e76af",
-		"albumId": "00a8b727-0bdb-4635-a7b4-a3faef0c35c1"
+		"albumId": "00a8b727-0bdb-4635-a7b4-a3faef0c35c1",
+		"tags": []
 	},
 	{
 		"name": "Autumn in New York - 2003 Remastered Version",
@@ -1752,61 +2506,94 @@
 		"date": "2020-06-22T06:05:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": "7323a556-16a4-4a95-bc94-0148f00aaef4"
+		"albumId": "7323a556-16a4-4a95-bc94-0148f00aaef4",
+		"tags": []
 	},
 	{
 		"name": "I Care",
 		"artist": "Voom",
 		"album": "Now I Am Me",
 		"date": "2020-06-22T06:09:00.000Z",
-		"songId": "de00c70b-52e5-3b82-abfb-968d3f1f20b4",
+		"songId": "913feb1b-ff67-4ef2-bf94-f7b24ee9f61a",
 		"artistId": "9333bb88-c960-4dd6-8d2a-0ce94cc3e697",
-		"albumId": "6380fcac-83d1-4550-bb91-f897b9034874"
+		"albumId": "6380fcac-83d1-4550-bb91-f897b9034874",
+		"tags": []
 	},
 	{
 		"name": "I Care",
 		"artist": "Voom",
 		"album": "Now I Am Me",
 		"date": "2020-06-22T06:11:00.000Z",
-		"songId": "de00c70b-52e5-3b82-abfb-968d3f1f20b4",
+		"songId": "913feb1b-ff67-4ef2-bf94-f7b24ee9f61a",
 		"artistId": "9333bb88-c960-4dd6-8d2a-0ce94cc3e697",
-		"albumId": "6380fcac-83d1-4550-bb91-f897b9034874"
+		"albumId": "6380fcac-83d1-4550-bb91-f897b9034874",
+		"tags": []
 	},
 	{
 		"name": "I Need to Be in Love",
 		"artist": "Carpenters",
 		"album": "A Kind Of Hush",
 		"date": "2020-06-22T06:11:00.000Z",
-		"songId": "0321e2bd-7b35-33f6-bd48-9af8a38817f6",
+		"songId": "226b86ef-b674-48c9-b3b2-bf81fe2d2a7d",
 		"artistId": "4580d83b-093e-4241-91fb-2dd71f5f1f3f",
-		"albumId": "214cb063-2177-4e2f-9c64-58e381349948"
+		"albumId": "214cb063-2177-4e2f-9c64-58e381349948",
+		"tags": [
+			"70s",
+			"female vocalists",
+			"pop",
+			"easy listening",
+			"carpenters"
+		],
+		"published": "2010-09-08T08:20:00.000Z"
 	},
 	{
 		"name": "Tempos Idos",
 		"artist": "Cartola",
 		"album": "Talento",
 		"date": "2020-06-22T06:15:00.000Z",
-		"songId": "3691ae83-9d98-306a-8750-4ac7eb06b43f",
+		"songId": "196b2474-0650-453a-9f44-4aed16f9b497",
 		"artistId": "7c743881-aed4-47d4-93d5-9fdd6e2904bb",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"samba",
+			"brasil",
+			"mpb",
+			"tantotempotaste",
+			"cartola"
+		]
 	},
 	{
 		"name": "I Need to Be in Love",
 		"artist": "Carpenters",
 		"album": "A Kind Of Hush",
 		"date": "2020-06-22T06:15:00.000Z",
-		"songId": "0321e2bd-7b35-33f6-bd48-9af8a38817f6",
+		"songId": "226b86ef-b674-48c9-b3b2-bf81fe2d2a7d",
 		"artistId": "4580d83b-093e-4241-91fb-2dd71f5f1f3f",
-		"albumId": "214cb063-2177-4e2f-9c64-58e381349948"
+		"albumId": "214cb063-2177-4e2f-9c64-58e381349948",
+		"tags": [
+			"70s",
+			"female vocalists",
+			"pop",
+			"easy listening",
+			"carpenters"
+		],
+		"published": "2010-09-08T08:20:00.000Z"
 	},
 	{
 		"name": "Tempos Idos",
 		"artist": "Cartola",
 		"album": "Talento",
 		"date": "2020-06-22T06:17:00.000Z",
-		"songId": "3691ae83-9d98-306a-8750-4ac7eb06b43f",
+		"songId": "196b2474-0650-453a-9f44-4aed16f9b497",
 		"artistId": "7c743881-aed4-47d4-93d5-9fdd6e2904bb",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"samba",
+			"brasil",
+			"mpb",
+			"tantotempotaste",
+			"cartola"
+		]
 	},
 	{
 		"name": "A Canção Que Chegou",
@@ -1831,27 +2618,47 @@
 		"artist": "Cartola",
 		"album": "Cartola (1976)",
 		"date": "2020-06-22T06:20:00.000Z",
-		"songId": "1e3d0b8c-dda9-3f3e-8ce6-3a7e7ca7c415",
+		"songId": "d138b8e2-b789-429d-9d8a-939b8e669ba6",
 		"artistId": "7c743881-aed4-47d4-93d5-9fdd6e2904bb",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"samba",
+			"brasil",
+			"cartola",
+			"brazilian",
+			"mpb"
+		]
 	},
 	{
 		"name": "Plastination Station",
 		"artist": "Buckethead",
 		"album": "Inbred Mountain",
 		"date": "2020-06-22T06:23:00.000Z",
-		"songId": "39139003-bb68-3d23-a50b-a9baba2355ae",
+		"songId": "b3c08d8e-5e5c-4be5-afd3-014bb76cc895",
 		"artistId": "b5179744-f217-4455-9d8b-17b8d4fdeb93",
-		"albumId": "2507927b-a7bd-4ebf-8a23-8c54f565526c"
+		"albumId": "2507927b-a7bd-4ebf-8a23-8c54f565526c",
+		"tags": [
+			"instrumental",
+			"experimental",
+			"epic",
+			"Dream"
+		]
 	},
 	{
 		"name": "You Love Me To Death",
 		"artist": "Hooverphonic",
 		"album": "No More Sweet Music",
 		"date": "2020-06-22T06:28:00.000Z",
-		"songId": "3001d7a0-cb2d-3101-8969-dc5546916709",
+		"songId": "a845edd4-76aa-4755-81d1-a04f9ef48927",
 		"artistId": "62dc94cc-f611-4345-87cb-b914796a4a45",
-		"albumId": "26fb8ba3-cd5b-4ec7-bec9-f38c480b6816"
+		"albumId": "26fb8ba3-cd5b-4ec7-bec9-f38c480b6816",
+		"tags": [
+			"trip-hop",
+			"chillout",
+			"electronic",
+			"female vocalists",
+			"Hooverphonic"
+		]
 	},
 	{
 		"name": "Lambaláda",
@@ -1867,9 +2674,17 @@
 		"artist": "Linkin Park",
 		"album": "Minutes to Midnight",
 		"date": "2020-06-22T06:36:00.000Z",
-		"songId": "02f3fe8b-7547-41fe-828f-eb8945fab2c0",
+		"songId": "5bbf09b5-2bf4-4c19-8228-36dc1f7e2f16",
 		"artistId": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
-		"albumId": "012514b5-dc0f-4418-b67a-c6a8d3af4096"
+		"albumId": "012514b5-dc0f-4418-b67a-c6a8d3af4096",
+		"tags": [
+			"rock",
+			"Nu Metal",
+			"alternative rock",
+			"Linkin Park",
+			"alternative"
+		],
+		"published": "2009-07-22T01:21:00.000Z"
 	},
 	{
 		"name": "Fighting Gold (From \"Jojo's Bizarre Adventure: Golden Wind\")",
@@ -1878,7 +2693,8 @@
 		"date": "2020-06-22T06:38:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "コトバドリ - Shin Sakiura Remix",
@@ -1905,7 +2721,8 @@
 		"date": "2020-06-22T06:51:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "I. Adagio sostenuto - Redbook Stereo",
@@ -1914,7 +2731,8 @@
 		"date": "2020-06-22T06:55:00.000Z",
 		"songId": "",
 		"artistId": "1f9df192-a621-4f54-8850-2c5373b7eac9",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "V. May, \"White Nights\"",
@@ -1923,16 +2741,25 @@
 		"date": "2020-06-22T07:02:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Don't Look Back in Anger",
 		"artist": "Oasis",
 		"album": "[What's the Story] Morning Glory? [Remastered]",
 		"date": "2020-06-22T07:06:00.000Z",
-		"songId": "00627e23-d3e1-4efb-8506-6e9fea811eaf",
+		"songId": "7c10bd4f-4085-4112-af4b-f1f5fd3056c0",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"britpop",
+			"rock",
+			"90s",
+			"british",
+			"oasis"
+		],
+		"published": "2009-02-06T10:53:00.000Z"
 	},
 	{
 		"name": "Hallelujah Money (feat. Benjamin Clementine)",
@@ -1941,7 +2768,15 @@
 		"date": "2020-06-22T07:16:00.000Z",
 		"songId": "",
 		"artistId": "e21857d5-3256-4547-afb3-4b6ded592596",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"trip-hop",
+			"Avant-Garde",
+			"political",
+			"nope",
+			"anti-trump"
+		],
+		"published": "2019-01-22T04:03:00.000Z"
 	},
 	{
 		"name": "We Got The Power (feat. Jehnny Beth)",
@@ -1950,7 +2785,15 @@
 		"date": "2020-06-22T07:18:00.000Z",
 		"songId": "",
 		"artistId": "e21857d5-3256-4547-afb3-4b6ded592596",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"electronic",
+			"electropop",
+			"pop",
+			"alternative",
+			"Retro"
+		],
+		"published": "2017-03-23T23:52:00.000Z"
 	},
 	{
 		"name": "Omar Gatlato",
@@ -1959,16 +2802,27 @@
 		"date": "2020-06-22T07:22:00.000Z",
 		"songId": "2e4c3c27-4e5f-44d1-8d4b-15a6b3a8c4e5",
 		"artistId": "b67690b2-a6e9-456f-b847-1d9bfbc13fbf",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"fip",
+			"names of people"
+		]
 	},
 	{
 		"name": "Utopia",
 		"artist": "Goldfrapp",
 		"album": "Felt Mountain",
 		"date": "2020-06-22T07:22:00.000Z",
-		"songId": "01281cb6-f7af-4cfb-b770-2ff5f770fe71",
+		"songId": "a6e6ae08-1d20-4921-9a1a-dbcdba58aa7f",
 		"artistId": "7b885d42-3c41-4f43-9944-a5855ec5155e",
-		"albumId": "169e1f5b-03df-42b5-b3b0-1893f4764226"
+		"albumId": "169e1f5b-03df-42b5-b3b0-1893f4764226",
+		"tags": [
+			"electronic",
+			"chillout",
+			"trip-hop",
+			"female vocalists",
+			"electronica"
+		]
 	},
 	{
 		"name": "Älgen",
@@ -1986,34 +2840,63 @@
 		"date": "2020-06-22T07:29:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": "f41c1772-29a5-46f6-bb00-c71fc03bf595"
+		"albumId": "f41c1772-29a5-46f6-bb00-c71fc03bf595",
+		"tags": [
+			"rock",
+			"90s",
+			"classic rock",
+			"alternative rock",
+			"psychedelic"
+		]
 	},
 	{
 		"name": "Tiananmen Square",
 		"artist": "IO Echo",
 		"album": "Ministry of Love",
 		"date": "2020-06-22T07:35:00.000Z",
-		"songId": "9ce83772-e4f4-3773-8b62-d7ea9ec4d410",
+		"songId": "d93b744f-ad73-45f4-8294-47693a40cf1b",
 		"artistId": "8f3b2e5b-04d9-4391-b7a3-51363a05eaa4",
-		"albumId": "d9dd6c5d-751a-446f-8535-9bc96d4d1183"
+		"albumId": "d9dd6c5d-751a-446f-8535-9bc96d4d1183",
+		"tags": [
+			"indie",
+			"rock",
+			"indie rock",
+			"female vocalists",
+			"shoegaze"
+		]
 	},
 	{
 		"name": "Fountains",
 		"artist": "M83",
 		"album": "Hurry Up, We're Dreaming",
 		"date": "2020-06-22T07:50:00.000Z",
-		"songId": "0fea44cc-019c-3508-9bd8-218b427f0324",
+		"songId": "4b07fbe4-ea00-4aac-8283-13e157020167",
 		"artistId": "6d7b7cd4-254b-4c25-83f6-dd20f98ceacd",
-		"albumId": "0b87ebcf-216b-4255-9c19-93c12861f173"
+		"albumId": "0b87ebcf-216b-4255-9c19-93c12861f173",
+		"tags": [
+			"electronic",
+			"ambient",
+			"french",
+			"Dreamy",
+			"2011"
+		]
 	},
 	{
 		"name": "Feel",
 		"artist": "Robbie Williams",
 		"album": "Escapology",
 		"date": "2020-06-22T07:50:00.000Z",
-		"songId": "0347e968-b2a3-34f0-bcc3-fa31f28aa9a9",
+		"songId": "6f99d9a8-8001-4166-974f-4580bbec8ad5",
 		"artistId": "db4624cf-0e44-481e-a9dc-2142b833ec2f",
-		"albumId": "31ad155a-8d37-4d69-bb3e-60b979033162"
+		"albumId": "31ad155a-8d37-4d69-bb3e-60b979033162",
+		"tags": [
+			"pop",
+			"robbie williams",
+			"british",
+			"britpop",
+			"rock"
+		],
+		"published": "2008-12-30T20:13:00.000Z"
 	},
 	{
 		"name": "Cotton Candy Hurricane - Single Edit",
@@ -2022,7 +2905,8 @@
 		"date": "2020-06-22T07:54:00.000Z",
 		"songId": "2f0a3604-1246-4d9d-8593-d11c883ef1d4",
 		"artistId": "127ed9a7-01c3-4c91-9927-d210f4d5d792",
-		"albumId": "29783119-0d12-4361-a183-7da39c972cc6"
+		"albumId": "29783119-0d12-4361-a183-7da39c972cc6",
+		"tags": []
 	},
 	{
 		"name": "Life on Mars? - 2015 Remaster",
@@ -2031,7 +2915,10 @@
 		"date": "2020-06-22T07:54:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"art pop"
+		]
 	},
 	{
 		"name": "Life on Mars? - 2015 Remaster",
@@ -2040,7 +2927,10 @@
 		"date": "2020-06-22T07:58:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"art pop"
+		]
 	},
 	{
 		"name": "Goodbye Stranger - 2010 Remastered",
@@ -2049,7 +2939,14 @@
 		"date": "2020-06-22T07:58:00.000Z",
 		"songId": "",
 		"artistId": "d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"rock",
+			"70s",
+			"Progressive rock",
+			"oldies",
+			"1979"
+		]
 	},
 	{
 		"name": "Gottes Zeit ist die allerbeste Zeit, BWV 106 (Arr. G. Kurtag for Piano Duo)",
@@ -2067,7 +2964,8 @@
 		"date": "2020-06-22T09:58:00.000Z",
 		"songId": "",
 		"artistId": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Slide Away",
@@ -2076,7 +2974,15 @@
 		"date": "2020-06-22T10:00:00.000Z",
 		"songId": "0463c940-64ac-4dca-96d9-2c65f630780b",
 		"artistId": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
-		"albumId": "b6e7ae08-5870-4223-a850-f777b916a9ec"
+		"albumId": "b6e7ae08-5870-4223-a850-f777b916a9ec",
+		"tags": [
+			"2010s",
+			"Miley Cyrus",
+			"pop",
+			"2019",
+			"bop"
+		],
+		"published": "2020-07-30T06:46:00.000Z"
 	},
 	{
 		"name": "Slide Away",
@@ -2085,7 +2991,15 @@
 		"date": "2020-06-22T10:04:00.000Z",
 		"songId": "0463c940-64ac-4dca-96d9-2c65f630780b",
 		"artistId": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
-		"albumId": "b6e7ae08-5870-4223-a850-f777b916a9ec"
+		"albumId": "b6e7ae08-5870-4223-a850-f777b916a9ec",
+		"tags": [
+			"2010s",
+			"Miley Cyrus",
+			"pop",
+			"2019",
+			"bop"
+		],
+		"published": "2020-07-30T06:46:00.000Z"
 	},
 	{
 		"name": "Thinking Of A Place",
@@ -2094,16 +3008,30 @@
 		"date": "2020-06-22T10:04:00.000Z",
 		"songId": "036b899b-4587-4a9d-9011-bc6f7e34d29c",
 		"artistId": "87b9b3b8-ab93-426c-a200-4012d667a626",
-		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92"
+		"albumId": "06d1f30d-18c3-4aac-9b2c-1a3a37ee1d92",
+		"tags": [
+			"indie rock",
+			"americana",
+			"american",
+			"folk rock",
+			"nice"
+		]
 	},
 	{
 		"name": "Storytime",
 		"artist": "Danny Elfman",
 		"album": "Edward Scissorhands",
 		"date": "2020-06-22T10:08:00.000Z",
-		"songId": "0864db55-a06f-323c-b1ad-ed34ca1df108",
+		"songId": "f917998d-1d46-4b64-bdef-9a128ae83a6d",
 		"artistId": "5b24fbab-c58f-4c37-a59d-ab232e2d98c4",
-		"albumId": "46008f39-1cc8-4481-9001-dd2d1ce9723a"
+		"albumId": "46008f39-1cc8-4481-9001-dd2d1ce9723a",
+		"tags": [
+			"Soundtrack",
+			"instrumental",
+			"tim burton",
+			"Dreamy",
+			"ost"
+		]
 	},
 	{
 		"name": "Karma Police - Remastered",
@@ -2112,7 +3040,8 @@
 		"date": "2020-06-22T10:08:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Fitter Happier - Remastered",
@@ -2121,7 +3050,8 @@
 		"date": "2020-06-22T10:13:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "No Surprises - Remastered",
@@ -2130,7 +3060,8 @@
 		"date": "2020-06-22T10:15:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Melatonin - Remastered",
@@ -2139,7 +3070,8 @@
 		"date": "2020-06-22T10:22:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Meeting in the Aisle - Remastered",
@@ -2148,16 +3080,25 @@
 		"date": "2020-06-22T10:22:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Mr. Brightside",
 		"artist": "The Killers",
 		"album": "Hot Fuss",
 		"date": "2020-06-22T10:25:00.000Z",
-		"songId": "0157fd48-a126-4af1-ad1f-4fbb37911b90",
+		"songId": "37d516ab-d61f-4bcb-9316-7a0b3eb845a8",
 		"artistId": "c2058349-c474-411b-b857-2bbfc10de344",
-		"albumId": "13c96260-b60e-4aa6-8973-a6e344d1632a"
+		"albumId": "13c96260-b60e-4aa6-8973-a6e344d1632a",
+		"tags": [
+			"rock",
+			"indie",
+			"indie rock",
+			"alternative",
+			"alternative rock"
+		],
+		"published": "2009-01-15T19:26:00.000Z"
 	},
 	{
 		"name": "Low Lights",
@@ -2166,7 +3107,15 @@
 		"date": "2020-06-22T10:28:00.000Z",
 		"songId": "0a507407-9f37-48a8-b4c9-3c797d46403f",
 		"artistId": "164f0d73-1234-4e2c-8743-d77bf2191051",
-		"albumId": "03f03619-385a-4ed9-9974-cdcdf6404cf5"
+		"albumId": "03f03619-385a-4ed9-9974-cdcdf6404cf5",
+		"tags": [
+			"rap",
+			"hip hop",
+			"spoken word",
+			"hiphop",
+			"gospel"
+		],
+		"published": "2016-07-06T14:49:00.000Z"
 	},
 	{
 		"name": "Suspirium",
@@ -2175,7 +3124,14 @@
 		"date": "2020-06-22T10:32:00.000Z",
 		"songId": "0244b500-2895-464c-9491-ac49e37ba958",
 		"artistId": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
-		"albumId": "316f0377-2982-42dd-ac39-d79ab4d6b567"
+		"albumId": "316f0377-2982-42dd-ac39-d79ab4d6b567",
+		"tags": [
+			"piano",
+			"Soundtrack",
+			"british",
+			"electronic",
+			"alternative"
+		]
 	},
 	{
 		"name": "Decks Dark",
@@ -2184,7 +3140,15 @@
 		"date": "2020-06-22T10:32:00.000Z",
 		"songId": "0f879a56-ee44-4be5-9bed-8dac1e9039d3",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "0c46011c-2c86-4c53-8226-10c79f746e6f"
+		"albumId": "0c46011c-2c86-4c53-8226-10c79f746e6f",
+		"tags": [
+			"art rock",
+			"art pop",
+			"alternative rock",
+			"beautiful",
+			"radiohead"
+		],
+		"published": "2016-07-24T16:43:00.000Z"
 	},
 	{
 		"name": "Suspirium",
@@ -2193,7 +3157,14 @@
 		"date": "2020-06-26T11:20:00.000Z",
 		"songId": "0244b500-2895-464c-9491-ac49e37ba958",
 		"artistId": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
-		"albumId": "316f0377-2982-42dd-ac39-d79ab4d6b567"
+		"albumId": "316f0377-2982-42dd-ac39-d79ab4d6b567",
+		"tags": [
+			"piano",
+			"Soundtrack",
+			"british",
+			"electronic",
+			"alternative"
+		]
 	},
 	{
 		"name": "Decks Dark",
@@ -2202,7 +3173,15 @@
 		"date": "2020-06-26T11:28:00.000Z",
 		"songId": "0f879a56-ee44-4be5-9bed-8dac1e9039d3",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "0c46011c-2c86-4c53-8226-10c79f746e6f"
+		"albumId": "0c46011c-2c86-4c53-8226-10c79f746e6f",
+		"tags": [
+			"art rock",
+			"art pop",
+			"alternative rock",
+			"beautiful",
+			"radiohead"
+		],
+		"published": "2016-07-24T16:43:00.000Z"
 	},
 	{
 		"name": "Dust It Off",
@@ -2218,9 +3197,16 @@
 		"artist": "Radiohead",
 		"album": "OK Computer OKNOTOK 1997 2017",
 		"date": "2020-06-26T11:42:00.000Z",
-		"songId": "011735fa-7cf7-45f4-bc26-242abf36aa91",
+		"songId": "a7df332b-809d-4262-be6c-d2448346c649",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"live",
+			"alternative rock",
+			"Love",
+			"Experimental Rock",
+			"90s"
+		]
 	},
 	{
 		"name": "Exit Music (For a Film) - Remastered",
@@ -2229,16 +3215,25 @@
 		"date": "2020-06-26T11:47:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Angel",
 		"artist": "Massive Attack",
 		"album": "Mezzanine",
 		"date": "2020-06-26T11:53:00.000Z",
-		"songId": "027b9de7-0af6-3b76-9833-bf8f265a87bc",
+		"songId": "e9e0dfb5-4c3f-4db3-9848-f4e7a476e695",
 		"artistId": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
-		"albumId": "0d33ef7a-1f5d-4365-b807-b412271b99c3"
+		"albumId": "0d33ef7a-1f5d-4365-b807-b412271b99c3",
+		"tags": [
+			"trip-hop",
+			"electronic",
+			"chillout",
+			"trip hop",
+			"electronica"
+		],
+		"published": "2008-11-18T21:56:00.000Z"
 	},
 	{
 		"name": "So Heavy I Fell Through the Earth - Art Mix",
@@ -2247,7 +3242,14 @@
 		"date": "2020-06-26T13:08:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"downtempo",
+			"dream pop",
+			"darkwave",
+			"witch house",
+			"dark pop"
+		]
 	},
 	{
 		"name": "Darkseid",
@@ -2256,7 +3258,10 @@
 		"date": "2020-06-26T13:14:00.000Z",
 		"songId": "",
 		"artistId": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"Masterpiece"
+		]
 	},
 	{
 		"name": "For the Kids",
@@ -2265,79 +3270,148 @@
 		"date": "2020-06-26T13:18:00.000Z",
 		"songId": "",
 		"artistId": "6d7b7cd4-254b-4c25-83f6-dd20f98ceacd",
-		"albumId": "72cbf6f4-f4ad-44c4-b195-55f1f3893217"
+		"albumId": "72cbf6f4-f4ad-44c4-b195-55f1f3893217",
+		"tags": [
+			"indie",
+			"jazz",
+			"alternative",
+			"sad",
+			" electronic "
+		]
 	},
 	{
 		"name": "Pyramid Song",
 		"artist": "Radiohead",
 		"album": "Amnesiac",
 		"date": "2020-06-26T13:22:00.000Z",
-		"songId": "02e458bd-2c0d-316e-ae5e-9c3b75d6e6bd",
+		"songId": "666879c8-2083-4f64-bd7a-9a15bac75962",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "0762fd5f-99f2-4501-8b4b-c294e09f90db"
+		"albumId": "0762fd5f-99f2-4501-8b4b-c294e09f90db",
+		"tags": [
+			"alternative",
+			"alternative rock",
+			"radiohead",
+			"rock",
+			"beautiful"
+		],
+		"published": "2008-08-21T15:28:00.000Z"
 	},
 	{
 		"name": "House of Cards",
 		"artist": "Radiohead",
 		"album": "In Rainbows",
 		"date": "2020-06-26T13:27:00.000Z",
-		"songId": "01d2fdc1-4c3c-3951-bc5b-894a240f292b",
+		"songId": "29a9d792-151b-4dd4-99ae-25bc853d8895",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "1475431a-cfd3-43ad-bf09-b3826118446f"
+		"albumId": "1475431a-cfd3-43ad-bf09-b3826118446f",
+		"tags": [
+			"alternative",
+			"alternative rock",
+			"rock",
+			"indie",
+			"radiohead"
+		],
+		"published": "2009-03-31T17:03:00.000Z"
 	},
 	{
 		"name": "Pyramid Song",
 		"artist": "Radiohead",
 		"album": "Amnesiac",
 		"date": "2020-06-26T13:27:00.000Z",
-		"songId": "02e458bd-2c0d-316e-ae5e-9c3b75d6e6bd",
+		"songId": "666879c8-2083-4f64-bd7a-9a15bac75962",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "0762fd5f-99f2-4501-8b4b-c294e09f90db"
+		"albumId": "0762fd5f-99f2-4501-8b4b-c294e09f90db",
+		"tags": [
+			"alternative",
+			"alternative rock",
+			"radiohead",
+			"rock",
+			"beautiful"
+		],
+		"published": "2008-08-21T15:28:00.000Z"
 	},
 	{
 		"name": "Nude",
 		"artist": "Radiohead",
 		"album": "In Rainbows",
 		"date": "2020-06-26T13:32:00.000Z",
-		"songId": "00f017d1-f1fa-43d9-abda-62f093465f36",
+		"songId": "1eb2593a-225e-44e2-9d67-940f8b58238a",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "1475431a-cfd3-43ad-bf09-b3826118446f"
+		"albumId": "1475431a-cfd3-43ad-bf09-b3826118446f",
+		"tags": [
+			"alternative",
+			"alternative rock",
+			"rock",
+			"indie",
+			"beautiful"
+		],
+		"published": "2008-06-04T15:54:00.000Z"
 	},
 	{
 		"name": "National Anthem",
 		"artist": "Lana Del Rey",
 		"album": "Born To Die – The Paradise Edition",
 		"date": "2020-06-26T14:15:00.000Z",
-		"songId": "073ec2b7-8c78-43bf-b560-1b1fd785353a",
+		"songId": "0feac813-1548-425b-b643-00cc52ab31a7",
 		"artistId": "b7539c32-53e7-4908-bda3-81449c367da6",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"indie pop",
+			"indie",
+			"pop",
+			"female vocalists",
+			"Lana Del Rey"
+		],
+		"published": "2012-07-05T15:26:00.000Z"
 	},
 	{
 		"name": "Outro",
 		"artist": "M83",
 		"album": "Hurry Up, We're Dreaming",
 		"date": "2020-06-26T14:19:00.000Z",
-		"songId": "0802b190-e24b-48f4-9536-189f8b4533da",
+		"songId": "94948d51-e9a7-4f53-9e01-1743534ef6a0",
 		"artistId": "6d7b7cd4-254b-4c25-83f6-dd20f98ceacd",
-		"albumId": "0b87ebcf-216b-4255-9c19-93c12861f173"
+		"albumId": "0b87ebcf-216b-4255-9c19-93c12861f173",
+		"tags": [
+			"perfect to listen to while leaving the planet",
+			"epic",
+			"electronic",
+			"post-rock",
+			"beautiful"
+		]
 	},
 	{
 		"name": "Sometimes",
 		"artist": "Hooverphonic",
 		"album": "Hooverphonic presents Jackie Cane",
 		"date": "2020-06-26T14:21:00.000Z",
-		"songId": "1d47db8a-41e6-454b-a28d-9a6074dc0762",
+		"songId": "eb01fc35-d9fb-4edb-a279-ceae7a5debff",
 		"artistId": "62dc94cc-f611-4345-87cb-b914796a4a45",
-		"albumId": "800684a5-67d6-48d5-bc04-0c8504cc822d"
+		"albumId": "800684a5-67d6-48d5-bc04-0c8504cc822d",
+		"tags": [
+			"trip-hop",
+			"electronic",
+			"Hooverphonic",
+			"chillout",
+			"female vocalists"
+		]
 	},
 	{
 		"name": "Mr. Brightside",
 		"artist": "The Killers",
 		"album": "Hot Fuss",
 		"date": "2020-06-26T14:25:00.000Z",
-		"songId": "0157fd48-a126-4af1-ad1f-4fbb37911b90",
+		"songId": "37d516ab-d61f-4bcb-9316-7a0b3eb845a8",
 		"artistId": "c2058349-c474-411b-b857-2bbfc10de344",
-		"albumId": "13c96260-b60e-4aa6-8973-a6e344d1632a"
+		"albumId": "13c96260-b60e-4aa6-8973-a6e344d1632a",
+		"tags": [
+			"rock",
+			"indie",
+			"indie rock",
+			"alternative",
+			"alternative rock"
+		],
+		"published": "2009-01-15T19:26:00.000Z"
 	},
 	{
 		"name": "The Dance",
@@ -2362,9 +3436,10 @@
 		"artist": "Ernest Gold",
 		"album": "Cross of Iron (Original Motion Picture Soundtrack)",
 		"date": "2020-06-26T14:32:00.000Z",
-		"songId": "177e96ee-bf42-3652-8d2b-d2d13beda5ce",
+		"songId": "beedf7f7-d5cb-4f54-8f1e-a3b19f0f5a85",
 		"artistId": "4eec4d77-8e33-412f-b2c8-bbdab4702e46",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Too Much to Dream",
@@ -2373,7 +3448,14 @@
 		"date": "2020-06-26T14:35:00.000Z",
 		"songId": "3e20e1ef-bbfd-4b97-acb8-c101a43906ad",
 		"artistId": "7c922f2c-9d2b-4f37-a139-cddb83722ab3",
-		"albumId": "6d93cd6e-7865-4a6c-a839-1cbbfa88ff55"
+		"albumId": "6d93cd6e-7865-4a6c-a839-1cbbfa88ff55",
+		"tags": [
+			"pop",
+			"dream pop",
+			"synthpop",
+			"fode viado",
+			"indie"
+		]
 	},
 	{
 		"name": "A Reminder - Remastered",
@@ -2382,16 +3464,26 @@
 		"date": "2020-06-26T14:37:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"art rock"
+		]
 	},
 	{
 		"name": "Anakin's Theme",
 		"artist": "John Williams",
 		"album": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
 		"date": "2020-06-26T14:39:00.000Z",
-		"songId": "0564b759-3bbd-3524-b4bf-284e3fd15232",
+		"songId": "c5e0b6ff-94ee-4ed6-bcb0-dc1f129c4e7d",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"Soundtrack",
+			"Star Wars",
+			"Classical",
+			"movie score",
+			"John Williams"
+		]
 	},
 	{
 		"name": "Looking for America",
@@ -2400,7 +3492,15 @@
 		"date": "2020-06-26T14:41:00.000Z",
 		"songId": "66e83b79-e3f3-405a-905a-983012541bc7",
 		"artistId": "b7539c32-53e7-4908-bda3-81449c367da6",
-		"albumId": "d9b9f943-28b6-4ff8-a3af-94a5324a6136"
+		"albumId": "d9b9f943-28b6-4ff8-a3af-94a5324a6136",
+		"tags": [
+			"folk",
+			"indie",
+			"pop",
+			"alternative",
+			"alternative pop"
+		],
+		"published": "2019-08-08T16:56:00.000Z"
 	},
 	{
 		"name": "Slide Away",
@@ -2409,34 +3509,63 @@
 		"date": "2020-06-26T14:44:00.000Z",
 		"songId": "0463c940-64ac-4dca-96d9-2c65f630780b",
 		"artistId": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
-		"albumId": "b6e7ae08-5870-4223-a850-f777b916a9ec"
+		"albumId": "b6e7ae08-5870-4223-a850-f777b916a9ec",
+		"tags": [
+			"2010s",
+			"Miley Cyrus",
+			"pop",
+			"2019",
+			"bop"
+		],
+		"published": "2020-07-30T06:46:00.000Z"
 	},
 	{
 		"name": "Hilf mir fliegen",
 		"artist": "Tokio Hotel",
 		"album": "Übers Ende der Welt",
 		"date": "2020-06-26T15:54:00.000Z",
-		"songId": "b4c7e310-ccca-35cc-9e87-553691b8ff22",
+		"songId": "a13761be-af3f-48ee-b991-530e3a378cff",
 		"artistId": "462a85b4-83ac-4164-86b3-e5ac6a7ec040",
-		"albumId": "78c5d097-a55d-4a43-884c-9b17164f6367"
+		"albumId": "78c5d097-a55d-4a43-884c-9b17164f6367",
+		"tags": [
+			"german",
+			"pop rock",
+			"emo",
+			"rock",
+			"alternative"
+		]
 	},
 	{
 		"name": "Hilf mir fliegen",
 		"artist": "Tokio Hotel",
 		"album": "Übers Ende der Welt",
 		"date": "2020-06-26T16:20:00.000Z",
-		"songId": "b4c7e310-ccca-35cc-9e87-553691b8ff22",
+		"songId": "a13761be-af3f-48ee-b991-530e3a378cff",
 		"artistId": "462a85b4-83ac-4164-86b3-e5ac6a7ec040",
-		"albumId": "78c5d097-a55d-4a43-884c-9b17164f6367"
+		"albumId": "78c5d097-a55d-4a43-884c-9b17164f6367",
+		"tags": [
+			"german",
+			"pop rock",
+			"emo",
+			"rock",
+			"alternative"
+		]
 	},
 	{
 		"name": "Vergessene Kinder",
 		"artist": "Tokio Hotel",
 		"album": "Zimmer 483",
 		"date": "2020-06-26T16:26:00.000Z",
-		"songId": "4d4c0a15-2810-3c0a-99bf-d22d46cf7967",
+		"songId": "d8ec97d0-c4df-4881-bc59-f7233940e301",
 		"artistId": "462a85b4-83ac-4164-86b3-e5ac6a7ec040",
-		"albumId": "d6c8f6f9-fc04-480b-a3ce-cd4ad630b733"
+		"albumId": "d6c8f6f9-fc04-480b-a3ce-cd4ad630b733",
+		"tags": [
+			"rock",
+			"emo",
+			"german",
+			"Tokio Hotel",
+			"alternative"
+		]
 	},
 	{
 		"name": "Exist For Love",
@@ -2445,52 +3574,100 @@
 		"date": "2020-06-26T16:29:00.000Z",
 		"songId": "3587c2f1-1386-41e8-ab40-94c5ff50fb8d",
 		"artistId": "",
-		"albumId": "2570cff6-030a-4e22-8de6-373506596c21"
+		"albumId": "2570cff6-030a-4e22-8de6-373506596c21",
+		"tags": [
+			"Love",
+			"baroque pop",
+			"lovesong",
+			"folk pop",
+			"love at first listen"
+		],
+		"published": "2020-05-16T13:42:00.000Z"
 	},
 	{
 		"name": "One Last Breath",
 		"artist": "Creed",
 		"album": "Weathered",
 		"date": "2020-06-26T16:33:00.000Z",
-		"songId": "0d584ebc-265e-3704-b96d-40529beb133f",
+		"songId": "2a95c13d-c58d-46ee-8499-8a34f4311e75",
 		"artistId": "4b1a830b-0a1f-42e5-b8d5-1d6743912e99",
-		"albumId": "36950834-0c25-43e3-a7ee-4475fe1cc6ea"
+		"albumId": "36950834-0c25-43e3-a7ee-4475fe1cc6ea",
+		"tags": [
+			"rock",
+			"alternative rock",
+			"Creed",
+			"Grunge",
+			"alternative"
+		],
+		"published": "2008-08-17T19:14:00.000Z"
 	},
 	{
 		"name": "One Last Breath",
 		"artist": "Creed",
 		"album": "Weathered",
 		"date": "2020-06-26T16:37:00.000Z",
-		"songId": "0d584ebc-265e-3704-b96d-40529beb133f",
+		"songId": "2a95c13d-c58d-46ee-8499-8a34f4311e75",
 		"artistId": "4b1a830b-0a1f-42e5-b8d5-1d6743912e99",
-		"albumId": "36950834-0c25-43e3-a7ee-4475fe1cc6ea"
+		"albumId": "36950834-0c25-43e3-a7ee-4475fe1cc6ea",
+		"tags": [
+			"rock",
+			"alternative rock",
+			"Creed",
+			"Grunge",
+			"alternative"
+		],
+		"published": "2008-08-17T19:14:00.000Z"
 	},
 	{
 		"name": "The Daily Mail",
 		"artist": "Radiohead",
 		"album": "The Daily Mail / Staircase",
 		"date": "2020-06-26T16:43:00.000Z",
-		"songId": "01dfe5b1-4c8f-4bd7-8f89-c1747d3a169a",
+		"songId": "2445e401-c720-479c-937b-4df626ac6a83",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"if this song were a human i would marry it twice",
+			"indie",
+			"2011",
+			"pxs: loved",
+			"seen live"
+		],
+		"published": "2012-01-04T17:49:00.000Z"
 	},
 	{
 		"name": "The Daily Mail",
 		"artist": "Radiohead",
 		"album": "The Daily Mail / Staircase",
 		"date": "2020-06-26T16:47:00.000Z",
-		"songId": "01dfe5b1-4c8f-4bd7-8f89-c1747d3a169a",
+		"songId": "2445e401-c720-479c-937b-4df626ac6a83",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"if this song were a human i would marry it twice",
+			"indie",
+			"2011",
+			"pxs: loved",
+			"seen live"
+		],
+		"published": "2012-01-04T17:49:00.000Z"
 	},
 	{
 		"name": "Dark Was the Night, Cold Was the Ground",
 		"artist": "Blind Willie Johnson",
 		"album": "Dark Was the Night (Mojo Workin'- Blues for the Next Generation)",
 		"date": "2020-06-26T16:47:00.000Z",
-		"songId": "0bb7e290-6018-4da3-88ef-aac8adf9d958",
+		"songId": "27a746fb-a5ad-4475-adbe-0a98506a5c1a",
 		"artistId": "8a14c00b-4779-44e4-9b2e-4cc9dcd92e9b",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"blues",
+			"delta blues",
+			"slide guitar",
+			"laid back",
+			"gospel"
+		],
+		"published": "2008-12-03T15:19:00.000Z"
 	},
 	{
 		"name": "The Wonderwhy (Hidden Track)",
@@ -2499,7 +3676,8 @@
 		"date": "2020-06-26T16:49:00.000Z",
 		"songId": "",
 		"artistId": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
-		"albumId": "35168eb5-eed5-4835-a495-857f480786f0"
+		"albumId": "35168eb5-eed5-4835-a495-857f480786f0",
+		"tags": []
 	},
 	{
 		"name": "Down the Road (Slow Burner Mix) (feat. YVA, Dhruv Sangari & Nicki Wells)",
@@ -2515,18 +3693,33 @@
 		"artist": "Carpenters",
 		"album": "A Kind Of Hush",
 		"date": "2020-06-26T17:01:00.000Z",
-		"songId": "0321e2bd-7b35-33f6-bd48-9af8a38817f6",
+		"songId": "226b86ef-b674-48c9-b3b2-bf81fe2d2a7d",
 		"artistId": "4580d83b-093e-4241-91fb-2dd71f5f1f3f",
-		"albumId": "214cb063-2177-4e2f-9c64-58e381349948"
+		"albumId": "214cb063-2177-4e2f-9c64-58e381349948",
+		"tags": [
+			"70s",
+			"female vocalists",
+			"pop",
+			"easy listening",
+			"carpenters"
+		],
+		"published": "2010-09-08T08:20:00.000Z"
 	},
 	{
 		"name": "Tempos Idos",
 		"artist": "Cartola",
 		"album": "Talento",
 		"date": "2020-06-26T17:05:00.000Z",
-		"songId": "3691ae83-9d98-306a-8750-4ac7eb06b43f",
+		"songId": "196b2474-0650-453a-9f44-4aed16f9b497",
 		"artistId": "7c743881-aed4-47d4-93d5-9fdd6e2904bb",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"samba",
+			"brasil",
+			"mpb",
+			"tantotempotaste",
+			"cartola"
+		]
 	},
 	{
 		"name": "Don’t Delete the Kisses - Recorded at Strongroom Studios, London",
@@ -2553,7 +3746,15 @@
 		"date": "2020-06-26T17:15:00.000Z",
 		"songId": "0a1ee416-3b05-4dd0-938f-14ea5e2f70bb",
 		"artistId": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
-		"albumId": "19a54c1f-07af-48db-8990-62a2208e18d4"
+		"albumId": "19a54c1f-07af-48db-8990-62a2208e18d4",
+		"tags": [
+			"pop",
+			"indie",
+			"indie pop",
+			"love at first listen",
+			"2010s"
+		],
+		"published": "2020-02-01T17:16:00.000Z"
 	},
 	{
 		"name": "La petite fille de la mer - Remastered",
@@ -2562,7 +3763,8 @@
 		"date": "2020-06-26T18:50:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Two Time",
@@ -2571,7 +3773,11 @@
 		"date": "2020-06-26T18:54:00.000Z",
 		"songId": "8e32c83d-c50f-458d-8195-f6ac320d3b85",
 		"artistId": "9f4c3bca-4d80-428f-9ed2-0de052d92ecc",
-		"albumId": "c00eed39-36fc-4b78-a5f9-3e3761fc0e45"
+		"albumId": "c00eed39-36fc-4b78-a5f9-3e3761fc0e45",
+		"tags": [
+			"indie",
+			"experimental"
+		]
 	},
 	{
 		"name": "Lambaláda",
@@ -2587,9 +3793,17 @@
 		"artist": "Radiohead",
 		"album": "Kid A",
 		"date": "2020-06-29T07:26:00.000Z",
-		"songId": "0095b804-ae61-4b10-8300-ba7dbaaa721b",
+		"songId": "4d7b8fcb-fafc-4416-9170-752f12e10a2e",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "080ad926-7a4e-4399-b7df-0cc1b6ef841c"
+		"albumId": "080ad926-7a4e-4399-b7df-0cc1b6ef841c",
+		"tags": [
+			"alternative",
+			"alternative rock",
+			"rock",
+			"radiohead",
+			"indie"
+		],
+		"published": "2009-01-22T21:03:00.000Z"
 	},
 	{
 		"name": "Not My Baby",
@@ -2598,7 +3812,14 @@
 		"date": "2020-06-29T07:31:00.000Z",
 		"songId": "8335c08b-62ad-4791-a469-17635c90f79c",
 		"artistId": "99450990-b24e-4132-bb68-235f8c3e2564",
-		"albumId": "1f2f93b4-7b9b-4fef-85fb-20f7439d9fbd"
+		"albumId": "1f2f93b4-7b9b-4fef-85fb-20f7439d9fbd",
+		"tags": [
+			"indie pop",
+			"dream pop",
+			"twee pop",
+			"jangle pop",
+			"eclectonia"
+		]
 	},
 	{
 		"name": "Don’t Delete the Kisses - Recorded at Strongroom Studios, London",
@@ -2616,7 +3837,14 @@
 		"date": "2020-06-29T07:56:00.000Z",
 		"songId": "02af6b48-8cc1-4da5-9523-5639326e8225",
 		"artistId": "86cd4d38-857c-42bd-a5da-9acedcab1e01",
-		"albumId": "1ca103e0-ddca-4d71-8c7e-1edab93c7fd1"
+		"albumId": "1ca103e0-ddca-4d71-8c7e-1edab93c7fd1",
+		"tags": [
+			"indie rock",
+			"rock",
+			"indie",
+			"alternative rock",
+			"indie pop"
+		]
 	},
 	{
 		"name": "Exist For Love",
@@ -2625,16 +3853,32 @@
 		"date": "2020-06-30T07:15:00.000Z",
 		"songId": "3587c2f1-1386-41e8-ab40-94c5ff50fb8d",
 		"artistId": "",
-		"albumId": "2570cff6-030a-4e22-8de6-373506596c21"
+		"albumId": "2570cff6-030a-4e22-8de6-373506596c21",
+		"tags": [
+			"Love",
+			"baroque pop",
+			"lovesong",
+			"folk pop",
+			"love at first listen"
+		],
+		"published": "2020-05-16T13:42:00.000Z"
 	},
 	{
 		"name": "One Last Breath",
 		"artist": "Creed",
 		"album": "Weathered",
 		"date": "2020-06-30T07:19:00.000Z",
-		"songId": "0d584ebc-265e-3704-b96d-40529beb133f",
+		"songId": "2a95c13d-c58d-46ee-8499-8a34f4311e75",
 		"artistId": "4b1a830b-0a1f-42e5-b8d5-1d6743912e99",
-		"albumId": "36950834-0c25-43e3-a7ee-4475fe1cc6ea"
+		"albumId": "36950834-0c25-43e3-a7ee-4475fe1cc6ea",
+		"tags": [
+			"rock",
+			"alternative rock",
+			"Creed",
+			"Grunge",
+			"alternative"
+		],
+		"published": "2008-08-17T19:14:00.000Z"
 	},
 	{
 		"name": "La petite fille de la mer - Remastered",
@@ -2643,7 +3887,8 @@
 		"date": "2020-06-30T08:14:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Two Time",
@@ -2652,7 +3897,11 @@
 		"date": "2020-06-30T08:20:00.000Z",
 		"songId": "8e32c83d-c50f-458d-8195-f6ac320d3b85",
 		"artistId": "9f4c3bca-4d80-428f-9ed2-0de052d92ecc",
-		"albumId": "c00eed39-36fc-4b78-a5f9-3e3761fc0e45"
+		"albumId": "c00eed39-36fc-4b78-a5f9-3e3761fc0e45",
+		"tags": [
+			"indie",
+			"experimental"
+		]
 	},
 	{
 		"name": "Lambaláda",
@@ -2670,7 +3919,8 @@
 		"date": "2020-06-30T08:32:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Man of War",
@@ -2679,7 +3929,14 @@
 		"date": "2020-06-30T08:35:00.000Z",
 		"songId": "3c809e58-25ba-45b4-8ba7-d481325b19af",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"alternative rock",
+			"british",
+			"epic",
+			"england",
+			"fip"
+		]
 	},
 	{
 		"name": "Nobody Loves You (When You're Down And Out) - Remastered 2010",
@@ -2688,16 +3945,25 @@
 		"date": "2020-06-30T08:40:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": "08a6f195-c130-4171-a510-8cba67b00dba"
+		"albumId": "08a6f195-c130-4171-a510-8cba67b00dba",
+		"tags": []
 	},
 	{
 		"name": "Bleed It Out",
 		"artist": "Linkin Park",
 		"album": "Minutes to Midnight",
 		"date": "2020-06-30T08:45:00.000Z",
-		"songId": "02f3fe8b-7547-41fe-828f-eb8945fab2c0",
+		"songId": "5bbf09b5-2bf4-4c19-8228-36dc1f7e2f16",
 		"artistId": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
-		"albumId": "012514b5-dc0f-4418-b67a-c6a8d3af4096"
+		"albumId": "012514b5-dc0f-4418-b67a-c6a8d3af4096",
+		"tags": [
+			"rock",
+			"Nu Metal",
+			"alternative rock",
+			"Linkin Park",
+			"alternative"
+		],
+		"published": "2009-07-22T01:21:00.000Z"
 	},
 	{
 		"name": "Turning Teeth",
@@ -2715,7 +3981,15 @@
 		"date": "2020-06-30T08:53:00.000Z",
 		"songId": "365171e6-34e2-47cf-bd34-ca4194a8f643",
 		"artistId": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"Call Me By Your Name",
+			"Soundtrack",
+			"indie",
+			"folk",
+			"beautiful"
+		],
+		"published": "2017-11-19T21:53:00.000Z"
 	},
 	{
 		"name": "Come On, Dreamer",
@@ -2724,7 +3998,8 @@
 		"date": "2020-06-30T08:58:00.000Z",
 		"songId": "6e516c5c-32e4-4b43-b3fd-e8e2237c9b49",
 		"artistId": "544a72cb-2030-4e69-a915-ca9897fec810",
-		"albumId": "d79540c3-6eef-41ae-81d7-2cabe952ce40"
+		"albumId": "d79540c3-6eef-41ae-81d7-2cabe952ce40",
+		"tags": []
 	},
 	{
 		"name": "Plimsoll Punks",
@@ -2733,7 +4008,14 @@
 		"date": "2020-06-30T09:38:00.000Z",
 		"songId": "1ea5f7f6-7b72-431a-86c1-5e6e01d0b821",
 		"artistId": "99450990-b24e-4132-bb68-235f8c3e2564",
-		"albumId": "1f2f93b4-7b9b-4fef-85fb-20f7439d9fbd"
+		"albumId": "1f2f93b4-7b9b-4fef-85fb-20f7439d9fbd",
+		"tags": [
+			"indie pop",
+			"indie",
+			"indie rock",
+			"jangle pop",
+			"Canadian"
+		]
 	},
 	{
 		"name": "Plastic Beach (Feat. Mick Jones and Paul Simonon)",
@@ -2742,7 +4024,15 @@
 		"date": "2020-06-30T09:38:00.000Z",
 		"songId": "",
 		"artistId": "e21857d5-3256-4547-afb3-4b6ded592596",
-		"albumId": "28ddf022-0a8a-4ecd-bf18-d80af26c3aff"
+		"albumId": "28ddf022-0a8a-4ecd-bf18-d80af26c3aff",
+		"tags": [
+			"electronic",
+			"british",
+			"alternative",
+			"downtempo",
+			"gorillaz"
+		],
+		"published": "2010-03-15T16:18:00.000Z"
 	},
 	{
 		"name": "everything i wanted",
@@ -2751,7 +4041,15 @@
 		"date": "2020-06-30T09:42:00.000Z",
 		"songId": "0a1ee416-3b05-4dd0-938f-14ea5e2f70bb",
 		"artistId": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
-		"albumId": "19a54c1f-07af-48db-8990-62a2208e18d4"
+		"albumId": "19a54c1f-07af-48db-8990-62a2208e18d4",
+		"tags": [
+			"pop",
+			"indie",
+			"indie pop",
+			"love at first listen",
+			"2010s"
+		],
+		"published": "2020-02-01T17:16:00.000Z"
 	},
 	{
 		"name": "La petite fille de la mer - Remastered",
@@ -2760,7 +4058,8 @@
 		"date": "2020-06-30T09:47:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Two Time",
@@ -2769,7 +4068,11 @@
 		"date": "2020-06-30T09:52:00.000Z",
 		"songId": "8e32c83d-c50f-458d-8195-f6ac320d3b85",
 		"artistId": "9f4c3bca-4d80-428f-9ed2-0de052d92ecc",
-		"albumId": "c00eed39-36fc-4b78-a5f9-3e3761fc0e45"
+		"albumId": "c00eed39-36fc-4b78-a5f9-3e3761fc0e45",
+		"tags": [
+			"indie",
+			"experimental"
+		]
 	},
 	{
 		"name": "Man of War",
@@ -2778,7 +4081,14 @@
 		"date": "2020-06-30T09:58:00.000Z",
 		"songId": "3c809e58-25ba-45b4-8ba7-d481325b19af",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"alternative rock",
+			"british",
+			"epic",
+			"england",
+			"fip"
+		]
 	},
 	{
 		"name": "Nobody Loves You (When You're Down And Out) - Remastered 2010",
@@ -2787,16 +4097,25 @@
 		"date": "2020-06-30T10:02:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": "08a6f195-c130-4171-a510-8cba67b00dba"
+		"albumId": "08a6f195-c130-4171-a510-8cba67b00dba",
+		"tags": []
 	},
 	{
 		"name": "Bleed It Out",
 		"artist": "Linkin Park",
 		"album": "Minutes to Midnight",
 		"date": "2020-06-30T10:08:00.000Z",
-		"songId": "02f3fe8b-7547-41fe-828f-eb8945fab2c0",
+		"songId": "5bbf09b5-2bf4-4c19-8228-36dc1f7e2f16",
 		"artistId": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
-		"albumId": "012514b5-dc0f-4418-b67a-c6a8d3af4096"
+		"albumId": "012514b5-dc0f-4418-b67a-c6a8d3af4096",
+		"tags": [
+			"rock",
+			"Nu Metal",
+			"alternative rock",
+			"Linkin Park",
+			"alternative"
+		],
+		"published": "2009-07-22T01:21:00.000Z"
 	},
 	{
 		"name": "Man of War",
@@ -2805,7 +4124,14 @@
 		"date": "2020-06-30T10:15:00.000Z",
 		"songId": "3c809e58-25ba-45b4-8ba7-d481325b19af",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"alternative rock",
+			"british",
+			"epic",
+			"england",
+			"fip"
+		]
 	},
 	{
 		"name": "Burn the Witch",
@@ -2814,7 +4140,15 @@
 		"date": "2020-06-30T10:19:00.000Z",
 		"songId": "034c61bc-59bf-415f-ab52-9c0d3a5c84be",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "0c46011c-2c86-4c53-8226-10c79f746e6f"
+		"albumId": "0c46011c-2c86-4c53-8226-10c79f746e6f",
+		"tags": [
+			"chamber pop",
+			"electronic",
+			"alternative",
+			"art rock",
+			"love at first listen"
+		],
+		"published": "2016-05-10T18:22:00.000Z"
 	},
 	{
 		"name": "Man of War",
@@ -2823,7 +4157,14 @@
 		"date": "2020-06-30T10:19:00.000Z",
 		"songId": "3c809e58-25ba-45b4-8ba7-d481325b19af",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"alternative rock",
+			"british",
+			"epic",
+			"england",
+			"fip"
+		]
 	},
 	{
 		"name": "The Numbers",
@@ -2832,7 +4173,14 @@
 		"date": "2020-06-30T10:27:00.000Z",
 		"songId": "074548e1-e917-45ca-a004-df8412c169a2",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "0c46011c-2c86-4c53-8226-10c79f746e6f"
+		"albumId": "0c46011c-2c86-4c53-8226-10c79f746e6f",
+		"tags": [
+			"chamber pop",
+			"art pop",
+			"clinically romantic",
+			"post-revolutionary pop song",
+			"Avantgarde Pop"
+		]
 	},
 	{
 		"name": "Don’t Delete The Kisses",
@@ -2850,7 +4198,14 @@
 		"date": "2020-06-30T10:36:00.000Z",
 		"songId": "10196209-7cda-4239-8496-a59a5a920f28",
 		"artistId": "99450990-b24e-4132-bb68-235f8c3e2564",
-		"albumId": "1f2f93b4-7b9b-4fef-85fb-20f7439d9fbd"
+		"albumId": "1f2f93b4-7b9b-4fef-85fb-20f7439d9fbd",
+		"tags": [
+			"dream pop",
+			"indie pop",
+			"indie",
+			"alternative",
+			"twee pop"
+		]
 	},
 	{
 		"name": "Sunny Road",
@@ -2868,7 +4223,8 @@
 		"date": "2020-06-30T10:40:00.000Z",
 		"songId": "1c387ff0-aa07-4a02-b414-c2b147e77f93",
 		"artistId": "01d880e1-81a6-4c66-8c2d-a115387925b0",
-		"albumId": "7e2cc60c-5495-4a9b-94ad-f35533dd4870"
+		"albumId": "7e2cc60c-5495-4a9b-94ad-f35533dd4870",
+		"tags": []
 	},
 	{
 		"name": "The Spoils",
@@ -2877,7 +4233,14 @@
 		"date": "2020-06-30T10:44:00.000Z",
 		"songId": "6b07bd88-fe03-4f01-8ae5-d30d9d7dffbc",
 		"artistId": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
-		"albumId": "5bd245e5-8a9d-4743-bb27-9bd9926f2023"
+		"albumId": "5bd245e5-8a9d-4743-bb27-9bd9926f2023",
+		"tags": [
+			"trip-hop",
+			"alternative",
+			"atmospheric",
+			"2016",
+			"gute-laune-chill-lieder"
+		]
 	},
 	{
 		"name": "煙突",
@@ -2895,7 +4258,14 @@
 		"date": "2020-06-30T10:55:00.000Z",
 		"songId": "f94325e4-31f9-462e-ab38-dabfb1290fb1",
 		"artistId": "",
-		"albumId": "93b25af2-5812-4dd5-84a2-a6e9b912c1da"
+		"albumId": "93b25af2-5812-4dd5-84a2-a6e9b912c1da",
+		"tags": [
+			"electronic",
+			"downtempo",
+			"Ambient dub",
+			"glitch hop",
+			"art pop"
+		]
 	},
 	{
 		"name": "Glass",
@@ -2904,7 +4274,11 @@
 		"date": "2020-06-30T11:03:00.000Z",
 		"songId": "7d3a1118-cacf-4f34-8146-f9214ef7e927",
 		"artistId": "59be490d-21e4-44d4-8cf2-939c8fbca25f",
-		"albumId": "885f8562-cad2-4f1d-bba5-e85faca1d99d"
+		"albumId": "885f8562-cad2-4f1d-bba5-e85faca1d99d",
+		"tags": [
+			"fip",
+			"Classical Ambient"
+		]
 	},
 	{
 		"name": "Love Letter",
@@ -2913,7 +4287,8 @@
 		"date": "2020-06-30T11:03:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "English Summer",
@@ -2922,7 +4297,8 @@
 		"date": "2020-06-30T11:10:00.000Z",
 		"songId": "7f135263-7c50-4efd-83d9-96d3713059c2",
 		"artistId": "69ce32a2-dbb1-42c2-98fc-2fbf896ef861",
-		"albumId": "9880316b-c5ba-46ad-8b13-8efde52a959a"
+		"albumId": "9880316b-c5ba-46ad-8b13-8efde52a959a",
+		"tags": []
 	},
 	{
 		"name": "感情生活",
@@ -2940,7 +4316,11 @@
 		"date": "2020-06-30T11:20:00.000Z",
 		"songId": "9ff9a6b7-81e0-4e57-a5dd-d1cba58e8679",
 		"artistId": "92de643f-fa8f-4e68-b627-4376711b7b33",
-		"albumId": "f2b9d2a8-beb1-477e-8ec6-f369d04a63e6"
+		"albumId": "f2b9d2a8-beb1-477e-8ec6-f369d04a63e6",
+		"tags": [
+			"covers"
+		],
+		"published": "2020-01-07T20:14:00.000Z"
 	},
 	{
 		"name": "To the Moon",
@@ -2949,16 +4329,24 @@
 		"date": "2020-06-30T11:23:00.000Z",
 		"songId": "be4d8c93-0aa3-4fde-8b25-61b81c7673f0",
 		"artistId": "a6c00390-a7d5-4265-b7c7-c45becddd30e",
-		"albumId": "894e793e-5b86-44af-a9d1-d8cd352ddfaa"
+		"albumId": "894e793e-5b86-44af-a9d1-d8cd352ddfaa",
+		"tags": []
 	},
 	{
 		"name": "Reality",
 		"artist": "Vladimir Cosma",
 		"album": "La boum (Bande originale du film de Claude Pinoteau)",
 		"date": "2020-06-30T11:26:00.000Z",
-		"songId": "",
+		"songId": "274a8aec-f171-4bbb-8597-d9ca7fc635a6",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"Soundtrack",
+			"Love",
+			"french",
+			"my childhood",
+			"nostalgie"
+		]
 	},
 	{
 		"name": "Song to the Siren - Recorded at Strongroom Studios, London",
@@ -2967,7 +4355,10 @@
 		"date": "2020-06-30T11:31:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"cover"
+		]
 	},
 	{
 		"name": "Looking for America",
@@ -2976,7 +4367,15 @@
 		"date": "2020-06-30T11:34:00.000Z",
 		"songId": "66e83b79-e3f3-405a-905a-983012541bc7",
 		"artistId": "b7539c32-53e7-4908-bda3-81449c367da6",
-		"albumId": "d9b9f943-28b6-4ff8-a3af-94a5324a6136"
+		"albumId": "d9b9f943-28b6-4ff8-a3af-94a5324a6136",
+		"tags": [
+			"folk",
+			"indie",
+			"pop",
+			"alternative",
+			"alternative pop"
+		],
+		"published": "2019-08-08T16:56:00.000Z"
 	},
 	{
 		"name": "No Surprises - Remastered",
@@ -2985,7 +4384,8 @@
 		"date": "2020-06-30T11:37:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "The Tourist - Remastered",
@@ -2994,7 +4394,8 @@
 		"date": "2020-06-30T11:41:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "00'-00'",
@@ -3003,7 +4404,14 @@
 		"date": "2020-06-30T12:20:00.000Z",
 		"songId": "",
 		"artistId": "fd09d776-ddfd-4558-afe7-814420d704ed",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"musicologist",
+			"piano",
+			"Contemporary",
+			"Avant-Garde",
+			"numbers"
+		]
 	},
 	{
 		"name": "02'-15'",
@@ -3012,7 +4420,14 @@
 		"date": "2020-06-30T12:22:00.000Z",
 		"songId": "",
 		"artistId": "fd09d776-ddfd-4558-afe7-814420d704ed",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"experimental",
+			"Avant-Garde",
+			"contemporary classical",
+			"Classical",
+			"stockhausen"
+		]
 	},
 	{
 		"name": "06'-38'",
@@ -3021,7 +4436,14 @@
 		"date": "2020-06-30T12:26:00.000Z",
 		"songId": "",
 		"artistId": "fd09d776-ddfd-4558-afe7-814420d704ed",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"Avant-Garde",
+			"musicologist",
+			"electronic",
+			"contemporary classical",
+			"minimalism"
+		]
 	},
 	{
 		"name": "11'-38'",
@@ -3030,7 +4452,14 @@
 		"date": "2020-06-30T12:31:00.000Z",
 		"songId": "",
 		"artistId": "fd09d776-ddfd-4558-afe7-814420d704ed",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"experimental",
+			"Avant-Garde",
+			"musicologist",
+			"contemporary classical",
+			"dissonant"
+		]
 	},
 	{
 		"name": "Klavierstuck V, Work No. 4",
@@ -3039,7 +4468,8 @@
 		"date": "2020-06-30T12:36:00.000Z",
 		"songId": "",
 		"artistId": "fd09d776-ddfd-4558-afe7-814420d704ed",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Stockhausen: Tierkreis, for Trumpet und Organ: IX. Waage - Libra (23.09-22.10) - Venus (=71)",
@@ -3048,7 +4478,8 @@
 		"date": "2020-06-30T12:40:00.000Z",
 		"songId": "",
 		"artistId": "fd09d776-ddfd-4558-afe7-814420d704ed",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Stockhausen: Tierkreis, for Trumpet und Organ: IX. Waage - Libra (23.09-22.10) - Venus (=71)",
@@ -3057,7 +4488,8 @@
 		"date": "2020-06-30T12:43:00.000Z",
 		"songId": "",
 		"artistId": "fd09d776-ddfd-4558-afe7-814420d704ed",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Fische - Pisces (Jupiter, Neptunus)",
@@ -3066,7 +4498,8 @@
 		"date": "2020-06-30T12:43:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Gruppen für drei Orchester - Werk Nr. 6",
@@ -3084,7 +4517,8 @@
 		"date": "2020-06-30T13:11:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Tierkreis, Work No. 41 1/2: No. 7. Leo",
@@ -3093,7 +4527,8 @@
 		"date": "2020-06-30T13:11:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Tierkreis, Work No. 41 1/2: No. 7. Leo",
@@ -3102,7 +4537,8 @@
 		"date": "2020-06-30T13:13:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Mantra, Work No. 32: bars 492-529",
@@ -3111,25 +4547,35 @@
 		"date": "2020-06-30T13:13:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "In Freundschaft",
 		"artist": "Karlheinz Stockhausen",
 		"album": "Stravinsky, Boulez, Stockhausen: Dal Niente",
 		"date": "2020-06-30T13:19:00.000Z",
-		"songId": "34c8f5d5-3291-321a-8d44-97c5d42561aa",
+		"songId": "4d195490-3a81-44e4-8618-74d1c36bd12c",
 		"artistId": "fd09d776-ddfd-4558-afe7-814420d704ed",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "The Daily Mail",
 		"artist": "Radiohead",
 		"album": "The Daily Mail / Staircase",
 		"date": "2020-06-30T13:28:00.000Z",
-		"songId": "01dfe5b1-4c8f-4bd7-8f89-c1747d3a169a",
+		"songId": "2445e401-c720-479c-937b-4df626ac6a83",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"if this song were a human i would marry it twice",
+			"indie",
+			"2011",
+			"pxs: loved",
+			"seen live"
+		],
+		"published": "2012-01-04T17:49:00.000Z"
 	},
 	{
 		"name": "Don’t Delete the Kisses - Recorded at Strongroom Studios, London",
@@ -3147,7 +4593,10 @@
 		"date": "2020-06-30T13:41:00.000Z",
 		"songId": "19000bb2-5c20-4de2-8697-fe42dd36a362",
 		"artistId": "e83563e8-c8b2-4282-b960-6a7721acdbbb",
-		"albumId": "46382e88-1eb9-43d4-8bf0-a87d3d1ea193"
+		"albumId": "46382e88-1eb9-43d4-8bf0-a87d3d1ea193",
+		"tags": [
+			"sxsw 2017"
+		]
 	},
 	{
 		"name": "Suspirium",
@@ -3156,16 +4605,31 @@
 		"date": "2020-06-30T13:59:00.000Z",
 		"songId": "0244b500-2895-464c-9491-ac49e37ba958",
 		"artistId": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
-		"albumId": "316f0377-2982-42dd-ac39-d79ab4d6b567"
+		"albumId": "316f0377-2982-42dd-ac39-d79ab4d6b567",
+		"tags": [
+			"piano",
+			"Soundtrack",
+			"british",
+			"electronic",
+			"alternative"
+		]
 	},
 	{
 		"name": "Strangers in the Night",
 		"artist": "Frank Sinatra",
 		"album": "Ultimate Sinatra",
 		"date": "2020-06-30T14:04:00.000Z",
-		"songId": "02294a2a-6404-4119-a345-541330879bce",
+		"songId": "647f8be9-b76e-4143-842a-03eb0e36c4f1",
 		"artistId": "197450cd-0124-4164-b723-3c22dd16494d",
-		"albumId": "274952ac-8cb6-478a-a756-f7ff547505fc"
+		"albumId": "274952ac-8cb6-478a-a756-f7ff547505fc",
+		"tags": [
+			"jazz",
+			"oldies",
+			"swing",
+			"easy listening",
+			"male vocalists"
+		],
+		"published": "2009-10-01T22:49:00.000Z"
 	},
 	{
 		"name": "Decks Dark",
@@ -3174,25 +4638,49 @@
 		"date": "2020-06-30T14:11:00.000Z",
 		"songId": "0f879a56-ee44-4be5-9bed-8dac1e9039d3",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "0c46011c-2c86-4c53-8226-10c79f746e6f"
+		"albumId": "0c46011c-2c86-4c53-8226-10c79f746e6f",
+		"tags": [
+			"art rock",
+			"art pop",
+			"alternative rock",
+			"beautiful",
+			"radiohead"
+		],
+		"published": "2016-07-24T16:43:00.000Z"
 	},
 	{
 		"name": "Teardrop",
 		"artist": "Massive Attack",
 		"album": "Mezzanine",
 		"date": "2020-06-30T14:17:00.000Z",
-		"songId": "0452e15b-38fe-46a3-877c-78ed1f705978",
+		"songId": "04a4ac3e-5439-4214-8094-b63f756613ea",
 		"artistId": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
-		"albumId": "0d33ef7a-1f5d-4365-b807-b412271b99c3"
+		"albumId": "0d33ef7a-1f5d-4365-b807-b412271b99c3",
+		"tags": [
+			"trip-hop",
+			"chillout",
+			"electronic",
+			"downtempo",
+			"electronica"
+		],
+		"published": "2008-08-18T22:08:00.000Z"
 	},
 	{
 		"name": "My Way",
 		"artist": "Frank Sinatra",
 		"album": "Ultimate Sinatra",
 		"date": "2020-06-30T14:30:00.000Z",
-		"songId": "02dbde33-fba7-39ab-91be-70be28293c24",
+		"songId": "7832eb58-20b3-4dee-b25f-19a2b5d76efa",
 		"artistId": "197450cd-0124-4164-b723-3c22dd16494d",
-		"albumId": "274952ac-8cb6-478a-a756-f7ff547505fc"
+		"albumId": "274952ac-8cb6-478a-a756-f7ff547505fc",
+		"tags": [
+			"jazz",
+			"oldies",
+			"frank sinatra",
+			"swing",
+			"easy listening"
+		],
+		"published": "2009-02-12T19:02:00.000Z"
 	},
 	{
 		"name": "Viharként Tombol Már A Messzi Távol",
@@ -3208,9 +4696,17 @@
 		"artist": "Frank Sinatra",
 		"album": "My Way (Expanded Edition)",
 		"date": "2020-06-30T14:35:00.000Z",
-		"songId": "02dbde33-fba7-39ab-91be-70be28293c24",
+		"songId": "7832eb58-20b3-4dee-b25f-19a2b5d76efa",
 		"artistId": "197450cd-0124-4164-b723-3c22dd16494d",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"jazz",
+			"oldies",
+			"frank sinatra",
+			"swing",
+			"easy listening"
+		],
+		"published": "2009-02-12T19:02:00.000Z"
 	},
 	{
 		"name": "No Surprises - Remastered",
@@ -3219,7 +4715,8 @@
 		"date": "2020-06-30T14:37:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": []
 	},
 	{
 		"name": "Plastic Beach (Feat. Mick Jones and Paul Simonon)",
@@ -3228,7 +4725,15 @@
 		"date": "2020-06-30T14:42:00.000Z",
 		"songId": "",
 		"artistId": "e21857d5-3256-4547-afb3-4b6ded592596",
-		"albumId": "28ddf022-0a8a-4ecd-bf18-d80af26c3aff"
+		"albumId": "28ddf022-0a8a-4ecd-bf18-d80af26c3aff",
+		"tags": [
+			"electronic",
+			"british",
+			"alternative",
+			"downtempo",
+			"gorillaz"
+		],
+		"published": "2010-03-15T16:18:00.000Z"
 	},
 	{
 		"name": "Help Me",
@@ -3237,7 +4742,10 @@
 		"date": "2020-06-30T14:43:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"FODA"
+		]
 	},
 	{
 		"name": "Help Me",
@@ -3246,16 +4754,26 @@
 		"date": "2020-06-30T14:47:00.000Z",
 		"songId": "",
 		"artistId": "",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"FODA"
+		]
 	},
 	{
 		"name": "Love Song",
 		"artist": "Olivia Newton-John",
 		"album": "Late Night Tales: Friendly Fires",
 		"date": "2020-06-30T14:51:00.000Z",
-		"songId": "",
+		"songId": "1f649b34-e5ca-459f-98a3-bb2cd5392688",
 		"artistId": "",
-		"albumId": "a9b97da7-54dd-4224-b3bd-ba37d16e07cd"
+		"albumId": "a9b97da7-54dd-4224-b3bd-ba37d16e07cd",
+		"tags": [
+			"pop",
+			"70s",
+			"beautiful",
+			"cover",
+			"classic country"
+		]
 	},
 	{
 		"name": "Photographs (You Are Taking Now)",
@@ -3264,16 +4782,30 @@
 		"date": "2020-06-30T14:57:00.000Z",
 		"songId": "1da0b2ce-26fc-4bfa-befa-b801016fe24b",
 		"artistId": "7d7a5fdd-0d04-4c36-8bee-906feeae239c",
-		"albumId": "19da7e27-3ff0-4ba3-9df0-76bc1e787ad1"
+		"albumId": "19da7e27-3ff0-4ba3-9df0-76bc1e787ad1",
+		"tags": [
+			"electronic",
+			"seen live",
+			"trip-hop",
+			"soul",
+			"trip hop"
+		]
 	},
 	{
 		"name": "Some People",
 		"artist": "Goldfrapp",
 		"album": "Seventh Tree",
 		"date": "2020-06-30T15:00:00.000Z",
-		"songId": "1be12068-c6b4-4192-8cec-5c31ff95da50",
+		"songId": "3812b8fc-e85a-45d5-93e1-e3bf9d2c5912",
 		"artistId": "7b885d42-3c41-4f43-9944-a5855ec5155e",
-		"albumId": "216363de-fbd3-31ad-82ce-8b07b8120d94"
+		"albumId": "216363de-fbd3-31ad-82ce-8b07b8120d94",
+		"tags": [
+			"electronic",
+			"female vocalists",
+			"electronica",
+			"alternative",
+			"beautiful"
+		]
 	},
 	{
 		"name": "Depth of My Soul (feat. Shana Halligan)",
@@ -3282,43 +4814,81 @@
 		"date": "2020-06-30T15:05:00.000Z",
 		"songId": "",
 		"artistId": "a505bb48-ad65-4af4-ae47-29149715bff9",
-		"albumId": "24b45213-bcda-475e-81fc-a7a220ba8f22"
+		"albumId": "24b45213-bcda-475e-81fc-a7a220ba8f22",
+		"tags": [
+			"chillout",
+			"Hann with Gun",
+			"jazz",
+			"soul",
+			"downtempo"
+		]
 	},
 	{
 		"name": "D.A.N.C.E.",
 		"artist": "Justice",
 		"album": "Justice",
 		"date": "2020-06-30T15:12:00.000Z",
-		"songId": "07672bfb-cbea-3c91-9162-c9c2e7de9a00",
+		"songId": "b42d9226-f8eb-4762-b654-3136fdf52fbc",
 		"artistId": "",
-		"albumId": "4c280b71-7438-428e-9f4d-c8d9cb1b48a6"
+		"albumId": "4c280b71-7438-428e-9f4d-c8d9cb1b48a6",
+		"tags": [
+			"electronic",
+			"dance",
+			"french",
+			"electro",
+			"electronica"
+		],
+		"published": "2008-07-22T14:34:00.000Z"
 	},
 	{
 		"name": "Sometimes",
 		"artist": "Hooverphonic",
 		"album": "Hooverphonic presents Jackie Cane",
 		"date": "2020-06-30T15:12:00.000Z",
-		"songId": "1d47db8a-41e6-454b-a28d-9a6074dc0762",
+		"songId": "eb01fc35-d9fb-4edb-a279-ceae7a5debff",
 		"artistId": "62dc94cc-f611-4345-87cb-b914796a4a45",
-		"albumId": "800684a5-67d6-48d5-bc04-0c8504cc822d"
+		"albumId": "800684a5-67d6-48d5-bc04-0c8504cc822d",
+		"tags": [
+			"trip-hop",
+			"electronic",
+			"Hooverphonic",
+			"chillout",
+			"female vocalists"
+		]
 	},
 	{
 		"name": "Somewhere Only We Know",
 		"artist": "Lily Allen",
 		"album": "Somewhere Only We Know",
 		"date": "2020-06-30T15:16:00.000Z",
-		"songId": "0799eae0-dc75-4666-b085-83d7a9465da0",
+		"songId": "9402ca93-d21b-4f9b-99e8-e808cc528cc4",
 		"artistId": "6e0c7c0e-cba5-4c2c-a652-38f71ef5785d",
-		"albumId": "7672ac66-398b-45e8-af78-b78c0788c41c"
+		"albumId": "7672ac66-398b-45e8-af78-b78c0788c41c",
+		"tags": [
+			"cover",
+			"Ballad",
+			"piano",
+			"british",
+			"Keane cover"
+		],
+		"published": "2017-05-02T23:28:00.000Z"
 	},
 	{
 		"name": "Not Fair",
 		"artist": "Lily Allen",
 		"album": "It's Not Me, It's You (Special Edition)",
 		"date": "2020-06-30T15:24:00.000Z",
-		"songId": "043042b3-979a-4b27-af64-6440610a1cf2",
+		"songId": "d6461b2c-b66b-422d-affa-06330e838846",
 		"artistId": "6e0c7c0e-cba5-4c2c-a652-38f71ef5785d",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"pop",
+			"female vocalists",
+			"british",
+			"Lily Allen",
+			"britpop"
+		],
+		"published": "2009-03-24T18:29:00.000Z"
 	},
 	{
 		"name": "Big God",
@@ -3327,25 +4897,42 @@
 		"date": "2020-06-30T15:27:00.000Z",
 		"songId": "06d7d153-e779-4c0a-8cd5-3e72d722e133",
 		"artistId": "5fee3020-513b-48c2-b1f7-4681b01db0c6",
-		"albumId": "0299320a-6229-46e5-bf2b-81df619c7d7e"
+		"albumId": "0299320a-6229-46e5-bf2b-81df619c7d7e",
+		"tags": []
 	},
 	{
 		"name": "Love Is a Losing Game",
 		"artist": "Amy Winehouse",
 		"album": "Back to Black (Deluxe Edition)",
 		"date": "2020-06-30T15:31:00.000Z",
-		"songId": "008f636e-3fa4-4e1d-a185-f5dbc10f45a3",
+		"songId": "fd52a6d0-7aa9-49b4-a2bd-133283c5dfae",
 		"artistId": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"soul",
+			"jazz",
+			"female vocalists",
+			"Amy Winehouse",
+			"british"
+		],
+		"published": "2013-04-16T12:15:00.000Z"
 	},
 	{
 		"name": "Somewhere Only We Know",
 		"artist": "Lily Allen",
 		"album": "Sheezus",
 		"date": "2020-06-30T15:35:00.000Z",
-		"songId": "0799eae0-dc75-4666-b085-83d7a9465da0",
+		"songId": "9402ca93-d21b-4f9b-99e8-e808cc528cc4",
 		"artistId": "6e0c7c0e-cba5-4c2c-a652-38f71ef5785d",
-		"albumId": "17b5943d-8996-43c6-819f-0c7a83ae4dd2"
+		"albumId": "17b5943d-8996-43c6-819f-0c7a83ae4dd2",
+		"tags": [
+			"cover",
+			"Ballad",
+			"piano",
+			"british",
+			"Keane cover"
+		],
+		"published": "2017-05-02T23:28:00.000Z"
 	},
 	{
 		"name": "Tonya Harding (in Eb major)",
@@ -3354,43 +4941,73 @@
 		"date": "2020-06-30T15:39:00.000Z",
 		"songId": "2098f9da-741d-45cf-9bd6-925bb05066fe",
 		"artistId": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
-		"albumId": "081a5e4f-3d53-44f7-881d-226d1e6924ee"
+		"albumId": "081a5e4f-3d53-44f7-881d-226d1e6924ee",
+		"tags": [
+			"name check"
+		]
 	},
 	{
 		"name": "Lullaby in Ragtime",
 		"artist": "Harry Nilsson",
 		"album": "A Little Touch of Schmilsson in the Night",
 		"date": "2020-06-30T15:43:00.000Z",
-		"songId": "06415a8a-e21c-37ea-9c49-c7b87085322f",
+		"songId": "90e33bd2-5277-49e4-824d-f04192a5a2db",
 		"artistId": "e5963d26-01fa-40f5-b200-e0127f410a45",
-		"albumId": "0a787b1b-7a6d-4743-b2ec-f6e4773fd0d4"
+		"albumId": "0a787b1b-7a6d-4743-b2ec-f6e4773fd0d4",
+		"tags": [
+			"easy listening",
+			"lullaby",
+			"vaudewilli"
+		]
 	},
 	{
 		"name": "Anyone Who Knows What Love Is (Will Understand)",
 		"artist": "Irma Thomas",
 		"album": "Take A Look",
 		"date": "2020-06-30T15:47:00.000Z",
-		"songId": "1ba77626-97f5-39f3-83d9-22a584e3d544",
+		"songId": "db718ee9-0742-49a5-818d-58dc078ee2cc",
 		"artistId": "710c7ffa-977e-4431-9f00-c8d4eddf6808",
-		"albumId": "95ec282e-b15e-410b-8cf8-5aac16b5e035"
+		"albumId": "95ec282e-b15e-410b-8cf8-5aac16b5e035",
+		"tags": [
+			"soul",
+			"female vocalists",
+			"15 million merits",
+			"Soundtrack",
+			"Black Mirror"
+		]
 	},
 	{
 		"name": "It Never Entered My Mind",
 		"artist": "Miles Davis Quintet",
 		"album": "Workin' With The Miles Davis Quintet",
 		"date": "2020-06-30T15:50:00.000Z",
-		"songId": "0b4266cf-47eb-3250-897d-4ec2a5900aed",
+		"songId": "c5708cdc-a67c-4255-af5c-256365459ab5",
 		"artistId": "fe7245e7-d734-4ca1-8e26-691883f58201",
-		"albumId": "331e8747-0973-4f2a-98d6-49112dda068a"
+		"albumId": "331e8747-0973-4f2a-98d6-49112dda068a",
+		"tags": [
+			"jazz",
+			"trumpet",
+			"miles davis",
+			"jazz ballad",
+			"cool jazz"
+		]
 	},
 	{
 		"name": "Give Up the Ghost",
 		"artist": "Radiohead",
 		"album": "The King of Limbs",
 		"date": "2020-06-30T15:55:00.000Z",
-		"songId": "15ebfe95-f973-30fc-b8b4-eefb5c4e1db2",
+		"songId": "7829c881-93a9-422b-b10c-f4ebbed5c878",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": "0ec67913-5de5-4ca5-a354-59f34af17c77"
+		"albumId": "0ec67913-5de5-4ca5-a354-59f34af17c77",
+		"tags": [
+			"alternative",
+			"alternative rock",
+			"rock",
+			"melancholy",
+			"british"
+		],
+		"published": "2011-05-15T23:51:00.000Z"
 	},
 	{
 		"name": "Man of War",
@@ -3399,16 +5016,31 @@
 		"date": "2020-06-30T15:58:00.000Z",
 		"songId": "3c809e58-25ba-45b4-8ba7-d481325b19af",
 		"artistId": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"alternative rock",
+			"british",
+			"epic",
+			"england",
+			"fip"
+		]
 	},
 	{
 		"name": "When a Child Is Born",
 		"artist": "Johnny Mathis",
 		"album": "The Essential Johnny Mathis 3.0",
 		"date": "2020-06-30T16:04:00.000Z",
-		"songId": "00a5f926-9a26-38f3-8954-ed3c5617b5f0",
+		"songId": "f069fcc2-f7f3-4e85-8f76-42551e97dd84",
 		"artistId": "48896dee-a985-424d-9849-84802f7e79c9",
-		"albumId": ""
+		"albumId": "",
+		"tags": [
+			"christmas",
+			"70s",
+			"pop",
+			"easy listening",
+			"Christmas Songs"
+		],
+		"published": "2009-03-16T21:56:00.000Z"
 	},
 	{
 		"name": "Mirror (選択)",
