@@ -1,0 +1,677 @@
+[
+	{
+		"date": "2018-11-01T11:50:28.000Z",
+		"name": "Apple Haarlem",
+		"id": "529e315f11d2f188f40a235a"
+	},
+	{
+		"date": "2018-11-01T12:00:40.000Z",
+		"name": "McDonald's",
+		"id": "4cbf1ced021ca143a7c2590c"
+	},
+	{
+		"date": "2018-11-02T18:46:51.000Z",
+		"name": "Pizzeria Back to Basics",
+		"id": "535fe270498e10c1735e1498"
+	},
+	{
+		"date": "2018-11-03T08:01:18.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-11-03T18:46:56.000Z",
+		"name": "Sultan shoarma",
+		"id": "573362de498e4009791e56a8"
+	},
+	{
+		"date": "2018-11-04T15:25:12.000Z",
+		"name": "La Place",
+		"id": "5aca1341603d2a684f19ba2b"
+	},
+	{
+		"date": "2018-11-04T16:16:19.000Z",
+		"name": "De Dakkas",
+		"id": "5abbd41ba8792168280c2940"
+	},
+	{
+		"date": "2018-11-04T16:41:39.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2018-11-05T11:09:52.000Z",
+		"name": "SUBWAY",
+		"id": "4e899f5e9a52f9bbd0e654b4"
+	},
+	{
+		"date": "2018-11-05T19:50:53.000Z",
+		"name": "Pathé Haarlem",
+		"id": "4e148b7ac65bedaeefbe2709"
+	},
+	{
+		"date": "2018-11-05T22:31:23.000Z",
+		"name": "Jopenkerk",
+		"id": "4c727bda2b7fef3bdc3c8e1d"
+	},
+	{
+		"date": "2018-11-07T18:26:54.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2018-11-09T15:49:52.000Z",
+		"name": "Kamera Express",
+		"id": "5be5ac9b5c68380039e77c2c"
+	},
+	{
+		"date": "2018-11-09T16:02:27.000Z",
+		"name": "Marqt",
+		"id": "4ae1d0e3f964a520aa8721e3"
+	},
+	{
+		"date": "2018-11-09T19:04:49.000Z",
+		"name": "Cantina 023",
+		"id": "551ec7ec498e16e90289f15d"
+	},
+	{
+		"date": "2018-11-09T21:53:29.000Z",
+		"name": "Brasserie van Beinum",
+		"id": "4ad8bd23f964a520321421e3"
+	},
+	{
+		"date": "2018-11-11T13:53:53.000Z",
+		"name": "Karwei",
+		"id": "4b5b027ff964a520a9de28e3"
+	},
+	{
+		"date": "2018-11-12T13:39:46.000Z",
+		"name": "Primera Bisschops",
+		"id": "4f76b726e4b0df5436072c10"
+	},
+	{
+		"date": "2018-11-12T18:41:33.000Z",
+		"name": "Luca pizzeria",
+		"id": "4ba7a257f964a52089a439e3"
+	},
+	{
+		"date": "2018-11-12T20:29:04.000Z",
+		"name": "Aan de (Nieuwe)Gracht",
+		"id": "4dadb3a9fa8cf64d804e00af"
+	},
+	{
+		"date": "2018-11-13T18:19:53.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2018-11-14T12:39:20.000Z",
+		"name": "SUBWAY",
+		"id": "4e899f5e9a52f9bbd0e654b4"
+	},
+	{
+		"date": "2018-11-14T18:13:44.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2018-11-14T19:48:43.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-11-15T12:40:05.000Z",
+		"name": "The Döner Company",
+		"id": "4d790928a56e37040e5d7567"
+	},
+	{
+		"date": "2018-11-17T08:23:20.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-11-17T08:46:30.000Z",
+		"name": "Station Driehuis",
+		"id": "4b6bbb0ef964a520f4162ce3"
+	},
+	{
+		"date": "2018-11-17T09:25:12.000Z",
+		"name": "Station Heerhugowaard",
+		"id": "4ad87586f964a520861121e3"
+	},
+	{
+		"date": "2018-11-17T09:31:11.000Z",
+		"name": "'t Ouwe Station",
+		"id": "4d80ebb39d78a35d62474b0f"
+	},
+	{
+		"date": "2018-11-17T10:11:46.000Z",
+		"name": "Busstation Den Oever",
+		"id": "4cefb264b80da093aabe2d00"
+	},
+	{
+		"date": "2018-11-17T10:22:24.000Z",
+		"name": "Monument Ir. Lely",
+		"id": "4daabbfb4df01c19b1906cc9"
+	},
+	{
+		"date": "2018-11-17T10:35:08.000Z",
+		"name": "Afsluitdijk",
+		"id": "4c17d8f3834e2d7f14fd2780"
+	},
+	{
+		"date": "2018-11-17T11:11:45.000Z",
+		"name": "Busstation Leeuwarden",
+		"id": "4bb75ea7941ad13a6f8e20e3"
+	},
+	{
+		"date": "2018-11-17T11:19:40.000Z",
+		"name": "Julia's",
+		"id": "4d2ad9cf4ab78eec5b203126"
+	},
+	{
+		"date": "2018-11-17T11:51:20.000Z",
+		"name": "Leeuwarden Railway Station (Station Leeuwarden)",
+		"id": "4b17ca45f964a52032c823e3"
+	},
+	{
+		"date": "2018-11-17T11:51:40.000Z",
+		"name": "Albert Heijn to go",
+		"id": "4cc15728aa5776b099e07544"
+	},
+	{
+		"date": "2018-11-17T12:46:03.000Z",
+		"name": "Busstation Dokkum",
+		"id": "4bcb33d8fb84c9b6744d1e3e"
+	},
+	{
+		"date": "2018-11-17T12:46:33.000Z",
+		"name": "Dokkum",
+		"id": "4fdc8646e4b0735a6de198c5"
+	},
+	{
+		"date": "2018-11-17T13:11:06.000Z",
+		"name": "Bushalte Haven",
+		"id": "589c406bf595726efd40a9ea"
+	},
+	{
+		"date": "2018-11-17T13:11:19.000Z",
+		"name": "Haven Lauwersoog",
+		"id": "4bf6bb5213aed13a4b1ceaf7"
+	},
+	{
+		"date": "2018-11-17T13:11:29.000Z",
+		"name": "Veerterminal Wagenborg",
+		"id": "4c3363a066e40f4736e8c78b"
+	},
+	{
+		"date": "2018-11-17T15:18:35.000Z",
+		"name": "Schiermonikoog",
+		"id": "4d11c0f4396ba09342d4cfb2"
+	},
+	{
+		"date": "2018-11-17T15:22:37.000Z",
+		"name": "Pier Schiermonnikoog",
+		"id": "4d8de787c1b1721e78b92246"
+	},
+	{
+		"date": "2018-11-17T15:22:50.000Z",
+		"name": "Wagenborg Schiermonnikoog",
+		"id": "4f6332f1e4b0ce431be7b16e"
+	},
+	{
+		"date": "2018-11-17T15:29:55.000Z",
+		"name": "Graaf Bernstorff",
+		"id": "4bdab6a93904a5935915479e"
+	},
+	{
+		"date": "2018-11-17T15:36:01.000Z",
+		"name": "Parkje",
+		"id": "4d96eaece07ea35de0b8cb02"
+	},
+	{
+		"date": "2018-11-17T16:21:08.000Z",
+		"name": "Zuidertoren (Watertoren Schiermonnikoog)",
+		"id": "4dc19022c65b268b41dec7b5"
+	},
+	{
+		"date": "2018-11-17T16:58:11.000Z",
+		"name": "De Ware Jacob",
+		"id": "4ba3d101f964a520ae6238e3"
+	},
+	{
+		"date": "2018-11-17T19:55:05.000Z",
+		"name": "Graaf Bernstorff",
+		"id": "4bdab6a93904a5935915479e"
+	},
+	{
+		"date": "2018-11-18T06:35:27.000Z",
+		"name": "Noordertoren",
+		"id": "4c4ab1339c8d2d7f0debe469"
+	},
+	{
+		"date": "2018-11-18T06:56:51.000Z",
+		"name": "Strand Schiermonnikoog",
+		"id": "4c13352f77cea593aa86ce60"
+	},
+	{
+		"date": "2018-11-18T06:57:04.000Z",
+		"name": "Duinen",
+		"id": "4f8205c8e4b050ced757039b"
+	},
+	{
+		"date": "2018-11-18T07:28:33.000Z",
+		"name": "Nationaal Park Schiermonnikoog",
+		"id": "5a89fb34bed4832067ae2dc8"
+	},
+	{
+		"date": "2018-11-18T07:51:26.000Z",
+		"name": "Zuidertoren (Watertoren Schiermonnikoog)",
+		"id": "4dc19022c65b268b41dec7b5"
+	},
+	{
+		"date": "2018-11-18T09:23:12.000Z",
+		"name": "Langestreek om de noord Balg",
+		"id": "4e62775518a8ce02fcdcf937"
+	},
+	{
+		"date": "2018-11-18T09:35:47.000Z",
+		"name": "Zuidertoren (Watertoren Schiermonnikoog)",
+		"id": "4dc19022c65b268b41dec7b5"
+	},
+	{
+		"date": "2018-11-18T11:05:06.000Z",
+		"name": "Strand Schiermonnikoog",
+		"id": "4c13352f77cea593aa86ce60"
+	},
+	{
+		"date": "2018-11-18T11:56:07.000Z",
+		"name": "Parkje",
+		"id": "4d96eaece07ea35de0b8cb02"
+	},
+	{
+		"date": "2018-11-18T12:12:28.000Z",
+		"name": "Pier Schiermonnikoog",
+		"id": "4d8de787c1b1721e78b92246"
+	},
+	{
+		"date": "2018-11-18T12:15:15.000Z",
+		"name": "Wagenborg Schiermonnikoog",
+		"id": "4f6332f1e4b0ce431be7b16e"
+	},
+	{
+		"date": "2018-11-18T12:15:33.000Z",
+		"name": "MS Rottum (Schiermonnikoog - Lauwersoog)",
+		"id": "54d72fd0498e3c8c0383d838"
+	},
+	{
+		"date": "2018-11-18T13:25:24.000Z",
+		"name": "Bushalte Haven",
+		"id": "589c406bf595726efd40a9ea"
+	},
+	{
+		"date": "2018-11-18T13:25:32.000Z",
+		"name": "Haven Lauwersoog",
+		"id": "4bf6bb5213aed13a4b1ceaf7"
+	},
+	{
+		"date": "2018-11-18T13:25:45.000Z",
+		"name": "Lauwersoog",
+		"id": "4d34a8f35017a09312ff5c9b"
+	},
+	{
+		"date": "2018-11-18T14:22:34.000Z",
+		"name": "Leeuwarden",
+		"id": "4c107efa81e976b014500feb"
+	},
+	{
+		"date": "2018-11-18T14:26:53.000Z",
+		"name": "Zuiderplein",
+		"id": "4f840554e4b0d7b7e60e94bf"
+	},
+	{
+		"date": "2018-11-18T14:30:38.000Z",
+		"name": "Albert Heijn to go",
+		"id": "4cc15728aa5776b099e07544"
+	},
+	{
+		"date": "2018-11-18T14:36:57.000Z",
+		"name": "Leeuwarden Railway Station (Station Leeuwarden)",
+		"id": "4b17ca45f964a52032c823e3"
+	},
+	{
+		"date": "2018-11-18T15:48:09.000Z",
+		"name": "Zwolle Railway Station (Station Zwolle)",
+		"id": "4b34af7af964a520452825e3"
+	},
+	{
+		"date": "2018-11-18T16:45:49.000Z",
+		"name": "Station Almere Centrum",
+		"id": "4b1bfd8ef964a520420024e3"
+	},
+	{
+		"date": "2018-11-18T17:08:41.000Z",
+		"name": "Amsterdam Zuid Railway Station (Station Amsterdam Zuid)",
+		"id": "4a952e89f964a520a62220e3"
+	},
+	{
+		"date": "2018-11-18T17:31:44.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2018-11-18T17:52:16.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-11-18T18:06:09.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-11-19T19:09:03.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2018-11-19T20:29:05.000Z",
+		"name": "BRET",
+		"id": "553a5a76498e04e927dd5f59"
+	},
+	{
+		"date": "2018-11-19T22:52:02.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-11-20T17:30:07.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2018-11-20T17:56:13.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-11-21T19:07:26.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-11-21T19:28:09.000Z",
+		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
+		"id": "4a688ba1f964a52088ca1fe3"
+	},
+	{
+		"date": "2018-11-21T19:37:42.000Z",
+		"name": "Buslijn 48",
+		"id": "50b21cfbe4b08106f3bdc655"
+	},
+	{
+		"date": "2018-11-21T19:39:20.000Z",
+		"name": "Haarlemmerbuurt",
+		"id": "5314b3d7e4b0d805d3748b1a"
+	},
+	{
+		"date": "2018-11-21T20:21:13.000Z",
+		"name": "wagamama",
+		"id": "556f298b498eedd7a7f6d003"
+	},
+	{
+		"date": "2018-11-21T20:58:56.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-11-21T21:08:09.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-11-22T18:33:40.000Z",
+		"name": "Vomar Voordeelmarkt",
+		"id": "4b72c969f964a52096882de3"
+	},
+	{
+		"date": "2018-11-23T05:16:46.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-11-23T05:51:40.000Z",
+		"name": "Schiphol Airport Railway Station (Station Schiphol Airport)",
+		"id": "4b14bf25f964a5203fa623e3"
+	},
+	{
+		"date": "2018-11-23T06:05:04.000Z",
+		"name": "Check-in Row 1",
+		"id": "59001c0b6fd6262556748d44"
+	},
+	{
+		"date": "2018-11-23T06:11:03.000Z",
+		"name": "Footbridge Privium P2 - BC-Corridor",
+		"id": "506ac325e4b04c2e3973be4e"
+	},
+	{
+		"date": "2018-11-23T06:32:39.000Z",
+		"name": "Gate B27",
+		"id": "4bf972565efe2d7fe23b6c34"
+	},
+	{
+		"date": "2018-11-23T06:49:21.000Z",
+		"name": "Tribune",
+		"id": "55ae2ec2498ee1551dd7d62c"
+	},
+	{
+		"date": "2018-11-23T09:28:39.000Z",
+		"name": "Munich Franz Josef Strauss Airport (MUC) (Flughafen München „Franz Josef Strauß“)",
+		"id": "4cbd1bfaf50e224b160503fc"
+	},
+	{
+		"date": "2018-11-23T09:40:46.000Z",
+		"name": "T2 Shuttle Train (T2 Pendelzug)",
+		"id": "5734541e498e721681f5beb0"
+	},
+	{
+		"date": "2018-11-23T10:45:47.000Z",
+		"name": "Terminal 2",
+		"id": "4b93a176f964a520f14a34e3"
+	},
+	{
+		"date": "2018-11-23T11:07:39.000Z",
+		"name": "4 Urbs",
+		"id": "531e081d11d27edea47f64b2"
+	},
+	{
+		"date": "2018-11-23T13:14:46.000Z",
+		"name": "Gate G17",
+		"id": "4c5aeb99b05c1b8d2365d9b1"
+	},
+	{
+		"date": "2018-11-23T14:21:33.000Z",
+		"name": "Leipzig/Halle Airport (LEJ) (Flughafen Leipzig/Halle)",
+		"id": "4b5ab86af964a52005d228e3"
+	},
+	{
+		"date": "2018-11-23T14:44:28.000Z",
+		"name": "Bahnhof Flughafen Leipzig/Halle",
+		"id": "4c3423b3a0ced13aafc5176e"
+	},
+	{
+		"date": "2018-11-23T15:15:16.000Z",
+		"name": "H Leipzig Hauptbahnhof",
+		"id": "4db2d13e4b226b343d69c423"
+	},
+	{
+		"date": "2018-11-23T17:08:19.000Z",
+		"name": "Zentrum-Südost",
+		"id": "531329f8498ed0b34939b13e"
+	},
+	{
+		"date": "2018-11-23T18:03:18.000Z",
+		"name": "H Gerichtsweg",
+		"id": "4c977c5a72dd224b7ae7b491"
+	},
+	{
+		"date": "2018-11-23T19:15:12.000Z",
+		"name": "Hotel LindenauINN",
+		"id": "58de376ed0bb3e2f45b05e6a"
+	},
+	{
+		"date": "2018-11-23T19:47:34.000Z",
+		"name": "Bürgermeister-Müller-Denkmal",
+		"id": "4f4ea92ee4b08cc4b678fbb6"
+	},
+	{
+		"date": "2018-11-23T20:13:24.000Z",
+		"name": "H Gerichtsweg",
+		"id": "4c977c5a72dd224b7ae7b491"
+	},
+	{
+		"date": "2018-11-24T08:15:33.000Z",
+		"name": "Hotel LindenauINN",
+		"id": "58de376ed0bb3e2f45b05e6a"
+	},
+	{
+		"date": "2018-11-24T08:36:28.000Z",
+		"name": "Augustusplatz",
+		"id": "4b9b3687f964a5202ffa35e3"
+	},
+	{
+		"date": "2018-11-24T08:53:58.000Z",
+		"name": "Ernst-Thälmann-Platz",
+		"id": "4f2b821ae4b05d297bd762cb"
+	},
+	{
+		"date": "2018-11-24T10:00:59.000Z",
+		"name": "Kaufland",
+		"id": "4bf2b50682002d7ffdd8d0bb"
+	},
+	{
+		"date": "2018-11-24T10:48:38.000Z",
+		"name": "Hotel LindenauINN",
+		"id": "58de376ed0bb3e2f45b05e6a"
+	},
+	{
+		"date": "2018-11-24T21:10:28.000Z",
+		"name": "Gap Gap",
+		"id": "58d67bcce6160c04e88d3e62"
+	},
+	{
+		"date": "2018-11-25T01:25:19.000Z",
+		"name": "Hotel LindenauINN",
+		"id": "58de376ed0bb3e2f45b05e6a"
+	},
+	{
+		"date": "2018-11-25T06:39:02.000Z",
+		"name": "H Angerbrücke",
+		"id": "4c5c4c0a857ca593dea9c9cb"
+	},
+	{
+		"date": "2018-11-25T06:41:20.000Z",
+		"name": "Bäckerei Schäfer's",
+		"id": "556019e5498e4406b5660ddb"
+	},
+	{
+		"date": "2018-11-25T07:11:37.000Z",
+		"name": "H Leipzig Hauptbahnhof",
+		"id": "4db2d13e4b226b343d69c423"
+	},
+	{
+		"date": "2018-11-25T07:39:25.000Z",
+		"name": "Bahnhof Flughafen Leipzig/Halle",
+		"id": "4c3423b3a0ced13aafc5176e"
+	},
+	{
+		"date": "2018-11-25T07:44:04.000Z",
+		"name": "Leipzig/Halle Airport (LEJ) (Flughafen Leipzig/Halle)",
+		"id": "4b5ab86af964a52005d228e3"
+	},
+	{
+		"date": "2018-11-25T08:01:10.000Z",
+		"name": "Gate 24",
+		"id": "4d88e0d5f607a0936a47df86"
+	},
+	{
+		"date": "2018-11-25T10:30:32.000Z",
+		"name": "Frankfurt Airport (FRA) (Frankfurt Airport)",
+		"id": "4b058853f964a5201bbf22e3"
+	},
+	{
+		"date": "2018-11-25T10:35:47.000Z",
+		"name": "Start- und Landebahn Süd",
+		"id": "560d116e498e0b8e1c128149"
+	},
+	{
+		"date": "2018-11-25T10:59:44.000Z",
+		"name": "Gate A13",
+		"id": "4e0e22d552b1b27c1b83fef1"
+	},
+	{
+		"date": "2018-11-25T11:29:43.000Z",
+		"name": "Lufthansa Flight LH 992",
+		"id": "4f76116ed4f2eb16ce34ae03"
+	},
+	{
+		"date": "2018-11-25T12:26:40.000Z",
+		"name": "Kaagbaan (06 / 24)",
+		"id": "4cb5da6852edb1f70d606afe"
+	},
+	{
+		"date": "2018-11-25T12:28:28.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2018-11-25T12:29:05.000Z",
+		"name": "Gate B27",
+		"id": "4bf972565efe2d7fe23b6c34"
+	},
+	{
+		"date": "2018-11-26T17:47:38.000Z",
+		"name": "Toolenburg",
+		"id": "513cd1b2e4b0178149e62b30"
+	},
+	{
+		"date": "2018-11-26T20:14:19.000Z",
+		"name": "Albert Heijn",
+		"id": "4cc90c085c17b60cd0fa0605"
+	},
+	{
+		"date": "2018-11-26T23:58:53.000Z",
+		"name": "Sultan shoarma",
+		"id": "573362de498e4009791e56a8"
+	},
+	{
+		"date": "2018-11-27T13:59:12.000Z",
+		"name": "Hello I'm Local Boutique Hostel",
+		"id": "51517d1e067ddbd25554894d"
+	},
+	{
+		"date": "2018-11-27T18:41:33.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2018-11-28T19:21:26.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-11-29T18:48:04.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2018-11-30T11:35:02.000Z",
+		"name": "Havana House",
+		"id": "4da5a0451e726e49695feea6"
+	},
+	{
+		"date": "2018-11-30T11:41:38.000Z",
+		"name": "SUBWAY",
+		"id": "4e899f5e9a52f9bbd0e654b4"
+	}
+]

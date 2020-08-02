@@ -1,0 +1,777 @@
+[
+	{
+		"date": "2018-12-01T11:37:38.000Z",
+		"name": "Ramen Brothers Noodle Bar",
+		"id": "5b4e2b63a42362002c42fc59"
+	},
+	{
+		"date": "2018-12-01T15:41:01.000Z",
+		"name": "Centrum",
+		"id": "4dd3d7aa1f6e5374d6e24f5e"
+	},
+	{
+		"date": "2018-12-01T15:51:32.000Z",
+		"name": "Bushalte Centrum / Verwulft",
+		"id": "4bbb5a70935e95212a102990"
+	},
+	{
+		"date": "2018-12-01T16:01:11.000Z",
+		"name": "Albert Heijn to go",
+		"id": "4b862ee0f964a520038231e3"
+	},
+	{
+		"date": "2018-12-01T17:32:31.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-12-01T17:57:26.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-12-01T18:28:27.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2018-12-01T22:33:28.000Z",
+		"name": "August Allebéplein",
+		"id": "502946f1e4b0b9a32502a4e0"
+	},
+	{
+		"date": "2018-12-02T11:44:38.000Z",
+		"name": "Smaczek Supermarkt",
+		"id": "51a8ce66498e2a3950a1f59a"
+	},
+	{
+		"date": "2018-12-02T23:37:55.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-12-03T16:33:16.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2018-12-06T16:11:31.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2018-12-06T22:56:37.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-12-09T14:31:09.000Z",
+		"name": "Ramen Brothers Noodle Bar",
+		"id": "5b4e2b63a42362002c42fc59"
+	},
+	{
+		"date": "2018-12-09T15:20:38.000Z",
+		"name": "Multivlaai & American bakery",
+		"id": "5bf950b581635b002cf004fe"
+	},
+	{
+		"date": "2018-12-10T18:31:28.000Z",
+		"name": "Marqt",
+		"id": "4ae1d0e3f964a520aa8721e3"
+	},
+	{
+		"date": "2018-12-12T07:26:20.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-12-12T08:22:35.000Z",
+		"name": "Den Haag Centraal Railway Station (Station Den Haag Centraal)",
+		"id": "4aeff0e3f964a52060da21e3"
+	},
+	{
+		"date": "2018-12-12T08:30:44.000Z",
+		"name": "Den Haag Centraal Railway Station (Station Den Haag Centraal)",
+		"id": "4aeff0e3f964a52060da21e3"
+	},
+	{
+		"date": "2018-12-12T08:30:57.000Z",
+		"name": "Brood Zaak",
+		"id": "5bbb27b889b06a0039dcc94d"
+	},
+	{
+		"date": "2018-12-12T09:00:29.000Z",
+		"name": "Koninklijke Academie van Beeldende Kunsten",
+		"id": "4b41c70df964a520dcc825e3"
+	},
+	{
+		"date": "2018-12-12T13:32:39.000Z",
+		"name": "Royal Academy of Art, The Hague",
+		"id": "57173c05498ed3236cdf058e"
+	},
+	{
+		"date": "2018-12-12T13:32:57.000Z",
+		"name": "Graphic Department Studio - KABK",
+		"id": "513a0019e4b0ba282dd57201"
+	},
+	{
+		"date": "2018-12-12T14:43:33.000Z",
+		"name": "Den Haag Centraal Railway Station (Station Den Haag Centraal)",
+		"id": "4aeff0e3f964a52060da21e3"
+	},
+	{
+		"date": "2018-12-12T18:11:14.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-12-12T18:24:10.000Z",
+		"name": "Pathé Haarlem",
+		"id": "4e148b7ac65bedaeefbe2709"
+	},
+	{
+		"date": "2018-12-12T21:43:55.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-12-14T16:17:49.000Z",
+		"name": "Gall & Gall",
+		"id": "4d1b247602a66dcbc22a6665"
+	},
+	{
+		"date": "2018-12-14T18:44:27.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-12-16T15:51:05.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-12-16T17:44:07.000Z",
+		"name": "IJburglaan",
+		"id": "510a274ae4b0cea390a7a6a9"
+	},
+	{
+		"date": "2018-12-16T21:51:23.000Z",
+		"name": "Salsa Shop",
+		"id": "574f4d9c498efc56a240b8c2"
+	},
+	{
+		"date": "2018-12-16T22:14:45.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-12-18T13:01:37.000Z",
+		"name": "Kinki kappers",
+		"id": "4b978e2af964a5209d0835e3"
+	},
+	{
+		"date": "2018-12-19T18:44:41.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2018-12-20T10:22:00.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-12-20T11:01:34.000Z",
+		"name": "Schiphol Airport Railway Station (Station Schiphol Airport)",
+		"id": "4b14bf25f964a5203fa623e3"
+	},
+	{
+		"date": "2018-12-20T11:01:48.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2018-12-20T12:18:43.000Z",
+		"name": "Concourse B",
+		"id": "4f58b3fae4b0db2050e0a11d"
+	},
+	{
+		"date": "2018-12-20T12:19:09.000Z",
+		"name": "Gate B8",
+		"id": "502a43b4e4b02414caf51cd8"
+	},
+	{
+		"date": "2018-12-20T12:33:13.000Z",
+		"name": "Schiphol B Platform",
+		"id": "4ba7a96ff964a52055a739e3"
+	},
+	{
+		"date": "2018-12-20T13:30:15.000Z",
+		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
+		"id": "4ba14c55f964a52045aa37e3"
+	},
+	{
+		"date": "2018-12-20T13:41:20.000Z",
+		"name": "Terminal B",
+		"id": "59622833603d2a7c948972b5"
+	},
+	{
+		"date": "2018-12-20T13:42:44.000Z",
+		"name": "Baggage Claim",
+		"id": "51d7de23498eb1cf171bd4e8"
+	},
+	{
+		"date": "2018-12-20T14:02:20.000Z",
+		"name": "Ibis Luxembourg Airport",
+		"id": "4c2286de11de20a1130485ce"
+	},
+	{
+		"date": "2018-12-20T15:09:35.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2018-12-20T17:01:09.000Z",
+		"name": "The Game",
+		"id": "5897734a6c682b1f84a7e7a7"
+	},
+	{
+		"date": "2018-12-20T18:14:34.000Z",
+		"name": "Come à la Maison",
+		"id": "54747587498e5a7d3d71b8bf"
+	},
+	{
+		"date": "2018-12-21T05:31:26.000Z",
+		"name": "Ibis Luxembourg Airport",
+		"id": "4c2286de11de20a1130485ce"
+	},
+	{
+		"date": "2018-12-21T07:29:23.000Z",
+		"name": "Auchan",
+		"id": "4b43c3bbf964a52006e925e3"
+	},
+	{
+		"date": "2018-12-21T10:23:20.000Z",
+		"name": "Duodecad IT Services Luxembourg S.a.r.l.",
+		"id": "50e6b4d5e4b0e433760f7f26"
+	},
+	{
+		"date": "2018-12-21T10:23:39.000Z",
+		"name": "Docler Holding",
+		"id": "52cbb89a11d243c791c37510"
+	},
+	{
+		"date": "2018-12-21T11:12:31.000Z",
+		"name": "Station De Tramway - Bibliothèque Nationale",
+		"id": "5a38c8801b0ea57a2f25c6bf"
+	},
+	{
+		"date": "2018-12-21T11:29:42.000Z",
+		"name": "sur le parvis du bâtiment KAD",
+		"id": "4e8300427ee6cb77878faccc"
+	},
+	{
+		"date": "2018-12-21T11:30:48.000Z",
+		"name": "Quartier des Institutions Européennes",
+		"id": "4fe19eb2e4b0f9ff3ce9dd2f"
+	},
+	{
+		"date": "2018-12-21T11:39:58.000Z",
+		"name": "Place de l'Europe",
+		"id": "505f01c1e4b066ef67e00011"
+	},
+	{
+		"date": "2018-12-21T11:56:31.000Z",
+		"name": "La Cuvette",
+		"id": "5228dec211d26409092d8f0d"
+	},
+	{
+		"date": "2018-12-21T12:13:16.000Z",
+		"name": "Axento",
+		"id": "4f8bc7f7e4b0e67b873a7fe9"
+	},
+	{
+		"date": "2018-12-21T14:41:19.000Z",
+		"name": "Poutty Stein",
+		"id": "5c1cfb7fdbde110025095005"
+	},
+	{
+		"date": "2018-12-21T15:09:29.000Z",
+		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
+		"id": "4ba14c55f964a52045aa37e3"
+	},
+	{
+		"date": "2018-12-21T15:32:06.000Z",
+		"name": "Terminal B",
+		"id": "59622833603d2a7c948972b5"
+	},
+	{
+		"date": "2018-12-21T15:43:12.000Z",
+		"name": "Moselier",
+		"id": "57066e03498e40426df55ddd"
+	},
+	{
+		"date": "2018-12-21T16:33:54.000Z",
+		"name": "Gate A01",
+		"id": "4e68e9f38877a40daadb9e42"
+	},
+	{
+		"date": "2018-12-21T19:04:14.000Z",
+		"name": "Dublin Airport (DUB)",
+		"id": "4ade0f75f964a520957221e3"
+	},
+	{
+		"date": "2018-12-21T19:15:15.000Z",
+		"name": "Terminal 1",
+		"id": "4bc95141fb84c9b677011b3e"
+	},
+	{
+		"date": "2018-12-21T20:03:26.000Z",
+		"name": "Finnstown Castle Hotel",
+		"id": "4bd7766f304fce72549833ab"
+	},
+	{
+		"date": "2018-12-22T10:18:26.000Z",
+		"name": "Peacock Restaurant",
+		"id": "5156f12ce4b03fe71a168e5f"
+	},
+	{
+		"date": "2018-12-22T11:58:27.000Z",
+		"name": "Molly Malone Statue",
+		"id": "4bb0d918f964a520df623ce3"
+	},
+	{
+		"date": "2018-12-22T12:40:33.000Z",
+		"name": "Grafton Street",
+		"id": "4b05a09bf964a520ebdf22e3"
+	},
+	{
+		"date": "2018-12-22T12:59:19.000Z",
+		"name": "St Stephen's Green Shopping Centre",
+		"id": "4ade0f5ef964a5202a7221e3"
+	},
+	{
+		"date": "2018-12-22T13:17:48.000Z",
+		"name": "TK Maxx",
+		"id": "4b780cf4f964a52091b32ee3"
+	},
+	{
+		"date": "2018-12-22T14:00:20.000Z",
+		"name": "St Stephen's Green",
+		"id": "4b2750dcf964a520d78524e3"
+	},
+	{
+		"date": "2018-12-22T14:18:15.000Z",
+		"name": "The Little Museum of Dublin",
+		"id": "4e7cbf8db8f7afea0c3e8d73"
+	},
+	{
+		"date": "2018-12-22T15:48:14.000Z",
+		"name": "Umi Falafel",
+		"id": "5250bcbe11d2993d2a1e17a0"
+	},
+	{
+		"date": "2018-12-22T16:49:27.000Z",
+		"name": "Tourist Office",
+		"id": "4bed71ac3372c928069d1114"
+	},
+	{
+		"date": "2018-12-22T17:17:53.000Z",
+		"name": "Crowbar",
+		"id": "527ae612498e61e349ee59a1"
+	},
+	{
+		"date": "2018-12-22T18:28:27.000Z",
+		"name": "747 bus stop",
+		"id": "50d86587e4b0795444bdf1d8"
+	},
+	{
+		"date": "2018-12-22T19:05:50.000Z",
+		"name": "The Croppies Acre",
+		"id": "4cf270981c158cfaeea3d7b5"
+	},
+	{
+		"date": "2018-12-22T20:47:22.000Z",
+		"name": "Finnstown Castle Hotel",
+		"id": "4bd7766f304fce72549833ab"
+	},
+	{
+		"date": "2018-12-22T22:04:35.000Z",
+		"name": "Peacock Restaurant",
+		"id": "5156f12ce4b03fe71a168e5f"
+	},
+	{
+		"date": "2018-12-23T09:23:10.000Z",
+		"name": "Peacock Restaurant",
+		"id": "5156f12ce4b03fe71a168e5f"
+	},
+	{
+		"date": "2018-12-23T12:09:26.000Z",
+		"name": "Le Centre-Ville",
+		"id": "58be76d844587f67b9abc27a"
+	},
+	{
+		"date": "2018-12-23T13:05:22.000Z",
+		"name": "Howth Market",
+		"id": "4af6e00ff964a520c90322e3"
+	},
+	{
+		"date": "2018-12-23T13:29:45.000Z",
+		"name": "Howth Harbour",
+		"id": "4bcae743fb84c9b666e61d3e"
+	},
+	{
+		"date": "2018-12-23T13:38:54.000Z",
+		"name": "The Brass Monkey",
+		"id": "4d20c597bdd7a093412af0ce"
+	},
+	{
+		"date": "2018-12-23T14:18:43.000Z",
+		"name": "Howth / Binn Éadair",
+		"id": "4dd6d6df52b1a5c6443ddcaa"
+	},
+	{
+		"date": "2018-12-23T14:34:48.000Z",
+		"name": "Howth Summit",
+		"id": "4b8a4286f964a520106632e3"
+	},
+	{
+		"date": "2018-12-23T15:28:19.000Z",
+		"name": "The Baily Lighthouse",
+		"id": "4e2c45626284b96d7b8aa09f"
+	},
+	{
+		"date": "2018-12-23T15:41:00.000Z",
+		"name": "Howth Head",
+		"id": "4ba62ab1f964a5207e3839e3"
+	},
+	{
+		"date": "2018-12-23T16:26:22.000Z",
+		"name": "Rosie Hackett Bridge",
+		"id": "51002eb0e4b0a270ff9d1ac5"
+	},
+	{
+		"date": "2018-12-23T16:45:35.000Z",
+		"name": "Cornucopia",
+		"id": "4ade0f37f964a520867121e3"
+	},
+	{
+		"date": "2018-12-23T17:19:20.000Z",
+		"name": "Fallon & Byrne Food Store",
+		"id": "4ade0f6df964a520727221e3"
+	},
+	{
+		"date": "2018-12-23T17:36:49.000Z",
+		"name": "SPAR",
+		"id": "4b21c2dbf964a520274124e3"
+	},
+	{
+		"date": "2018-12-23T17:58:13.000Z",
+		"name": "Dublin Bus Stop No 312",
+		"id": "50294ac5e4b0352efa51e792"
+	},
+	{
+		"date": "2018-12-23T20:22:51.000Z",
+		"name": "Finnstown Castle Hotel",
+		"id": "4bd7766f304fce72549833ab"
+	},
+	{
+		"date": "2018-12-24T09:15:54.000Z",
+		"name": "Peacock Restaurant",
+		"id": "5156f12ce4b03fe71a168e5f"
+	},
+	{
+		"date": "2018-12-24T11:28:31.000Z",
+		"name": "Adamstown",
+		"id": "4de3fd48c65b7a3e213f9e6b"
+	},
+	{
+		"date": "2018-12-24T12:10:42.000Z",
+		"name": "The Ha'penny (Liffey) Bridge",
+		"id": "4afbcc5df964a520171f22e3"
+	},
+	{
+		"date": "2018-12-24T12:21:51.000Z",
+		"name": "St Stephen's Green Shopping Centre",
+		"id": "4ade0f5ef964a5202a7221e3"
+	},
+	{
+		"date": "2018-12-24T12:44:33.000Z",
+		"name": "Insomnia",
+		"id": "4b3107e5f964a5209afe24e3"
+	},
+	{
+		"date": "2018-12-24T13:46:14.000Z",
+		"name": "College Green",
+		"id": "4bc255cbabf49521476ac293"
+	},
+	{
+		"date": "2018-12-24T14:08:16.000Z",
+		"name": "The Clockwork Door",
+		"id": "581792fa38fa6cd463202acc"
+	},
+	{
+		"date": "2018-12-24T14:46:42.000Z",
+		"name": "The Icon Factory",
+		"id": "4e6be5d31f6e84ca4c26ed11"
+	},
+	{
+		"date": "2018-12-24T15:10:01.000Z",
+		"name": "College Park (Páirc an Choláiste)",
+		"id": "4d9ca0f683f36ea800d2a594"
+	},
+	{
+		"date": "2018-12-24T15:10:24.000Z",
+		"name": "Trinity College",
+		"id": "4ade0ed4f964a5200a7021e3"
+	},
+	{
+		"date": "2018-12-24T15:40:52.000Z",
+		"name": "Sweny's Pharmacy",
+		"id": "4d6a40682ab82d437793e1d5"
+	},
+	{
+		"date": "2018-12-24T16:01:36.000Z",
+		"name": "Kennedy's",
+		"id": "4afc75fdf964a520f42222e3"
+	},
+	{
+		"date": "2018-12-24T16:50:28.000Z",
+		"name": "Centra",
+		"id": "4b9a66c7f964a52035b235e3"
+	},
+	{
+		"date": "2018-12-24T17:26:40.000Z",
+		"name": "Sisu Izakaya",
+		"id": "5c0bd800772fbc002cbe741c"
+	},
+	{
+		"date": "2018-12-24T18:36:05.000Z",
+		"name": "Grafton Street",
+		"id": "4b05a09bf964a520ebdf22e3"
+	},
+	{
+		"date": "2018-12-24T20:17:36.000Z",
+		"name": "Finnstown Castle Hotel",
+		"id": "4bd7766f304fce72549833ab"
+	},
+	{
+		"date": "2018-12-25T10:41:58.000Z",
+		"name": "Peacock Restaurant",
+		"id": "5156f12ce4b03fe71a168e5f"
+	},
+	{
+		"date": "2018-12-25T20:37:27.000Z",
+		"name": "Peacock Restaurant",
+		"id": "5156f12ce4b03fe71a168e5f"
+	},
+	{
+		"date": "2018-12-26T11:46:59.000Z",
+		"name": "Peacock Restaurant",
+		"id": "5156f12ce4b03fe71a168e5f"
+	},
+	{
+		"date": "2018-12-26T12:54:28.000Z",
+		"name": "Merrion Square Park",
+		"id": "4b433a82f964a52047dd25e3"
+	},
+	{
+		"date": "2018-12-26T13:00:47.000Z",
+		"name": "The National Museum of Ireland - Natural History",
+		"id": "4bc30e692a89ef3b2273f488"
+	},
+	{
+		"date": "2018-12-26T13:48:31.000Z",
+		"name": "O'Connell Bridge",
+		"id": "4afbccfef964a520181f22e3"
+	},
+	{
+		"date": "2018-12-26T14:00:04.000Z",
+		"name": "Bóbó's Gourmet Irish Burgers",
+		"id": "579908a9498e69e03bd1b3d9"
+	},
+	{
+		"date": "2018-12-26T14:47:51.000Z",
+		"name": "The Spire of Dublin",
+		"id": "4afd215ff964a520052722e3"
+	},
+	{
+		"date": "2018-12-26T14:50:23.000Z",
+		"name": "Londis / Indulge",
+		"id": "4b5eadf1f964a520b29529e3"
+	},
+	{
+		"date": "2018-12-26T15:10:21.000Z",
+		"name": "Oscar Wilde Statue",
+		"id": "4bb1fa4df964a52024af3ce3"
+	},
+	{
+		"date": "2018-12-26T16:14:56.000Z",
+		"name": "Doheny & Nesbitt",
+		"id": "4b204feaf964a520763024e3"
+	},
+	{
+		"date": "2018-12-26T19:09:36.000Z",
+		"name": "Carluccio's",
+		"id": "4afd7223f964a520dd2722e3"
+	},
+	{
+		"date": "2018-12-26T20:19:01.000Z",
+		"name": "Bus Stop 494",
+		"id": "4eaaa4c4b803cf1ffb2d017d"
+	},
+	{
+		"date": "2018-12-26T22:52:19.000Z",
+		"name": "Finnstown Castle Hotel",
+		"id": "4bd7766f304fce72549833ab"
+	},
+	{
+		"date": "2018-12-27T09:51:14.000Z",
+		"name": "Peacock Restaurant",
+		"id": "5156f12ce4b03fe71a168e5f"
+	},
+	{
+		"date": "2018-12-27T10:39:03.000Z",
+		"name": "Finnstown Castle Hotel",
+		"id": "4bd7766f304fce72549833ab"
+	},
+	{
+		"date": "2018-12-27T13:57:50.000Z",
+		"name": "The Lord Lucan",
+		"id": "4c114eb917002d7f8efbe509"
+	},
+	{
+		"date": "2018-12-28T09:44:26.000Z",
+		"name": "Peacock Restaurant",
+		"id": "5156f12ce4b03fe71a168e5f"
+	},
+	{
+		"date": "2018-12-28T10:36:16.000Z",
+		"name": "Finnstown Castle Hotel",
+		"id": "4bd7766f304fce72549833ab"
+	},
+	{
+		"date": "2018-12-28T11:04:52.000Z",
+		"name": "Terminal 1",
+		"id": "4bc95141fb84c9b677011b3e"
+	},
+	{
+		"date": "2018-12-28T11:05:15.000Z",
+		"name": "Dublin Airport (DUB)",
+		"id": "4ade0f75f964a520957221e3"
+	},
+	{
+		"date": "2018-12-28T11:08:12.000Z",
+		"name": "Departures Hall",
+		"id": "4c24ea58b7b8a593e3493de8"
+	},
+	{
+		"date": "2018-12-28T11:45:15.000Z",
+		"name": "Security Screening",
+		"id": "4ed375624690a03b60e91a37"
+	},
+	{
+		"date": "2018-12-28T11:55:36.000Z",
+		"name": "The Loop",
+		"id": "4b2cb48bf964a520a8c824e3"
+	},
+	{
+		"date": "2018-12-28T12:06:08.000Z",
+		"name": "The Garden Terrace",
+		"id": "4b72718af964a520157b2de3"
+	},
+	{
+		"date": "2018-12-28T12:29:23.000Z",
+		"name": "Burger King",
+		"id": "4b532deef964a5204c9127e3"
+	},
+	{
+		"date": "2018-12-28T13:05:05.000Z",
+		"name": "Gate 212",
+		"id": "4bf558d094af2d7f27953b72"
+	},
+	{
+		"date": "2018-12-28T14:51:46.000Z",
+		"name": "GroenRijk",
+		"id": "4ccacd547965b60cc0cf878a"
+	},
+	{
+		"date": "2018-12-28T15:05:39.000Z",
+		"name": "Amsterdam Airport Schiphol (AMS)",
+		"id": "4a84e798f964a520defd1fe3"
+	},
+	{
+		"date": "2018-12-28T15:25:03.000Z",
+		"name": "Baggage Belts",
+		"id": "4cadb1a50e7bbfb737705b83"
+	},
+	{
+		"date": "2018-12-28T15:42:12.000Z",
+		"name": "Schiphol Airport Railway Station (Station Schiphol Airport)",
+		"id": "4b14bf25f964a5203fa623e3"
+	},
+	{
+		"date": "2018-12-28T15:52:20.000Z",
+		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
+		"id": "4a56245ff964a52085b41fe3"
+	},
+	{
+		"date": "2018-12-28T16:17:38.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-12-28T17:30:41.000Z",
+		"name": "Vomar Voordeelmarkt",
+		"id": "4b72c969f964a52096882de3"
+	},
+	{
+		"date": "2018-12-28T17:55:52.000Z",
+		"name": "Albert Heijn to go",
+		"id": "4b862ee0f964a520038231e3"
+	},
+	{
+		"date": "2018-12-28T18:06:51.000Z",
+		"name": "Domino's Pizza Haarlem 3 - Station",
+		"id": "5c266634b9b37b002cd9d5fb"
+	},
+	{
+		"date": "2018-12-29T15:37:17.000Z",
+		"name": "Cotton Candy Residence 10",
+		"id": "58cd4fe316f000799f4cf4f4"
+	},
+	{
+		"date": "2018-12-30T20:20:49.000Z",
+		"name": "India Palace",
+		"id": "4c5057673a6f2d7f60a06877"
+	},
+	{
+		"date": "2018-12-30T21:07:06.000Z",
+		"name": "Bierlokaal Uiver",
+		"id": "5b4a4fc9b8fd9d002cd70d96"
+	},
+	{
+		"date": "2018-12-31T14:12:54.000Z",
+		"name": "Albert Heijn",
+		"id": "4b9a4b64f964a52066aa35e3"
+	},
+	{
+		"date": "2018-12-31T18:23:22.000Z",
+		"name": "Station Haarlem",
+		"id": "4a8c3036f964a5203a0d20e3"
+	},
+	{
+		"date": "2018-12-31T18:51:54.000Z",
+		"name": "DoubleTree by Hilton",
+		"id": "4d10aee19302a35d46867c6e"
+	},
+	{
+		"date": "2018-12-31T20:58:13.000Z",
+		"name": "Amsterdam Canals (Amsterdamse Grachten)",
+		"id": "4c7a850e97028cfaae4fdefe"
+	},
+	{
+		"date": "2018-12-31T21:22:23.000Z",
+		"name": "The Lions Head Gastropub & Brewery",
+		"id": "5bdbd2101a292500321f78b5"
+	}
+]
