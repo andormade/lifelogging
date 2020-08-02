@@ -2,461 +2,1286 @@
 	{
 		"date": "2016-12-01T03:22:26.000Z",
 		"name": "Cotton Candy Residence 7",
-		"id": "58326e9b01f4330b38b62ca2"
+		"id": "58326e9b01f4330b38b62ca2",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-01T18:38:21.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-01T21:12:38.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-02T02:23:48.000Z",
 		"name": "Cotton Candy Residence 7",
-		"id": "58326e9b01f4330b38b62ca2"
+		"id": "58326e9b01f4330b38b62ca2",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-02T04:27:31.000Z",
 		"name": "Pacific Theatres at The Grove",
-		"id": "49fe6d4ef964a520a16f1fe3"
+		"id": "49fe6d4ef964a520a16f1fe3",
+		"lat": 34.072033901583794,
+		"lng": -118.3576448216737,
+		"address": "189 The Grove Dr",
+		"postalCode": "90036",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Movie Theater",
+			"Multiplex",
+			"Arcade"
+		]
 	},
 	{
 		"date": "2016-12-02T07:09:17.000Z",
 		"name": "The Grove",
-		"id": "41687b80f964a520861d1fe3"
+		"id": "41687b80f964a520861d1fe3",
+		"lat": 34.07196432708613,
+		"lng": -118.35736513137816,
+		"address": "189 The Grove Dr",
+		"postalCode": "90036",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Shopping Mall",
+			"General Entertainment"
+		]
 	},
 	{
 		"date": "2016-12-02T07:54:39.000Z",
 		"name": "Cotton Candy Residence 7",
-		"id": "58326e9b01f4330b38b62ca2"
+		"id": "58326e9b01f4330b38b62ca2",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-02T15:59:52.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-02T19:29:46.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-03T05:10:49.000Z",
 		"name": "Cotton Candy Residence 7",
-		"id": "58326e9b01f4330b38b62ca2"
+		"id": "58326e9b01f4330b38b62ca2",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-03T17:40:46.000Z",
 		"name": "Denny's",
-		"id": "4b73c978f964a520d8bb2de3"
+		"id": "4b73c978f964a520d8bb2de3",
+		"lat": 34.098373660143814,
+		"lng": -118.31549504476243,
+		"address": "5751 W Sunset Blvd",
+		"postalCode": "90028",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Breakfast Spot",
+			"Diner",
+			"American Restaurant"
+		]
 	},
 	{
 		"date": "2016-12-03T18:42:43.000Z",
 		"name": "Safeway Self Storage",
-		"id": "4cd85deb15d8b60c57a3650e"
+		"id": "4cd85deb15d8b60c57a3650e",
+		"lat": 34.073076,
+		"lng": -118.30883600000001,
+		"address": "116 S Western Ave",
+		"postalCode": "90004",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Building"
+		]
 	},
 	{
 		"date": "2016-12-03T20:01:10.000Z",
 		"name": "IKEA",
-		"id": "4a58dab8f964a5200bb81fe3"
+		"id": "4a58dab8f964a5200bb81fe3",
+		"lat": 33.84168162213695,
+		"lng": -118.26006822758774,
+		"address": "20700 South Avalon Blvd",
+		"postalCode": "90746",
+		"city": "Carson",
+		"country": "United States",
+		"categories": [
+			"Furniture / Home Store"
+		]
 	},
 	{
 		"date": "2016-12-04T01:13:03.000Z",
 		"name": "Safeway Self Storage",
-		"id": "4cd85deb15d8b60c57a3650e"
+		"id": "4cd85deb15d8b60c57a3650e",
+		"lat": 34.073076,
+		"lng": -118.30883600000001,
+		"address": "116 S Western Ave",
+		"postalCode": "90004",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Building"
+		]
 	},
 	{
 		"date": "2016-12-04T02:30:53.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-04T19:51:54.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-04T20:37:32.000Z",
 		"name": "Target",
-		"id": "4a55476bf964a520fdb31fe3"
+		"id": "4a55476bf964a520fdb31fe3",
+		"lat": 34.089964482467,
+		"lng": -118.34455970463546,
+		"address": "7100 Santa Monica Blvd Ste 201",
+		"postalCode": "90046",
+		"city": "West Hollywood",
+		"country": "United States",
+		"categories": [
+			"Big Box Store"
+		]
 	},
 	{
 		"date": "2016-12-05T00:47:08.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-05T17:24:12.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-05T18:25:57.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-06T06:54:36.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-06T16:04:57.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-07T03:23:26.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-07T22:15:17.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-07T23:46:04.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-08T03:03:28.000Z",
 		"name": "IXLB Dimsum Eats",
-		"id": "56e32558498e6127942ebd7f"
+		"id": "56e32558498e6127942ebd7f",
+		"lat": 34.09797136673195,
+		"lng": -118.31811425569381,
+		"address": "5900 W Sunset Blvd",
+		"postalCode": "90028",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Dim Sum Restaurant"
+		]
 	},
 	{
 		"date": "2016-12-08T03:11:45.000Z",
 		"name": "The Mission Cantina",
-		"id": "4a667a9ff964a520a0c81fe3"
+		"id": "4a667a9ff964a520a0c81fe3",
+		"lat": 34.09798765592888,
+		"lng": -118.31917998696942,
+		"address": "5946 W Sunset Blvd",
+		"postalCode": "90028",
+		"country": "United States",
+		"categories": [
+			"Mexican Restaurant",
+			"Bar",
+			"Lounge"
+		]
 	},
 	{
 		"date": "2016-12-08T17:31:32.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-08T17:51:08.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-09T04:19:42.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-09T17:19:01.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-09T18:02:57.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-09T21:26:16.000Z",
 		"name": "Hollywood Boulevard & Vine Street",
-		"id": "4c0c9e362466a593ac5a7621"
+		"id": "4c0c9e362466a593ac5a7621",
+		"lat": 34.10162415784177,
+		"lng": -118.32669138908386,
+		"address": "Hollywood Blvd",
+		"postalCode": "90028",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Intersection",
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2016-12-10T03:11:33.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-10T03:32:52.000Z",
 		"name": "The Home Depot",
-		"id": "4b18a91af964a5200dd523e3"
+		"id": "4b18a91af964a5200dd523e3",
+		"lat": 34.0975245,
+		"lng": -118.3125068,
+		"address": "5600 W Sunset Blvd",
+		"postalCode": "90028",
+		"country": "United States",
+		"categories": [
+			"Hardware Store"
+		]
 	},
 	{
 		"date": "2016-12-10T19:52:29.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-10T20:34:42.000Z",
 		"name": "The Burgerian",
-		"id": "583567661470b052006f3440"
+		"id": "583567661470b052006f3440",
+		"lat": 34.0833588,
+		"lng": -118.3273069,
+		"address": "5820 Melrose Ave",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Burger Joint",
+			"Salad Place",
+			"Bar"
+		]
 	},
 	{
 		"date": "2016-12-10T23:12:25.000Z",
 		"name": "Starbucks",
-		"id": "4bdc3325c79cc928eb8585e9"
+		"id": "4bdc3325c79cc928eb8585e9",
+		"lat": 34.08438401045447,
+		"lng": -118.32705644694751,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2016-12-11T02:58:38.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-11T20:36:15.000Z",
 		"name": "Fountain Avenue Market",
-		"id": "4d4457b00349224bad15f94e"
+		"id": "4d4457b00349224bad15f94e",
+		"lat": 34.09428195564121,
+		"lng": -118.32168215331534,
+		"address": "6010 Fountain Ave",
+		"postalCode": "90028",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Liquor Store"
+		]
 	},
 	{
 		"date": "2016-12-12T00:18:44.000Z",
 		"name": "Perfect Circuit Audio - Burbank",
-		"id": "5589cfab498e6804847486d4"
+		"id": "5589cfab498e6804847486d4",
+		"lat": 34.19209,
+		"lng": -118.33710900000001,
+		"address": "2405 W Empire Ave",
+		"postalCode": "91504",
+		"city": "Burbank",
+		"country": "United States",
+		"categories": [
+			"Music Store"
+		]
 	},
 	{
 		"date": "2016-12-12T01:43:54.000Z",
 		"name": "sweetgreen",
-		"id": "564e615c498e2597e77f0c39"
+		"id": "564e615c498e2597e77f0c39",
+		"lat": 34.0981721,
+		"lng": -118.3227156,
+		"address": "6115 W Sunset Blvd",
+		"postalCode": "90028",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Salad Place",
+			"Restaurant",
+			"Vegetarian / Vegan Restaurant"
+		]
 	},
 	{
 		"date": "2016-12-12T02:27:58.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-12T17:11:02.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-12T21:20:32.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-13T02:50:04.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-13T17:27:39.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-13T18:29:58.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-13T22:13:14.000Z",
 		"name": "Starbucks",
-		"id": "4bdc3325c79cc928eb8585e9"
+		"id": "4bdc3325c79cc928eb8585e9",
+		"lat": 34.08438401045447,
+		"lng": -118.32705644694751,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2016-12-14T02:47:30.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-14T16:59:11.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-14T17:23:41.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-15T05:13:02.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-15T17:11:00.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-15T23:14:09.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-16T19:36:20.000Z",
 		"name": "Inti Peruvian Cuisine",
-		"id": "4b732c3ef964a520c79f2de3"
+		"id": "4b732c3ef964a520c79f2de3",
+		"lat": 34.08317031043542,
+		"lng": -118.32854292855185,
+		"address": "5870 Melrose Ave",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"South American Restaurant"
+		]
 	},
 	{
 		"date": "2016-12-16T19:36:35.000Z",
 		"name": "Inti Peruvian Cuisine",
-		"id": "4b732c3ef964a520c79f2de3"
+		"id": "4b732c3ef964a520c79f2de3",
+		"lat": 34.08317031043542,
+		"lng": -118.32854292855185,
+		"address": "5870 Melrose Ave",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"South American Restaurant"
+		]
 	},
 	{
 		"date": "2016-12-16T22:38:52.000Z",
 		"name": "ArcLight Cinemas",
-		"id": "42893400f964a5205f231fe3"
+		"id": "42893400f964a5205f231fe3",
+		"lat": 34.09726545582703,
+		"lng": -118.3281132851937,
+		"address": "6360 W Sunset Blvd",
+		"postalCode": "90028",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Multiplex"
+		]
 	},
 	{
 		"date": "2016-12-17T03:08:01.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-17T09:08:09.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-17T21:59:54.000Z",
 		"name": "The Home Depot",
-		"id": "4b18a91af964a5200dd523e3"
+		"id": "4b18a91af964a5200dd523e3",
+		"lat": 34.0975245,
+		"lng": -118.3125068,
+		"address": "5600 W Sunset Blvd",
+		"postalCode": "90028",
+		"country": "United States",
+		"categories": [
+			"Hardware Store"
+		]
 	},
 	{
 		"date": "2016-12-18T06:18:00.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-18T17:18:24.000Z",
 		"name": "CVS pharmacy",
-		"id": "4ab038bbf964a520876620e3"
+		"id": "4ab038bbf964a520876620e3",
+		"lat": 34.090037620951094,
+		"lng": -118.37607442043156,
+		"address": "8491 Santa Monica Blvd",
+		"postalCode": "90069",
+		"city": "West Hollywood",
+		"country": "United States",
+		"categories": [
+			"Pharmacy"
+		]
 	},
 	{
 		"date": "2016-12-18T19:51:10.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-19T16:23:15.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-19T17:17:16.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-20T03:07:48.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-20T04:09:11.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-20T17:33:26.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-21T05:08:19.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-22T20:58:15.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2016-12-22T22:16:48.000Z",
 		"name": "Hollywood & Highland Center",
-		"id": "46cf28b9f964a520454a1fe3"
+		"id": "46cf28b9f964a520454a1fe3",
+		"lat": 34.10239731176993,
+		"lng": -118.3394390147284,
+		"address": "6801 Hollywood Blvd",
+		"postalCode": "90028",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2016-12-22T22:26:46.000Z",
 		"name": "SEPHORA",
-		"id": "4b6f6361f964a52067ee2ce3"
+		"id": "4b6f6361f964a52067ee2ce3",
+		"lat": 34.10227798833135,
+		"lng": -118.34011766106244,
+		"address": "6801 Hollywood Blvd",
+		"postalCode": "90028",
+		"country": "United States",
+		"categories": [
+			"Cosmetics Shop",
+			"Perfume Shop"
+		]
 	},
 	{
 		"date": "2016-12-22T22:59:31.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-23T00:18:17.000Z",
 		"name": "Ralphs",
-		"id": "4a4ecf30f964a52018af1fe3"
+		"id": "4a4ecf30f964a52018af1fe3",
+		"lat": 34.0935231,
+		"lng": -118.3442511,
+		"address": "1233 N La Brea Ave",
+		"postalCode": "90038",
+		"city": "West Hollywood",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2016-12-23T02:35:34.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-23T21:52:14.000Z",
 		"name": "Food 4 Less",
-		"id": "4b32991ff964a5209a0f25e3"
+		"id": "4b32991ff964a5209a0f25e3",
+		"lat": 34.0974324,
+		"lng": -118.3078938,
+		"address": "5420 W Sunset Blvd",
+		"postalCode": "90027",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Grocery Store",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-12-23T23:10:42.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-25T22:10:38.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-27T06:53:15.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-28T01:02:02.000Z",
 		"name": "Griffith Park Trail",
-		"id": "4b895670f964a520b32c32e3"
+		"id": "4b895670f964a520b32c32e3",
+		"lat": 34.11450490923935,
+		"lng": -118.30627441406249,
+		"address": "W Observatory Trail",
+		"postalCode": "90068",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Trail",
+			"Scenic Lookout"
+		]
 	},
 	{
 		"date": "2016-12-28T05:11:47.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-29T02:01:29.000Z",
 		"name": "City of Santa Monica",
-		"id": "4c47c5d976d72d7f2a673e4d"
+		"id": "4c47c5d976d72d7f2a673e4d",
+		"lat": 34.020577752841476,
+		"lng": -118.48896521255328,
+		"postalCode": "90401",
+		"country": "United States",
+		"categories": [
+			"City"
+		]
 	},
 	{
 		"date": "2016-12-29T02:47:31.000Z",
 		"name": "Third Street Promenade",
-		"id": "44ded2f5f964a520d2361fe3"
+		"id": "44ded2f5f964a520d2361fe3",
+		"lat": 34.01611310357351,
+		"lng": -118.49605875005665,
+		"address": "1202 3rd Street Promenade",
+		"postalCode": "90401",
+		"city": "Santa Monica",
+		"country": "United States",
+		"categories": [
+			"Shopping Plaza",
+			"Pedestrian Plaza"
+		]
 	},
 	{
 		"date": "2016-12-29T02:52:57.000Z",
 		"name": "SEPHORA",
-		"id": "4a6f590cf964a520efd51fe3"
+		"id": "4a6f590cf964a520efd51fe3",
+		"lat": 34.0172281,
+		"lng": -118.4984308,
+		"address": "1244 3rd Street Promenade",
+		"postalCode": "90401",
+		"city": "Santa Monica",
+		"country": "United States",
+		"categories": [
+			"Cosmetics Shop",
+			"Perfume Shop"
+		]
 	},
 	{
 		"date": "2016-12-29T04:20:23.000Z",
 		"name": "The Cheesecake Factory",
-		"id": "562a6755498e0e92cb0d2d8a"
+		"id": "562a6755498e0e92cb0d2d8a",
+		"lat": 34.01392760838137,
+		"lng": -118.49425511386934,
+		"address": "395 Santa Monica Pl Ste 305",
+		"postalCode": "90401",
+		"city": "Santa Monica",
+		"country": "United States",
+		"categories": [
+			"American Restaurant"
+		]
 	},
 	{
 		"date": "2016-12-29T07:21:13.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-29T23:25:38.000Z",
 		"name": "California Science Center",
-		"id": "4a789f0bf964a52013e61fe3"
+		"id": "4a789f0bf964a52013e61fe3",
+		"lat": 34.01555713305528,
+		"lng": -118.28609347343443,
+		"address": "700 Exposition Park Drive",
+		"postalCode": "90037",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Science Museum",
+			"Movie Theater"
+		]
 	},
 	{
 		"date": "2016-12-30T01:13:43.000Z",
 		"name": "Exposition Park Rose Garden",
-		"id": "4bc21bdc2a89ef3ba23cf388"
+		"id": "4bc21bdc2a89ef3ba23cf388",
+		"lat": 34.01706027063314,
+		"lng": -118.28633570972166,
+		"address": "3990 Menlo Ave",
+		"postalCode": "90037",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Garden"
+		]
 	},
 	{
 		"date": "2016-12-30T01:22:07.000Z",
 		"name": "University of Southern California",
-		"id": "45001adcf964a520ab381fe3"
+		"id": "45001adcf964a520ab381fe3",
+		"lat": 34.020293378279,
+		"lng": -118.28456584438712,
+		"address": "U S C",
+		"postalCode": "90089",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"University"
+		]
 	},
 	{
 		"date": "2016-12-30T03:03:32.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-12-31T05:13:50.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]

@@ -2,626 +2,1714 @@
 	{
 		"date": "2016-01-01T12:50:04.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-02T16:37:13.000Z",
 		"name": "Galeria Karstadt Kaufhof",
-		"id": "4bced3cc29d4b713b916a9dc"
+		"id": "4bced3cc29d4b713b916a9dc",
+		"lat": 49.758402321262075,
+		"lng": 6.642170291856277,
+		"address": "Simeonstr. 53",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Department Store"
+		]
 	},
 	{
 		"date": "2016-01-02T16:44:37.000Z",
 		"name": "Saturn",
-		"id": "4bc07375f8219c74138eb110"
+		"id": "4bc07375f8219c74138eb110",
+		"lat": 49.75841808348975,
+		"lng": 6.642463803291321,
+		"address": "Simeonstrasse 53",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Electronics Store",
+			"Miscellaneous Shop"
+		]
 	},
 	{
 		"date": "2016-01-02T17:21:27.000Z",
 		"name": "MediaMarkt",
-		"id": "4bc06b2874a9a593c3fecff6"
+		"id": "4bc06b2874a9a593c3fecff6",
+		"lat": 49.75653573536709,
+		"lng": 6.6501387876192375,
+		"address": "Ostallee 3-5",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2016-01-02T17:21:46.000Z",
 		"name": "Chan's Taste of Asia",
-		"id": "4fd61833e4b0b31b85a1ae89"
+		"id": "4fd61833e4b0b31b85a1ae89",
+		"lat": 49.756033,
+		"lng": 6.65008,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Chinese Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-02T18:12:45.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-03T12:28:04.000Z",
 		"name": "Musée d'Art Moderne Grand-Duc Jean (Mudam Luxembourg)",
-		"id": "4b507179f964a5206a2327e3"
+		"id": "4b507179f964a5206a2327e3",
+		"lat": 49.617114140724844,
+		"lng": 6.140454877026687,
+		"address": "3, Park Dräi Eechelen",
+		"postalCode": "1499",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Art Museum"
+		]
 	},
 	{
 		"date": "2016-01-03T21:41:02.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-04T07:30:54.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-04T08:23:43.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-04T10:19:44.000Z",
 		"name": "Auchan Snacking",
-		"id": "56260b3b498ec7228731a346"
+		"id": "56260b3b498ec7228731a346",
+		"lat": 49.6327935192468,
+		"lng": 6.170054092253696,
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Snack Place"
+		]
 	},
 	{
 		"date": "2016-01-04T18:06:41.000Z",
 		"name": "Sparkasse Saarstrasse",
-		"id": "4e05d7921838eb15aef68a1b"
+		"id": "4e05d7921838eb15aef68a1b",
+		"lat": 49.74489780110515,
+		"lng": 6.634683350981587,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2016-01-04T19:02:29.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-05T08:25:40.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-05T08:29:27.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-05T10:28:53.000Z",
 		"name": "OrientX",
-		"id": "4b94eed9f964a5204e8834e3"
+		"id": "4b94eed9f964a5204e8834e3",
+		"lat": 49.633586781634136,
+		"lng": 6.169116659059767,
+		"address": "5, rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Middle Eastern Restaurant",
+			"Falafel Restaurant",
+			"Turkish Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-05T19:25:45.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-06T08:07:54.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-06T17:19:34.000Z",
 		"name": "Bricherhaff",
-		"id": "51839b23498e3270c1501e51"
+		"id": "51839b23498e3270c1501e51",
+		"lat": 49.625546441321816,
+		"lng": 6.162806740162044,
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Bus Station"
+		]
 	},
 	{
 		"date": "2016-01-06T19:50:30.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-07T07:28:36.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-07T07:34:28.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-07T11:19:01.000Z",
 		"name": "Raku-An",
-		"id": "522eede811d261c3d2a69ea2"
+		"id": "522eede811d261c3d2a69ea2",
+		"lat": 49.6316836265592,
+		"lng": 6.171348525875912,
+		"address": "44 Avenue J.-F. Kennedy",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Ramen Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-07T17:17:17.000Z",
 		"name": "Bricherhaff",
-		"id": "51839b23498e3270c1501e51"
+		"id": "51839b23498e3270c1501e51",
+		"lat": 49.625546441321816,
+		"lng": 6.162806740162044,
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Bus Station"
+		]
 	},
 	{
 		"date": "2016-01-08T07:39:42.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-08T07:48:08.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-08T10:37:20.000Z",
 		"name": "McDonald's",
-		"id": "4ee3c150490138df8c9047ba"
+		"id": "4ee3c150490138df8c9047ba",
+		"lat": 49.63355644536983,
+		"lng": 6.173131320520858,
+		"address": "45 Ave. J-f Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-08T16:19:11.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-09T08:05:56.000Z",
 		"name": "Raststätte Reinhardshain Süd",
-		"id": "4ecb63e902d50c9c5ab3bc47"
+		"id": "4ecb63e902d50c9c5ab3bc47",
+		"lat": 50.62235688147191,
+		"lng": 8.897175139450416,
+		"address": "A 5",
+		"postalCode": "35305",
+		"city": "Grünberg",
+		"country": "Deutschland",
+		"categories": [
+			"Rest Area",
+			"Gas Station",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-09T09:25:27.000Z",
 		"name": "Behringen",
-		"id": "4e380bba1f6ebc502ce65e0b"
+		"id": "4e380bba1f6ebc502ce65e0b",
+		"lat": 51.02267551160719,
+		"lng": 10.512615981065347,
+		"postalCode": "99820",
+		"city": "Behringen",
+		"country": "Deutschland",
+		"categories": [
+			"Village"
+		]
 	},
 	{
 		"date": "2016-01-09T10:34:36.000Z",
 		"name": "Bufleben",
-		"id": "56128e04498ea85873cfc26b"
+		"id": "56128e04498ea85873cfc26b",
+		"lat": 51.007883264027825,
+		"lng": 10.722505637303524,
+		"country": "Deutschland",
+		"categories": [
+			"Village"
+		]
 	},
 	{
 		"date": "2016-01-10T16:16:36.000Z",
 		"name": "Raststätte Eisenach",
-		"id": "4b841a4ff964a520dd2031e3"
+		"id": "4b841a4ff964a520dd2031e3",
+		"lat": 51.007426058644995,
+		"lng": 10.253058542824446,
+		"address": "A 4",
+		"postalCode": "99819",
+		"city": "Krauthausen",
+		"country": "Deutschland",
+		"categories": [
+			"Rest Area",
+			"Gas Station",
+			"Gastropub"
+		]
 	},
 	{
 		"date": "2016-01-10T18:12:15.000Z",
 		"name": "Burger King",
-		"id": "4c34772d3896e21e1c89eb90"
+		"id": "4c34772d3896e21e1c89eb90",
+		"lat": 50.465950207204344,
+		"lng": 8.133909361539173,
+		"address": "Gottlieb-Daimler-Str. 5",
+		"postalCode": "65614",
+		"city": "Beselich",
+		"country": "Deutschland",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-10T19:46:11.000Z",
 		"name": "Shell",
-		"id": "4c837b94d34ca14337c83580"
+		"id": "4c837b94d34ca14337c83580",
+		"lat": 50.069362279540734,
+		"lng": 6.881007971556563,
+		"address": "A 1",
+		"city": "Oberöfflingen",
+		"country": "Deutschland",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2016-01-10T20:33:15.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-11T08:41:22.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-11T08:43:42.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-11T16:30:56.000Z",
 		"name": "Deutsche Post",
-		"id": "4b9b9ea5f964a520271436e3"
+		"id": "4b9b9ea5f964a520271436e3",
+		"lat": 49.75823560944808,
+		"lng": 6.651807287220711,
+		"address": "Moltkestraße 21",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Post Office"
+		]
 	},
 	{
 		"date": "2016-01-11T16:31:38.000Z",
 		"name": "Sparkasse Trier (Theodor-Heuss-Allee)",
-		"id": "4bcc7ade3740b7138e0c6465"
+		"id": "4bcc7ade3740b7138e0c6465",
+		"lat": 49.759485789862126,
+		"lng": 6.645067863852004,
+		"address": "Theodor-Heuss-Allee 1",
+		"postalCode": "54292",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2016-01-11T20:56:47.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-12T08:18:17.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-12T08:20:13.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-12T19:20:11.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-13T07:53:20.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-13T10:36:03.000Z",
 		"name": "Quick",
-		"id": "4c1d1fceb4e62d7f5636dc93"
+		"id": "4c1d1fceb4e62d7f5636dc93",
+		"lat": 49.63372441223882,
+		"lng": 6.169334468348117,
+		"address": "2 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Kirchberg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Fast Food Restaurant",
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2016-01-13T18:13:02.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-14T08:00:13.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-14T10:28:04.000Z",
 		"name": "Bagelstein",
-		"id": "54f0609b498ea7bb9626e820"
+		"id": "54f0609b498ea7bb9626e820",
+		"lat": 49.6332078,
+		"lng": 6.16949633,
+		"address": "Rue Alphonse Weicker 5",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Bagel Shop",
+			"Modern European Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-14T10:34:16.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-15T06:12:38.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-15T07:46:48.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-15T07:53:57.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-15T10:25:33.000Z",
 		"name": "OrientX",
-		"id": "4b94eed9f964a5204e8834e3"
+		"id": "4b94eed9f964a5204e8834e3",
+		"lat": 49.633586781634136,
+		"lng": 6.169116659059767,
+		"address": "5, rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Middle Eastern Restaurant",
+			"Falafel Restaurant",
+			"Turkish Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-15T15:19:47.000Z",
 		"name": "Bricherhaff",
-		"id": "51839b23498e3270c1501e51"
+		"id": "51839b23498e3270c1501e51",
+		"lat": 49.625546441321816,
+		"lng": 6.162806740162044,
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Bus Station"
+		]
 	},
 	{
 		"date": "2016-01-15T16:24:02.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-16T13:53:34.000Z",
 		"name": "Frisör X-Press",
-		"id": "4be440757e2a76b05aab1c9b"
+		"id": "4be440757e2a76b05aab1c9b",
+		"lat": 49.75467830862341,
+		"lng": 6.637507929870502,
+		"address": "Fleischstr. 29",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Salon / Barbershop"
+		]
 	},
 	{
 		"date": "2016-01-16T14:23:52.000Z",
 		"name": "Saturn",
-		"id": "4bc07375f8219c74138eb110"
+		"id": "4bc07375f8219c74138eb110",
+		"lat": 49.75841808348975,
+		"lng": 6.642463803291321,
+		"address": "Simeonstrasse 53",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Electronics Store",
+			"Miscellaneous Shop"
+		]
 	},
 	{
 		"date": "2016-01-16T14:42:40.000Z",
 		"name": "REWE City",
-		"id": "57a3a39c498e406b9d2fd43a"
+		"id": "57a3a39c498e406b9d2fd43a",
+		"lat": 49.755999119833014,
+		"lng": 6.637973785400391,
+		"address": "Fleischstr. 62-65",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-16T15:03:56.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-17T18:28:54.000Z",
 		"name": "Taj Mahal",
-		"id": "4ce0100dffcf37043f781d82"
+		"id": "4ce0100dffcf37043f781d82",
+		"lat": 49.75050976814614,
+		"lng": 6.637338185446619,
+		"address": "Neustrasse 56",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Indian Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-17T20:13:23.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-18T08:02:19.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-18T11:05:24.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-18T19:41:32.000Z",
 		"name": "Place du Glacis / Parking Centre - Glacis",
-		"id": "4bb9697198c7ef3b461b3202"
+		"id": "4bb9697198c7ef3b461b3202",
+		"lat": 49.61701256793455,
+		"lng": 6.124760418722676,
+		"address": "Rond-point Robert Schuman",
+		"postalCode": "1510",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Plaza",
+			"Parking"
+		]
 	},
 	{
 		"date": "2016-01-18T19:47:43.000Z",
 		"name": "Ciné Utopia",
-		"id": "4b8c4132f964a520cfc632e3"
+		"id": "4b8c4132f964a520cfc632e3",
+		"lat": 49.617054,
+		"lng": 6.1207356,
+		"address": "16, avenue de la faïencerie",
+		"postalCode": "1510",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Multiplex"
+		]
 	},
 	{
 		"date": "2016-01-18T23:20:38.000Z",
 		"name": "Bahnhof Trier Süd",
-		"id": "4ced382213aea14325c7659f"
+		"id": "4ced382213aea14325c7659f",
+		"lat": 49.74447666949439,
+		"lng": 6.636523270887939,
+		"address": "Leostr. 1",
+		"postalCode": "54294",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2016-01-19T07:46:17.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-19T17:52:25.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-20T10:20:31.000Z",
 		"name": "Auchan Snacking",
-		"id": "56260b3b498ec7228731a346"
+		"id": "56260b3b498ec7228731a346",
+		"lat": 49.6327935192468,
+		"lng": 6.170054092253696,
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Snack Place"
+		]
 	},
 	{
 		"date": "2016-01-20T10:53:34.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-20T23:44:11.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-21T08:04:29.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-21T08:56:23.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-21T10:22:46.000Z",
 		"name": "Sushi & More",
-		"id": "53637542498e423ead872eeb"
+		"id": "53637542498e423ead872eeb",
+		"lat": 49.63110252801338,
+		"lng": 6.171859204267524,
+		"address": "18-20 rue Edward Steichen",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Sushi Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-22T07:42:00.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-22T07:56:54.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-22T12:15:23.000Z",
 		"name": "McDonald's",
-		"id": "4ee3c150490138df8c9047ba"
+		"id": "4ee3c150490138df8c9047ba",
+		"lat": 49.63355644536983,
+		"lng": 6.173131320520858,
+		"address": "45 Ave. J-f Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-22T15:36:30.000Z",
 		"name": "Bricherhaff",
-		"id": "51839b23498e3270c1501e51"
+		"id": "51839b23498e3270c1501e51",
+		"lat": 49.625546441321816,
+		"lng": 6.162806740162044,
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Bus Station"
+		]
 	},
 	{
 		"date": "2016-01-22T16:39:28.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-23T11:14:53.000Z",
 		"name": "Burgeramt Trier",
-		"id": "54aba60b498e8bda8620d316"
+		"id": "54aba60b498e8bda8620d316",
+		"lat": 49.7536144671035,
+		"lng": 6.638494231202916,
+		"address": "Nagelstraße 18",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2016-01-23T12:32:35.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-25T07:42:16.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-25T08:20:00.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-25T09:18:21.000Z",
 		"name": "Auchan Snacking",
-		"id": "56260b3b498ec7228731a346"
+		"id": "56260b3b498ec7228731a346",
+		"lat": 49.6327935192468,
+		"lng": 6.170054092253696,
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Snack Place"
+		]
 	},
 	{
 		"date": "2016-01-26T07:54:43.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-26T10:41:03.000Z",
 		"name": "Vapiano",
-		"id": "4c51b35b3940be9a6a8e4e09"
+		"id": "4c51b35b3940be9a6a8e4e09",
+		"lat": 49.63180649278271,
+		"lng": 6.17125118616227,
+		"address": "Avenue John F. Kennedy 44",
+		"postalCode": "1855",
+		"city": "Kirchberg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Italian Restaurant",
+			"Mediterranean Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-26T22:02:29.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-01-27T07:33:56.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-27T08:14:08.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-27T10:25:45.000Z",
 		"name": "OrientX",
-		"id": "4b94eed9f964a5204e8834e3"
+		"id": "4b94eed9f964a5204e8834e3",
+		"lat": 49.633586781634136,
+		"lng": 6.169116659059767,
+		"address": "5, rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Middle Eastern Restaurant",
+			"Falafel Restaurant",
+			"Turkish Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-28T06:07:32.000Z",
 		"name": "Sparkasse",
-		"id": "56a9b01c498e75ef17f11296"
+		"id": "56a9b01c498e75ef17f11296",
+		"lat": 49.751831,
+		"lng": 6.624741,
+		"address": "Luxemburger straße",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2016-01-28T07:50:44.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-01-28T08:25:43.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-01-28T10:38:27.000Z",
 		"name": "Burger Goes Green",
-		"id": "55e84caf498e951ebbe023c6"
+		"id": "55e84caf498e951ebbe023c6",
+		"lat": 49.63161307731339,
+		"lng": 6.171631514698674,
+		"address": "44 Ave J F Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2016-01-28T18:27:42.000Z",
 		"name": "Scott’s Pub",
-		"id": "4c13c1dcb7b9c9280e17aa37"
+		"id": "4c13c1dcb7b9c9280e17aa37",
+		"lat": 49.608599284620375,
+		"lng": 6.135714417454218,
+		"address": "4 Bisserweg",
+		"postalCode": "1238",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Pub"
+		]
 	},
 	{
 		"date": "2016-01-29T04:14:36.000Z",
 		"name": "Frankfurt-Hahn Airport (HHN) (Frankfurt Hahn Airport)",
-		"id": "4b5ae369f964a520ebd828e3"
+		"id": "4b5ae369f964a520ebd828e3",
+		"lat": 49.9459178381779,
+		"lng": 7.269687652587891,
+		"address": "Gebäude 667",
+		"postalCode": "55483",
+		"city": "Hahn",
+		"country": "Deutschland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2016-01-29T04:47:03.000Z",
 		"name": "Jung Bäckerei",
-		"id": "50240016e4b053b46e2c8cd8"
+		"id": "50240016e4b053b46e2c8cd8",
+		"lat": 49.94594744498084,
+		"lng": 7.269631298531313,
+		"address": "Terminal",
+		"postalCode": "55483",
+		"city": "Hahn",
+		"country": "Deutschland",
+		"categories": [
+			"Bakery"
+		]
 	},
 	{
 		"date": "2016-01-29T08:02:03.000Z",
 		"name": "London Stansted Airport (STN)",
-		"id": "4ac518f7f964a520a5af20e3"
+		"id": "4ac518f7f964a520a5af20e3",
+		"lat": 51.89036991471721,
+		"lng": 0.2616527059581131,
+		"address": "Bassingbourn Rd",
+		"postalCode": "CM24 1QW",
+		"city": "Stansted",
+		"country": "United Kingdom",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2016-01-29T11:54:04.000Z",
 		"name": "Apple Covent Garden",
-		"id": "4c48305e96abd13aa25e7301"
+		"id": "4c48305e96abd13aa25e7301",
+		"lat": 51.512214,
+		"lng": -0.123568,
+		"address": "No. 1-7 The Piazza",
+		"postalCode": "WC2E 8HB",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2016-01-29T12:02:17.000Z",
 		"name": "Covent Garden",
-		"id": "4c52b7a4b6dabe9a24d2bb13"
+		"id": "4c52b7a4b6dabe9a24d2bb13",
+		"lat": 51.511958,
+		"lng": -0.122729,
+		"postalCode": "W C2E",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2016-01-29T15:45:32.000Z",
 		"name": "Victoria and Albert Museum (V&A)",
-		"id": "4ae2d9f8f964a5208d8f21e3"
+		"id": "4ae2d9f8f964a5208d8f21e3",
+		"lat": 51.49654531037934,
+		"lng": -0.17219832647848585,
+		"address": "Cromwell Rd",
+		"postalCode": "SW7 2RL",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Art Museum",
+			"History Museum"
+		]
 	},
 	{
 		"date": "2016-01-29T18:11:04.000Z",
 		"name": "Brent",
-		"id": "53150df1e4b0e72a36ebc698"
+		"id": "53150df1e4b0e72a36ebc698",
+		"lat": 51.58860674348515,
+		"lng": -0.26429710650229027,
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2016-01-30T12:21:00.000Z",
 		"name": "Buckingham Palace",
-		"id": "4abe4502f964a520558c20e3"
+		"id": "4abe4502f964a520558c20e3",
+		"lat": 51.5009557396122,
+		"lng": -0.14312267303466797,
+		"address": "Buckingham Palace Rd",
+		"postalCode": "SW1A 1AA",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Palace"
+		]
 	},
 	{
 		"date": "2016-01-30T12:39:46.000Z",
 		"name": "The Queen's Gallery",
-		"id": "4ac518d0f964a52091a620e3"
+		"id": "4ac518d0f964a52091a620e3",
+		"lat": 51.49979778839289,
+		"lng": -0.14228159866183618,
+		"address": "Buckingham Palace Rd",
+		"postalCode": "SW1A 1AA",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Art Gallery",
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2016-01-30T12:56:50.000Z",
 		"name": "Westminster Cathedral",
-		"id": "4ac518cef964a52000a620e3"
+		"id": "4ac518cef964a52000a620e3",
+		"lat": 51.49677510515748,
+		"lng": -0.1400857415401945,
+		"address": "42 Francis St",
+		"postalCode": "SW1P 1QW",
+		"city": "City of Westminster",
+		"country": "United Kingdom",
+		"categories": [
+			"Church"
+		]
 	},
 	{
 		"date": "2016-01-30T12:58:29.000Z",
 		"name": "Jamie's Italian",
-		"id": "557eb94b498e50e3f005055b"
+		"id": "557eb94b498e50e3f005055b",
+		"lat": 51.49735891472882,
+		"lng": -0.13780042473954837,
+		"address": "66 Victoria St",
+		"postalCode": "SW1E 6SQ",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2016-01-30T15:36:47.000Z",
 		"name": "Big Ben (Elizabeth Tower)",
-		"id": "4ac518cef964a520f6a520e3"
+		"id": "4ac518cef964a520f6a520e3",
+		"lat": 51.50062,
+		"lng": -0.124578,
+		"address": "Parliament Sq",
+		"postalCode": "SW1A 0AA",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Monument / Landmark",
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2016-01-30T16:29:02.000Z",
 		"name": "Trafalgar Square",
-		"id": "4ac518cef964a520f9a520e3"
+		"id": "4ac518cef964a520f9a520e3",
+		"lat": 51.507987,
+		"lng": -0.128048,
+		"address": "Trafalgar Sq",
+		"postalCode": "WC2N 5DX",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2016-01-30T17:28:54.000Z",
 		"name": "Covent Garden",
-		"id": "4c52b7a4b6dabe9a24d2bb13"
+		"id": "4c52b7a4b6dabe9a24d2bb13",
+		"lat": 51.511958,
+		"lng": -0.122729,
+		"postalCode": "W C2E",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2016-01-30T18:55:11.000Z",
 		"name": "Salvador & Amanda",
-		"id": "4ac518c2f964a52003a420e3"
+		"id": "4ac518c2f964a52003a420e3",
+		"lat": 51.512037316111915,
+		"lng": -0.12769213626023287,
+		"address": "8 Great Newport St",
+		"postalCode": "WC2H 7JA",
+		"city": "Covent Garden",
+		"country": "United Kingdom",
+		"categories": [
+			"Tapas Restaurant",
+			"Snack Place",
+			"Bar"
+		]
 	},
 	{
 		"date": "2016-01-30T20:03:00.000Z",
 		"name": "St Paul's Cathedral",
-		"id": "4ac518cef964a520f5a520e3"
+		"id": "4ac518cef964a520f5a520e3",
+		"lat": 51.51387722554811,
+		"lng": -0.09842634201049805,
+		"address": "St Paul's Church Yard",
+		"postalCode": "EC4M 8AD",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Church",
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2016-01-30T21:28:59.000Z",
 		"name": "Ye Olde London",
-		"id": "4b3cb4c9f964a5205c8625e3"
+		"id": "4b3cb4c9f964a5205c8625e3",
+		"lat": 51.51408743268596,
+		"lng": -0.10247470709744749,
+		"address": "42 Ludgate Hill",
+		"postalCode": "EC4M 7DE",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Pub"
+		]
 	},
 	{
 		"date": "2016-01-31T11:37:57.000Z",
 		"name": "Jacks Cafe",
-		"id": "4bb5bbccf562ef3b0b372f97"
+		"id": "4bb5bbccf562ef3b0b372f97",
+		"lat": 51.53625408568136,
+		"lng": -0.20560209388549605,
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Breakfast Spot"
+		]
 	},
 	{
 		"date": "2016-01-31T12:30:26.000Z",
 		"name": "Dorset Place (T)",
-		"id": "4ded0bdefa766152f0580a8d"
+		"id": "4ded0bdefa766152f0580a8d",
+		"lat": 51.523182978800634,
+		"lng": -0.16034790095770957,
+		"address": "2-8 Dorset Square",
+		"postalCode": "NW 1 6",
+		"city": "Paddington",
+		"country": "United Kingdom",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2016-01-31T12:46:28.000Z",
 		"name": "Abbey Road Studios",
-		"id": "4ac518d0f964a520aaa620e3"
+		"id": "4ac518d0f964a520aaa620e3",
+		"lat": 51.53237121009653,
+		"lng": -0.17777877833888267,
+		"address": "3 Abbey Rd",
+		"postalCode": "NW8 9AY",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Recording Studio",
+			"Music Venue"
+		]
 	},
 	{
 		"date": "2016-01-31T13:01:35.000Z",
 		"name": "Abbey Road Crossing",
-		"id": "4b1ab25af964a5209eef23e3"
+		"id": "4b1ab25af964a5209eef23e3",
+		"lat": 51.53206254650124,
+		"lng": -0.17726827913752435,
+		"address": "Abbey Rd",
+		"postalCode": "NW8",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Historic Site",
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2016-01-31T13:01:59.000Z",
 		"name": "Abbey Road Shop",
-		"id": "563e00fecd10e4161db86f57"
+		"id": "563e00fecd10e4161db86f57",
+		"lat": 51.53231147760432,
+		"lng": -0.17773999226708334,
+		"address": "3 Abbey Rd",
+		"postalCode": "NW8 9AY",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Gift Shop"
+		]
 	},
 	{
 		"date": "2016-01-31T13:39:52.000Z",
 		"name": "The Monument",
-		"id": "4b431692f964a52022dc25e3"
+		"id": "4b431692f964a52022dc25e3",
+		"lat": 51.510133809451354,
+		"lng": -0.08604753792195599,
+		"address": "Monument St",
+		"postalCode": "EC3R 8AH",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Monument / Landmark",
+			"Scenic Lookout",
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2016-01-31T14:40:22.000Z",
 		"name": "Costa Coffee",
-		"id": "4e22c1e022717a5245d842c9"
+		"id": "4e22c1e022717a5245d842c9",
+		"lat": 51.564543,
+		"lng": -0.134847,
+		"address": "35 Junction Road",
+		"postalCode": "N19 5QT",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2016-01-31T14:59:49.000Z",
 		"name": "Highgate Cemetery",
-		"id": "4ac518cef964a5201ba620e3"
+		"id": "4ac518cef964a5201ba620e3",
+		"lat": 51.56696509632984,
+		"lng": -0.14651770740485698,
+		"address": "Swain's Ln",
+		"postalCode": "N6 6PJ",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Cemetery"
+		]
 	},
 	{
 		"date": "2016-01-31T16:00:24.000Z",
 		"name": "Waterlow Park",
-		"id": "4bcf3f7e9854d13accadf54d"
+		"id": "4bcf3f7e9854d13accadf54d",
+		"lat": 51.56901643444715,
+		"lng": -0.14504063726792185,
+		"address": "Swain's Ln",
+		"postalCode": "N6 6PL",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2016-01-31T17:00:38.000Z",
 		"name": "Tower of London",
-		"id": "4ac518cef964a520f7a520e3"
+		"id": "4ac518cef964a520f7a520e3",
+		"lat": 51.508248315482646,
+		"lng": -0.07626056671142578,
+		"address": "Tower Hill",
+		"postalCode": "EC3N 4AB",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Castle",
+			"History Museum"
+		]
 	},
 	{
 		"date": "2016-01-31T17:17:13.000Z",
 		"name": "Tower Bridge",
-		"id": "4ac518cef964a520f8a520e3"
+		"id": "4ac518cef964a520f8a520e3",
+		"lat": 51.50555046555676,
+		"lng": -0.07533788681030273,
+		"address": "Tower Bridge Rd",
+		"postalCode": "SE1 2UP",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Bridge",
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2016-01-31T17:17:31.000Z",
 		"name": "Tesco Express",
-		"id": "5332d2c2498e49c84573186a"
+		"id": "5332d2c2498e49c84573186a",
+		"lat": 51.5071988,
+		"lng": -0.0739725,
+		"address": "St Katharines Way",
+		"postalCode": "E1W 1LE",
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Grocery Store",
+			"Convenience Store"
+		]
 	},
 	{
 		"date": "2016-01-31T18:37:54.000Z",
 		"name": "Brent",
-		"id": "53150df1e4b0e72a36ebc698"
+		"id": "53150df1e4b0e72a36ebc698",
+		"lat": 51.58860674348515,
+		"lng": -0.26429710650229027,
+		"city": "London",
+		"country": "United Kingdom",
+		"categories": [
+			"Neighborhood"
+		]
 	}
 ]

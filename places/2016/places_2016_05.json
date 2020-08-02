@@ -2,646 +2,1792 @@
 	{
 		"date": "2016-05-01T09:16:30.000Z",
 		"name": "Ezersziget virágüzlet",
-		"id": "5068000ae4b0890847eb674b"
+		"id": "5068000ae4b0890847eb674b",
+		"lat": 47.681074193606406,
+		"lng": 16.589398273085042,
+		"address": "Mátyás király utca",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Flower Shop"
+		]
 	},
 	{
 		"date": "2016-05-01T16:03:10.000Z",
 		"name": "Walzer cukrászda",
-		"id": "4dfa4412483b4bf3e57afeb6"
+		"id": "4dfa4412483b4bf3e57afeb6",
+		"lat": 47.68190497884783,
+		"lng": 16.596788068394396,
+		"address": "Pócsi u. 23",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Dessert Shop",
+			"Ice Cream Shop",
+			"Café"
+		]
 	},
 	{
 		"date": "2016-05-01T17:42:55.000Z",
 		"name": "Grandma's Place",
-		"id": "4f5c86b7e4b086681c0fa476"
+		"id": "4f5c86b7e4b086681c0fa476",
+		"lat": 47.685079492343135,
+		"lng": 16.59042726764715,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-02T08:22:14.000Z",
 		"name": "Landzeit Steinhäusl bei Wien",
-		"id": "527c9ac711d263d0cd7ace88"
+		"id": "527c9ac711d263d0cd7ace88",
+		"lat": 48.157235802699006,
+		"lng": 15.94112723462882,
+		"address": "Kleinberg 2",
+		"postalCode": "3033",
+		"city": "Altlengbach",
+		"country": "Österreich",
+		"categories": [
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-02T08:49:13.000Z",
 		"name": "Rosenberger",
-		"id": "4bae0b2af964a520fc7d3be3"
+		"id": "4bae0b2af964a520fc7d3be3",
+		"lat": 48.176884505865175,
+		"lng": 15.554316432628019,
+		"address": "A1 West Autobahn",
+		"postalCode": "3385",
+		"city": "Gerersdorf",
+		"country": "Österreich",
+		"categories": [
+			"Restaurant",
+			"Rest Area"
+		]
 	},
 	{
 		"date": "2016-05-02T08:53:40.000Z",
 		"name": "BP",
-		"id": "4e7aca2b2271de22d5140c66"
+		"id": "4e7aca2b2271de22d5140c66",
+		"lat": 48.17746432,
+		"lng": 15.55288662,
+		"address": "Völlerndorf",
+		"postalCode": "3385",
+		"city": "Völlerndorf",
+		"country": "Österreich",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2016-05-02T11:18:05.000Z",
 		"name": "Raststätte Donautal Ost",
-		"id": "4e7c3336fa76d496b677cc34"
+		"id": "4e7c3336fa76d496b677cc34",
+		"lat": 48.58800708135892,
+		"lng": 13.366099473588203,
+		"address": "A 3",
+		"postalCode": "94036",
+		"city": "Passau",
+		"country": "Deutschland",
+		"categories": [
+			"Rest Area",
+			"Gas Station",
+			"Gastropub"
+		]
 	},
 	{
 		"date": "2016-05-02T14:27:48.000Z",
 		"name": "Autohof Herrieden",
-		"id": "4ec4ba2c30f8194515034f36"
+		"id": "4ec4ba2c30f8194515034f36",
+		"lat": 49.258693861870526,
+		"lng": 10.501600270474,
+		"address": "Am Eichelberg 2",
+		"postalCode": "91567",
+		"city": "Herrieden",
+		"country": "Deutschland",
+		"categories": [
+			"Rest Area",
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2016-05-02T14:27:58.000Z",
 		"name": "Burger King",
-		"id": "4c9b89cfd4b1b1f761d3d935"
+		"id": "4c9b89cfd4b1b1f761d3d935",
+		"lat": 49.25876448609865,
+		"lng": 10.501641895335668,
+		"address": "Am Eichelberg 2",
+		"postalCode": "91567",
+		"city": "Herrieden",
+		"country": "Deutschland",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-02T18:09:12.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-03T06:38:26.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-03T06:45:46.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-03T09:51:22.000Z",
 		"name": "Bagelstein",
-		"id": "54f0609b498ea7bb9626e820"
+		"id": "54f0609b498ea7bb9626e820",
+		"lat": 49.6332078,
+		"lng": 6.16949633,
+		"address": "Rue Alphonse Weicker 5",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Bagel Shop",
+			"Modern European Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-03T18:15:57.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-04T06:27:28.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-04T06:36:24.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-04T10:03:24.000Z",
 		"name": "Apulia Antichi Sapori",
-		"id": "52d6e66e498e3733dfa1058c"
+		"id": "52d6e66e498e3733dfa1058c",
+		"lat": 49.633822883864724,
+		"lng": 6.16949483192922,
+		"address": "Centre Commercial Auchan (1st floor)",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-04T16:50:12.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-05T20:00:11.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-06T06:25:01.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-06T06:35:43.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-06T09:52:07.000Z",
 		"name": "Dean & David",
-		"id": "53288e8711d2ad54eef962f3"
+		"id": "53288e8711d2ad54eef962f3",
+		"lat": 49.63359181756525,
+		"lng": 6.173222788183037,
+		"address": "45, avenue J.-F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Salad Place"
+		]
 	},
 	{
 		"date": "2016-05-06T18:27:22.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-08T08:06:44.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-09T08:04:22.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-09T08:07:05.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-09T08:58:43.000Z",
 		"name": "H&M",
-		"id": "4cd5614d2944b1f7c38b5cec"
+		"id": "4cd5614d2944b1f7c38b5cec",
+		"lat": 49.63389513851244,
+		"lng": 6.168486874046718,
+		"address": "Rue Alphonse Weicker 5",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2016-05-09T10:00:28.000Z",
 		"name": "Apulia Antichi Sapori",
-		"id": "52d6e66e498e3733dfa1058c"
+		"id": "52d6e66e498e3733dfa1058c",
+		"lat": 49.633822883864724,
+		"lng": 6.16949483192922,
+		"address": "Centre Commercial Auchan (1st floor)",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-09T12:17:34.000Z",
 		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
-		"id": "4ba14c55f964a52045aa37e3"
+		"id": "4ba14c55f964a52045aa37e3",
+		"lat": 49.634630283133625,
+		"lng": 6.216286980455832,
+		"address": "4 Rue de Trèves",
+		"postalCode": "2016",
+		"city": "Findel",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2016-05-09T14:43:35.000Z",
 		"name": "Gate A16",
-		"id": "4e78b2bf483bc8fe83ea21fb"
+		"id": "4e78b2bf483bc8fe83ea21fb",
+		"lat": 49.63392468968284,
+		"lng": 6.216743237174543,
+		"address": "Terminal A",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2016-05-09T15:57:02.000Z",
 		"name": "Terminal 2",
-		"id": "4b93a176f964a520f14a34e3"
+		"id": "4b93a176f964a520f14a34e3",
+		"lat": 48.35383994633446,
+		"lng": 11.791443256699676,
+		"address": "MUC Airport",
+		"postalCode": "85356",
+		"city": "München",
+		"country": "Deutschland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2016-05-09T15:57:49.000Z",
 		"name": "Munich Franz Josef Strauss Airport (MUC) (Flughafen München „Franz Josef Strauß“)",
-		"id": "4cbd1bfaf50e224b160503fc"
+		"id": "4cbd1bfaf50e224b160503fc",
+		"lat": 48.35476611776862,
+		"lng": 11.791248321533203,
+		"address": "Nordallee 25",
+		"postalCode": "85356",
+		"city": "München",
+		"country": "Deutschland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2016-05-09T17:47:38.000Z",
 		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
-		"id": "4b61c2daf964a5200f212ae3"
+		"id": "4b61c2daf964a5200f212ae3",
+		"lat": 47.43090022934757,
+		"lng": 19.260798463708202,
+		"address": "Budapest Airport",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2016-05-09T18:01:30.000Z",
 		"name": "Terminal 2A",
-		"id": "4c25aa535c5ca59357e044fe"
+		"id": "4c25aa535c5ca59357e044fe",
+		"lat": 47.433124251820495,
+		"lng": 19.262262161509078,
+		"address": "BUD Nemzetközi Repülőtér",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2016-05-09T19:23:31.000Z",
 		"name": "Blaha Lujza tér",
-		"id": "4b609983f964a5208aef29e3"
+		"id": "4b609983f964a5208aef29e3",
+		"lat": 47.49669747919805,
+		"lng": 19.070372364721052,
+		"address": "Blaha Lujza tér",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2016-05-09T22:55:34.000Z",
 		"name": "Danubius Hotel Astoria",
-		"id": "4c38e55f2c8020a167b98b00"
+		"id": "4c38e55f2c8020a167b98b00",
+		"lat": 47.49403037284821,
+		"lng": 19.05940979719162,
+		"address": "Kossuth Lajos utca 19-21",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2016-05-10T06:13:32.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2016-05-10T12:32:12.000Z",
 		"name": "Danubius Hotel Astoria",
-		"id": "4c38e55f2c8020a167b98b00"
+		"id": "4c38e55f2c8020a167b98b00",
+		"lat": 47.49403037284821,
+		"lng": 19.05940979719162,
+		"address": "Kossuth Lajos utca 19-21",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2016-05-10T12:46:34.000Z",
 		"name": "SonkaArcok • bárkonyha",
-		"id": "50de0570e4b07dd5d142fe47"
+		"id": "50de0570e4b07dd5d142fe47",
+		"lat": 47.49076260167816,
+		"lng": 19.05900395966437,
+		"address": "Kecskeméti u. 2.",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Gastropub",
+			"Mediterranean Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-10T14:19:35.000Z",
 		"name": "Deák Ferenc tér",
-		"id": "4d52c0d74015b1f7b1017ecf"
+		"id": "4d52c0d74015b1f7b1017ecf",
+		"lat": 47.49751050552186,
+		"lng": 19.054739042164343,
+		"address": "Deák Ferenc tér",
+		"postalCode": "1052",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2016-05-10T14:28:30.000Z",
 		"name": "AnalogueZone Showroom",
-		"id": "52ed7c12498e3e1e276b4dab"
+		"id": "52ed7c12498e3e1e276b4dab",
+		"lat": 47.50215782039075,
+		"lng": 19.055711030960083,
+		"address": "Bajcsy Zsilinszky köz 3.",
+		"postalCode": "1065",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Music Store"
+		]
 	},
 	{
 		"date": "2016-05-10T19:41:52.000Z",
 		"name": "W35",
-		"id": "51719734e4b081c3bef3e14d"
+		"id": "51719734e4b081c3bef3e14d",
+		"lat": 47.49941728473325,
+		"lng": 19.066951938897407,
+		"address": "Wesselényi u. 35.",
+		"postalCode": "1075",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2016-05-10T20:41:31.000Z",
 		"name": "Gozsdu Udvar",
-		"id": "4bddd19289ca76b073825d5e"
+		"id": "4bddd19289ca76b073825d5e",
+		"lat": 47.49850288983981,
+		"lng": 19.05925154685974,
+		"address": "Király u. 13.",
+		"postalCode": "1075",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2016-05-10T20:45:10.000Z",
 		"name": "Horizont Taproom by Léhűtő",
-		"id": "50c61700e4b0b83e0adab5c8"
+		"id": "50c61700e4b0b83e0adab5c8",
+		"lat": 47.49889810734822,
+		"lng": 19.059770030310393,
+		"address": "Holló u. 12-14.",
+		"postalCode": "1076",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Beer Bar",
+			"Beer Garden"
+		]
 	},
 	{
 		"date": "2016-05-10T20:54:46.000Z",
 		"name": "ELLÁTÓház",
-		"id": "554d2998498e845219aeb14f"
+		"id": "554d2998498e845219aeb14f",
+		"lat": 47.49782306214813,
+		"lng": 19.061195391945233,
+		"address": "Dob u. 19.",
+		"postalCode": "1074",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Beer Garden"
+		]
 	},
 	{
 		"date": "2016-05-10T21:08:14.000Z",
 		"name": "Spíler",
-		"id": "5038ed94e4b0304eb4fc3a90"
+		"id": "5038ed94e4b0304eb4fc3a90",
+		"lat": 47.498689538467175,
+		"lng": 19.058929681777954,
+		"address": "Király u. 13.",
+		"postalCode": "1075",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Gastropub",
+			"Cocktail Bar",
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2016-05-10T22:29:44.000Z",
 		"name": "Hot Dog Cold Beer #2",
-		"id": "54e74917498e574ef7f23ffd"
+		"id": "54e74917498e574ef7f23ffd",
+		"lat": 47.4991890511,
+		"lng": 19.05824791328243,
+		"address": "Király u. 13.",
+		"postalCode": "1075",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hot Dog Joint"
+		]
 	},
 	{
 		"date": "2016-05-11T07:22:19.000Z",
 		"name": "Akvárium klub",
-		"id": "52fbb202498ebfa06326ef27"
+		"id": "52fbb202498ebfa06326ef27",
+		"lat": 47.49840207975642,
+		"lng": 19.054216756404397,
+		"address": "Erzsébet tér",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Concert Hall",
+			"Bar"
+		]
 	},
 	{
 		"date": "2016-05-11T13:55:25.000Z",
 		"name": "Erzsébet tér",
-		"id": "4bb1a92af964a520ff9d3ce3"
+		"id": "4bb1a92af964a520ff9d3ce3",
+		"lat": 47.49843040475713,
+		"lng": 19.053243398666382,
+		"address": "Erzsébet tér",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Park",
+			"Plaza",
+			"Playground"
+		]
 	},
 	{
 		"date": "2016-05-11T19:53:17.000Z",
 		"name": "Humbák Művek",
-		"id": "5695f810498eee4ddc775dbe"
+		"id": "5695f810498eee4ddc775dbe",
+		"lat": 47.49853482422887,
+		"lng": 19.070072017488787,
+		"address": "Erzsébet körút 12.",
+		"postalCode": "1073",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Pub"
+		]
 	},
 	{
 		"date": "2016-05-11T20:31:57.000Z",
 		"name": "IGEN",
-		"id": "53cff6c2498e918e657eee82"
+		"id": "53cff6c2498e918e657eee82",
+		"lat": 47.4977490400884,
+		"lng": 19.034757614135742,
+		"address": "Madách Imre út 5.",
+		"postalCode": "1075",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2016-05-11T21:57:07.000Z",
 		"name": "Aznap",
-		"id": "5442b803498e03294ce1ffda"
+		"id": "5442b803498e03294ce1ffda",
+		"lat": 47.49848264315772,
+		"lng": 19.069825160625527,
+		"address": "Dohány u. 68.",
+		"postalCode": "1074",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bar"
+		]
 	},
 	{
 		"date": "2016-05-12T01:55:06.000Z",
 		"name": "Danubius Hotel Astoria",
-		"id": "4c38e55f2c8020a167b98b00"
+		"id": "4c38e55f2c8020a167b98b00",
+		"lat": 47.49403037284821,
+		"lng": 19.05940979719162,
+		"address": "Kossuth Lajos utca 19-21",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2016-05-12T07:02:56.000Z",
 		"name": "Akvárium klub",
-		"id": "52fbb202498ebfa06326ef27"
+		"id": "52fbb202498ebfa06326ef27",
+		"lat": 47.49840207975642,
+		"lng": 19.054216756404397,
+		"address": "Erzsébet tér",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Concert Hall",
+			"Bar"
+		]
 	},
 	{
 		"date": "2016-05-12T16:17:45.000Z",
 		"name": "Danubius Hotel Astoria",
-		"id": "4c38e55f2c8020a167b98b00"
+		"id": "4c38e55f2c8020a167b98b00",
+		"lat": 47.49403037284821,
+		"lng": 19.05940979719162,
+		"address": "Kossuth Lajos utca 19-21",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2016-05-12T17:11:59.000Z",
 		"name": "Blaha Lujza tér",
-		"id": "4b609983f964a5208aef29e3"
+		"id": "4b609983f964a5208aef29e3",
+		"lat": 47.49669747919805,
+		"lng": 19.070372364721052,
+		"address": "Blaha Lujza tér",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2016-05-12T17:50:46.000Z",
 		"name": "Budapest Park",
-		"id": "4f92b544e4b06ce857be5246"
+		"id": "4f92b544e4b06ce857be5246",
+		"lat": 47.467601210652624,
+		"lng": 19.077293553147573,
+		"address": "Soroksári út 60.",
+		"postalCode": "1095",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Music Venue",
+			"Nightclub",
+			"Concert Hall"
+		]
 	},
 	{
 		"date": "2016-05-12T22:56:46.000Z",
 		"name": "ZERO BAR",
-		"id": "50d9e839e4b0aceb2ca86b9d"
+		"id": "50d9e839e4b0aceb2ca86b9d",
+		"lat": 47.4978062657992,
+		"lng": 19.072714723220955,
+		"address": "Rákóczi út 49/a.",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Cocktail Bar"
+		]
 	},
 	{
 		"date": "2016-05-13T05:53:20.000Z",
 		"name": "Danubius Hotel Astoria",
-		"id": "4c38e55f2c8020a167b98b00"
+		"id": "4c38e55f2c8020a167b98b00",
+		"lat": 47.49403037284821,
+		"lng": 19.05940979719162,
+		"address": "Kossuth Lajos utca 19-21",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2016-05-13T07:01:12.000Z",
 		"name": "Akvárium klub",
-		"id": "52fbb202498ebfa06326ef27"
+		"id": "52fbb202498ebfa06326ef27",
+		"lat": 47.49840207975642,
+		"lng": 19.054216756404397,
+		"address": "Erzsébet tér",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Concert Hall",
+			"Bar"
+		]
 	},
 	{
 		"date": "2016-05-13T11:48:11.000Z",
 		"name": "Akvárium klub",
-		"id": "52fbb202498ebfa06326ef27"
+		"id": "52fbb202498ebfa06326ef27",
+		"lat": 47.49840207975642,
+		"lng": 19.054216756404397,
+		"address": "Erzsébet tér",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Concert Hall",
+			"Bar"
+		]
 	},
 	{
 		"date": "2016-05-13T15:58:59.000Z",
 		"name": "Danubius Hotel Astoria",
-		"id": "4c38e55f2c8020a167b98b00"
+		"id": "4c38e55f2c8020a167b98b00",
+		"lat": 47.49403037284821,
+		"lng": 19.05940979719162,
+		"address": "Kossuth Lajos utca 19-21",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2016-05-13T16:48:27.000Z",
 		"name": "Hummus Bar",
-		"id": "4d4c3d5ef523a1439944749d"
+		"id": "4d4c3d5ef523a1439944749d",
+		"lat": 47.49071985727359,
+		"lng": 19.059035759404022,
+		"address": "Kecskeméti u. 1.",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Falafel Restaurant",
+			"Middle Eastern Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-13T18:04:16.000Z",
 		"name": "Képzeld el!",
-		"id": "5401a163498ea342592cffd9"
+		"id": "5401a163498ea342592cffd9",
+		"lat": 47.498039821975816,
+		"lng": 19.06436380614032,
+		"address": "Wesselényi utca 23, Budapest, Hungary, 1077",
+		"country": "Magyarország",
+		"categories": [
+			"Wine Bar"
+		]
 	},
 	{
 		"date": "2016-05-13T23:41:50.000Z",
 		"name": "Danubius Hotel Astoria",
-		"id": "4c38e55f2c8020a167b98b00"
+		"id": "4c38e55f2c8020a167b98b00",
+		"lat": 47.49403037284821,
+		"lng": 19.05940979719162,
+		"address": "Kossuth Lajos utca 19-21",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2016-05-14T05:07:18.000Z",
 		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
-		"id": "4b61c2daf964a5200f212ae3"
+		"id": "4b61c2daf964a5200f212ae3",
+		"lat": 47.43090022934757,
+		"lng": 19.260798463708202,
+		"address": "Budapest Airport",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2016-05-14T05:45:23.000Z",
 		"name": "Terminal 2A",
-		"id": "4c25aa535c5ca59357e044fe"
+		"id": "4c25aa535c5ca59357e044fe",
+		"lat": 47.433124251820495,
+		"lng": 19.262262161509078,
+		"address": "BUD Nemzetközi Repülőtér",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2016-05-14T06:55:47.000Z",
 		"name": "Gate A5",
-		"id": "4e0357478877909501429d99"
+		"id": "4e0357478877909501429d99",
+		"lat": 47.43377693786356,
+		"lng": 19.261975603656875,
+		"address": "Terminal 2A",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2016-05-14T09:40:04.000Z",
 		"name": "Frankfurt Airport (FRA) (Frankfurt Airport)",
-		"id": "4b058853f964a5201bbf22e3"
+		"id": "4b058853f964a5201bbf22e3",
+		"lat": 50.05008477838256,
+		"lng": 8.571910858154297,
+		"address": "Hugo-Eckener-Ring",
+		"postalCode": "60547",
+		"city": "Frankfurt am Main",
+		"country": "Deutschland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2016-05-14T09:54:11.000Z",
 		"name": "Concourse B",
-		"id": "4e6cd3d38877ce9598244dbd"
+		"id": "4e6cd3d38877ce9598244dbd",
+		"lat": 50.048514020580804,
+		"lng": 8.572983741760254,
+		"address": "Terminal 1",
+		"postalCode": "60549",
+		"city": "Frankfurt am Main",
+		"country": "Deutschland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2016-05-14T12:00:51.000Z",
 		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
-		"id": "4ba14c55f964a52045aa37e3"
+		"id": "4ba14c55f964a52045aa37e3",
+		"lat": 49.634630283133625,
+		"lng": 6.216286980455832,
+		"address": "4 Rue de Trèves",
+		"postalCode": "2016",
+		"city": "Findel",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2016-05-14T12:01:45.000Z",
 		"name": "Baggage Claim",
-		"id": "51d7de23498eb1cf171bd4e8"
+		"id": "51d7de23498eb1cf171bd4e8",
+		"lat": 49.63472299522555,
+		"lng": 6.216480210176613,
+		"address": "Terminal A",
+		"city": "Findel",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Baggage Claim"
+		]
 	},
 	{
 		"date": "2016-05-14T12:51:20.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-14T15:44:02.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-15T13:10:50.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-17T06:23:17.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-17T06:54:53.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-17T09:32:49.000Z",
 		"name": "McDonald's",
-		"id": "4ee3c150490138df8c9047ba"
+		"id": "4ee3c150490138df8c9047ba",
+		"lat": 49.63355644536983,
+		"lng": 6.173131320520858,
+		"address": "45 Ave. J-f Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-17T17:17:55.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-18T06:29:52.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-18T06:30:03.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-18T09:51:09.000Z",
 		"name": "Apulia Antichi Sapori",
-		"id": "52d6e66e498e3733dfa1058c"
+		"id": "52d6e66e498e3733dfa1058c",
+		"lat": 49.633822883864724,
+		"lng": 6.16949483192922,
+		"address": "Centre Commercial Auchan (1st floor)",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-18T17:04:20.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-19T06:52:15.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-19T07:18:01.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-19T09:57:03.000Z",
 		"name": "Dean & David",
-		"id": "53288e8711d2ad54eef962f3"
+		"id": "53288e8711d2ad54eef962f3",
+		"lat": 49.63359181756525,
+		"lng": 6.173222788183037,
+		"address": "45, avenue J.-F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Salad Place"
+		]
 	},
 	{
 		"date": "2016-05-19T17:16:15.000Z",
 		"name": "Porta Nigra",
-		"id": "4b4db8b3f964a52049d626e3"
+		"id": "4b4db8b3f964a52049d626e3",
+		"lat": 49.7593832564217,
+		"lng": 6.643506476073801,
+		"address": "Porta-Nigra-Platz",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Historic Site",
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2016-05-19T17:22:59.000Z",
 		"name": "Trier Galerie",
-		"id": "4bc2e26c74a9a5933ad0d3f6"
+		"id": "4bc2e26c74a9a5933ad0d3f6",
+		"lat": 49.75574434830903,
+		"lng": 6.638750525074942,
+		"address": "Fleischstr. 62",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2016-05-19T17:34:13.000Z",
 		"name": "REWE City",
-		"id": "57a3a39c498e406b9d2fd43a"
+		"id": "57a3a39c498e406b9d2fd43a",
+		"lat": 49.755999119833014,
+		"lng": 6.637973785400391,
+		"address": "Fleischstr. 62-65",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-19T18:07:27.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-20T06:33:34.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-20T07:08:16.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-20T09:36:24.000Z",
 		"name": "McDonald's",
-		"id": "4ee3c150490138df8c9047ba"
+		"id": "4ee3c150490138df8c9047ba",
+		"lat": 49.63355644536983,
+		"lng": 6.173131320520858,
+		"address": "45 Ave. J-f Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-20T16:27:55.000Z",
 		"name": "Tankstellenmeile Wasserbillig",
-		"id": "4d4080e456f45941d66ab762"
+		"id": "4d4080e456f45941d66ab762",
+		"lat": 49.709500831128466,
+		"lng": 6.490099441719384,
+		"address": "Route de Wasserbillig",
+		"postalCode": "6686",
+		"city": "Mertert",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Gas Station",
+			"Shopping Plaza"
+		]
 	},
 	{
 		"date": "2016-05-20T16:28:19.000Z",
 		"name": "Aral",
-		"id": "4d4a81259544a0939de332e7"
+		"id": "4d4a81259544a0939de332e7",
+		"lat": 49.70953318948711,
+		"lng": 6.490252272701474,
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2016-05-20T16:58:20.000Z",
 		"name": "Globus Baumarkt Trier",
-		"id": "54f1b4e8498e19d7bc0c3514"
+		"id": "54f1b4e8498e19d7bc0c3514",
+		"lat": 49.77207,
+		"lng": 6.660959999999999,
+		"address": "Castelforte-Str. 1",
+		"postalCode": "54292",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Hardware Store",
+			"Garden Center",
+			"Miscellaneous Shop"
+		]
 	},
 	{
 		"date": "2016-05-20T17:16:58.000Z",
 		"name": "SUBWAY",
-		"id": "4b9b8b0ff964a5202b0e36e3"
+		"id": "4b9b8b0ff964a5202b0e36e3",
+		"lat": 49.77063359752783,
+		"lng": 6.660485448888835,
+		"address": "Castelforter Str. 10",
+		"postalCode": "54292",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Sandwich Place"
+		]
 	},
 	{
 		"date": "2016-05-20T17:41:21.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-20T19:10:29.000Z",
 		"name": "Coyote Cafe",
-		"id": "4b52de43f964a520968927e3"
+		"id": "4b52de43f964a520968927e3",
+		"lat": 49.75700668313922,
+		"lng": 6.639006500084768,
+		"address": "Nikolaus-Koch-Platz 5",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"American Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-21T09:56:56.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-21T10:07:39.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-21T17:10:22.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-22T05:39:16.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-22T18:13:03.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-23T14:05:33.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-23T16:13:52.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-24T09:45:17.000Z",
 		"name": "Dean & David",
-		"id": "53288e8711d2ad54eef962f3"
+		"id": "53288e8711d2ad54eef962f3",
+		"lat": 49.63359181756525,
+		"lng": 6.173222788183037,
+		"address": "45, avenue J.-F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Salad Place"
+		]
 	},
 	{
 		"date": "2016-05-24T10:04:40.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-24T16:53:50.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-25T06:34:08.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-25T06:34:32.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-25T09:45:05.000Z",
 		"name": "Apulia Antichi Sapori",
-		"id": "52d6e66e498e3733dfa1058c"
+		"id": "52d6e66e498e3733dfa1058c",
+		"lat": 49.633822883864724,
+		"lng": 6.16949483192922,
+		"address": "Centre Commercial Auchan (1st floor)",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-25T15:31:20.000Z",
 		"name": "Bricherhaff",
-		"id": "51839b23498e3270c1501e51"
+		"id": "51839b23498e3270c1501e51",
+		"lat": 49.625546441321816,
+		"lng": 6.162806740162044,
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Bus Station"
+		]
 	},
 	{
 		"date": "2016-05-25T17:07:03.000Z",
 		"name": "Das Bad an den Kaiserthermen",
-		"id": "4b86b749f964a520439831e3"
+		"id": "4b86b749f964a520439831e3",
+		"lat": 49.74931475605719,
+		"lng": 6.6401394717384985,
+		"address": "Südallee 10-12",
+		"postalCode": "54290",
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Pool",
+			"Spa",
+			"Gym Pool"
+		]
 	},
 	{
 		"date": "2016-05-25T19:32:40.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-26T06:46:50.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-26T06:47:02.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-26T09:42:09.000Z",
 		"name": "McDonald's",
-		"id": "4ee3c150490138df8c9047ba"
+		"id": "4ee3c150490138df8c9047ba",
+		"lat": 49.63355644536983,
+		"lng": 6.173131320520858,
+		"address": "45 Ave. J-f Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-26T16:09:06.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-27T07:06:24.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-27T07:09:17.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-27T09:48:23.000Z",
 		"name": "Vapiano",
-		"id": "4c51b35b3940be9a6a8e4e09"
+		"id": "4c51b35b3940be9a6a8e4e09",
+		"lat": 49.63180649278271,
+		"lng": 6.17125118616227,
+		"address": "Avenue John F. Kennedy 44",
+		"postalCode": "1855",
+		"city": "Kirchberg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Italian Restaurant",
+			"Mediterranean Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-28T07:06:40.000Z",
 		"name": "Auchan",
-		"id": "4b43c3bbf964a52006e925e3"
+		"id": "4b43c3bbf964a52006e925e3",
+		"lat": 49.63357679951604,
+		"lng": 6.169896125793457,
+		"address": "5 rue Alphonse Weicker",
+		"postalCode": "2721",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Shopping Mall",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2016-05-28T08:12:56.000Z",
 		"name": "Docler Holding",
-		"id": "52cbb89a11d243c791c37510"
+		"id": "52cbb89a11d243c791c37510",
+		"lat": 49.6317381171169,
+		"lng": 6.17131892913784,
+		"address": "44, Avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2016-05-28T10:39:08.000Z",
 		"name": "Raku-An",
-		"id": "522eede811d261c3d2a69ea2"
+		"id": "522eede811d261c3d2a69ea2",
+		"lat": 49.6316836265592,
+		"lng": 6.171348525875912,
+		"address": "44 Avenue J.-F. Kennedy",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Ramen Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-28T22:01:05.000Z",
 		"name": "LuxExpo",
-		"id": "4ba62609f964a520293739e3"
+		"id": "4ba62609f964a520293739e3",
+		"lat": 49.63564074371117,
+		"lng": 6.1725233527241405,
+		"address": "10 circuit de la Foire Internationale",
+		"postalCode": "1347",
+		"city": "Kirchberg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Convention Center",
+			"Fair",
+			"Event Space"
+		]
 	},
 	{
 		"date": "2016-05-29T10:06:43.000Z",
 		"name": "Vapiano",
-		"id": "4c51b35b3940be9a6a8e4e09"
+		"id": "4c51b35b3940be9a6a8e4e09",
+		"lat": 49.63180649278271,
+		"lng": 6.17125118616227,
+		"address": "Avenue John F. Kennedy 44",
+		"postalCode": "1855",
+		"city": "Kirchberg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Italian Restaurant",
+			"Mediterranean Restaurant"
+		]
 	},
 	{
 		"date": "2016-05-29T16:04:30.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2016-05-31T09:47:12.000Z",
 		"name": "Cotton Candy Residence 5",
-		"id": "5614386e498e5c4e8f4927d8"
+		"id": "5614386e498e5c4e8f4927d8",
+		"lat": 49.75192729865979,
+		"lng": 6.6370894371892835,
+		"city": "Trier",
+		"country": "Deutschland",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]
