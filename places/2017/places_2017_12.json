@@ -2,841 +2,2343 @@
 	{
 		"date": "2017-12-01T07:22:33.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-01T07:41:28.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-01T08:12:24.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-12-01T11:10:55.000Z",
 		"name": "The Burrito Maker",
-		"id": "54e2314b498e6c6790ffa4ac"
+		"id": "54e2314b498e6c6790ffa4ac",
+		"lat": 52.36677,
+		"lng": 4.9252243,
+		"address": "Haarlemmerplein 29",
+		"postalCode": "1013 HP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Taco Place"
+		]
 	},
 	{
 		"date": "2017-12-02T17:48:54.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-02T18:11:34.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-02T18:26:03.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-12-02T22:01:21.000Z",
 		"name": "Amsterdam Zuid Railway Station (Station Amsterdam Zuid)",
-		"id": "4a952e89f964a520a62220e3"
+		"id": "4a952e89f964a520a62220e3",
+		"lat": 52.33894690990427,
+		"lng": 4.873248992995775,
+		"address": "Zuidplein 10",
+		"postalCode": "1077 XV",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-02T22:03:09.000Z",
 		"name": "Gustav Mahlerplein",
-		"id": "4cde63b3825e721ed4256a45"
+		"id": "4cde63b3825e721ed4256a45",
+		"lat": 52.337176156504874,
+		"lng": 4.873687011426481,
+		"address": "Gustav Mahlerplein",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-12-03T13:45:54.000Z",
 		"name": "Grote Markt",
-		"id": "4b33f1aef964a520842225e3"
+		"id": "4b33f1aef964a520842225e3",
+		"lat": 52.381433191163424,
+		"lng": 4.6357020650218494,
+		"address": "Grote Markt",
+		"postalCode": "2011",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Plaza",
+			"Event Space"
+		]
 	},
 	{
 		"date": "2017-12-03T14:22:32.000Z",
 		"name": "Apple Haarlem",
-		"id": "529e315f11d2f188f40a235a"
+		"id": "529e315f11d2f188f40a235a",
+		"lat": 52.378432951567824,
+		"lng": 4.6329654604005555,
+		"address": "Grote Houtstraat 99",
+		"postalCode": "2011 SH",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Electronics Store",
+			"Mobile Phone Shop"
+		]
 	},
 	{
 		"date": "2017-12-03T15:04:47.000Z",
 		"name": "DekaMarkt",
-		"id": "4b2fa935f964a520a1ed24e3"
+		"id": "4b2fa935f964a520a1ed24e3",
+		"lat": 52.38065978130429,
+		"lng": 4.632187862853243,
+		"address": "Gedempte Oude Gracht 56-58",
+		"postalCode": "2011 GS",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2017-12-04T06:50:29.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-04T07:19:33.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-04T07:59:01.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-12-04T13:25:59.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-12-04T16:20:14.000Z",
 		"name": "Albert Heijn",
-		"id": "4b48cc6ff964a5207f5726e3"
+		"id": "4b48cc6ff964a5207f5726e3",
+		"lat": 52.367173794373315,
+		"lng": 4.88929943413268,
+		"address": "Koningsplein 4",
+		"postalCode": "1017 BB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2017-12-04T17:15:13.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-04T17:40:17.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-05T11:09:42.000Z",
 		"name": "Water & Brood",
-		"id": "590c4ecfcad1b67f0cc84943"
+		"id": "590c4ecfcad1b67f0cc84943",
+		"lat": 52.36423552187337,
+		"lng": 4.905926229851091,
+		"address": "Nieuwe Kerkstraat 84",
+		"postalCode": "1018 EC",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Breakfast Spot"
+		]
 	},
 	{
 		"date": "2017-12-05T15:24:32.000Z",
 		"name": "Midi Amsterdam",
-		"id": "4dc15e53d4c07bbdf7732543"
+		"id": "4dc15e53d4c07bbdf7732543",
+		"lat": 52.36089421144778,
+		"lng": 4.868581880302388,
+		"address": "Overtoom 431",
+		"postalCode": "1054 KE",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Music Store"
+		]
 	},
 	{
 		"date": "2017-12-05T16:00:49.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-05T22:01:53.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-12-05T22:03:00.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-06T06:50:09.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-06T07:16:05.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-06T07:24:31.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-12-06T11:15:09.000Z",
 		"name": "Vapiano",
-		"id": "4fb28f2be4b0e2be9a5f1f6f"
+		"id": "4fb28f2be4b0e2be9a5f1f6f",
+		"lat": 52.36612800819601,
+		"lng": 4.897454374802111,
+		"address": "Amstelstraat 2-4",
+		"postalCode": "1017 DA",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Italian Restaurant",
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2017-12-06T11:59:04.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-12-06T16:45:36.000Z",
 		"name": "Midi Amsterdam",
-		"id": "4dc15e53d4c07bbdf7732543"
+		"id": "4dc15e53d4c07bbdf7732543",
+		"lat": 52.36089421144778,
+		"lng": 4.868581880302388,
+		"address": "Overtoom 431",
+		"postalCode": "1054 KE",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Music Store"
+		]
 	},
 	{
 		"date": "2017-12-06T17:18:11.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-06T17:51:17.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-06T17:51:25.000Z",
 		"name": "Albert Heijn to go",
-		"id": "4b862ee0f964a520038231e3"
+		"id": "4b862ee0f964a520038231e3",
+		"lat": 52.38851437453483,
+		"lng": 4.639542485412089,
+		"address": "Stationsplein 14",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store"
+		]
 	},
 	{
 		"date": "2017-12-07T07:25:23.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-07T07:42:12.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-07T11:06:14.000Z",
 		"name": "Tasty Asia",
-		"id": "4b92ba91f964a520e81534e3"
+		"id": "4b92ba91f964a520e81534e3",
+		"lat": 52.36625960848124,
+		"lng": 4.8990849205257225,
+		"address": "wagenstraat",
+		"postalCode": "1011",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Asian Restaurant"
+		]
 	},
 	{
 		"date": "2017-12-07T18:10:05.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-08T07:19:57.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-08T07:59:34.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-08T10:51:39.000Z",
 		"name": "Water & Brood",
-		"id": "590c4ecfcad1b67f0cc84943"
+		"id": "590c4ecfcad1b67f0cc84943",
+		"lat": 52.36423552187337,
+		"lng": 4.905926229851091,
+		"address": "Nieuwe Kerkstraat 84",
+		"postalCode": "1018 EC",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Breakfast Spot"
+		]
 	},
 	{
 		"date": "2017-12-08T14:58:10.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-08T15:10:58.000Z",
 		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
-		"id": "4a56245ff964a52085b41fe3"
+		"id": "4a56245ff964a52085b41fe3",
+		"lat": 52.38899431620469,
+		"lng": 4.837957990409058,
+		"address": "Orlyplein 105",
+		"postalCode": "1043 DT",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-08T15:58:05.000Z",
 		"name": "BRET",
-		"id": "553a5a76498e04e927dd5f59"
+		"id": "553a5a76498e04e927dd5f59",
+		"lat": 52.389575506582915,
+		"lng": 4.8368201636224795,
+		"address": "Orlyplein 76",
+		"postalCode": "1043 DP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Beer Garden"
+		]
 	},
 	{
 		"date": "2017-12-08T22:02:02.000Z",
 		"name": "Sultan shoarma",
-		"id": "573362de498e4009791e56a8"
+		"id": "573362de498e4009791e56a8",
+		"lat": 52.386933,
+		"lng": 4.636699,
+		"country": "Nederland",
+		"categories": [
+			"Snack Place"
+		]
 	},
 	{
 		"date": "2017-12-08T22:47:24.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-12-09T18:53:06.000Z",
 		"name": "Ristorante Pizzeria Venezia",
-		"id": "4adf3c60f964a520947821e3"
+		"id": "4adf3c60f964a520947821e3",
+		"lat": 52.379621156863365,
+		"lng": 4.633154619542963,
+		"address": "Verwulft 7",
+		"postalCode": "2011 GJ",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Italian Restaurant",
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2017-12-09T20:22:27.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2017-12-09T20:41:43.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-12-10T15:54:46.000Z",
 		"name": "Kruidvat",
-		"id": "4ce0ed647e2e236aacb48d1b"
+		"id": "4ce0ed647e2e236aacb48d1b",
+		"lat": 52.3833540786031,
+		"lng": 4.6352954386558745,
+		"address": "Kruisstraat 42",
+		"postalCode": "2011 PZ",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Drugstore"
+		]
 	},
 	{
 		"date": "2017-12-10T16:35:17.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-12-11T06:30:27.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-11T08:18:04.000Z",
 		"name": "Station Amsterdam Bijlmer ArenA",
-		"id": "4a73fd66f964a520a8dd1fe3"
+		"id": "4a73fd66f964a520a8dd1fe3",
+		"lat": 52.31197135888793,
+		"lng": 4.94719643397193,
+		"address": "Hoogoordplein 1",
+		"postalCode": "1102 BH",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-11T10:31:09.000Z",
 		"name": "SPAR city Van Kempen",
-		"id": "4b4c4089f964a52022b026e3"
+		"id": "4b4c4089f964a52022b026e3",
+		"lat": 52.36421961630775,
+		"lng": 4.9056606671851295,
+		"address": "Nieuwe Kerkstraat 65",
+		"postalCode": "1018 DZ",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store",
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-12-11T10:51:00.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-12-11T10:51:15.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-12-11T13:33:48.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-12T07:00:34.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-12T07:36:03.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-12T07:49:21.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-12-12T18:52:41.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-13T07:17:17.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-13T08:31:30.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-12-13T11:06:57.000Z",
 		"name": "Tasty Burger",
-		"id": "58ba0f14117420736151e102"
+		"id": "58ba0f14117420736151e102",
+		"lat": 52.36620858404363,
+		"lng": 4.8995569027015335,
+		"country": "Nederland",
+		"categories": [
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2017-12-13T17:56:22.000Z",
 		"name": "Albert Heijn",
-		"id": "4a5837aaf964a5207fb71fe3"
+		"id": "4a5837aaf964a5207fb71fe3",
+		"lat": 52.368762108392325,
+		"lng": 4.903476846994489,
+		"address": "Jodenbreestraat 21",
+		"postalCode": "1011 NH",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-12-13T18:37:36.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-13T19:25:15.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2017-12-14T07:25:11.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-14T11:36:19.000Z",
 		"name": "Water & Brood",
-		"id": "590c4ecfcad1b67f0cc84943"
+		"id": "590c4ecfcad1b67f0cc84943",
+		"lat": 52.36423552187337,
+		"lng": 4.905926229851091,
+		"address": "Nieuwe Kerkstraat 84",
+		"postalCode": "1018 EC",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Breakfast Spot"
+		]
 	},
 	{
 		"date": "2017-12-14T17:00:26.000Z",
 		"name": "Cannibale Royale",
-		"id": "57910d45498eeaf3c1c08128"
+		"id": "57910d45498eeaf3c1c08128",
+		"lat": 52.37503133828516,
+		"lng": 4.898690115430672,
+		"address": "Lange Niezel 15",
+		"postalCode": "1012 GS",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Burger Joint",
+			"Steakhouse"
+		]
 	},
 	{
 		"date": "2017-12-14T19:20:06.000Z",
 		"name": "Pathé Tuschinski",
-		"id": "4a3d4fd1f964a52017a21fe3"
+		"id": "4a3d4fd1f964a52017a21fe3",
+		"lat": 52.36662003253076,
+		"lng": 4.894706145646054,
+		"address": "Reguliersbreestraat 26-34",
+		"postalCode": "1017 CN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Multiplex"
+		]
 	},
 	{
 		"date": "2017-12-14T22:48:49.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-14T23:21:07.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-15T07:53:06.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-15T11:08:20.000Z",
 		"name": "Water & Brood",
-		"id": "590c4ecfcad1b67f0cc84943"
+		"id": "590c4ecfcad1b67f0cc84943",
+		"lat": 52.36423552187337,
+		"lng": 4.905926229851091,
+		"address": "Nieuwe Kerkstraat 84",
+		"postalCode": "1018 EC",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Breakfast Spot"
+		]
 	},
 	{
 		"date": "2017-12-15T14:52:56.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-12-15T15:08:07.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-15T15:37:28.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-15T15:37:48.000Z",
 		"name": "The Döner Company",
-		"id": "4d790928a56e37040e5d7567"
+		"id": "4d790928a56e37040e5d7567",
+		"lat": 52.38817372624091,
+		"lng": 4.63927902305991,
+		"address": "Station Haarlem",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Doner Restaurant",
+			"Falafel Restaurant",
+			"Kebab Restaurant"
+		]
 	},
 	{
 		"date": "2017-12-15T18:44:22.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-12-15T18:51:23.000Z",
 		"name": "Station Haarlem Spaarnwoude",
-		"id": "4accafdef964a52034c920e3"
+		"id": "4accafdef964a52034c920e3",
+		"lat": 52.38186059333917,
+		"lng": 4.668725747728769,
+		"address": "Woudplein 4",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-16T14:31:41.000Z",
 		"name": "CWS Workshop",
-		"id": "52c2bd23498ee86ab69dafb8"
+		"id": "52c2bd23498ee86ab69dafb8",
+		"lat": 52.401459,
+		"lng": 4.645333,
+		"country": "Nederland",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2017-12-16T17:24:40.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-16T17:53:19.000Z",
 		"name": "Leiden Central Railway station (Station Leiden Centraal)",
-		"id": "4ad44a63f964a5208be720e3"
+		"id": "4ad44a63f964a5208be720e3",
+		"lat": 52.166069721919676,
+		"lng": 4.482098314771528,
+		"address": "Stationsplein 3G",
+		"postalCode": "2312 AJ",
+		"city": "Leiden",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-16T18:41:27.000Z",
 		"name": "Rotterdam Central Station (Station Rotterdam Centraal)",
-		"id": "4ae19cc4f964a520678621e3"
+		"id": "4ae19cc4f964a520678621e3",
+		"lat": 51.92536602394011,
+		"lng": 4.469021675569301,
+		"address": "Stationssingel 10",
+		"postalCode": "3013 HA",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-16T22:17:54.000Z",
 		"name": "Tramhalte Station Noord",
-		"id": "4cbc671e43ec6dcbe1b8b031"
+		"id": "4cbc671e43ec6dcbe1b8b031",
+		"lat": 51.94259358627744,
+		"lng": 4.481119485541113,
+		"address": "Straatweg",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2017-12-16T22:43:21.000Z",
 		"name": "Rotterdam Central Station (Station Rotterdam Centraal)",
-		"id": "4ae19cc4f964a520678621e3"
+		"id": "4ae19cc4f964a520678621e3",
+		"lat": 51.92536602394011,
+		"lng": 4.469021675569301,
+		"address": "Stationssingel 10",
+		"postalCode": "3013 HA",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-16T23:20:26.000Z",
 		"name": "Den Haag Centraal Railway Station (Station Den Haag Centraal)",
-		"id": "4aeff0e3f964a52060da21e3"
+		"id": "4aeff0e3f964a52060da21e3",
+		"lat": 52.08121937964098,
+		"lng": 4.32461878275475,
+		"address": "Koningin Julianaplein 10",
+		"postalCode": "2595 AA",
+		"city": "Den Haag",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-17T10:41:42.000Z",
 		"name": "Vomar Voordeelmarkt",
-		"id": "4b72c969f964a52096882de3"
+		"id": "4b72c969f964a52096882de3",
+		"lat": 52.39127711020139,
+		"lng": 4.649005288257338,
+		"address": "Paul Krugerkade 22",
+		"postalCode": "2021 BN",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-12-17T12:09:08.000Z",
 		"name": "Grote Markt",
-		"id": "4b33f1aef964a520842225e3"
+		"id": "4b33f1aef964a520842225e3",
+		"lat": 52.381433191163424,
+		"lng": 4.6357020650218494,
+		"address": "Grote Markt",
+		"postalCode": "2011",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Plaza",
+			"Event Space"
+		]
 	},
 	{
 		"date": "2017-12-17T12:28:37.000Z",
 		"name": "Apple Haarlem",
-		"id": "529e315f11d2f188f40a235a"
+		"id": "529e315f11d2f188f40a235a",
+		"lat": 52.378432951567824,
+		"lng": 4.6329654604005555,
+		"address": "Grote Houtstraat 99",
+		"postalCode": "2011 SH",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Electronics Store",
+			"Mobile Phone Shop"
+		]
 	},
 	{
 		"date": "2017-12-18T07:19:42.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-18T10:50:51.000Z",
 		"name": "Morena aan de Amstel",
-		"id": "52dabde2498e516303dc5adc"
+		"id": "52dabde2498e516303dc5adc",
+		"lat": 52.36625555810526,
+		"lng": 4.9015951825233985,
+		"address": "Amstel 47",
+		"postalCode": "1011 PW",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Greek Restaurant"
+		]
 	},
 	{
 		"date": "2017-12-18T17:46:36.000Z",
 		"name": "Station Amsterdam Amstel",
-		"id": "4b0190aff964a520764322e3"
+		"id": "4b0190aff964a520764322e3",
+		"lat": 52.346591088296925,
+		"lng": 4.917637139921404,
+		"address": "Julianaplein 1",
+		"postalCode": "1097 DN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-18T18:17:56.000Z",
 		"name": "Stadshart Amstelveen",
-		"id": "4d4ab25ab480a14343de31ec"
+		"id": "4d4ab25ab480a14343de31ec",
+		"lat": 52.30281183287662,
+		"lng": 4.861228627499437,
+		"address": "Rembrandtweg 41-A",
+		"postalCode": "1181 GE",
+		"city": "Amstelveen",
+		"country": "Nederland",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2017-12-18T19:08:49.000Z",
 		"name": "New Peking City",
-		"id": "4b76bb4ff964a520405b2ee3"
+		"id": "4b76bb4ff964a520405b2ee3",
+		"lat": 52.30236420070976,
+		"lng": 4.861209737784122,
+		"address": "binnenhof 1",
+		"postalCode": "1181zg",
+		"city": "Amstelveen",
+		"country": "Nederland",
+		"categories": [
+			"Asian Restaurant"
+		]
 	},
 	{
 		"date": "2017-12-18T21:20:53.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-19T11:09:13.000Z",
 		"name": "The Burrito Maker",
-		"id": "54e2314b498e6c6790ffa4ac"
+		"id": "54e2314b498e6c6790ffa4ac",
+		"lat": 52.36677,
+		"lng": 4.9252243,
+		"address": "Haarlemmerplein 29",
+		"postalCode": "1013 HP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Taco Place"
+		]
 	},
 	{
 		"date": "2017-12-19T13:10:20.000Z",
 		"name": "Flower Market (Bloemenmarkt)",
-		"id": "4c1f326663750f4762c3ba67"
+		"id": "4c1f326663750f4762c3ba67",
+		"lat": 52.36687402535358,
+		"lng": 4.891040325164795,
+		"address": "Singel",
+		"postalCode": "1012 DH",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Flower Shop"
+		]
 	},
 	{
 		"date": "2017-12-19T15:22:09.000Z",
 		"name": "Havana House",
-		"id": "4da5a0451e726e49695feea6"
+		"id": "4da5a0451e726e49695feea6",
+		"lat": 52.38355105411946,
+		"lng": 4.635652474578298,
+		"address": "Kruisstraat 39",
+		"postalCode": "2011 PW",
+		"country": "Nederland",
+		"categories": [
+			"Smoke Shop"
+		]
 	},
 	{
 		"date": "2017-12-19T16:00:43.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-19T17:40:20.000Z",
 		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
-		"id": "4a56245ff964a52085b41fe3"
+		"id": "4a56245ff964a52085b41fe3",
+		"lat": 52.38899431620469,
+		"lng": 4.837957990409058,
+		"address": "Orlyplein 105",
+		"postalCode": "1043 DT",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-19T18:37:52.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2017-12-19T18:38:20.000Z",
 		"name": "Gate C8",
-		"id": "4b7ba9edf964a5203e6a2fe3"
+		"id": "4b7ba9edf964a5203e6a2fe3",
+		"lat": 52.305717128188235,
+		"lng": 4.765924064172704,
+		"address": "Concourse C",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2017-12-20T11:24:00.000Z",
 		"name": "WestEnd City Center",
-		"id": "4bcc1b343740b71309846365"
+		"id": "4bcc1b343740b71309846365",
+		"lat": 47.51328376254626,
+		"lng": 19.05914504127989,
+		"address": "Váci út 1-3.",
+		"postalCode": "1062",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2017-12-20T12:04:30.000Z",
 		"name": "Vapiano",
-		"id": "527ab0ff11d2fb4fb97a42c8"
+		"id": "527ab0ff11d2fb4fb97a42c8",
+		"lat": 47.513767,
+		"lng": 19.05876,
+		"address": "WestEnd City Center",
+		"postalCode": "1062",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2017-12-20T12:04:48.000Z",
 		"name": "Tiszacipő Márkabolt",
-		"id": "4d878e989324236a3da8f80e"
+		"id": "4d878e989324236a3da8f80e",
+		"lat": 47.513307006834644,
+		"lng": 19.057716593534003,
+		"address": "Westend földszint, Széchenyi nagykörút 27/a.",
+		"postalCode": "1062",
+		"city": "Budapest VI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Shoe Store",
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2017-12-20T14:21:51.000Z",
 		"name": "Répa-Retek-Mogyoró",
-		"id": "4f6dee93e4b08d8da64009de"
+		"id": "4f6dee93e4b08d8da64009de",
+		"lat": 47.51370951533635,
+		"lng": 19.054759569097097,
+		"address": "Visegrádi utca 13.",
+		"postalCode": "1132",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Farmers Market"
+		]
 	},
 	{
 		"date": "2017-12-20T14:29:53.000Z",
 		"name": "Aldi",
-		"id": "509c1383e4b01acbd31d8ebe"
+		"id": "509c1383e4b01acbd31d8ebe",
+		"lat": 47.51311639561294,
+		"lng": 19.057143569801287,
+		"address": "Váci út 14.",
+		"postalCode": "1132",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-12-20T19:38:41.000Z",
 		"name": "Salad Box",
-		"id": "58bfc892fda3d8675bb4ca5e"
+		"id": "58bfc892fda3d8675bb4ca5e",
+		"lat": 47.50997605921657,
+		"lng": 19.05804595050377,
+		"address": "Teréz körút 55.",
+		"postalCode": "1062",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Salad Place"
+		]
 	},
 	{
 		"date": "2017-12-20T20:12:31.000Z",
 		"name": "Kiadó Kocsma",
-		"id": "4b2b4a6df964a5209ab524e3"
+		"id": "4b2b4a6df964a5209ab524e3",
+		"lat": 47.504807,
+		"lng": 19.061704,
+		"address": "Jókai tér 3.",
+		"postalCode": "1061",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bar",
+			"Pub"
+		]
 	},
 	{
 		"date": "2017-12-20T21:17:37.000Z",
 		"name": "Spíler",
-		"id": "5038ed94e4b0304eb4fc3a90"
+		"id": "5038ed94e4b0304eb4fc3a90",
+		"lat": 47.498689538467175,
+		"lng": 19.058929681777954,
+		"address": "Király u. 13.",
+		"postalCode": "1075",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Gastropub",
+			"Cocktail Bar",
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2017-12-20T23:55:01.000Z",
 		"name": "Star Kebab Török Étterem",
-		"id": "554c9c5c498eb7864c4dcaa3"
+		"id": "554c9c5c498eb7864c4dcaa3",
+		"lat": 47.498950421324565,
+		"lng": 19.054773370531137,
+		"address": "Bajcsy-Zsilinszky 5-7.",
+		"country": "Magyarország",
+		"categories": [
+			"Turkish Restaurant"
+		]
 	},
 	{
 		"date": "2017-12-21T12:19:52.000Z",
 		"name": "Marosfalvi Hair & Beauty Store",
-		"id": "5711036dcd103d006d1974ae"
+		"id": "5711036dcd103d006d1974ae",
+		"lat": 47.51338918826801,
+		"lng": 19.054779565321954,
+		"address": "Visegrádi utca 11.",
+		"postalCode": "1137",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Health & Beauty Service"
+		]
 	},
 	{
 		"date": "2017-12-21T13:09:50.000Z",
 		"name": "WestEnd City Center",
-		"id": "4bcc1b343740b71309846365"
+		"id": "4bcc1b343740b71309846365",
+		"lat": 47.51328376254626,
+		"lng": 19.05914504127989,
+		"address": "Váci út 1-3.",
+		"postalCode": "1062",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2017-12-21T13:26:01.000Z",
 		"name": "Media Markt",
-		"id": "4cc6c1b61e596dcb5936e067"
+		"id": "4cc6c1b61e596dcb5936e067",
+		"lat": 47.514151737535414,
+		"lng": 19.059880939067412,
+		"address": "Váci út 1-3. (Westend 1. emelet)",
+		"postalCode": "1062",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2017-12-21T15:03:49.000Z",
 		"name": "AnalogueZone Showroom",
-		"id": "52ed7c12498e3e1e276b4dab"
+		"id": "52ed7c12498e3e1e276b4dab",
+		"lat": 47.50215782039075,
+		"lng": 19.055711030960083,
+		"address": "Bajcsy Zsilinszky köz 3.",
+		"postalCode": "1065",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Music Store"
+		]
 	},
 	{
 		"date": "2017-12-21T15:31:49.000Z",
 		"name": "Corvin köz",
-		"id": "4c487f9e417b20a12d23e1a9"
+		"id": "4c487f9e417b20a12d23e1a9",
+		"lat": 47.48624590908693,
+		"lng": 19.07099278813288,
+		"address": "Corvin köz",
+		"postalCode": "1082",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-12-21T15:32:07.000Z",
 		"name": "Corvin Plaza",
-		"id": "4cc701eabe40a35d1d6a8d4c"
+		"id": "4cc701eabe40a35d1d6a8d4c",
+		"lat": 47.486046352980296,
+		"lng": 19.07288581182118,
+		"address": "Futó u. 37-45.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2017-12-21T15:47:34.000Z",
 		"name": "Boráros tér H (4, 6)",
-		"id": "4d656d67b470a143da5d26fe"
+		"id": "4d656d67b470a143da5d26fe",
+		"lat": 47.48014441949659,
+		"lng": 19.066539680424036,
+		"address": "Boráros tér",
+		"postalCode": "1097",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2017-12-21T18:13:17.000Z",
 		"name": "Rooms -  your photo place",
-		"id": "55bf6f24498efda29906ea04"
+		"id": "55bf6f24498efda29906ea04",
+		"lat": 47.423426510594304,
+		"lng": 19.056012282370745,
+		"country": "Magyarország",
+		"categories": [
+			"Photography Studio"
+		]
 	},
 	{
 		"date": "2017-12-21T20:05:28.000Z",
 		"name": "Törökvész",
-		"id": "50f2b9d8e4b0e0c9dbdacc67"
+		"id": "50f2b9d8e4b0e0c9dbdacc67",
+		"lat": 47.522243616888616,
+		"lng": 19.00458812713623,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2017-12-21T23:36:00.000Z",
 		"name": "Pasarét",
-		"id": "4e995d7cb634d75c1877d46d"
+		"id": "4e995d7cb634d75c1877d46d",
+		"lat": 47.5166518264976,
+		"lng": 19.00454739178946,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Neighborhood",
+			"Other Great Outdoors"
+		]
 	},
 	{
 		"date": "2017-12-21T23:50:35.000Z",
 		"name": "Széll Kálmán tér",
-		"id": "4b4cc7dff964a5209abe26e3"
+		"id": "4b4cc7dff964a5209abe26e3",
+		"lat": 47.50695100795283,
+		"lng": 19.024874284275235,
+		"address": "Széll Kálmán tér",
+		"postalCode": "1014",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-12-22T00:06:19.000Z",
 		"name": "Nyugati tér",
-		"id": "4c04bf449a7920a1e5aad179"
+		"id": "4c04bf449a7920a1e5aad179",
+		"lat": 47.510273139564326,
+		"lng": 19.05600070953369,
+		"address": "Nyugati tér",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-12-22T07:02:20.000Z",
 		"name": "Nagyvárad tér",
-		"id": "4e425ac3d22d38bfd461bb68"
+		"id": "4e425ac3d22d38bfd461bb68",
+		"lat": 47.479126738324254,
+		"lng": 19.089523636064193,
+		"address": "Nagyvárad tér",
+		"postalCode": "1091",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-12-22T07:35:02.000Z",
 		"name": "Studio Little Grandma",
-		"id": "5a3cb563a35dce7b5a407d71"
+		"id": "5a3cb563a35dce7b5a407d71",
+		"lat": 47.479281,
+		"lng": 19.087938,
+		"address": "Üllôi út 121",
+		"postalCode": "1091",
+		"city": "Budapest IX. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Photography Studio"
+		]
 	},
 	{
 		"date": "2017-12-22T11:18:59.000Z",
 		"name": "Tökmag",
-		"id": "591c53f64a7aae0e36dde5d1"
+		"id": "591c53f64a7aae0e36dde5d1",
+		"lat": 47.51364446565082,
+		"lng": 19.049578450104555,
+		"address": "Hollán Ernő utca",
+		"postalCode": "1136",
+		"city": "Budapest XIII. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Vegetarian / Vegan Restaurant",
+			"Street Food Gathering"
+		]
 	},
 	{
 		"date": "2017-12-22T14:50:23.000Z",
 		"name": "Copyrama",
-		"id": "569cf7a0498e002cf5b6ef44"
+		"id": "569cf7a0498e002cf5b6ef44",
+		"lat": 47.479393459706394,
+		"lng": 19.087370383798223,
+		"country": "Magyarország",
+		"categories": [
+			"Paper / Office Supplies Store"
+		]
 	},
 	{
 		"date": "2017-12-22T20:08:08.000Z",
 		"name": "Hummus Bar",
-		"id": "4d4c3d5ef523a1439944749d"
+		"id": "4d4c3d5ef523a1439944749d",
+		"lat": 47.49071985727359,
+		"lng": 19.059035759404022,
+		"address": "Kecskeméti u. 1.",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Falafel Restaurant",
+			"Middle Eastern Restaurant"
+		]
 	},
 	{
 		"date": "2017-12-23T11:06:46.000Z",
 		"name": "Aldi",
-		"id": "509c1383e4b01acbd31d8ebe"
+		"id": "509c1383e4b01acbd31d8ebe",
+		"lat": 47.51311639561294,
+		"lng": 19.057143569801287,
+		"address": "Váci út 14.",
+		"postalCode": "1132",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-12-23T11:22:14.000Z",
 		"name": "Répa-Retek-Mogyoró",
-		"id": "4f6dee93e4b08d8da64009de"
+		"id": "4f6dee93e4b08d8da64009de",
+		"lat": 47.51370951533635,
+		"lng": 19.054759569097097,
+		"address": "Visegrádi utca 13.",
+		"postalCode": "1132",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Farmers Market"
+		]
 	},
 	{
 		"date": "2017-12-23T12:36:25.000Z",
 		"name": "Eastern Railway Station (Keleti pályaudvar)",
-		"id": "4b6e7d14f964a52065bf2ce3"
+		"id": "4b6e7d14f964a52065bf2ce3",
+		"lat": 47.50041327485257,
+		"lng": 19.083804935752624,
+		"address": "Baross tér 10.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-23T14:37:53.000Z",
 		"name": "Győr vasútállomás",
-		"id": "4bb742bc1344b713687f9e04"
+		"id": "4bb742bc1344b713687f9e04",
+		"lat": 47.682147670241804,
+		"lng": 17.63430118560791,
+		"address": "Révai Miklós u. 4-6.",
+		"postalCode": "9021",
+		"city": "Győr",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-23T15:05:27.000Z",
 		"name": "Belgian Beer Café",
-		"id": "50606038b0edadfefd4fca7c"
+		"id": "50606038b0edadfefd4fca7c",
+		"lat": 47.68421075134968,
+		"lng": 17.635119384734942,
+		"address": "Árpád u. 34.",
+		"postalCode": "9021",
+		"city": "Győr",
+		"country": "Magyarország",
+		"categories": [
+			"Gastropub"
+		]
 	},
 	{
 		"date": "2017-12-24T11:06:00.000Z",
 		"name": "Virágvölgy",
-		"id": "4e42bd14fa76a4284c1bdd82"
+		"id": "4e42bd14fa76a4284c1bdd82",
+		"lat": 47.702224060115945,
+		"lng": 16.58987045288086,
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Other Great Outdoors"
+		]
 	},
 	{
 		"date": "2017-12-25T10:23:05.000Z",
 		"name": "Virágvölgy",
-		"id": "4e42bd14fa76a4284c1bdd82"
+		"id": "4e42bd14fa76a4284c1bdd82",
+		"lat": 47.702224060115945,
+		"lng": 16.58987045288086,
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Other Great Outdoors"
+		]
 	},
 	{
 		"date": "2017-12-25T11:00:51.000Z",
 		"name": "Széchenyi tér",
-		"id": "4dc924f11f6e936efe52ac05"
+		"id": "4dc924f11f6e936efe52ac05",
+		"lat": 47.68289779925098,
+		"lng": 16.589524032040796,
+		"address": "Széchenyi tér",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Park",
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-12-25T13:21:04.000Z",
 		"name": "Virágvölgy",
-		"id": "4e42bd14fa76a4284c1bdd82"
+		"id": "4e42bd14fa76a4284c1bdd82",
+		"lat": 47.702224060115945,
+		"lng": 16.58987045288086,
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Other Great Outdoors"
+		]
 	},
 	{
 		"date": "2017-12-25T17:22:29.000Z",
 		"name": "Bus Station (Autóbusz-állomás)",
-		"id": "4e63853bd164ddd5e63948ff"
+		"id": "4e63853bd164ddd5e63948ff",
+		"lat": 47.688441,
+		"lng": 16.586348,
+		"address": "Lackner Kristóf u. 9-11.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Station"
+		]
 	},
 	{
 		"date": "2017-12-25T18:31:07.000Z",
 		"name": "Schmauser Étterem és Söröző",
-		"id": "4d03c11ba2685481edbbb3bd"
+		"id": "4d03c11ba2685481edbbb3bd",
+		"lat": 47.68445244555685,
+		"lng": 16.5760290306692,
+		"address": "Kossuth Lajos u. 49.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Restaurant",
+			"Pub"
+		]
 	},
 	{
 		"date": "2017-12-25T19:37:00.000Z",
 		"name": "Kégli Kert",
-		"id": "54ff34b9498eb16bd0764be3"
+		"id": "54ff34b9498eb16bd0764be3",
+		"lat": 47.68219469267928,
+		"lng": 16.57177958936118,
+		"address": "Ady Endre Street 33.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Beer Garden",
+			"Pub",
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2017-12-26T07:03:34.000Z",
 		"name": "Sopron vasútállomás",
-		"id": "4bd6fe6529eb9c749dee95e1"
+		"id": "4bd6fe6529eb9c749dee95e1",
+		"lat": 47.67771249028291,
+		"lng": 16.58738136291504,
+		"address": "Állomás u. 2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-26T08:21:59.000Z",
 		"name": "Győr vasútállomás",
-		"id": "4bb742bc1344b713687f9e04"
+		"id": "4bb742bc1344b713687f9e04",
+		"lat": 47.682147670241804,
+		"lng": 17.63430118560791,
+		"address": "Révai Miklós u. 4-6.",
+		"postalCode": "9021",
+		"city": "Győr",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-26T09:00:24.000Z",
 		"name": "Tatabánya vasútállomás",
-		"id": "4b7ff81cf964a5209f4730e3"
+		"id": "4b7ff81cf964a5209f4730e3",
+		"lat": 47.58529710183436,
+		"lng": 18.39315176010132,
+		"address": "Jedlik Ányos u. 1.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-12-26T09:27:39.000Z",
 		"name": "Kertvarosi Lakotelep",
-		"id": "4ea1c97cf7909c68ddd42a08"
+		"id": "4ea1c97cf7909c68ddd42a08",
+		"lat": 47.589562708023045,
+		"lng": 18.36782851339897,
+		"country": "Magyarország",
+		"categories": [
+			"Residential Building (Apartment / Condo)"
+		]
 	},
 	{
 		"date": "2017-12-26T10:11:47.000Z",
 		"name": "Kömlőd",
-		"id": "503b8c5ae4b0d21c218fe9eb"
+		"id": "503b8c5ae4b0d21c218fe9eb",
+		"lat": 47.546862852392515,
+		"lng": 18.26221506721866,
+		"postalCode": "2853",
+		"city": "Kömlőd",
+		"country": "Magyarország",
+		"categories": [
+			"Farm"
+		]
 	},
 	{
 		"date": "2017-12-26T14:09:25.000Z",
 		"name": "Barátok Asztala",
-		"id": "4e63361bb61cd78088e4e039"
+		"id": "4e63361bb61cd78088e4e039",
+		"lat": 47.52544332841262,
+		"lng": 18.30722968978057,
+		"address": "Sport u. 2",
+		"city": "Kecskéd",
+		"country": "Magyarország",
+		"categories": [
+			"Steakhouse",
+			"Diner"
+		]
 	},
 	{
 		"date": "2017-12-26T15:29:22.000Z",
 		"name": "Kömlőd",
-		"id": "503b8c5ae4b0d21c218fe9eb"
+		"id": "503b8c5ae4b0d21c218fe9eb",
+		"lat": 47.546862852392515,
+		"lng": 18.26221506721866,
+		"postalCode": "2853",
+		"city": "Kömlőd",
+		"country": "Magyarország",
+		"categories": [
+			"Farm"
+		]
 	},
 	{
 		"date": "2017-12-27T10:07:21.000Z",
 		"name": "Virágvölgy",
-		"id": "4e42bd14fa76a4284c1bdd82"
+		"id": "4e42bd14fa76a4284c1bdd82",
+		"lat": 47.702224060115945,
+		"lng": 16.58987045288086,
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Other Great Outdoors"
+		]
 	},
 	{
 		"date": "2017-12-28T07:26:48.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ce6721f0f196dcb236437ae"
+		"id": "4ce6721f0f196dcb236437ae",
+		"lat": 47.66973675901383,
+		"lng": 16.612279833176512,
+		"address": "Ipar krt. 30.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-12-28T08:02:47.000Z",
 		"name": "Virágvölgy",
-		"id": "4e42bd14fa76a4284c1bdd82"
+		"id": "4e42bd14fa76a4284c1bdd82",
+		"lat": 47.702224060115945,
+		"lng": 16.58987045288086,
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Other Great Outdoors"
+		]
 	},
 	{
 		"date": "2017-12-28T15:27:24.000Z",
 		"name": "Stadion üzletház",
-		"id": "4e86bb9cdab42e0031cee233"
+		"id": "4e86bb9cdab42e0031cee233",
+		"lat": 47.690624529244985,
+		"lng": 16.583060338100676,
+		"address": "Lackner Kristóf utca 48./a",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2017-12-28T16:17:38.000Z",
 		"name": "Széchenyi tér",
-		"id": "4dc924f11f6e936efe52ac05"
+		"id": "4dc924f11f6e936efe52ac05",
+		"lat": 47.68289779925098,
+		"lng": 16.589524032040796,
+		"address": "Széchenyi tér",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Park",
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-12-28T18:05:04.000Z",
 		"name": "Petőfi tér",
-		"id": "4df3b9b422718759f820e505"
+		"id": "4df3b9b422718759f820e505",
+		"lat": 47.68368959013931,
+		"lng": 16.587938846168473,
+		"address": "Petőfi tér",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-12-29T09:19:16.000Z",
 		"name": "Fő tér",
-		"id": "4cc1918e21a4f04d87be6455"
+		"id": "4cc1918e21a4f04d87be6455",
+		"lat": 47.68634925040153,
+		"lng": 16.590835505738625,
+		"address": "Fő tér",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-12-29T10:25:03.000Z",
 		"name": "Tűztorony",
-		"id": "4d7d4810a165d7ceecc3e600"
+		"id": "4d7d4810a165d7ceecc3e600",
+		"lat": 47.68687364443583,
+		"lng": 16.59148834326499,
+		"address": "Fő tér 8.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Scenic Lookout",
+			"Building"
+		]
 	},
 	{
 		"date": "2017-12-29T10:46:45.000Z",
 		"name": "Várkerület, Festő köz megállóhely",
-		"id": "4fd857c1e4b00148b90dfe70"
+		"id": "4fd857c1e4b00148b90dfe70",
+		"lat": 47.68756122120428,
+		"lng": 16.590765732744483,
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2017-12-29T11:56:56.000Z",
 		"name": "Kultúrpresszó",
-		"id": "53b93f0c498e13dbda7e95ba"
+		"id": "53b93f0c498e13dbda7e95ba",
+		"lat": 47.6854887880061,
+		"lng": 16.59280057915637,
+		"address": "Várkerület 96",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Coffee Shop",
+			"Design Studio",
+			"Arts & Crafts Store"
+		]
 	},
 	{
 		"date": "2017-12-29T13:42:40.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4ce6721f0f196dcb236437ae"
+		"id": "4ce6721f0f196dcb236437ae",
+		"lat": 47.66973675901383,
+		"lng": 16.612279833176512,
+		"address": "Ipar krt. 30.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-12-31T09:04:38.000Z",
 		"name": "Virágvölgy",
-		"id": "4e42bd14fa76a4284c1bdd82"
+		"id": "4e42bd14fa76a4284c1bdd82",
+		"lat": 47.702224060115945,
+		"lng": 16.58987045288086,
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Other Great Outdoors"
+		]
 	},
 	{
 		"date": "2017-12-31T10:42:30.000Z",
 		"name": "OMV",
-		"id": "4d3d1e56fb4c54815f6eda14"
+		"id": "4d3d1e56fb4c54815f6eda14",
+		"lat": 47.63321039115996,
+		"lng": 17.66185293610783,
+		"city": "Győrújbarát",
+		"country": "Magyarország",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2017-12-31T11:32:05.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4cf0fb0e6c29236abaca62a2"
+		"id": "4cf0fb0e6c29236abaca62a2",
+		"lat": 47.570816976634646,
+		"lng": 18.410846504392712,
+		"address": "Bláthy Ottó u. 1.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-12-31T11:57:49.000Z",
 		"name": "Lidl",
-		"id": "4c7912112d3ba1439bd58cd0"
+		"id": "4c7912112d3ba1439bd58cd0",
+		"lat": 47.5599937644158,
+		"lng": 18.4126056600679,
+		"address": "Szent Borbála út 31",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Discount Store"
+		]
 	},
 	{
 		"date": "2017-12-31T13:38:08.000Z",
 		"name": "Kömlőd",
-		"id": "503b8c5ae4b0d21c218fe9eb"
+		"id": "503b8c5ae4b0d21c218fe9eb",
+		"lat": 47.546862852392515,
+		"lng": 18.26221506721866,
+		"postalCode": "2853",
+		"city": "Kömlőd",
+		"country": "Magyarország",
+		"categories": [
+			"Farm"
+		]
 	},
 	{
 		"date": "2017-12-31T18:25:50.000Z",
 		"name": "Zöldséges",
-		"id": "4d8ce4a51d06b1f7280a243b"
+		"id": "4d8ce4a51d06b1f7280a243b",
+		"lat": 47.51284233389454,
+		"lng": 19.05440983959611,
+		"address": "Katona József u. 13.",
+		"postalCode": "1132",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Farmers Market",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-12-31T18:53:28.000Z",
 		"name": "Széll Kálmán tér",
-		"id": "4b4cc7dff964a5209abe26e3"
+		"id": "4b4cc7dff964a5209abe26e3",
+		"lat": 47.50695100795283,
+		"lng": 19.024874284275235,
+		"address": "Széll Kálmán tér",
+		"postalCode": "1014",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-12-31T19:19:36.000Z",
 		"name": "Fióka",
-		"id": "5208be5011d23a958a32418e"
+		"id": "5208be5011d23a958a32418e",
+		"lat": 47.50957652267525,
+		"lng": 19.00922344461209,
+		"address": "Városmajor u. 75.",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Gastropub"
+		]
 	},
 	{
 		"date": "2017-12-31T23:39:43.000Z",
 		"name": "Majorka Kávézó és Söröző",
-		"id": "4b72e923f964a5200c8f2de3"
+		"id": "4b72e923f964a5200c8f2de3",
+		"lat": 47.50983858130186,
+		"lng": 19.010428579465433,
+		"address": "Szilágyi Erzsébet fasor 16.",
+		"postalCode": "1125",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Beer Garden",
+			"Pub"
+		]
 	}
 ]

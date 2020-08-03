@@ -2,596 +2,1640 @@
 	{
 		"date": "2017-02-01T05:52:38.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-01T20:26:04.000Z",
 		"name": "Flaming Patty's",
-		"id": "4bb7c4f3b35776b09126c801"
+		"id": "4bb7c4f3b35776b09126c801",
+		"lat": 34.08408755,
+		"lng": -118.326358,
+		"address": "720 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"American Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-02T00:28:49.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2017-02-02T04:03:11.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-02T17:05:10.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2017-02-03T00:24:30.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-02-03T03:00:16.000Z",
 		"name": "Next Door Lounge",
-		"id": "4dcb5589fa76d745f0535870"
+		"id": "4dcb5589fa76d745f0535870",
+		"lat": 34.092276744201534,
+		"lng": -118.33849045357705,
+		"address": "1154 N Highland Ave",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Cocktail Bar",
+			"Lounge",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-03T06:07:13.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-03T16:59:52.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2017-02-04T06:53:01.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-05T00:50:39.000Z",
 		"name": "Barnsdall Art Park",
-		"id": "4a60bb68f964a52019c11fe3"
+		"id": "4a60bb68f964a52019c11fe3",
+		"lat": 34.10217661818516,
+		"lng": -118.29354191476799,
+		"address": "4804 Hollywood Blvd",
+		"postalCode": "90027",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Park",
+			"Art Gallery",
+			"Event Space"
+		]
 	},
 	{
 		"date": "2017-02-05T01:40:26.000Z",
 		"name": "99 Cents Only Stores",
-		"id": "4acfc8c0f964a520f6d520e3"
+		"id": "4acfc8c0f964a520f6d520e3",
+		"lat": 34.097762,
+		"lng": -118.304952,
+		"address": "5270 Sunset Blvd,",
+		"postalCode": "90027",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Discount Store"
+		]
 	},
 	{
 		"date": "2017-02-05T01:52:10.000Z",
 		"name": "McDonald's",
-		"id": "4b5829edf964a520a14c28e3"
+		"id": "4b5829edf964a520a14c28e3",
+		"lat": 34.09779175580932,
+		"lng": -118.30892711877823,
+		"address": "5450 W Sunset Blvd",
+		"postalCode": "90027",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Fast Food Restaurant",
+			"Breakfast Spot",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-05T03:31:59.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-06T07:57:18.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-06T17:38:10.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2017-02-06T19:29:02.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-02-06T20:46:20.000Z",
 		"name": "The Burgerian",
-		"id": "583567661470b052006f3440"
+		"id": "583567661470b052006f3440",
+		"lat": 34.0833588,
+		"lng": -118.3273069,
+		"address": "5820 Melrose Ave",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Burger Joint",
+			"Salad Place",
+			"Bar"
+		]
 	},
 	{
 		"date": "2017-02-07T04:37:51.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-07T17:33:34.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-02-07T19:27:25.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2017-02-07T20:28:10.000Z",
 		"name": "Inti Peruvian Cuisine",
-		"id": "4b732c3ef964a520c79f2de3"
+		"id": "4b732c3ef964a520c79f2de3",
+		"lat": 34.08317031043542,
+		"lng": -118.32854292855185,
+		"address": "5870 Melrose Ave",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"South American Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-08T01:32:00.000Z",
 		"name": "The Grove",
-		"id": "41687b80f964a520861d1fe3"
+		"id": "41687b80f964a520861d1fe3",
+		"lat": 34.07196432708613,
+		"lng": -118.35736513137816,
+		"address": "189 The Grove Dr",
+		"postalCode": "90036",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Shopping Mall",
+			"General Entertainment"
+		]
 	},
 	{
 		"date": "2017-02-08T01:33:58.000Z",
 		"name": "Apple The Grove",
-		"id": "49e53bc3f964a520ab631fe3"
+		"id": "49e53bc3f964a520ab631fe3",
+		"lat": 34.072201,
+		"lng": -118.357815,
+		"address": "189 The Grove Dr",
+		"postalCode": "90036",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Electronics Store",
+			"Mobile Phone Shop"
+		]
 	},
 	{
 		"date": "2017-02-08T05:54:31.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-08T16:55:38.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2017-02-08T21:54:16.000Z",
 		"name": "Farmboy Kitchen",
-		"id": "56957cdb498e9a30b45d6df6"
+		"id": "56957cdb498e9a30b45d6df6",
+		"lat": 34.0901076640079,
+		"lng": -118.32654882302559,
+		"address": "1050 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-08T22:38:26.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-02-09T03:47:50.000Z",
 		"name": "Smart & Final Extra!",
-		"id": "4b69f17ff964a52071bd2be3"
+		"id": "4b69f17ff964a52071bd2be3",
+		"lat": 34.08836397197316,
+		"lng": -118.30942284143241,
+		"address": "939 N. Western Ave",
+		"postalCode": "90029",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-02-09T07:49:16.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-09T19:12:17.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2017-02-09T21:08:35.000Z",
 		"name": "Mid-City West",
-		"id": "50e4c4c8e4b04e9b0634f74b"
+		"id": "50e4c4c8e4b04e9b0634f74b",
+		"lat": 34.07495005907579,
+		"lng": -118.36314720573222,
+		"postalCode": "90036",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2017-02-09T21:12:24.000Z",
 		"name": "Bludso's Bar & Que",
-		"id": "51130bfbe4b0b64611319325"
+		"id": "51130bfbe4b0b64611319325",
+		"lat": 34.082269864455725,
+		"lng": -118.3442198863688,
+		"address": "609 N LA Brea Ave",
+		"postalCode": "90036",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"BBQ Joint",
+			"Whisky Bar"
+		]
 	},
 	{
 		"date": "2017-02-10T06:13:25.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-10T21:53:16.000Z",
 		"name": "Lemonade",
-		"id": "5122a4c2e4b0c6744e2ff6bd"
+		"id": "5122a4c2e4b0c6744e2ff6bd",
+		"lat": 34.08251599735532,
+		"lng": -118.32338439362337,
+		"address": "626 N Larchmont Blvd",
+		"postalCode": "90004",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Restaurant",
+			"Salad Place"
+		]
 	},
 	{
 		"date": "2017-02-11T04:59:20.000Z",
 		"name": "McDonald's",
-		"id": "4b53836ff964a52087a027e3"
+		"id": "4b53836ff964a52087a027e3",
+		"lat": 34.08868169175878,
+		"lng": -118.30967210233212,
+		"address": "1007 N Western Ave",
+		"postalCode": "90029",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Fast Food Restaurant",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-11T05:26:48.000Z",
 		"name": "Smart & Final Extra!",
-		"id": "4b69f17ff964a52071bd2be3"
+		"id": "4b69f17ff964a52071bd2be3",
+		"lat": 34.08836397197316,
+		"lng": -118.30942284143241,
+		"address": "939 N. Western Ave",
+		"postalCode": "90029",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-02-11T22:34:30.000Z",
 		"name": "Fala Bar",
-		"id": "532b1c1c498ee08a54ea2a25"
+		"id": "532b1c1c498ee08a54ea2a25",
+		"lat": 34.083772717341546,
+		"lng": -118.35868213212932,
+		"address": "7751 1/2 Melrose Ave",
+		"postalCode": "90046",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Vegetarian / Vegan Restaurant",
+			"Mediterranean Restaurant",
+			"Salad Place"
+		]
 	},
 	{
 		"date": "2017-02-12T07:47:13.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-12T23:18:36.000Z",
 		"name": "Umami Burger",
-		"id": "4b1eb74df964a520611e24e3"
+		"id": "4b1eb74df964a520611e24e3",
+		"lat": 34.09879544401797,
+		"lng": -118.32914220738245,
+		"address": "1520 N Cahuenga Boulevard",
+		"postalCode": "90028",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Burger Joint",
+			"American Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-12T23:50:42.000Z",
 		"name": "Urban Outfitters",
-		"id": "49ff7f00f964a5202b701fe3"
+		"id": "49ff7f00f964a5202b701fe3",
+		"lat": 34.09883,
+		"lng": -118.32908,
+		"address": "1520 N. Cahuenga Blvd",
+		"postalCode": "90028",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2017-02-13T00:19:21.000Z",
 		"name": "The Home Depot",
-		"id": "4b18a91af964a5200dd523e3"
+		"id": "4b18a91af964a5200dd523e3",
+		"lat": 34.0975245,
+		"lng": -118.3125068,
+		"address": "5600 W Sunset Blvd",
+		"postalCode": "90028",
+		"country": "United States",
+		"categories": [
+			"Hardware Store"
+		]
 	},
 	{
 		"date": "2017-02-13T21:46:29.000Z",
 		"name": "US Post Office",
-		"id": "4b635347f964a5204f722ae3"
+		"id": "4b635347f964a5204f722ae3",
+		"lat": 34.1001809,
+		"lng": -118.3312733,
+		"address": "1615 Wilcox Ave",
+		"postalCode": "90028",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Post Office"
+		]
 	},
 	{
 		"date": "2017-02-13T23:53:21.000Z",
 		"name": "Pavilions",
-		"id": "4a6f9d1ff964a5209cd61fe3"
+		"id": "4a6f9d1ff964a5209cd61fe3",
+		"lat": 34.0845425,
+		"lng": -118.3272183,
+		"address": "727 Vine St",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-02-14T02:54:48.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-14T04:39:17.000Z",
 		"name": "Perch",
-		"id": "4e1f936a628469a57402c1db"
+		"id": "4e1f936a628469a57402c1db",
+		"lat": 34.048919,
+		"lng": -118.251428,
+		"address": "448 S Hill St",
+		"postalCode": "90013",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"French Restaurant",
+			"Cocktail Bar",
+			"Scenic Lookout"
+		]
 	},
 	{
 		"date": "2017-02-14T07:02:53.000Z",
 		"name": "Downtown Los Angeles",
-		"id": "4efcdeea9adffb90ca266439"
+		"id": "4efcdeea9adffb90ca266439",
+		"lat": 34.04898577853346,
+		"lng": -118.25811844346862,
+		"postalCode": "90017",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2017-02-14T21:52:33.000Z",
 		"name": "Time Warner Cable",
-		"id": "51d4a222498ef7bdfa9c6472"
+		"id": "51d4a222498ef7bdfa9c6472",
+		"lat": 34.07468190273881,
+		"lng": -118.37624255259995,
+		"address": "100 N La Cienega Blvd Ste B-231",
+		"postalCode": "90048",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2017-02-14T21:56:48.000Z",
 		"name": "Beverly Connection",
-		"id": "4dc07a370cb60a0db2eb05dc"
+		"id": "4dc07a370cb60a0db2eb05dc",
+		"lat": 34.074450804187464,
+		"lng": -118.37593526553721,
+		"address": "100 N LA Cienega Blvd",
+		"postalCode": "90048",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2017-02-14T22:36:21.000Z",
 		"name": "Bank of America",
-		"id": "4b0c8d36f964a520283f23e3"
+		"id": "4b0c8d36f964a520283f23e3",
+		"lat": 34.07686955515144,
+		"lng": -118.38018043078847,
+		"address": "8655 Beverly Blvd",
+		"postalCode": "90048",
+		"city": "West Hollywood",
+		"country": "United States",
+		"categories": [
+			"Bank",
+			"Financial or Legal Service"
+		]
 	},
 	{
 		"date": "2017-02-14T22:39:55.000Z",
 		"name": "Beverly Center",
-		"id": "49cff672f964a520e95a1fe3"
+		"id": "49cff672f964a520e95a1fe3",
+		"lat": 34.0753309,
+		"lng": -118.3774933,
+		"address": "8500 Beverly Blvd",
+		"postalCode": "90048",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2017-02-14T23:35:23.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2017-02-15T02:51:27.000Z",
 		"name": "IXLB Dimsum Eats",
-		"id": "56e32558498e6127942ebd7f"
+		"id": "56e32558498e6127942ebd7f",
+		"lat": 34.09797136673195,
+		"lng": -118.31811425569381,
+		"address": "5900 W Sunset Blvd",
+		"postalCode": "90028",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Dim Sum Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-15T04:22:24.000Z",
 		"name": "Cotton Candy Residence 8",
-		"id": "583f18efe309e1771cdde1ba"
+		"id": "583f18efe309e1771cdde1ba",
+		"lat": 34.0957338999897,
+		"lng": -118.31697144375005,
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-15T19:19:59.000Z",
 		"name": "Docler Media",
-		"id": "562e5ed1498efb84aa58b9a9"
+		"id": "562e5ed1498efb84aa58b9a9",
+		"lat": 34.065125409133294,
+		"lng": -118.41269964848274,
+		"address": "720 N Cahuenga Blvd",
+		"postalCode": "90038",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Tech Startup",
+			"Office",
+			"IT Services"
+		]
 	},
 	{
 		"date": "2017-02-15T21:06:44.000Z",
 		"name": "Tom Bradley International Terminal (TBIT)",
-		"id": "4bea177d62c0c9286088e0d4"
+		"id": "4bea177d62c0c9286088e0d4",
+		"lat": 33.943502355014616,
+		"lng": -118.40942144393921,
+		"address": "LAX Airport",
+		"postalCode": "90045",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2017-02-15T22:55:24.000Z",
 		"name": "Gate 154",
-		"id": "5247735811d28c6b8e18ed83"
+		"id": "5247735811d28c6b8e18ed83",
+		"lat": 33.941267492885736,
+		"lng": -118.41012056951317,
+		"address": "Tom Bradley International Terminal",
+		"postalCode": "90045",
+		"city": "Los Angeles",
+		"country": "United States",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2017-02-16T10:23:30.000Z",
 		"name": "Frankfurt Airport (FRA) (Frankfurt Airport)",
-		"id": "4b058853f964a5201bbf22e3"
+		"id": "4b058853f964a5201bbf22e3",
+		"lat": 50.05008477838256,
+		"lng": 8.571910858154297,
+		"address": "Hugo-Eckener-Ring",
+		"postalCode": "60547",
+		"city": "Frankfurt am Main",
+		"country": "Deutschland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2017-02-16T10:37:36.000Z",
 		"name": "Baggage Claim (Gepäckausgabe)",
-		"id": "4c32165116adc928d586c19c"
+		"id": "4c32165116adc928d586c19c",
+		"lat": 50.04987534681112,
+		"lng": 8.568981456337497,
+		"address": "Terminal 1",
+		"postalCode": "60547",
+		"city": "Frankfurt am Main",
+		"country": "Deutschland",
+		"categories": [
+			"Baggage Claim"
+		]
 	},
 	{
 		"date": "2017-02-16T13:50:12.000Z",
 		"name": "Pfullendorf",
-		"id": "56217b71498e997b01206117"
+		"id": "56217b71498e997b01206117",
+		"lat": 51.007883,
+		"lng": 10.722339,
+		"country": "Deutschland",
+		"categories": [
+			"Housing Development"
+		]
 	},
 	{
 		"date": "2017-02-16T14:38:52.000Z",
 		"name": "Jet Tankstelle",
-		"id": "524c81e611d272ecfab228ab"
+		"id": "524c81e611d272ecfab228ab",
+		"lat": 50.9639466467486,
+		"lng": 10.72486440664623,
+		"address": "Kindleber Str. 134",
+		"postalCode": "99867",
+		"city": "Gotha",
+		"country": "Deutschland",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2017-02-16T15:11:53.000Z",
 		"name": "REWE",
-		"id": "5495bbca498ed7383280670d"
+		"id": "5495bbca498ed7383280670d",
+		"lat": 50.99277796456259,
+		"lng": 10.654290997941189,
+		"address": "Sonneborner Straße 33",
+		"postalCode": "99869",
+		"city": "Goldbach",
+		"country": "Deutschland",
+		"categories": [
+			"Liquor Store"
+		]
 	},
 	{
 		"date": "2017-02-17T11:31:26.000Z",
 		"name": "Thüringen-Park",
-		"id": "4b79b578f964a520a80c2fe3"
+		"id": "4b79b578f964a520a80c2fe3",
+		"lat": 51.0085560295509,
+		"lng": 10.993583349228949,
+		"address": "Nordhäuser Str. 73t",
+		"postalCode": "99091",
+		"city": "Erfurt",
+		"country": "Deutschland",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2017-02-17T11:31:44.000Z",
 		"name": "toy factory",
-		"id": "56e1be74498eaca0cc92654d"
+		"id": "56e1be74498eaca0cc92654d",
+		"lat": 51.008712,
+		"lng": 10.993156,
+		"country": "Deutschland",
+		"categories": [
+			"Toy / Game Store"
+		]
 	},
 	{
 		"date": "2017-02-17T11:36:14.000Z",
 		"name": "Eiscafe Ferrara",
-		"id": "575e97d0498ebb36b9fd750b"
+		"id": "575e97d0498ebb36b9fd750b",
+		"lat": 51.005787,
+		"lng": 10.996116,
+		"country": "Deutschland",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-17T13:05:36.000Z",
 		"name": "H&M",
-		"id": "520f5fc511d29b8897d044dc"
+		"id": "520f5fc511d29b8897d044dc",
+		"lat": 51.008536,
+		"lng": 10.993085,
+		"address": "Nordhäuser Straße 73t",
+		"postalCode": "99091",
+		"city": "Erfurt",
+		"country": "Deutschland",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2017-02-17T20:38:52.000Z",
 		"name": "Pfullendorf",
-		"id": "56217b71498e997b01206117"
+		"id": "56217b71498e997b01206117",
+		"lat": 51.007883,
+		"lng": 10.722339,
+		"country": "Deutschland",
+		"categories": [
+			"Housing Development"
+		]
 	},
 	{
 		"date": "2017-02-18T07:54:45.000Z",
 		"name": "Edeka Aktiv Markt",
-		"id": "4d64015fbd253704ae62d4c5"
+		"id": "4d64015fbd253704ae62d4c5",
+		"lat": 49.45463292786585,
+		"lng": 11.298168476072732,
+		"country": "Deutschland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2017-02-18T11:49:01.000Z",
 		"name": "Schalaburg",
-		"id": "538ef4f9498e0a886b141aac"
+		"id": "538ef4f9498e0a886b141aac",
+		"lat": 48.19467544555664,
+		"lng": 15.379817008972168,
+		"country": "Österreich",
+		"categories": [
+			"Rest Area"
+		]
 	},
 	{
 		"date": "2017-02-18T13:55:12.000Z",
 		"name": "Villa Polgar 2",
-		"id": "5724b35b498ecd6a0245b8e2"
+		"id": "5724b35b498ecd6a0245b8e2",
+		"lat": 47.711022441704124,
+		"lng": 16.62023729838172,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-19T18:45:19.000Z",
 		"name": "Tómalom",
-		"id": "4e29ab8352b1c37d35cea4b7"
+		"id": "4e29ab8352b1c37d35cea4b7",
+		"lat": 47.71554211831894,
+		"lng": 16.621489894444487,
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2017-02-20T07:18:37.000Z",
 		"name": "Shell",
-		"id": "4ccfd2232fd9b60ccc767deb"
+		"id": "4ccfd2232fd9b60ccc767deb",
+		"lat": 47.616976,
+		"lng": 18.340749,
+		"address": "M1",
+		"postalCode": "2890",
+		"city": "Tata",
+		"country": "Magyarország",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2017-02-20T08:44:51.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2017-02-20T17:49:30.000Z",
 		"name": "Expo Congress Hotel Budapest",
-		"id": "4bd1a6f95e0cce72efc8a184"
+		"id": "4bd1a6f95e0cce72efc8a184",
+		"lat": 47.4933973371665,
+		"lng": 19.1217436917344,
+		"address": "Expo tér 2.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2017-02-20T18:31:53.000Z",
 		"name": "Blaha Lujza tér M (4, 6)",
-		"id": "4d22d6f95c4ca1cd7801b53d"
+		"id": "4d22d6f95c4ca1cd7801b53d",
+		"lat": 47.49681104021115,
+		"lng": 19.070411510985824,
+		"address": "Blaha Lujza tér",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2017-02-20T18:47:05.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2017-02-20T22:11:40.000Z",
 		"name": "Ciao Italia",
-		"id": "53624eb8498e1d800d564bbb"
+		"id": "53624eb8498e1d800d564bbb",
+		"lat": 47.50244455789698,
+		"lng": 19.066647695564264,
+		"address": "Erzsébet krt. 50",
+		"postalCode": "1073",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-20T22:52:43.000Z",
 		"name": "Blaha Lujza tér",
-		"id": "4b609983f964a5208aef29e3"
+		"id": "4b609983f964a5208aef29e3",
+		"lat": 47.49669747919805,
+		"lng": 19.070372364721052,
+		"address": "Blaha Lujza tér",
+		"postalCode": "1088",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-02-20T23:24:31.000Z",
 		"name": "Expo Congress Hotel Budapest",
-		"id": "4bd1a6f95e0cce72efc8a184"
+		"id": "4bd1a6f95e0cce72efc8a184",
+		"lat": 47.4933973371665,
+		"lng": 19.1217436917344,
+		"address": "Expo tér 2.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2017-02-21T11:17:03.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2017-02-21T19:25:26.000Z",
 		"name": "Jamie's Italian Restaurant",
-		"id": "572caba6498e93bc8f43f0e0"
+		"id": "572caba6498e93bc8f43f0e0",
+		"lat": 47.50109345413448,
+		"lng": 19.032776759566097,
+		"address": "Szentháromság u. 9-11.",
+		"postalCode": "1014",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-21T22:08:36.000Z",
 		"name": "Expo Congress Hotel Budapest",
-		"id": "4bd1a6f95e0cce72efc8a184"
+		"id": "4bd1a6f95e0cce72efc8a184",
+		"lat": 47.4933973371665,
+		"lng": 19.1217436917344,
+		"address": "Expo tér 2.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2017-02-22T09:17:13.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2017-02-22T17:04:09.000Z",
 		"name": "Expo Congress Hotel Budapest",
-		"id": "4bd1a6f95e0cce72efc8a184"
+		"id": "4bd1a6f95e0cce72efc8a184",
+		"lat": 47.4933973371665,
+		"lng": 19.1217436917344,
+		"address": "Expo tér 2.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2017-02-22T17:44:00.000Z",
 		"name": "Vapiano",
-		"id": "4b5b206af964a520fde428e3"
+		"id": "4b5b206af964a520fde428e3",
+		"lat": 47.496608,
+		"lng": 19.051056,
+		"address": "Vörösmarty tér 3.",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Italian Restaurant",
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2017-02-22T18:56:24.000Z",
 		"name": "Lámpás",
-		"id": "4b90213af964a520707733e3"
+		"id": "4b90213af964a520707733e3",
+		"lat": 47.49765836473369,
+		"lng": 19.060687566050863,
+		"address": "Dob u. 15.",
+		"postalCode": "1074",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bar"
+		]
 	},
 	{
 		"date": "2017-02-22T21:40:52.000Z",
 		"name": "Kisüzem",
-		"id": "4eebb0d9f7903296f89f9d74"
+		"id": "4eebb0d9f7903296f89f9d74",
+		"lat": 47.499683,
+		"lng": 19.062764,
+		"address": "Kis Diófa u. 2.",
+		"postalCode": "1077",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bar"
+		]
 	},
 	{
 		"date": "2017-02-23T09:27:18.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2017-02-23T18:40:21.000Z",
 		"name": "Belvárosi Disznótoros",
-		"id": "54bce406498e2a412cce3bc6"
+		"id": "54bce406498e2a412cce3bc6",
+		"lat": 47.498066,
+		"lng": 19.056505,
+		"address": "Király u. 1/D",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hungarian Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-23T23:03:38.000Z",
 		"name": "Király utca (4, 6)",
-		"id": "4c96542a94a0236af9f59d12"
+		"id": "4c96542a94a0236af9f59d12",
+		"lat": 47.50311239155214,
+		"lng": 19.065948848368812,
+		"address": "Erzsébet krt. 58.",
+		"postalCode": "1066",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2017-02-23T23:28:15.000Z",
 		"name": "Expo Congress Hotel Budapest",
-		"id": "4bd1a6f95e0cce72efc8a184"
+		"id": "4bd1a6f95e0cce72efc8a184",
+		"lat": 47.4933973371665,
+		"lng": 19.1217436917344,
+		"address": "Expo tér 2.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2017-02-24T08:25:06.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2017-02-24T12:59:08.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2017-02-24T15:23:18.000Z",
 		"name": "Docler Tetőkert",
-		"id": "519e2461498ec1672b53406d"
+		"id": "519e2461498ec1672b53406d",
+		"lat": 47.49682117733641,
+		"lng": 19.117736378648083,
+		"address": "Docler Irodaház",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Garden"
+		]
 	},
 	{
 		"date": "2017-02-24T17:25:45.000Z",
 		"name": "Shell",
-		"id": "4ced2a0e0acea35d2234e2ae"
+		"id": "4ced2a0e0acea35d2234e2ae",
+		"lat": 47.47034223333597,
+		"lng": 19.08665234246626,
+		"address": "Könyves Kálmán krt. 18-20",
+		"postalCode": "1097",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Gas Station",
+			"Miscellaneous Shop"
+		]
 	},
 	{
 		"date": "2017-02-24T21:31:09.000Z",
 		"name": "Villa Polgar 2",
-		"id": "5724b35b498ecd6a0245b8e2"
+		"id": "5724b35b498ecd6a0245b8e2",
+		"lat": 47.711022441704124,
+		"lng": 16.62023729838172,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-25T12:51:43.000Z",
 		"name": "Széchenyi tér",
-		"id": "4dc924f11f6e936efe52ac05"
+		"id": "4dc924f11f6e936efe52ac05",
+		"lat": 47.68289779925098,
+		"lng": 16.589524032040796,
+		"address": "Széchenyi tér",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Park",
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-02-25T18:08:36.000Z",
 		"name": "Fehér Rózsa Fogadó",
-		"id": "4cd13f73fd42199ce323c56e"
+		"id": "4cd13f73fd42199ce323c56e",
+		"lat": 47.681991253284764,
+		"lng": 16.596448032866885,
+		"address": "Pócsi utca 21.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Bed & Breakfast",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-25T22:46:50.000Z",
 		"name": "Villa Polgar 2",
-		"id": "5724b35b498ecd6a0245b8e2"
+		"id": "5724b35b498ecd6a0245b8e2",
+		"lat": 47.711022441704124,
+		"lng": 16.62023729838172,
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-02-26T10:11:54.000Z",
 		"name": "Oldtimer Autobahnrestaurant & Motorhotel Guntramsdorf",
-		"id": "4b868068f964a520e18c31e3"
+		"id": "4b868068f964a520e18c31e3",
+		"lat": 48.03257658999405,
+		"lng": 16.336293217232896,
+		"address": "Oldtimerweg 1",
+		"postalCode": "2353",
+		"city": "Guntramsdorf",
+		"country": "Österreich",
+		"categories": [
+			"Rest Area",
+			"Snack Place",
+			"Motel"
+		]
 	},
 	{
 		"date": "2017-02-26T12:17:49.000Z",
 		"name": "Raststation Aisterheim",
-		"id": "5224910b11d2ad37d3d83abe"
+		"id": "5224910b11d2ad37d3d83abe",
+		"lat": 48.1788435050084,
+		"lng": 13.747076651835078,
+		"country": "Österreich",
+		"categories": [
+			"Rest Area"
+		]
 	},
 	{
 		"date": "2017-02-26T12:23:59.000Z",
 		"name": "BP",
-		"id": "4e2bcc71b0fbc2edac2617ef"
+		"id": "4e2bcc71b0fbc2edac2617ef",
+		"lat": 48.178908468816985,
+		"lng": 13.747046707834112,
+		"address": "Aistersheim 99",
+		"postalCode": "4676",
+		"city": "Aistersheim",
+		"country": "Österreich",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2017-02-26T14:08:58.000Z",
 		"name": "A3 Autobahnrastplatz Tiefenthal",
-		"id": "4da96a205da3ba8a47706abc"
+		"id": "4da96a205da3ba8a47706abc",
+		"lat": 48.992320489046044,
+		"lng": 12.419938493149246,
+		"address": "93086 Wörth an der Donau",
+		"postalCode": "93086",
+		"city": "Wörth an der Donau",
+		"country": "Deutschland",
+		"categories": [
+			"Rest Area",
+			"Scenic Lookout"
+		]
 	},
 	{
 		"date": "2017-02-26T15:36:11.000Z",
 		"name": "Rastplatz Regnitztal",
-		"id": "4eb54c5e4901cef9d875e0b1"
+		"id": "4eb54c5e4901cef9d875e0b1",
+		"lat": 49.75616791482948,
+		"lng": 11.059921612629633,
+		"city": "Eggolsheim",
+		"country": "Deutschland",
+		"categories": [
+			"Rest Area"
+		]
 	},
 	{
 		"date": "2017-02-26T16:48:29.000Z",
 		"name": "Thüringer Wald Süd",
-		"id": "559fde74498ed70fb67ec1c1"
+		"id": "559fde74498ed70fb67ec1c1",
+		"lat": 50.72521040071369,
+		"lng": 10.846136767908783,
+		"country": "Deutschland",
+		"categories": [
+			"Rest Area",
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2017-02-26T19:12:41.000Z",
 		"name": "Pfullendorf",
-		"id": "56217b71498e997b01206117"
+		"id": "56217b71498e997b01206117",
+		"lat": 51.007883,
+		"lng": 10.722339,
+		"country": "Deutschland",
+		"categories": [
+			"Housing Development"
+		]
 	},
 	{
 		"date": "2017-02-27T08:37:06.000Z",
 		"name": "Arnstadt",
-		"id": "4e23ece81838712abe8c0897"
+		"id": "4e23ece81838712abe8c0897",
+		"lat": 50.8346731433575,
+		"lng": 10.932722746892075,
+		"city": "Arnstadt",
+		"country": "Deutschland",
+		"categories": [
+			"Town"
+		]
 	},
 	{
 		"date": "2017-02-27T13:17:06.000Z",
 		"name": "Kaufland",
-		"id": "4e74648bd4c0934471671290"
+		"id": "4e74648bd4c0934471671290",
+		"lat": 50.9485412583062,
+		"lng": 10.695705493887528,
+		"address": "Bürgeraue 2",
+		"postalCode": "99867",
+		"city": "Gotha",
+		"country": "Deutschland",
+		"categories": [
+			"Big Box Store",
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2017-02-27T14:11:09.000Z",
 		"name": "Gotha",
-		"id": "4f453610e4b0ba1693d288b5"
+		"id": "4f453610e4b0ba1693d288b5",
+		"lat": 50.945816,
+		"lng": 10.705511,
+		"postalCode": "99867",
+		"city": "Gotha",
+		"country": "Deutschland",
+		"categories": [
+			"Town"
+		]
 	},
 	{
 		"date": "2017-02-28T08:13:28.000Z",
 		"name": "Goldbach",
-		"id": "52226f4d11d2a0892b4fd7ca"
+		"id": "52226f4d11d2a0892b4fd7ca",
+		"lat": 50.99100694658237,
+		"lng": 10.653876012109572,
+		"city": "Goldbach",
+		"country": "Deutschland",
+		"categories": [
+			"Village"
+		]
 	},
 	{
 		"date": "2017-02-28T10:03:09.000Z",
 		"name": "Raststätte Am Biggenkopf Nord",
-		"id": "51d94a67498eee6a23e5d72e"
+		"id": "51d94a67498eee6a23e5d72e",
+		"lat": 51.49892024362572,
+		"lng": 8.98686334815273,
+		"address": "A 44",
+		"postalCode": "34474",
+		"city": "Diemelstadt",
+		"country": "Deutschland",
+		"categories": [
+			"Truck Stop",
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2017-02-28T12:13:33.000Z",
 		"name": "Aral",
-		"id": "4e218b401f6effe84f71cebe"
+		"id": "4e218b401f6effe84f71cebe",
+		"lat": 51.81814088992143,
+		"lng": 6.443191433665583,
+		"address": "Dekkers Waide 1",
+		"postalCode": "46419",
+		"city": "Isselburg",
+		"country": "Deutschland",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2017-02-28T13:50:58.000Z",
 		"name": "Weesperzijde",
-		"id": "4df7ce952271607ac91624f2"
+		"id": "4df7ce952271607ac91624f2",
+		"lat": 52.35666654616058,
+		"lng": 4.909543772696328,
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2017-02-28T14:17:05.000Z",
 		"name": "Loetje Oost",
-		"id": "5062d84be4b0857a7eef4f25"
+		"id": "5062d84be4b0857a7eef4f25",
+		"lat": 52.35715675681808,
+		"lng": 4.90808401799727,
+		"address": "Ruyschstraat 15",
+		"postalCode": "1091 BR",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Steakhouse"
+		]
 	},
 	{
 		"date": "2017-02-28T16:31:44.000Z",
 		"name": "P+R ArenA / Parkeergarage P1",
-		"id": "4d2eb6d35055a35d892b95ca"
+		"id": "4d2eb6d35055a35d892b95ca",
+		"lat": 52.31338502014118,
+		"lng": 4.9413371086120605,
+		"address": "Burgemeester Stramanweg 130",
+		"postalCode": "1101 EP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Parking"
+		]
 	},
 	{
 		"date": "2017-02-28T16:32:27.000Z",
 		"name": "Asian Kitchen",
-		"id": "51d71115498ed55498c69bc4"
+		"id": "51d71115498ed55498c69bc4",
+		"lat": 52.31311425515436,
+		"lng": 4.942948301496104,
+		"address": "Arena Boulevard 81",
+		"postalCode": "1101 DL",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Chinese Restaurant"
+		]
 	},
 	{
 		"date": "2017-02-28T17:06:17.000Z",
 		"name": "Station Amsterdam Bijlmer ArenA",
-		"id": "4a73fd66f964a520a8dd1fe3"
+		"id": "4a73fd66f964a520a8dd1fe3",
+		"lat": 52.31197135888793,
+		"lng": 4.94719643397193,
+		"address": "Hoogoordplein 1",
+		"postalCode": "1102 BH",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-02-28T17:24:37.000Z",
 		"name": "Metrostation Wibautstraat",
-		"id": "4b4b4fd4f964a5202f9726e3"
+		"id": "4b4b4fd4f964a5202f9726e3",
+		"lat": 52.354006542074636,
+		"lng": 4.912515823384684,
+		"address": "Wibautstraat",
+		"postalCode": "1091 GP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Metro Station"
+		]
 	},
 	{
 		"date": "2017-02-28T17:32:03.000Z",
 		"name": "Cotton Candy Residence 9",
-		"id": "58b5b40cf8408553bbaa8e3a"
+		"id": "58b5b40cf8408553bbaa8e3a",
+		"lat": 52.36057991801562,
+		"lng": 4.913380536475984,
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]

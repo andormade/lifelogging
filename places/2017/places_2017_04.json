@@ -2,976 +2,2694 @@
 	{
 		"date": "2017-04-01T14:33:10.000Z",
 		"name": "Karwei",
-		"id": "4b5b027ff964a520a9de28e3"
+		"id": "4b5b027ff964a520a9de28e3",
+		"lat": 52.39005961436961,
+		"lng": 4.626503810720334,
+		"address": "Verspronckweg 63",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Hardware Store"
+		]
 	},
 	{
 		"date": "2017-04-01T18:11:53.000Z",
 		"name": "IKEA Restaurant",
-		"id": "4d52d39e747f6dcb7372d1d4"
+		"id": "4d52d39e747f6dcb7372d1d4",
+		"lat": 52.384716105241544,
+		"lng": 4.669890708050926,
+		"address": "Laan van Decima 1",
+		"postalCode": "2031 CX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Scandinavian Restaurant"
+		]
 	},
 	{
 		"date": "2017-04-01T18:53:45.000Z",
 		"name": "IKEA",
-		"id": "4b48d278f964a520a75826e3"
+		"id": "4b48d278f964a520a75826e3",
+		"lat": 52.38470382072317,
+		"lng": 4.669883675315246,
+		"address": "Laan van Decima 1",
+		"postalCode": "2031 CX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Furniture / Home Store"
+		]
 	},
 	{
 		"date": "2017-04-01T19:29:46.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-02T10:35:48.000Z",
 		"name": "Jetties",
-		"id": "4d80a39c70d18cfa3c3ca094"
+		"id": "4d80a39c70d18cfa3c3ca094",
+		"lat": 52.38587972314378,
+		"lng": 4.63636395265825,
+		"address": "Kruisweg 57",
+		"postalCode": "2011 LB",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Sandwich Place",
+			"Deli / Bodega",
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2017-04-02T11:32:37.000Z",
 		"name": "IKEA",
-		"id": "4b48d278f964a520a75826e3"
+		"id": "4b48d278f964a520a75826e3",
+		"lat": 52.38470382072317,
+		"lng": 4.669883675315246,
+		"address": "Laan van Decima 1",
+		"postalCode": "2031 CX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Furniture / Home Store"
+		]
 	},
 	{
 		"date": "2017-04-02T12:17:59.000Z",
 		"name": "IKEA Restaurant",
-		"id": "4d52d39e747f6dcb7372d1d4"
+		"id": "4d52d39e747f6dcb7372d1d4",
+		"lat": 52.384716105241544,
+		"lng": 4.669890708050926,
+		"address": "Laan van Decima 1",
+		"postalCode": "2031 CX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Scandinavian Restaurant"
+		]
 	},
 	{
 		"date": "2017-04-02T15:20:55.000Z",
 		"name": "Vomar Voordeelmarkt",
-		"id": "4b72c969f964a52096882de3"
+		"id": "4b72c969f964a52096882de3",
+		"lat": 52.39127711020139,
+		"lng": 4.649005288257338,
+		"address": "Paul Krugerkade 22",
+		"postalCode": "2021 BN",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-04-03T09:44:22.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-03T10:16:08.000Z",
 		"name": "Lunchroom T",
-		"id": "4bd58edecfa7b71369ef25da"
+		"id": "4bd58edecfa7b71369ef25da",
+		"lat": 52.36389859461347,
+		"lng": 4.910835093413327,
+		"address": "Roetersstraat 4HS",
+		"postalCode": "1018 WC",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Sandwich Place"
+		]
 	},
 	{
 		"date": "2017-04-03T17:33:23.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-03T18:07:03.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-03T20:18:49.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-04T06:17:17.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-04T07:03:58.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-04T07:04:05.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-04T10:26:41.000Z",
 		"name": "Vapiano",
-		"id": "4fb28f2be4b0e2be9a5f1f6f"
+		"id": "4fb28f2be4b0e2be9a5f1f6f",
+		"lat": 52.36612800819601,
+		"lng": 4.897454374802111,
+		"address": "Amstelstraat 2-4",
+		"postalCode": "1017 DA",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Italian Restaurant",
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2017-04-04T16:32:56.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-04T17:38:10.000Z",
 		"name": "IKEA",
-		"id": "4b48d278f964a520a75826e3"
+		"id": "4b48d278f964a520a75826e3",
+		"lat": 52.38470382072317,
+		"lng": 4.669883675315246,
+		"address": "Laan van Decima 1",
+		"postalCode": "2031 CX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Furniture / Home Store"
+		]
 	},
 	{
 		"date": "2017-04-04T18:24:52.000Z",
 		"name": "Vomar Voordeelmarkt",
-		"id": "4b72c969f964a52096882de3"
+		"id": "4b72c969f964a52096882de3",
+		"lat": 52.39127711020139,
+		"lng": 4.649005288257338,
+		"address": "Paul Krugerkade 22",
+		"postalCode": "2021 BN",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-04-05T05:02:23.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-05T07:43:50.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-05T10:13:17.000Z",
 		"name": "Salsa Shop",
-		"id": "53c3ca66498ea876ac0e1349"
+		"id": "53c3ca66498ea876ac0e1349",
+		"lat": 52.36622550874323,
+		"lng": 4.899968972243181,
+		"address": "Amstelstraat 32A",
+		"postalCode": "1017 DA",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Mexican Restaurant"
+		]
 	},
 	{
 		"date": "2017-04-05T12:00:50.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-05T16:51:04.000Z",
 		"name": "Service Point Amsterdam CS",
-		"id": "575c31b6498e95e6b3085241"
+		"id": "575c31b6498e95e6b3085241",
+		"lat": 52.379944,
+		"lng": 4.90055,
+		"address": "De Ruyterkade",
+		"postalCode": "1012 AA",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Shipping Store"
+		]
 	},
 	{
 		"date": "2017-04-05T16:51:15.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-05T17:07:51.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-06T05:15:41.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-06T06:19:57.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-06T06:53:54.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-06T10:20:38.000Z",
 		"name": "wagamama",
-		"id": "4ee4a1c84690f88940adf317"
+		"id": "4ee4a1c84690f88940adf317",
+		"lat": 52.36623736758097,
+		"lng": 4.898547124211683,
+		"address": "Amstelstraat 8",
+		"postalCode": "1017 DA",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Asian Restaurant",
+			"Japanese Restaurant",
+			"Noodle House"
+		]
 	},
 	{
 		"date": "2017-04-06T11:56:42.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-06T15:15:14.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-06T17:21:40.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-06T19:34:31.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-07T06:42:50.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-07T07:52:24.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-07T10:33:00.000Z",
 		"name": "Pata Negra",
-		"id": "4a27db34f964a5208c921fe3"
+		"id": "4a27db34f964a5208c921fe3",
+		"lat": 52.36145720252549,
+		"lng": 4.899150104625573,
+		"address": "Utrechtsestraat 124",
+		"postalCode": "1017 VT",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Spanish Restaurant",
+			"Tapas Restaurant"
+		]
 	},
 	{
 		"date": "2017-04-07T11:21:50.000Z",
 		"name": "Patisserie Kuyt",
-		"id": "4ac73868f964a520cdb620e3"
+		"id": "4ac73868f964a520cdb620e3",
+		"lat": 52.362418154121094,
+		"lng": 4.898876316048792,
+		"address": "Utrechtsestraat 109",
+		"postalCode": "1017 VL‎",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Bakery",
+			"Dessert Shop"
+		]
 	},
 	{
 		"date": "2017-04-07T11:43:21.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-07T16:50:24.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-07T18:38:06.000Z",
 		"name": "Sultan shoarma",
-		"id": "573362de498e4009791e56a8"
+		"id": "573362de498e4009791e56a8",
+		"lat": 52.386933,
+		"lng": 4.636699,
+		"country": "Nederland",
+		"categories": [
+			"Snack Place"
+		]
 	},
 	{
 		"date": "2017-04-07T19:07:42.000Z",
 		"name": "Koffieshop Birdy",
-		"id": "4e7b121d483bf10366a0d8b4"
+		"id": "4e7b121d483bf10366a0d8b4",
+		"lat": 52.39126935,
+		"lng": 4.6405709,
+		"address": "Shoterweg 19",
+		"postalCode": "2021HZ",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2017-04-07T19:30:14.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-08T13:40:45.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-08T16:12:54.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-08T16:46:20.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-08T16:59:43.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-08T17:12:24.000Z",
 		"name": "De Pizzabakkers",
-		"id": "4d7a218c15958cfaf4251a25"
+		"id": "4d7a218c15958cfaf4251a25",
+		"lat": 52.365446741247425,
+		"lng": 4.910993391874042,
+		"address": "Plantage Kerklaan 2",
+		"postalCode": "1018 TA",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2017-04-08T18:20:11.000Z",
 		"name": "Coco’s Outback",
-		"id": "4c047bec30229521c9c2de81"
+		"id": "4c047bec30229521c9c2de81",
+		"lat": 52.365508531632926,
+		"lng": 4.895728029399678,
+		"address": "Thorbeckeplein 8-12",
+		"postalCode": "1017 CS",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Sports Bar",
+			"Bar",
+			"Nightclub"
+		]
 	},
 	{
 		"date": "2017-04-08T20:52:59.000Z",
 		"name": "Red Light District (De Wallen)",
-		"id": "4c78d269df08a1cdf5b6d85d"
+		"id": "4c78d269df08a1cdf5b6d85d",
+		"lat": 52.37371828211508,
+		"lng": 4.898543964274661,
+		"postalCode": "1012",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2017-04-08T21:04:23.000Z",
 		"name": "The Jolly Joker",
-		"id": "4a2705b2f964a52080881fe3"
+		"id": "4a2705b2f964a52080881fe3",
+		"lat": 52.37300708900142,
+		"lng": 4.900320847208799,
+		"address": "Nieuwmarkt 4A",
+		"postalCode": "1012 CR",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Smoke Shop"
+		]
 	},
 	{
 		"date": "2017-04-08T21:33:43.000Z",
 		"name": "Dolcica",
-		"id": "525e712d11d24991a55d4bab"
+		"id": "525e712d11d24991a55d4bab",
+		"lat": 52.373504,
+		"lng": 4.900238,
+		"country": "Nederland",
+		"categories": [
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2017-04-08T22:05:26.000Z",
 		"name": "McDonald's",
-		"id": "4bb887801261d13a92ace898"
+		"id": "4bb887801261d13a92ace898",
+		"lat": 52.376891099287676,
+		"lng": 4.897694885730743,
+		"address": "Damrak 8",
+		"postalCode": "1012 LG",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2017-04-08T22:28:47.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-08T22:52:31.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-09T10:30:27.000Z",
 		"name": "Vomar Voordeelmarkt",
-		"id": "4b72c969f964a52096882de3"
+		"id": "4b72c969f964a52096882de3",
+		"lat": 52.39127711020139,
+		"lng": 4.649005288257338,
+		"address": "Paul Krugerkade 22",
+		"postalCode": "2021 BN",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-04-09T11:07:29.000Z",
 		"name": "Leen Bakker",
-		"id": "4c6fd4279375a0930cf60437"
+		"id": "4c6fd4279375a0930cf60437",
+		"lat": 52.39163477107311,
+		"lng": 4.6481859888170876,
+		"address": "Paul Krugerkade 10",
+		"postalCode": "2021 BN",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Furniture / Home Store"
+		]
 	},
 	{
 		"date": "2017-04-09T14:27:35.000Z",
 		"name": "T-Mobile",
-		"id": "4c0f900d7189c9283938dab6"
+		"id": "4c0f900d7189c9283938dab6",
+		"lat": 52.37777773914527,
+		"lng": 4.632082432508469,
+		"address": "Grote Houtstraat 131",
+		"postalCode": "2011 SJ",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Mobile Phone Shop",
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2017-04-09T14:28:54.000Z",
 		"name": "H&M",
-		"id": "4b1a6b59f964a5201dea23e3"
+		"id": "4b1a6b59f964a5201dea23e3",
+		"lat": 52.378641438601946,
+		"lng": 4.6328334510326385,
+		"address": "Grote Houtstraat 95",
+		"postalCode": "2011 SH",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2017-04-09T15:07:00.000Z",
 		"name": "Apple Haarlem",
-		"id": "529e315f11d2f188f40a235a"
+		"id": "529e315f11d2f188f40a235a",
+		"lat": 52.378432951567824,
+		"lng": 4.6329654604005555,
+		"address": "Grote Houtstraat 99",
+		"postalCode": "2011 SH",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Electronics Store",
+			"Mobile Phone Shop"
+		]
 	},
 	{
 		"date": "2017-04-09T15:24:27.000Z",
 		"name": "Yoghurt Barn",
-		"id": "55d5b985498e389528c34d75"
+		"id": "55d5b985498e389528c34d75",
+		"lat": 52.384189060455085,
+		"lng": 4.635916953840617,
+		"address": "Kruisstraat 15",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Frozen Yogurt Shop"
+		]
 	},
 	{
 		"date": "2017-04-09T18:01:24.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-10T06:38:07.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-10T06:47:37.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-10T06:54:46.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-10T09:58:02.000Z",
 		"name": "Borrl Kitchen",
-		"id": "583050cedebdf603ff8551e2"
+		"id": "583050cedebdf603ff8551e2",
+		"lat": 52.36688168546989,
+		"lng": 4.912384115462717,
+		"address": "Plantage Kerklaan 41",
+		"postalCode": "1018 CV",
+		"country": "Nederland",
+		"categories": [
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2017-04-10T16:49:41.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-11T10:40:24.000Z",
 		"name": "Loetje Oost",
-		"id": "5062d84be4b0857a7eef4f25"
+		"id": "5062d84be4b0857a7eef4f25",
+		"lat": 52.35715675681808,
+		"lng": 4.90808401799727,
+		"address": "Ruyschstraat 15",
+		"postalCode": "1091 BR",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Steakhouse"
+		]
 	},
 	{
 		"date": "2017-04-11T17:26:12.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-11T17:41:31.000Z",
 		"name": "BRET",
-		"id": "553a5a76498e04e927dd5f59"
+		"id": "553a5a76498e04e927dd5f59",
+		"lat": 52.389575506582915,
+		"lng": 4.8368201636224795,
+		"address": "Orlyplein 76",
+		"postalCode": "1043 DP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Beer Garden"
+		]
 	},
 	{
 		"date": "2017-04-11T20:20:54.000Z",
 		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
-		"id": "4a56245ff964a52085b41fe3"
+		"id": "4a56245ff964a52085b41fe3",
+		"lat": 52.38899431620469,
+		"lng": 4.837957990409058,
+		"address": "Orlyplein 105",
+		"postalCode": "1043 DT",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-11T21:37:45.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-12T08:57:21.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-12T10:11:51.000Z",
 		"name": "Vapiano",
-		"id": "4fb28f2be4b0e2be9a5f1f6f"
+		"id": "4fb28f2be4b0e2be9a5f1f6f",
+		"lat": 52.36612800819601,
+		"lng": 4.897454374802111,
+		"address": "Amstelstraat 2-4",
+		"postalCode": "1017 DA",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Italian Restaurant",
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2017-04-12T16:50:52.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-12T17:18:36.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-12T17:34:05.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-12T19:48:19.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-13T09:09:32.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-13T10:17:38.000Z",
 		"name": "Burgermeester",
-		"id": "4a76cc70f964a5202ee31fe3"
+		"id": "4a76cc70f964a5202ee31fe3",
+		"lat": 52.36682656103072,
+		"lng": 4.912215544101274,
+		"address": "Plantage Kerklaan 37",
+		"postalCode": "1018 CZ",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2017-04-13T15:21:49.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-13T15:31:58.000Z",
 		"name": "Tramhalte Wibautstraat",
-		"id": "4d7d236cf260a093390c47ba"
+		"id": "4d7d236cf260a093390c47ba",
+		"lat": 52.357267220589165,
+		"lng": 4.909557049810459,
+		"address": "Wibautstraat",
+		"postalCode": "1091",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2017-04-13T15:56:28.000Z",
 		"name": "Hecke electronica",
-		"id": "4c790a1ba868370431170f4d"
+		"id": "4c790a1ba868370431170f4d",
+		"lat": 52.35241769829178,
+		"lng": 4.88728112604486,
+		"address": "Ceintuurbaan 7",
+		"postalCode": "1072ER",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Hardware Store"
+		]
 	},
 	{
 		"date": "2017-04-13T16:01:50.000Z",
 		"name": "Station Amsterdam Amstel",
-		"id": "4b0190aff964a520764322e3"
+		"id": "4b0190aff964a520764322e3",
+		"lat": 52.346591088296925,
+		"lng": 4.917637139921404,
+		"address": "Julianaplein 1",
+		"postalCode": "1097 DN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-13T16:18:19.000Z",
 		"name": "Station Diemen Zuid",
-		"id": "4a793834f964a52003e71fe3"
+		"id": "4a793834f964a52003e71fe3",
+		"lat": 52.330382657547474,
+		"lng": 4.955692291259766,
+		"address": "Diemerdreef 1",
+		"postalCode": "1112 CK",
+		"city": "Diemen",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-13T16:45:53.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-13T17:07:15.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-13T17:16:29.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-14T09:34:58.000Z",
 		"name": "Basic X Hair",
-		"id": "52e15bd4498eff401e7266b1"
+		"id": "52e15bd4498eff401e7266b1",
+		"lat": 52.38709780312595,
+		"lng": 4.636948636589309,
+		"address": "Kruisweg 35",
+		"postalCode": "2011LA",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Salon / Barbershop"
+		]
 	},
 	{
 		"date": "2017-04-14T09:39:15.000Z",
 		"name": "Kiosk",
-		"id": "5128a36be4b0e836e991977b"
+		"id": "5128a36be4b0e836e991977b",
+		"lat": 52.387574355130305,
+		"lng": 4.637822982067815,
+		"address": "Station Haarlem",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store"
+		]
 	},
 	{
 		"date": "2017-04-14T10:13:39.000Z",
 		"name": "Karwei",
-		"id": "4b5b027ff964a520a9de28e3"
+		"id": "4b5b027ff964a520a9de28e3",
+		"lat": 52.39005961436961,
+		"lng": 4.626503810720334,
+		"address": "Verspronckweg 63",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Hardware Store"
+		]
 	},
 	{
 		"date": "2017-04-14T10:28:33.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-16T16:09:34.000Z",
 		"name": "Vomar Voordeelmarkt",
-		"id": "4b72c969f964a52096882de3"
+		"id": "4b72c969f964a52096882de3",
+		"lat": 52.39127711020139,
+		"lng": 4.649005288257338,
+		"address": "Paul Krugerkade 22",
+		"postalCode": "2021 BN",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-04-17T18:59:47.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-18T06:00:39.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-18T07:26:21.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-18T16:32:23.000Z",
 		"name": "Nike Store",
-		"id": "4b49b9fbf964a520e47226e3"
+		"id": "4b49b9fbf964a520e47226e3",
+		"lat": 52.36794850723601,
+		"lng": 4.891980431812044,
+		"address": "Kalverstraat 185-187",
+		"postalCode": "1012 XC",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Sporting Goods Shop",
+			"Clothing Store",
+			"Shoe Store"
+		]
 	},
 	{
 		"date": "2017-04-18T17:12:21.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-18T17:28:11.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-18T17:38:39.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-19T06:16:14.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-19T06:54:05.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-19T16:30:14.000Z",
 		"name": "Primark",
-		"id": "57fbac86498e161d00c0124a"
+		"id": "57fbac86498e161d00c0124a",
+		"lat": 52.37458395111685,
+		"lng": 4.894425272941589,
+		"address": "Damrak 77",
+		"postalCode": "1012 LM",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2017-04-19T16:50:19.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-20T06:21:30.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-20T08:06:51.000Z",
 		"name": "SPAR city Van Kempen",
-		"id": "4b4c4089f964a52022b026e3"
+		"id": "4b4c4089f964a52022b026e3",
+		"lat": 52.36421961630775,
+		"lng": 4.9056606671851295,
+		"address": "Nieuwe Kerkstraat 65",
+		"postalCode": "1018 DZ",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store",
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-04-20T09:04:53.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-20T10:39:35.000Z",
 		"name": "Apotheek de Castro",
-		"id": "4c977fab82b56dcb363feaaa"
+		"id": "4c977fab82b56dcb363feaaa",
+		"lat": 52.36745,
+		"lng": 4.90613,
+		"address": "Muiderstraat 14",
+		"postalCode": "1011 RB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Pharmacy"
+		]
 	},
 	{
 		"date": "2017-04-20T16:38:03.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-20T16:59:46.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-20T17:32:31.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-21T07:55:29.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-21T07:58:01.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-21T14:17:46.000Z",
 		"name": "Amsterdam Zuid Railway Station (Station Amsterdam Zuid)",
-		"id": "4a952e89f964a520a62220e3"
+		"id": "4a952e89f964a520a62220e3",
+		"lat": 52.33894690990427,
+		"lng": 4.873248992995775,
+		"address": "Zuidplein 10",
+		"postalCode": "1077 XV",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-21T14:41:55.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2017-04-21T14:42:10.000Z",
 		"name": "Departures 3",
-		"id": "4ba5fcb4f964a520ea2c39e3"
+		"id": "4ba5fcb4f964a520ea2c39e3",
+		"lat": 52.3103491048693,
+		"lng": 4.760890553614383,
+		"address": "AMS Airport",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2017-04-21T15:26:40.000Z",
 		"name": "Gate M7",
-		"id": "4c2e258f260bc9288d2f1bd3"
+		"id": "4c2e258f260bc9288d2f1bd3",
+		"lat": 52.30942767338192,
+		"lng": 4.752845826964418,
+		"address": "Concourse M",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2017-04-21T17:38:35.000Z",
 		"name": "Berlin Brandenburg Airport Willy Brandt (BER) (Flughafen Berlin Brandenburg Willy Brandt)",
-		"id": "4f0729b4e4b03321184dd5e2"
+		"id": "4f0729b4e4b03321184dd5e2",
+		"lat": 52.36451558048511,
+		"lng": 13.511037826538086,
+		"address": "Willy-Brandt-Platz 1",
+		"postalCode": "12529",
+		"city": "Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2017-04-21T17:56:02.000Z",
 		"name": "Terminal A",
-		"id": "4eee0d64e3002155942a87fb"
+		"id": "4eee0d64e3002155942a87fb",
+		"lat": 52.388591282311,
+		"lng": 13.518866228114348,
+		"address": "SXF Airport",
+		"postalCode": "12529",
+		"city": "Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2017-04-21T20:08:17.000Z",
 		"name": "Moritzplatz",
-		"id": "4caebfd9b4b0a35d95a93bce"
+		"id": "4caebfd9b4b0a35d95a93bce",
+		"lat": 52.503633173289515,
+		"lng": 13.41069470884357,
+		"address": "Moritzplatz",
+		"postalCode": "10969",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-04-21T20:19:29.000Z",
 		"name": "Alexanderplatz",
-		"id": "4be5826a78e895219ea964ce"
+		"id": "4be5826a78e895219ea964ce",
+		"lat": 52.52169826251361,
+		"lng": 13.413105010986326,
+		"address": "Alexanderstr.",
+		"postalCode": "10179",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-04-21T20:38:45.000Z",
 		"name": "Spreegold",
-		"id": "4d820d0b85d3d7ce1426a62d"
+		"id": "4d820d0b85d3d7ce1426a62d",
+		"lat": 52.523043,
+		"lng": 13.409118,
+		"address": "Rosa-Luxemburg-Str. 2",
+		"postalCode": "10178",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Bistro",
+			"Café",
+			"Breakfast Spot"
+		]
 	},
 	{
 		"date": "2017-04-21T21:53:01.000Z",
 		"name": "U Hermannplatz",
-		"id": "4aeddbfaf964a5209ccf21e3"
+		"id": "4aeddbfaf964a5209ccf21e3",
+		"lat": 52.4867784994307,
+		"lng": 13.42457518401065,
+		"address": "Hermannplatz",
+		"postalCode": "10967",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Metro Station"
+		]
 	},
 	{
 		"date": "2017-04-22T09:12:22.000Z",
 		"name": "H S Schöneweide / Sterndamm",
-		"id": "5083d65de4b0d2d664742fbb"
+		"id": "5083d65de4b0d2d664742fbb",
+		"lat": 52.454879566961665,
+		"lng": 13.511905849211521,
+		"address": "Sterndamm",
+		"postalCode": "12487",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Tram Station",
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2017-04-22T09:32:55.000Z",
 		"name": "Superbooth 2017",
-		"id": "58f8eabb610f042ee2a17e84"
+		"id": "58f8eabb610f042ee2a17e84",
+		"lat": 52.460621,
+		"lng": 13.546312,
+		"country": "Deutschland",
+		"categories": [
+			"Street Fair"
+		]
 	},
 	{
 		"date": "2017-04-22T12:32:06.000Z",
 		"name": "FEZ Wuhlheide",
-		"id": "4adcda7df964a520924721e3"
+		"id": "4adcda7df964a520924721e3",
+		"lat": 52.46184075513298,
+		"lng": 13.548460006713865,
+		"address": "An der Wulheide 197",
+		"postalCode": "12459",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Recreation Center",
+			"General Entertainment"
+		]
 	},
 	{
 		"date": "2017-04-22T15:29:59.000Z",
 		"name": "Alexanderplatz",
-		"id": "4be5826a78e895219ea964ce"
+		"id": "4be5826a78e895219ea964ce",
+		"lat": 52.52169826251361,
+		"lng": 13.413105010986326,
+		"address": "Alexanderstr.",
+		"postalCode": "10179",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-04-22T15:37:19.000Z",
 		"name": "Hackescher Markt",
-		"id": "4adcda7df964a520664721e3"
+		"id": "4adcda7df964a520664721e3",
+		"lat": 52.52299349801406,
+		"lng": 13.40237760464655,
+		"address": "Neue Promenade",
+		"postalCode": "10178",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-04-22T15:52:02.000Z",
 		"name": "H Hufelandstraße",
-		"id": "4be5a5242468c9287b4d0043"
+		"id": "4be5a5242468c9287b4d0043",
+		"lat": 52.53259814158692,
+		"lng": 13.428883191932764,
+		"address": "Greifswalder Str.",
+		"postalCode": "10407",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2017-04-22T16:18:29.000Z",
 		"name": "Mall of Berlin",
-		"id": "5131f37c8055b62e098f83c7"
+		"id": "5131f37c8055b62e098f83c7",
+		"lat": 52.51053451604047,
+		"lng": 13.380936480568874,
+		"address": "Leipziger Platz 12",
+		"postalCode": "10117",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2017-04-22T16:36:31.000Z",
 		"name": "Gulaschkanone",
-		"id": "577e53f9498e412d1244bfc1"
+		"id": "577e53f9498e412d1244bfc1",
+		"lat": 52.510561,
+		"lng": 13.381009,
+		"address": "Leipziger Platz 12",
+		"postalCode": "10117",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Snack Place"
+		]
 	},
 	{
 		"date": "2017-04-22T16:50:17.000Z",
 		"name": "Potsdamer Platz",
-		"id": "4adcda7df964a520694721e3"
+		"id": "4adcda7df964a520694721e3",
+		"lat": 52.50943160596915,
+		"lng": 13.376388907437926,
+		"address": "Potsdamer Str.",
+		"postalCode": "10785",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-04-22T16:55:25.000Z",
 		"name": "Sony Center",
-		"id": "4adcda91f964a520894b21e3"
+		"id": "4adcda91f964a520894b21e3",
+		"lat": 52.509868426200796,
+		"lng": 13.373475813552897,
+		"address": "Potsdamer Str. 4",
+		"postalCode": "10785",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Building",
+			"Pedestrian Plaza"
+		]
 	},
 	{
 		"date": "2017-04-22T17:00:36.000Z",
 		"name": "Sony Style Store",
-		"id": "4adcda91f964a5208a4b21e3"
+		"id": "4adcda91f964a5208a4b21e3",
+		"lat": 52.509918899495396,
+		"lng": 13.3735540615478,
+		"address": "Potsdamer Str. 4",
+		"postalCode": "10785",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2017-04-22T17:37:45.000Z",
 		"name": "Coffee Fellows",
-		"id": "514453f5e4b071f0e0e0a123"
+		"id": "514453f5e4b071f0e0e0a123",
+		"lat": 52.52265601136413,
+		"lng": 13.409790005427109,
+		"address": "Rosa-Luxemburg-Str. 2",
+		"postalCode": "10178",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2017-04-22T17:58:42.000Z",
 		"name": "Scoom",
-		"id": "4b39a2b2f964a520415e25e3"
+		"id": "4b39a2b2f964a520415e25e3",
+		"lat": 52.52141911408005,
+		"lng": 13.41321975624457,
+		"address": "U Alexanderplatz",
+		"postalCode": "10178",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Sandwich Place",
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2017-04-22T18:42:09.000Z",
 		"name": "Rudow",
-		"id": "511290aee4b06bff9dfddeb9"
+		"id": "511290aee4b06bff9dfddeb9",
+		"lat": 52.41592671294389,
+		"lng": 13.48804937378708,
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2017-04-23T03:34:02.000Z",
 		"name": "Berlin Schönefeld Airport (SXF) (Flughafen Berlin-Schönefeld)",
-		"id": "4adcda91f964a520ae4b21e3"
+		"id": "4adcda91f964a520ae4b21e3",
+		"lat": 52.38801578881554,
+		"lng": 13.518075942993164,
+		"address": "Flughafen 1",
+		"postalCode": "12529",
+		"city": "Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2017-04-23T03:34:16.000Z",
 		"name": "Terminal B",
-		"id": "4ec478f430f8194514e84c9b"
+		"id": "4ec478f430f8194514e84c9b",
+		"lat": 52.3889827952405,
+		"lng": 13.520021283364963,
+		"address": "SXF Airport",
+		"postalCode": "12529",
+		"city": "Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2017-04-23T05:59:36.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2017-04-23T06:09:11.000Z",
 		"name": "Arrivals 3",
-		"id": "4c469f3676d72d7f77c43a4d"
+		"id": "4c469f3676d72d7f77c43a4d",
+		"lat": 52.31022370592044,
+		"lng": 4.761320226405994,
+		"address": "AMS Airport",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2017-04-23T06:30:46.000Z",
 		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
-		"id": "4a56245ff964a52085b41fe3"
+		"id": "4a56245ff964a52085b41fe3",
+		"lat": 52.38899431620469,
+		"lng": 4.837957990409058,
+		"address": "Orlyplein 105",
+		"postalCode": "1043 DT",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-23T06:32:17.000Z",
 		"name": "Starbucks",
-		"id": "4c1b12a08b3aa59397b3965f"
+		"id": "4c1b12a08b3aa59397b3965f",
+		"lat": 52.389066266752856,
+		"lng": 4.83764576907052,
+		"address": "Station Amsterdam Sloterdijk",
+		"postalCode": "1043 DT",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2017-04-23T06:59:03.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-23T07:07:09.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-23T11:59:02.000Z",
 		"name": "Action",
-		"id": "4c1a06b66a21c9b6735dcb97"
+		"id": "4c1a06b66a21c9b6735dcb97",
+		"lat": 52.391095588018075,
+		"lng": 4.64856076516707,
+		"address": "Werfstraat 11",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Discount Store"
+		]
 	},
 	{
 		"date": "2017-04-23T12:48:59.000Z",
 		"name": "Spaarne Gasthuis Haarlem Zuid",
-		"id": "4bc2ed35461576b0f5f07d32"
+		"id": "4bc2ed35461576b0f5f07d32",
+		"lat": 52.366099427801856,
+		"lng": 4.652758773005254,
+		"address": "Boerhaavelaan 22",
+		"postalCode": "2035 RC",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Hospital"
+		]
 	},
 	{
 		"date": "2017-04-23T12:50:41.000Z",
 		"name": "Apotheek SAHZ Lokatie Haarlem Zuid",
-		"id": "4dac3cef5da3ba8a47b18141"
+		"id": "4dac3cef5da3ba8a47b18141",
+		"lat": 52.36658279028688,
+		"lng": 4.6514929285620825,
+		"address": "Boerhaavelaan 22",
+		"postalCode": "2035RC",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Pharmacy"
+		]
 	},
 	{
 		"date": "2017-04-23T17:38:46.000Z",
 		"name": "Uitzichtpunt Hazenberg",
-		"id": "4d7ca5d4e04d6ea854f1fed5"
+		"id": "4d7ca5d4e04d6ea854f1fed5",
+		"lat": 52.414013,
+		"lng": 4.565191,
+		"country": "Nederland",
+		"categories": [
+			"Field"
+		]
 	},
 	{
 		"date": "2017-04-23T19:13:31.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-24T06:04:27.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-24T06:28:33.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-24T07:06:50.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-24T09:29:30.000Z",
 		"name": "SPAR city Van Kempen",
-		"id": "4b4c4089f964a52022b026e3"
+		"id": "4b4c4089f964a52022b026e3",
+		"lat": 52.36421961630775,
+		"lng": 4.9056606671851295,
+		"address": "Nieuwe Kerkstraat 65",
+		"postalCode": "1018 DZ",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store",
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-04-24T09:37:48.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-24T16:52:46.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-24T19:39:29.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-25T08:20:33.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-25T12:23:44.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-25T16:29:21.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-25T17:02:35.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-26T06:56:36.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-26T13:37:33.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-26T16:30:32.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-26T17:08:35.000Z",
 		"name": "BRET",
-		"id": "553a5a76498e04e927dd5f59"
+		"id": "553a5a76498e04e927dd5f59",
+		"lat": 52.389575506582915,
+		"lng": 4.8368201636224795,
+		"address": "Orlyplein 76",
+		"postalCode": "1043 DP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Beer Garden"
+		]
 	},
 	{
 		"date": "2017-04-26T20:57:21.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-27T12:49:23.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-27T13:27:14.000Z",
 		"name": "Dam",
-		"id": "4b9ff646f964a520f44d37e3"
+		"id": "4b9ff646f964a520f44d37e3",
+		"lat": 52.37300539279099,
+		"lng": 4.892928600311278,
+		"address": "Dam",
+		"postalCode": "1012 NP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2017-04-27T15:10:36.000Z",
 		"name": "Small Talk",
-		"id": "4a26ffe9f964a52070811fe3"
+		"id": "4a26ffe9f964a52070811fe3",
+		"lat": 52.35801829721919,
+		"lng": 4.878801739863029,
+		"address": "Van Baerlestraat 52",
+		"postalCode": "1071 BA",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Restaurant",
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2017-04-27T17:26:58.000Z",
 		"name": "One2vape",
-		"id": "590229dd35811b1afa79a91d"
+		"id": "590229dd35811b1afa79a91d",
+		"lat": 52.374955,
+		"lng": 4.891131,
+		"postalCode": "1012 SV",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Vape Store"
+		]
 	},
 	{
 		"date": "2017-04-27T17:36:33.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-28T05:15:54.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-28T06:41:48.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-28T06:58:10.000Z",
 		"name": "WeWork Metropool",
-		"id": "56a14a68498e77945ee2ced1"
+		"id": "56a14a68498e77945ee2ced1",
+		"lat": 52.36480793621647,
+		"lng": 4.906191453337669,
+		"address": "Weesperstraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coworking Space",
+			"Business Service"
+		]
 	},
 	{
 		"date": "2017-04-28T10:16:15.000Z",
 		"name": "Tasty Burger",
-		"id": "58ba0f14117420736151e102"
+		"id": "58ba0f14117420736151e102",
+		"lat": 52.36620858404363,
+		"lng": 4.8995569027015335,
+		"country": "Nederland",
+		"categories": [
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2017-04-28T11:17:55.000Z",
 		"name": "Docler Holding Amsterdam",
-		"id": "58b684db52a051661da12674"
+		"id": "58b684db52a051661da12674",
+		"lat": 52.36505739184381,
+		"lng": 4.906015988886142,
+		"address": "Weespertraat 61",
+		"postalCode": "1018 VN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tech Startup"
+		]
 	},
 	{
 		"date": "2017-04-28T14:48:27.000Z",
 		"name": "Station Amsterdam Amstel",
-		"id": "4b0190aff964a520764322e3"
+		"id": "4b0190aff964a520764322e3",
+		"lat": 52.346591088296925,
+		"lng": 4.917637139921404,
+		"address": "Julianaplein 1",
+		"postalCode": "1097 DN",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-28T14:59:38.000Z",
 		"name": "Bax Music Amsterdam",
-		"id": "57907fc5498e3467c2705f9f"
+		"id": "57907fc5498e3467c2705f9f",
+		"lat": 52.35051007042386,
+		"lng": 4.923229597613411,
+		"address": "James Wattstraat 71a",
+		"postalCode": "1097 DL",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Music Store"
+		]
 	},
 	{
 		"date": "2017-04-28T15:44:39.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-28T16:04:55.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-28T16:13:01.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-28T17:53:31.000Z",
 		"name": "Vomar Voordeelmarkt",
-		"id": "4b72c969f964a52096882de3"
+		"id": "4b72c969f964a52096882de3",
+		"lat": 52.39127711020139,
+		"lng": 4.649005288257338,
+		"address": "Paul Krugerkade 22",
+		"postalCode": "2021 BN",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-04-29T12:08:57.000Z",
 		"name": "IKEA",
-		"id": "4b48d278f964a520a75826e3"
+		"id": "4b48d278f964a520a75826e3",
+		"lat": 52.38470382072317,
+		"lng": 4.669883675315246,
+		"address": "Laan van Decima 1",
+		"postalCode": "2031 CX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Furniture / Home Store"
+		]
 	},
 	{
 		"date": "2017-04-29T13:16:17.000Z",
 		"name": "IKEA Restaurant",
-		"id": "4d52d39e747f6dcb7372d1d4"
+		"id": "4d52d39e747f6dcb7372d1d4",
+		"lat": 52.384716105241544,
+		"lng": 4.669890708050926,
+		"address": "Laan van Decima 1",
+		"postalCode": "2031 CX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Scandinavian Restaurant"
+		]
 	},
 	{
 		"date": "2017-04-29T14:25:54.000Z",
 		"name": "Woonboulevard Cruquius",
-		"id": "4bdbea9d63c5c9b605fd2968"
+		"id": "4bdbea9d63c5c9b605fd2968",
+		"lat": 52.33220344418613,
+		"lng": 4.629737059200913,
+		"address": "Spaarneweg",
+		"city": "Cruquius",
+		"country": "Nederland",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2017-04-29T15:08:48.000Z",
 		"name": "Kwantum",
-		"id": "4d398eaf1fc36dcbc1575cf5"
+		"id": "4d398eaf1fc36dcbc1575cf5",
+		"lat": 52.33193186243988,
+		"lng": 4.629299498961319,
+		"country": "Nederland",
+		"categories": [
+			"Hardware Store"
+		]
 	},
 	{
 		"date": "2017-04-29T18:18:38.000Z",
 		"name": "BRET",
-		"id": "553a5a76498e04e927dd5f59"
+		"id": "553a5a76498e04e927dd5f59",
+		"lat": 52.389575506582915,
+		"lng": 4.8368201636224795,
+		"address": "Orlyplein 76",
+		"postalCode": "1043 DP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Beer Garden"
+		]
 	},
 	{
 		"date": "2017-04-29T21:06:16.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2017-04-29T21:08:00.000Z",
 		"name": "Sultan shoarma",
-		"id": "573362de498e4009791e56a8"
+		"id": "573362de498e4009791e56a8",
+		"lat": 52.386933,
+		"lng": 4.636699,
+		"country": "Nederland",
+		"categories": [
+			"Snack Place"
+		]
 	},
 	{
 		"date": "2017-04-30T08:39:18.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2017-04-30T15:32:25.000Z",
 		"name": "Vomar Voordeelmarkt",
-		"id": "4b72c969f964a52096882de3"
+		"id": "4b72c969f964a52096882de3",
+		"lat": 52.39127711020139,
+		"lng": 4.649005288257338,
+		"address": "Paul Krugerkade 22",
+		"postalCode": "2021 BN",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2017-04-30T16:00:50.000Z",
 		"name": "Bezoekerscentrum Kennemerduinen",
-		"id": "51ed3519498e2020c9a34e6a"
+		"id": "51ed3519498e2020c9a34e6a",
+		"lat": 52.39567,
+		"lng": 4.5904999,
+		"address": "Zeeweg 12",
+		"postalCode": "2051 EC",
+		"city": "Overveen",
+		"country": "Nederland",
+		"categories": [
+			"Tourist Information Center"
+		]
 	},
 	{
 		"date": "2017-04-30T18:23:01.000Z",
 		"name": "Parnassia aan Zee",
-		"id": "4c00db479cf52d7f106914e7"
+		"id": "4c00db479cf52d7f106914e7",
+		"lat": 52.41837270860607,
+		"lng": 4.554015268505989,
+		"address": "Parnassiaweg 1",
+		"postalCode": "2051 EA",
+		"city": "Overveen",
+		"country": "Nederland",
+		"categories": [
+			"Beach",
+			"Café"
+		]
 	},
 	{
 		"date": "2017-04-30T19:07:39.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]
