@@ -2,751 +2,2069 @@
 	{
 		"date": "2019-02-01T11:20:37.000Z",
 		"name": "The Döner Company",
-		"id": "4d790928a56e37040e5d7567"
+		"id": "4d790928a56e37040e5d7567",
+		"lat": 52.38817372624091,
+		"lng": 4.63927902305991,
+		"address": "Station Haarlem",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Doner Restaurant",
+			"Falafel Restaurant",
+			"Kebab Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-01T16:28:32.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-02-06T18:34:56.000Z",
 		"name": "Luca pizzeria",
-		"id": "4ba7a257f964a52089a439e3"
+		"id": "4ba7a257f964a52089a439e3",
+		"lat": 52.38056276467253,
+		"lng": 4.646154420445277,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Pizza Place",
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-07T18:00:20.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-02-08T15:25:46.000Z",
 		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
-		"id": "4a56245ff964a52085b41fe3"
+		"id": "4a56245ff964a52085b41fe3",
+		"lat": 52.38899431620469,
+		"lng": 4.837957990409058,
+		"address": "Orlyplein 105",
+		"postalCode": "1043 DT",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-02-08T15:57:10.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-02-08T16:44:49.000Z",
 		"name": "Gate M6",
-		"id": "4c1fbb018b3aa5933dec9d5f"
+		"id": "4c1fbb018b3aa5933dec9d5f",
+		"lat": 52.309599179941706,
+		"lng": 4.753300576180376,
+		"address": "Concourse M",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-02-08T18:54:30.000Z",
 		"name": "Vienna International Airport (VIE) (Flughafen Wien-Schwechat)",
-		"id": "4b05889af964a520e5cf22e3"
+		"id": "4b05889af964a520e5cf22e3",
+		"lat": 48.11934401963146,
+		"lng": 16.56264517485397,
+		"address": "Abflugstraße",
+		"postalCode": "1300",
+		"city": "Schwechat",
+		"country": "Österreich",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-02-09T06:50:09.000Z",
 		"name": "Kis-Tómalom",
-		"id": "4f857e8be4b05ea63f7a168f"
+		"id": "4f857e8be4b05ea63f7a168f",
+		"lat": 47.71016582127449,
+		"lng": 16.625447273254395,
+		"country": "Magyarország",
+		"categories": [
+			"Lake"
+		]
 	},
 	{
 		"date": "2019-02-09T09:04:45.000Z",
 		"name": "Sopron vasútállomás",
-		"id": "4bd6fe6529eb9c749dee95e1"
+		"id": "4bd6fe6529eb9c749dee95e1",
+		"lat": 47.67771249028291,
+		"lng": 16.58738136291504,
+		"address": "Állomás u. 2.",
+		"postalCode": "9400",
+		"city": "Sopron",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-02-09T09:34:07.000Z",
 		"name": "Pinnye vasútállomás",
-		"id": "4dd6ab8d1838b8561cd33e22"
+		"id": "4dd6ab8d1838b8561cd33e22",
+		"lat": 47.600258644452815,
+		"lng": 16.76532031294407,
+		"address": "Pinnye",
+		"city": "Pinnye",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-02-09T10:33:12.000Z",
 		"name": "Ács vasútállomás",
-		"id": "4cf7e84ab9792d4305a75695"
+		"id": "4cf7e84ab9792d4305a75695",
+		"lat": 47.71690827225991,
+		"lng": 18.004579885197955,
+		"address": "Gyár út",
+		"postalCode": "2941",
+		"city": "Ács",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-02-09T11:26:29.000Z",
 		"name": "Viadukt",
-		"id": "4d568213ba5b224be8701b14"
+		"id": "4d568213ba5b224be8701b14",
+		"lat": 47.47193112971457,
+		"lng": 18.832642436027523,
+		"address": "Szabadság út",
+		"city": "Biatorbágy",
+		"country": "Magyarország",
+		"categories": [
+			"Bridge"
+		]
 	},
 	{
 		"date": "2019-02-09T12:00:56.000Z",
 		"name": "Eastern Railway Station (Keleti pályaudvar)",
-		"id": "4b6e7d14f964a52065bf2ce3"
+		"id": "4b6e7d14f964a52065bf2ce3",
+		"lat": 47.50041327485257,
+		"lng": 19.083804935752624,
+		"address": "Baross tér 10.",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-02-09T12:32:05.000Z",
 		"name": "Millennium da Pippo",
-		"id": "4bdb47be3904a593269c499e"
+		"id": "4bdb47be3904a593269c499e",
+		"lat": 47.508388,
+		"lng": 19.067574,
+		"address": "Andrássy út 76.",
+		"postalCode": "1062",
+		"country": "Magyarország",
+		"categories": [
+			"Italian Restaurant",
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2019-02-09T18:36:08.000Z",
 		"name": "Flow Specialty Coffee Bar & Bistro",
-		"id": "5ae766daccad6b003934a725"
+		"id": "5ae766daccad6b003934a725",
+		"lat": 47.50735118931772,
+		"lng": 19.066335637453648,
+		"address": "Andrássy út 66.",
+		"postalCode": "1062",
+		"city": "Budapest VI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Coffee Shop",
+			"Vegetarian / Vegan Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-09T20:48:03.000Z",
 		"name": "Kodály körönd",
-		"id": "4bfed210ca1920a1b2e5eb81"
+		"id": "4bfed210ca1920a1b2e5eb81",
+		"lat": 47.50969338610802,
+		"lng": 19.06999111175537,
+		"address": "Kodály körönd",
+		"postalCode": "1062",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-09T21:26:14.000Z",
 		"name": "Japanika",
-		"id": "57742815498e90a3e8d3e0cf"
+		"id": "57742815498e90a3e8d3e0cf",
+		"lat": 47.500744115648416,
+		"lng": 19.05239528510463,
+		"address": "Szent István tér 11.",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Sushi Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-09T23:00:34.000Z",
 		"name": "Kodály körönd",
-		"id": "4bfed210ca1920a1b2e5eb81"
+		"id": "4bfed210ca1920a1b2e5eb81",
+		"lat": 47.50969338610802,
+		"lng": 19.06999111175537,
+		"address": "Kodály körönd",
+		"postalCode": "1062",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-10T19:02:00.000Z",
 		"name": "Kozmosz Vegán Étterem",
-		"id": "5355603b498e79f744f1b54a"
+		"id": "5355603b498e79f744f1b54a",
+		"lat": 47.506365165471045,
+		"lng": 19.06706084321121,
+		"address": "Hunyadi tér 11.",
+		"postalCode": "1067",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Vegetarian / Vegan Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-11T06:19:15.000Z",
 		"name": "Deák Ferenc tér",
-		"id": "4d52c0d74015b1f7b1017ecf"
+		"id": "4d52c0d74015b1f7b1017ecf",
+		"lat": 47.49751050552186,
+		"lng": 19.054739042164343,
+		"address": "Deák Ferenc tér",
+		"postalCode": "1052",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-11T06:36:34.000Z",
 		"name": "Kristóf tér",
-		"id": "4e2ec279d4c058fdbeec6f71"
+		"id": "4e2ec279d4c058fdbeec6f71",
+		"lat": 47.49557803730953,
+		"lng": 19.05180037021637,
+		"address": "Kristóf tér",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-11T07:02:29.000Z",
 		"name": "Közvágóhíd (H6)",
-		"id": "4c73ca4cad69b60c76f286b9"
+		"id": "4c73ca4cad69b60c76f286b9",
+		"lat": 47.46616598253659,
+		"lng": 19.077231777594992,
+		"address": "Soroksári út",
+		"postalCode": "1095",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Light Rail Station"
+		]
 	},
 	{
 		"date": "2019-02-11T07:47:30.000Z",
 		"name": "Dunaharaszti",
-		"id": "4d10c1486331a093418f5894"
+		"id": "4d10c1486331a093418f5894",
+		"lat": 47.350279790478076,
+		"lng": 19.088873863220215,
+		"postalCode": "2330",
+		"country": "Magyarország",
+		"categories": [
+			"City"
+		]
 	},
 	{
 		"date": "2019-02-11T07:48:18.000Z",
 		"name": "Haraszti Caffe - Kek Duna Uzlethaz",
-		"id": "4c8b5b44e51e6dcb208c71de"
+		"id": "4c8b5b44e51e6dcb208c71de",
+		"lat": 47.3593735434628,
+		"lng": 19.08663854590043,
+		"address": "Fo ut 92.",
+		"postalCode": "2330",
+		"city": "Dunaharaszti",
+		"country": "Magyarország",
+		"categories": [
+			"Lounge"
+		]
 	},
 	{
 		"date": "2019-02-11T08:05:21.000Z",
 		"name": "Timi Presszó",
-		"id": "4e5e82ff14954da39ff12960"
+		"id": "4e5e82ff14954da39ff12960",
+		"lat": 47.35915853445745,
+		"lng": 19.08628302864758,
+		"country": "Magyarország",
+		"categories": [
+			"Bar"
+		]
 	},
 	{
 		"date": "2019-02-11T08:56:41.000Z",
 		"name": "TESCO Szupermarket",
-		"id": "4e7a1b9eb993294fe76f7be4"
+		"id": "4e7a1b9eb993294fe76f7be4",
+		"lat": 47.361957669815915,
+		"lng": 19.088242161981498,
+		"address": "Fő u. 56.",
+		"postalCode": "2330",
+		"city": "Dunaharaszti",
+		"country": "Magyarország",
+		"categories": [
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2019-02-11T09:49:25.000Z",
 		"name": "Dunavarsány",
-		"id": "4f51f15de4b0776d6409a3a9"
+		"id": "4f51f15de4b0776d6409a3a9",
+		"lat": 47.28057554897785,
+		"lng": 19.0658175945282,
+		"country": "Magyarország",
+		"categories": [
+			"City"
+		]
 	},
 	{
 		"date": "2019-02-11T10:06:07.000Z",
 		"name": "Délegyháza",
-		"id": "4dff2c7f45dd3320c8821603"
+		"id": "4dff2c7f45dd3320c8821603",
+		"lat": 47.257029276742124,
+		"lng": 19.070386924685,
+		"country": "Magyarország",
+		"categories": [
+			"City"
+		]
 	},
 	{
 		"date": "2019-02-11T10:43:41.000Z",
 		"name": "OTP Bank",
-		"id": "4dc7ba081f6ef43b8a4b914d"
+		"id": "4dc7ba081f6ef43b8a4b914d",
+		"lat": 47.454404291730164,
+		"lng": 19.151897055230563,
+		"address": "Üllői út 285",
+		"postalCode": "1195",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2019-02-11T11:26:55.000Z",
 		"name": "Kispesti Városháza",
-		"id": "4cb4b3623f0676b0af27ff0c"
+		"id": "4cb4b3623f0676b0af27ff0c",
+		"lat": 47.45319898195616,
+		"lng": 19.149973513130536,
+		"address": "Városház tér 18-20.",
+		"postalCode": "1195",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"City Hall"
+		]
 	},
 	{
 		"date": "2019-02-11T11:38:34.000Z",
 		"name": "Halásztanya Étterem",
-		"id": "4c7a41a1794e224b7d0b6828"
+		"id": "4c7a41a1794e224b7d0b6828",
+		"lat": 47.452476580257624,
+		"lng": 19.150759881548424,
+		"address": "Városház tér 5.",
+		"postalCode": "1193",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hungarian Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-11T12:44:27.000Z",
 		"name": "Kormányablak XIX.",
-		"id": "58299e8a991e9b05db26ab96"
+		"id": "58299e8a991e9b05db26ab96",
+		"lat": 47.453075,
+		"lng": 19.149199,
+		"address": "18",
+		"postalCode": "1195",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Government Building"
+		]
 	},
 	{
 		"date": "2019-02-11T13:13:55.000Z",
 		"name": "Árpád utca (50)",
-		"id": "4e992fd51081f57b9e105edf"
+		"id": "4e992fd51081f57b9e105edf",
+		"lat": 47.454684279979695,
+		"lng": 19.15145299484594,
+		"address": "Üllői út",
+		"postalCode": "1193",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-02-11T13:24:37.000Z",
 		"name": "Határ út M (50)",
-		"id": "4c12440c7f7f2d7f90eddc68"
+		"id": "4c12440c7f7f2d7f90eddc68",
+		"lat": 47.46516772427519,
+		"lng": 19.127364239193238,
+		"address": "Üllői út",
+		"postalCode": "1191",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-02-11T13:48:48.000Z",
 		"name": "Deák Ferenc tér",
-		"id": "4d52c0d74015b1f7b1017ecf"
+		"id": "4d52c0d74015b1f7b1017ecf",
+		"lat": 47.49751050552186,
+		"lng": 19.054739042164343,
+		"address": "Deák Ferenc tér",
+		"postalCode": "1052",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-11T14:01:51.000Z",
 		"name": "Deák Ferenc tér (M1, M2, M3)",
-		"id": "4d8850fb3acc6dcbbe0c051c"
+		"id": "4d8850fb3acc6dcbbe0c051c",
+		"lat": 47.49744617320211,
+		"lng": 19.054773040573462,
+		"address": "Deák Ferenc tér",
+		"postalCode": "1065",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Metro Station"
+		]
 	},
 	{
 		"date": "2019-02-11T14:18:29.000Z",
 		"name": "Dózsa György út‎ (70)",
-		"id": "4d4d325ea7f86ea86fe833de"
+		"id": "4d4d325ea7f86ea86fe833de",
+		"lat": 47.50942893862887,
+		"lng": 19.082026681846664,
+		"address": "Damjanich u.",
+		"postalCode": "1076",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2019-02-11T17:23:02.000Z",
 		"name": "Tisza István tér",
-		"id": "4fd8d720e4b0bb2199d96d99"
+		"id": "4fd8d720e4b0bb2199d96d99",
+		"lat": 47.51657397320701,
+		"lng": 19.108034632266136,
+		"address": "Tisza István tér",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-11T19:16:20.000Z",
 		"name": "Tájfun",
-		"id": "4bff9adbc30a2d7fdd26111d"
+		"id": "4bff9adbc30a2d7fdd26111d",
+		"lat": 47.51535535373111,
+		"lng": 19.1138314368346,
+		"address": "Szugló u. 65.",
+		"postalCode": "1145",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Pool Hall",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-12T08:51:18.000Z",
 		"name": "City Park (Városliget)",
-		"id": "4b900084f964a520656f33e3"
+		"id": "4b900084f964a520656f33e3",
+		"lat": 47.51488195170639,
+		"lng": 19.085655212402344,
+		"address": "Városliget",
+		"postalCode": "1071",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-02-12T09:07:26.000Z",
 		"name": "Honvédkórház (1, 1A)",
-		"id": "4dc2fecde4cd169dc60f7552"
+		"id": "4dc2fecde4cd169dc60f7552",
+		"lat": 47.53039728578535,
+		"lng": 19.070328382050466,
+		"address": "Róbert Károly krt.",
+		"postalCode": "1134",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-02-12T09:14:14.000Z",
 		"name": "Országos Egészségbiztosítási Pénztár",
-		"id": "4df72a181f6e94c2c77ebef6"
+		"id": "4df72a181f6e94c2c77ebef6",
+		"lat": 47.53212475751121,
+		"lng": 19.069418342370465,
+		"address": "Teve u. 1/A-C.",
+		"postalCode": "1139",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Government Building",
+			"Capitol Building"
+		]
 	},
 	{
 		"date": "2019-02-12T11:08:12.000Z",
 		"name": "Lehel tér",
-		"id": "4c04bec19a7920a17faad179"
+		"id": "4c04bec19a7920a17faad179",
+		"lat": 47.51643262453202,
+		"lng": 19.0602707862854,
+		"address": "Lehel tér",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-12T11:19:13.000Z",
 		"name": "OTP Bank",
-		"id": "4e707492e4cd5c8693fc36b7"
+		"id": "4e707492e4cd5c8693fc36b7",
+		"lat": 47.502582453985084,
+		"lng": 19.054827804313895,
+		"address": "Bajcsy Zsilinszky út 24.",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2019-02-12T11:19:36.000Z",
 		"name": "AnalogueZone Showroom",
-		"id": "52ed7c12498e3e1e276b4dab"
+		"id": "52ed7c12498e3e1e276b4dab",
+		"lat": 47.50215782039075,
+		"lng": 19.055711030960083,
+		"address": "Bajcsy Zsilinszky köz 3.",
+		"postalCode": "1065",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Music Store"
+		]
 	},
 	{
 		"date": "2019-02-12T12:05:07.000Z",
 		"name": "Menza étterem és kávézó",
-		"id": "4b293089f964a520b09a24e3"
+		"id": "4b293089f964a520b09a24e3",
+		"lat": 47.503999,
+		"lng": 19.06278,
+		"address": "Liszt Ferenc tér 2.",
+		"postalCode": "1061",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hungarian Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-12T12:11:32.000Z",
 		"name": "Korhely Faloda & Daloda",
-		"id": "5301f85b11d2746a5e166782"
+		"id": "5301f85b11d2746a5e166782",
+		"lat": 47.50324441784291,
+		"lng": 19.064100426249748,
+		"address": "Liszt ferenc tér",
+		"country": "Magyarország",
+		"categories": [
+			"Eastern European Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-12T12:44:44.000Z",
 		"name": "SPAR",
-		"id": "4bd9b7100115c9b68f547880"
+		"id": "4bd9b7100115c9b68f547880",
+		"lat": 47.506174368327095,
+		"lng": 19.076746646661718,
+		"address": "Dembinszky u. 12. (Damjanich u. 11.)",
+		"postalCode": "1071",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2019-02-12T18:34:22.000Z",
 		"name": "BEAC - Budapesti Egyetemi Atlétikai Club",
-		"id": "4cab5d83f47ea1435d208b21"
+		"id": "4cab5d83f47ea1435d208b21",
+		"lat": 47.47298051168078,
+		"lng": 19.05746108352071,
+		"address": "Bogdánfy u. 10/B.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Gym"
+		]
 	},
 	{
 		"date": "2019-02-12T19:41:00.000Z",
 		"name": "A Kert Bisztro",
-		"id": "572de858cd10eebee6b8b9fe"
+		"id": "572de858cd10eebee6b8b9fe",
+		"lat": 47.5071814089398,
+		"lng": 19.093558875776043,
+		"address": "Thököly Út 57/b",
+		"postalCode": "1146",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bistro"
+		]
 	},
 	{
 		"date": "2019-02-12T21:21:18.000Z",
 		"name": "City Park (Városliget)",
-		"id": "4b900084f964a520656f33e3"
+		"id": "4b900084f964a520656f33e3",
+		"lat": 47.51488195170639,
+		"lng": 19.085655212402344,
+		"address": "Városliget",
+		"postalCode": "1071",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-02-13T03:11:53.000Z",
 		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
-		"id": "4b61c2daf964a5200f212ae3"
+		"id": "4b61c2daf964a5200f212ae3",
+		"lat": 47.43090022934757,
+		"lng": 19.260798463708202,
+		"address": "Budapest Airport",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-02-13T03:12:17.000Z",
 		"name": "Terminal 2A",
-		"id": "4c25aa535c5ca59357e044fe"
+		"id": "4c25aa535c5ca59357e044fe",
+		"lat": 47.433124251820495,
+		"lng": 19.262262161509078,
+		"address": "BUD Nemzetközi Repülőtér",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-02-13T03:48:21.000Z",
 		"name": "SkyCourt Lounge",
-		"id": "57593a6e498ed513d7bbc030"
+		"id": "57593a6e498ed513d7bbc030",
+		"lat": 47.433341949934366,
+		"lng": 19.261329174041748,
+		"address": "SkyCourt",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Lounge"
+		]
 	},
 	{
 		"date": "2019-02-13T04:58:12.000Z",
 		"name": "Gate A10",
-		"id": "4dddc91dd16415421835d8b9"
+		"id": "4dddc91dd16415421835d8b9",
+		"lat": 47.433845067088285,
+		"lng": 19.262394589369762,
+		"address": "Terminal 2A",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-02-13T07:34:23.000Z",
 		"name": "Zwanenburgbaan (18C / 36C)",
-		"id": "500c2d93e4b0629c8be02085"
+		"id": "500c2d93e4b0629c8be02085",
+		"lat": 52.31388350057912,
+		"lng": 4.738454818725585,
+		"address": "AMS Airport",
+		"postalCode": "1118 CP",
+		"city": "Luchthaven Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Service"
+		]
 	},
 	{
 		"date": "2019-02-13T07:55:03.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-02-13T07:57:01.000Z",
 		"name": "Busstation Schiphol",
-		"id": "4b753feff964a520c4022ee3"
+		"id": "4b753feff964a520c4022ee3",
+		"lat": 52.30917651298784,
+		"lng": 4.761191874205899,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Bus Station"
+		]
 	},
 	{
 		"date": "2019-02-15T18:13:22.000Z",
 		"name": "Flamboyant",
-		"id": "4bacffebf964a520f2223be3"
+		"id": "4bacffebf964a520f2223be3",
+		"lat": 52.379538217762395,
+		"lng": 4.6371162372979935,
+		"address": "Kleine Houtstraat 3-ZW",
+		"postalCode": "2011 DD",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Indonesian Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-15T20:52:04.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-02-17T11:48:49.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-02-19T19:39:22.000Z",
 		"name": "Ramen Brothers Noodle Bar",
-		"id": "5b4e2b63a42362002c42fc59"
+		"id": "5b4e2b63a42362002c42fc59",
+		"lat": 52.384228,
+		"lng": 4.6355,
+		"address": "Nassaustraat 13",
+		"postalCode": "2011 PH",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Noodle House"
+		]
 	},
 	{
 		"date": "2019-02-21T17:08:29.000Z",
 		"name": "Grote Markt",
-		"id": "4b33f1aef964a520842225e3"
+		"id": "4b33f1aef964a520842225e3",
+		"lat": 52.381433191163424,
+		"lng": 4.6357020650218494,
+		"address": "Grote Markt",
+		"postalCode": "2011",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Plaza",
+			"Event Space"
+		]
 	},
 	{
 		"date": "2019-02-21T17:20:04.000Z",
 		"name": "Zara",
-		"id": "520a45ba11d25973ec7d9563"
+		"id": "520a45ba11d25973ec7d9563",
+		"lat": 52.37882571647906,
+		"lng": 4.633192845197722,
+		"country": "Nederland",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2019-02-21T17:27:12.000Z",
 		"name": "Apple Haarlem",
-		"id": "529e315f11d2f188f40a235a"
+		"id": "529e315f11d2f188f40a235a",
+		"lat": 52.378432951567824,
+		"lng": 4.6329654604005555,
+		"address": "Grote Houtstraat 99",
+		"postalCode": "2011 SH",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Electronics Store",
+			"Mobile Phone Shop"
+		]
 	},
 	{
 		"date": "2019-02-22T15:48:02.000Z",
 		"name": "Kinki kappers",
-		"id": "4b978e2af964a5209d0835e3"
+		"id": "4b978e2af964a5209d0835e3",
+		"lat": 52.3790113620109,
+		"lng": 4.636636460176722,
+		"address": "Kleine Houtstraat",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Salon / Barbershop",
+			"Cosmetics Shop"
+		]
 	},
 	{
 		"date": "2019-02-22T17:02:54.000Z",
 		"name": "The Döner Company",
-		"id": "4d790928a56e37040e5d7567"
+		"id": "4d790928a56e37040e5d7567",
+		"lat": 52.38817372624091,
+		"lng": 4.63927902305991,
+		"address": "Station Haarlem",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Doner Restaurant",
+			"Falafel Restaurant",
+			"Kebab Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-22T18:35:28.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-02-22T20:18:31.000Z",
 		"name": "Hoofddorppleinbuurt",
-		"id": "5314b1f3e4b0d805d373a23b"
+		"id": "5314b1f3e4b0d805d373a23b",
+		"lat": 52.35172846713251,
+		"lng": 4.849367528557429,
+		"country": "Nederland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-02-22T20:42:28.000Z",
 		"name": "Butcher's Tears Brewery and Taprooom",
-		"id": "51ddc1b6498eadcc7ed489c2"
+		"id": "51ddc1b6498eadcc7ed489c2",
+		"lat": 52.34736474460157,
+		"lng": 4.853778085891665,
+		"address": "Karperweg 45",
+		"postalCode": "1075 LB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Brewery",
+			"Beer Garden"
+		]
 	},
 	{
 		"date": "2019-02-22T22:49:51.000Z",
 		"name": "Pizzarella",
-		"id": "5c707c7b27cbd1002562bf78"
+		"id": "5c707c7b27cbd1002562bf78",
+		"lat": 52.349749,
+		"lng": 4.84916,
+		"address": "Aalsmeerweg 39",
+		"postalCode": "1059 AK",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Italian Restaurant",
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2019-02-23T11:42:58.000Z",
 		"name": "Grote Markt",
-		"id": "4b33f1aef964a520842225e3"
+		"id": "4b33f1aef964a520842225e3",
+		"lat": 52.381433191163424,
+		"lng": 4.6357020650218494,
+		"address": "Grote Markt",
+		"postalCode": "2011",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Plaza",
+			"Event Space"
+		]
 	},
 	{
 		"date": "2019-02-23T12:14:51.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-02-23T16:56:18.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-02-24T18:42:10.000Z",
 		"name": "Mickey’s Caucasian Kitchen & Bar",
-		"id": "5b8c2eb0018cbb0039a243d3"
+		"id": "5b8c2eb0018cbb0039a243d3",
+		"lat": 52.379092,
+		"lng": 4.635828,
+		"address": "Schagchelstraat 28",
+		"postalCode": "2011 HZ",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Caucasian Restaurant",
+			"Bar"
+		]
 	},
 	{
 		"date": "2019-02-25T04:41:58.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-02-25T04:52:55.000Z",
 		"name": "Departures 1",
-		"id": "4ba43205f964a520fa8a38e3"
+		"id": "4ba43205f964a520fa8a38e3",
+		"lat": 52.308713925302165,
+		"lng": 4.763812952542547,
+		"address": "AMS Airport",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-02-25T04:55:27.000Z",
 		"name": "Concourse D",
-		"id": "4b6cf91ef964a520fb602ce3"
+		"id": "4b6cf91ef964a520fb602ce3",
+		"lat": 52.308478623663355,
+		"lng": 4.767873287200928,
+		"address": "AMS Airport",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-02-25T05:34:15.000Z",
 		"name": "Gate D86",
-		"id": "4b9b4c05f964a520fcfe35e3"
+		"id": "4b9b4c05f964a520fcfe35e3",
+		"lat": 52.30934803859429,
+		"lng": 4.7736668626294705,
+		"address": "Concourse D",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-02-25T08:02:35.000Z",
 		"name": "Barcelona–El Prat Josep Tarradellas Airport (BCN) (Aeropuerto Josep Tarradellas Barcelona-El Prat)",
-		"id": "4b7980a2f964a5202bfd2ee3"
+		"id": "4b7980a2f964a5202bfd2ee3",
+		"lat": 41.29560699312263,
+		"lng": 2.0762228965759277,
+		"address": "Ctra. de El Prat de Llobregat",
+		"postalCode": "08820",
+		"city": "El Prat de Llobregat",
+		"country": "España",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-02-25T08:24:18.000Z",
 		"name": "Baggage Claim (Recogida de Equipajes)",
-		"id": "55157805498eb5350a513400"
+		"id": "55157805498eb5350a513400",
+		"lat": 41.30355942669801,
+		"lng": 2.0784856215728,
+		"address": "Terminal 2B",
+		"postalCode": "08820",
+		"city": "El Prat de Llobregat",
+		"country": "España",
+		"categories": [
+			"Baggage Claim"
+		]
 	},
 	{
 		"date": "2019-02-25T09:09:38.000Z",
 		"name": "L'Hospitalet de Llobregat",
-		"id": "4c4ee7a792b6a593a5f0af70"
+		"id": "4c4ee7a792b6a593a5f0af70",
+		"lat": 41.35859133485121,
+		"lng": 2.1226603175835512,
+		"postalCode": "08040",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"City"
+		]
 	},
 	{
 		"date": "2019-02-25T10:24:49.000Z",
 		"name": "Fira Barcelona Gran Via",
-		"id": "4bcc52eb3740b713efc46365"
+		"id": "4bcc52eb3740b713efc46365",
+		"lat": 41.355583485212435,
+		"lng": 2.1324205398559566,
+		"address": "Av. Joan Carles I, 64",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-25T10:32:11.000Z",
 		"name": "Hall 3 (Pabellón 3)",
-		"id": "522efe8111d2b224d82a5ffd"
+		"id": "522efe8111d2b224d82a5ffd",
+		"lat": 41.35519692487246,
+		"lng": 2.1311330795288086,
+		"address": "Fira Gran Via",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-25T14:01:07.000Z",
 		"name": "Hall 6 (Pabellón 6)",
-		"id": "4d088dc5c26ba143aee61917"
+		"id": "4d088dc5c26ba143aee61917",
+		"lat": 41.35520497823627,
+		"lng": 2.1346843242645264,
+		"address": "Fira Gran Via",
+		"postalCode": "08038",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-25T14:55:21.000Z",
 		"name": "Hall 8.1 (Pabellon 8.1)",
-		"id": "512cb663e4b012002e219005"
+		"id": "512cb663e4b012002e219005",
+		"lat": 41.3556354227418,
+		"lng": 2.1364385494033535,
+		"address": "Fira Gran Via",
+		"postalCode": "08038",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-25T15:11:57.000Z",
 		"name": "Plaça d'Espanya (Plaza de España)",
-		"id": "4b7c12aff964a520517b2fe3"
+		"id": "4b7c12aff964a520517b2fe3",
+		"lat": 41.37502128798987,
+		"lng": 2.1491146087646484,
+		"address": "Pl. d'Espanya",
+		"postalCode": "08015",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-25T16:03:11.000Z",
 		"name": "L'Hospitalet de Llobregat",
-		"id": "4c4ee7a792b6a593a5f0af70"
+		"id": "4c4ee7a792b6a593a5f0af70",
+		"lat": 41.35859133485121,
+		"lng": 2.1226603175835512,
+		"postalCode": "08040",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"City"
+		]
 	},
 	{
 		"date": "2019-02-25T19:45:54.000Z",
 		"name": "La Mestressa",
-		"id": "4fb4bc21d5fbc56ee2d87446"
+		"id": "4fb4bc21d5fbc56ee2d87446",
+		"lat": 41.37604998013339,
+		"lng": 2.1387023276518815,
+		"address": "Plaça d'Osca, 7",
+		"postalCode": "08014",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Tapas Restaurant",
+			"Breakfast Spot",
+			"Mediterranean Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-25T21:40:56.000Z",
 		"name": "Bao Bao",
-		"id": "5800b1d5d67c00ba3f63ac13"
+		"id": "5800b1d5d67c00ba3f63ac13",
+		"lat": 41.37648031911556,
+		"lng": 2.138283265218502,
+		"address": "Carrer de Riego, 23",
+		"postalCode": "08014",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Vietnamese Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-25T23:00:10.000Z",
 		"name": "Plaça del Repartidor",
-		"id": "4f3c0b8be4b04bfb5aa1849f"
+		"id": "4f3c0b8be4b04bfb5aa1849f",
+		"lat": 41.361469102489835,
+		"lng": 2.100072227109505,
+		"country": "España",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2019-02-26T08:31:56.000Z",
 		"name": "Plaça de Catalunya (Plaza de Cataluña)",
-		"id": "4adcda50f964a520274121e3"
+		"id": "4adcda50f964a520274121e3",
+		"lat": 41.38709725458683,
+		"lng": 2.170384395434072,
+		"address": "Pl. Catalunya",
+		"postalCode": "08002",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-26T08:38:45.000Z",
 		"name": "Rambla de Canaletas",
-		"id": "57cf3c54498ee3f24f147717"
+		"id": "57cf3c54498ee3f24f147717",
+		"lat": 41.38507889520532,
+		"lng": 2.1703204049566795,
+		"postalCode": "08002",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-26T08:55:22.000Z",
 		"name": "Granja M. Viader",
-		"id": "4b67fec4f964a5205d632be3"
+		"id": "4b67fec4f964a5205d632be3",
+		"lat": 41.383083,
+		"lng": 2.170809,
+		"address": "Xuclà, 4-6",
+		"postalCode": "08001",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Café",
+			"Deli / Bodega"
+		]
 	},
 	{
 		"date": "2019-02-26T10:14:31.000Z",
 		"name": "Fira Barcelona Gran Via",
-		"id": "4bcc52eb3740b713efc46365"
+		"id": "4bcc52eb3740b713efc46365",
+		"lat": 41.355583485212435,
+		"lng": 2.1324205398559566,
+		"address": "Av. Joan Carles I, 64",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-26T10:41:55.000Z",
 		"name": "Hall 1 (Pabellón 1)",
-		"id": "530b01ac498edd4dc68ee6a4"
+		"id": "530b01ac498edd4dc68ee6a4",
+		"lat": 41.35340099985238,
+		"lng": 2.1291589736938477,
+		"address": "Fira Gran Via",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-26T11:49:07.000Z",
 		"name": "Hall 6 (Pabellón 6)",
-		"id": "4d088dc5c26ba143aee61917"
+		"id": "4d088dc5c26ba143aee61917",
+		"lat": 41.35520497823627,
+		"lng": 2.1346843242645264,
+		"address": "Fira Gran Via",
+		"postalCode": "08038",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-26T12:26:38.000Z",
 		"name": "MWC Barcelona 2019",
-		"id": "5c6fb7c925ecca002c1178c6"
+		"id": "5c6fb7c925ecca002c1178c6",
+		"lat": 41.35540631200824,
+		"lng": 2.131776809692383,
+		"address": "Fira Gran Via",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Convention"
+		]
 	},
 	{
 		"date": "2019-02-26T14:38:47.000Z",
 		"name": "Plaça d'Espanya (Plaza de España)",
-		"id": "4b7c12aff964a520517b2fe3"
+		"id": "4b7c12aff964a520517b2fe3",
+		"lat": 41.37502128798987,
+		"lng": 2.1491146087646484,
+		"address": "Pl. d'Espanya",
+		"postalCode": "08015",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-26T14:44:57.000Z",
 		"name": "METRO Espanya",
-		"id": "4b3fdc9af964a520beb025e3"
+		"id": "4b3fdc9af964a520beb025e3",
+		"lat": 41.37564774444966,
+		"lng": 2.1493483628770655,
+		"address": "Plaça de Espanya",
+		"postalCode": "08014",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Metro Station"
+		]
 	},
 	{
 		"date": "2019-02-26T15:47:50.000Z",
 		"name": "Restaurante Salamanca",
-		"id": "4adcda53f964a520854221e3"
+		"id": "4adcda53f964a520854221e3",
+		"lat": 41.37848271925959,
+		"lng": 2.1914081732999624,
+		"address": "Carrer de L'Almirall Cervera, 34",
+		"postalCode": "08003",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Paella Restaurant",
+			"Spanish Restaurant",
+			"Mediterranean Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-26T16:47:24.000Z",
 		"name": "Barceloneta Beach (Playa de la Barceloneta)",
-		"id": "4c0d3610d64c0f47665e265d"
+		"id": "4c0d3610d64c0f47665e265d",
+		"lat": 41.37961014544736,
+		"lng": 2.1930384635925293,
+		"address": "Pg. Maritim de la Barceloneta",
+		"postalCode": "08003",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Beach",
+			"Surf Spot"
+		]
 	},
 	{
 		"date": "2019-02-26T17:29:47.000Z",
 		"name": "Platja",
-		"id": "5a8029e7a4ba7c144b93ef2e"
+		"id": "5a8029e7a4ba7c144b93ef2e",
+		"lat": 41.382805,
+		"lng": 2.1948664,
+		"address": "Pg Maritim de Barceloneta, 55",
+		"postalCode": "08003",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Spanish Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-26T18:15:52.000Z",
 		"name": "Restaurant Agua",
-		"id": "4adcda53f964a520694221e3"
+		"id": "4adcda53f964a520694221e3",
+		"lat": 41.3847182214749,
+		"lng": 2.196343926187692,
+		"address": "Passeig Marítim de la Barceloneta 30",
+		"postalCode": "08003",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Spanish Restaurant",
+			"Seafood Restaurant",
+			"Tapas Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-26T19:32:45.000Z",
 		"name": "El Born",
-		"id": "4cea6c1bd99f721ec556bb73"
+		"id": "4cea6c1bd99f721ec556bb73",
+		"lat": 41.38470572401836,
+		"lng": 2.1819693546411623,
+		"postalCode": "08003",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-02-26T19:37:31.000Z",
 		"name": "Creps al Born",
-		"id": "4b86cf58f964a520e49e31e3"
+		"id": "4b86cf58f964a520e49e31e3",
+		"lat": 41.3843,
+		"lng": 2.182709,
+		"address": "Passeig del Born 12",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Cocktail Bar"
+		]
 	},
 	{
 		"date": "2019-02-27T07:35:38.000Z",
 		"name": "L'Hospitalet de Llobregat",
-		"id": "4c4ee7a792b6a593a5f0af70"
+		"id": "4c4ee7a792b6a593a5f0af70",
+		"lat": 41.35859133485121,
+		"lng": 2.1226603175835512,
+		"postalCode": "08040",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"City"
+		]
 	},
 	{
 		"date": "2019-02-27T08:38:14.000Z",
 		"name": "La Pinza",
-		"id": "4e66028cb993678bb8247108"
+		"id": "4e66028cb993678bb8247108",
+		"lat": 41.36812756523776,
+		"lng": 2.1304645862996794,
+		"address": "Plaza La Pinza",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-02-27T08:44:24.000Z",
 		"name": "Taberna del Cazador",
-		"id": "53adebef498ec5c31883e7f7"
+		"id": "53adebef498ec5c31883e7f7",
+		"lat": 41.367123,
+		"lng": 2.13186,
+		"address": "Riera Blanca 209",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Winery"
+		]
 	},
 	{
 		"date": "2019-02-27T09:24:11.000Z",
 		"name": "Plaça d'Ildefons Cerdà",
-		"id": "4d70ed08419da35d56a40cd8"
+		"id": "4d70ed08419da35d56a40cd8",
+		"lat": 41.36456291643933,
+		"lng": 2.135302188603077,
+		"address": "Pl. Ildefons Cerdà",
+		"postalCode": "08038",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-27T09:42:55.000Z",
 		"name": "Fira Barcelona Gran Via",
-		"id": "4bcc52eb3740b713efc46365"
+		"id": "4bcc52eb3740b713efc46365",
+		"lat": 41.355583485212435,
+		"lng": 2.1324205398559566,
+		"address": "Av. Joan Carles I, 64",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-27T12:22:54.000Z",
 		"name": "Hall 6 (Pabellón 6)",
-		"id": "4d088dc5c26ba143aee61917"
+		"id": "4d088dc5c26ba143aee61917",
+		"lat": 41.35520497823627,
+		"lng": 2.1346843242645264,
+		"address": "Fira Gran Via",
+		"postalCode": "08038",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-27T12:42:23.000Z",
 		"name": "Hall 7 (Pabellón 7)",
-		"id": "564300cf498e5f48e96c2f81"
+		"id": "564300cf498e5f48e96c2f81",
+		"lat": 41.357290765920105,
+		"lng": 2.133268117904663,
+		"address": "Fira Gran Via",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-27T14:21:47.000Z",
 		"name": "Hall 4 (Pabellón 4)",
-		"id": "4e7c508a8877aac4a9645002"
+		"id": "4e7c508a8877aac4a9645002",
+		"lat": 41.35478620199585,
+		"lng": 2.133364677429199,
+		"address": "Fira Gran Via",
+		"postalCode": "08038",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-27T14:56:20.000Z",
 		"name": "Hall 5 (Pabellón 5)",
-		"id": "5126831de4b022c38d1fd312"
+		"id": "5126831de4b022c38d1fd312",
+		"lat": 41.356630407938276,
+		"lng": 2.1320128440856934,
+		"address": "Fira Gran Via",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-27T15:58:23.000Z",
 		"name": "McDonald's",
-		"id": "50bfcbbde4b0d73f84baa82d"
+		"id": "50bfcbbde4b0d73f84baa82d",
+		"lat": 41.35728649456477,
+		"lng": 2.128038420486263,
+		"address": "Pl. Europa 9-11",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-27T16:51:15.000Z",
 		"name": "Monument a Colom (Monumento a Colón)",
-		"id": "4b9cfc34f964a5209c8636e3"
+		"id": "4b9cfc34f964a5209c8636e3",
+		"lat": 41.37580498914757,
+		"lng": 2.1777498722076416,
+		"address": "Pl. Portal de la Pau, s/n",
+		"postalCode": "08001",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2019-02-27T17:00:07.000Z",
 		"name": "Plaça Duc de Medinacelli",
-		"id": "4da7390c5da37feee899d8b6"
+		"id": "4da7390c5da37feee899d8b6",
+		"lat": 41.378204735850616,
+		"lng": 2.1791533966370946,
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Plaza",
+			"Garden",
+			"Park"
+		]
 	},
 	{
 		"date": "2019-02-27T17:02:35.000Z",
 		"name": "Plaça de la Mercè",
-		"id": "4e6f4e8f15201662a40cd2c4"
+		"id": "4e6f4e8f15201662a40cd2c4",
+		"lat": 41.37918972922898,
+		"lng": 2.179273473845924,
+		"address": "Plaça de la Mercè",
+		"postalCode": "08002",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-27T17:13:26.000Z",
 		"name": "Gothic Quarter (Barrio Gótico)",
-		"id": "4c45dcab429a0f479cb94a1e"
+		"id": "4c45dcab429a0f479cb94a1e",
+		"lat": 41.38366049614543,
+		"lng": 2.1772899008766218,
+		"postalCode": "08002",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Neighborhood",
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-02-27T17:14:45.000Z",
 		"name": "Plaça Nova",
-		"id": "4c9e4394542b224b7953f29f"
+		"id": "4c9e4394542b224b7953f29f",
+		"lat": 41.38440143755482,
+		"lng": 2.175315041098269,
+		"address": "Plaça Nova",
+		"postalCode": "08500",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-27T17:41:04.000Z",
 		"name": "Mango",
-		"id": "4da70c17a86e215681716357"
+		"id": "4da70c17a86e215681716357",
+		"lat": 41.38494943235204,
+		"lng": 2.173662186406897,
+		"address": "Portal de l'Angel",
+		"country": "España",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2019-02-27T17:43:29.000Z",
 		"name": "Plaça de Catalunya (Plaza de Cataluña)",
-		"id": "4adcda50f964a520274121e3"
+		"id": "4adcda50f964a520274121e3",
+		"lat": 41.38709725458683,
+		"lng": 2.170384395434072,
+		"address": "Pl. Catalunya",
+		"postalCode": "08002",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-27T18:26:45.000Z",
 		"name": "Port de Barcelona",
-		"id": "4d328a03f8c9224ba475b2d2"
+		"id": "4d328a03f8c9224ba475b2d2",
+		"lat": 41.37371702731337,
+		"lng": 2.1802711486816406,
+		"address": "Port de Barcelona",
+		"postalCode": "08040",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Port"
+		]
 	},
 	{
 		"date": "2019-02-27T18:50:52.000Z",
 		"name": "Pla de Palau",
-		"id": "4adcda50f964a5205f4121e3"
+		"id": "4adcda50f964a5205f4121e3",
+		"lat": 41.38192020599684,
+		"lng": 2.1821130907157484,
+		"address": "Pla de Palau",
+		"postalCode": "08003",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-27T19:28:46.000Z",
 		"name": "La Champaneria",
-		"id": "536e4201498e234eb9df3cab"
+		"id": "536e4201498e234eb9df3cab",
+		"lat": 41.381752491965365,
+		"lng": 2.1834444417175995,
+		"address": "C. de Pau Claris",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Tapas Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-27T20:29:01.000Z",
 		"name": "Stereo 18",
-		"id": "5a4032999deb7d432ff3121b"
+		"id": "5a4032999deb7d432ff3121b",
+		"lat": 41.384483,
+		"lng": 2.1827898,
+		"address": "Paseo del Born 18",
+		"postalCode": "08003",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Cocktail Bar"
+		]
 	},
 	{
 		"date": "2019-02-27T20:52:59.000Z",
 		"name": "Dr. Stravinsky",
-		"id": "58d6e93ba149266752ffea97"
+		"id": "58d6e93ba149266752ffea97",
+		"lat": 41.38418522903402,
+		"lng": 2.1806511894219662,
+		"address": "Carrer Mirallers, 5",
+		"postalCode": "08003",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Cocktail Bar"
+		]
 	},
 	{
 		"date": "2019-02-27T22:59:33.000Z",
 		"name": "Plaça del Repartidor",
-		"id": "4f3c0b8be4b04bfb5aa1849f"
+		"id": "4f3c0b8be4b04bfb5aa1849f",
+		"lat": 41.361469102489835,
+		"lng": 2.100072227109505,
+		"country": "España",
+		"categories": [
+			"Plaza",
+			"Park"
+		]
 	},
 	{
 		"date": "2019-02-28T08:30:13.000Z",
 		"name": "Plaça de l'Ajuntament",
-		"id": "4cceac092dc43704d9d4d508"
+		"id": "4cceac092dc43704d9d4d508",
+		"lat": 41.35969229264437,
+		"lng": 2.0999991887768195,
+		"address": "Plaça de l'Ajuntament, 32-34",
+		"postalCode": "08901",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-28T09:01:16.000Z",
 		"name": "Plaça d'Europa",
-		"id": "4d402232cb84b60cf14a83ab"
+		"id": "4d402232cb84b60cf14a83ab",
+		"lat": 41.35635659900533,
+		"lng": 2.125554084777832,
+		"address": "Pl. d'Europa",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-28T09:08:03.000Z",
 		"name": "Faborit",
-		"id": "57c54a9038fa87581449ea53"
+		"id": "57c54a9038fa87581449ea53",
+		"lat": 41.355870107187975,
+		"lng": 2.125236780472188,
+		"address": "Plaça d'Europa 41-43 (Torre Realia)",
+		"postalCode": "08902",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Cafeteria",
+			"Coffee Shop",
+			"Juice Bar"
+		]
 	},
 	{
 		"date": "2019-02-28T10:04:14.000Z",
 		"name": "Fira Barcelona Gran Via",
-		"id": "4bcc52eb3740b713efc46365"
+		"id": "4bcc52eb3740b713efc46365",
+		"lat": 41.355583485212435,
+		"lng": 2.1324205398559566,
+		"address": "Av. Joan Carles I, 64",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-28T10:17:57.000Z",
 		"name": "Hall 6 (Pabellón 6)",
-		"id": "4d088dc5c26ba143aee61917"
+		"id": "4d088dc5c26ba143aee61917",
+		"lat": 41.35520497823627,
+		"lng": 2.1346843242645264,
+		"address": "Fira Gran Via",
+		"postalCode": "08038",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-28T11:01:21.000Z",
 		"name": "Hall 8.1 (Pabellon 8.1)",
-		"id": "512cb663e4b012002e219005"
+		"id": "512cb663e4b012002e219005",
+		"lat": 41.3556354227418,
+		"lng": 2.1364385494033535,
+		"address": "Fira Gran Via",
+		"postalCode": "08038",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-28T11:35:23.000Z",
 		"name": "MWC Barcelona 2019",
-		"id": "5c6fb7c925ecca002c1178c6"
+		"id": "5c6fb7c925ecca002c1178c6",
+		"lat": 41.35540631200824,
+		"lng": 2.131776809692383,
+		"address": "Fira Gran Via",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Convention"
+		]
 	},
 	{
 		"date": "2019-02-28T12:28:14.000Z",
 		"name": "Hall 1 (Pabellón 1)",
-		"id": "530b01ac498edd4dc68ee6a4"
+		"id": "530b01ac498edd4dc68ee6a4",
+		"lat": 41.35340099985238,
+		"lng": 2.1291589736938477,
+		"address": "Fira Gran Via",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Convention Center"
+		]
 	},
 	{
 		"date": "2019-02-28T14:04:11.000Z",
 		"name": "Plaça d'Europa",
-		"id": "4d402232cb84b60cf14a83ab"
+		"id": "4d402232cb84b60cf14a83ab",
+		"lat": 41.35635659900533,
+		"lng": 2.125554084777832,
+		"address": "Pl. d'Europa",
+		"postalCode": "08908",
+		"city": "Hospitalet de Llobregat",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-28T14:26:15.000Z",
 		"name": "Mirador de l'Aeroport del Prat",
-		"id": "4d039e39e350b60c47237e42"
+		"id": "4d039e39e350b60c47237e42",
+		"lat": 41.30808574830622,
+		"lng": 2.1100805496238912,
+		"address": "Ctra. de la Platja",
+		"postalCode": "08820",
+		"city": "El Prat de Llobregat",
+		"country": "España",
+		"categories": [
+			"Scenic Lookout"
+		]
 	},
 	{
 		"date": "2019-02-28T15:01:46.000Z",
 		"name": "Espais Naturals del Delta del Llobregat (Cal Tet, Ca l'Arana)",
-		"id": "4d43f6cf2e326ea87b11dfa6"
+		"id": "4d43f6cf2e326ea87b11dfa6",
+		"lat": 41.30797098493228,
+		"lng": 2.1176791191101074,
+		"address": "Camí de València",
+		"postalCode": "08820",
+		"city": "El Prat de Llobregat",
+		"country": "España",
+		"categories": [
+			"Nature Preserve"
+		]
 	},
 	{
 		"date": "2019-02-28T15:22:33.000Z",
 		"name": "Mirador de la Bunyola",
-		"id": "4e2e9f3be4cdb5a70d5f7f56"
+		"id": "4e2e9f3be4cdb5a70d5f7f56",
+		"lat": 41.29653768675394,
+		"lng": 2.124694557157528,
+		"address": "Camí de la Sabogal",
+		"postalCode": "08820",
+		"city": "El Prat de Llobregat",
+		"country": "España",
+		"categories": [
+			"Scenic Lookout"
+		]
 	},
 	{
 		"date": "2019-02-28T15:34:38.000Z",
 		"name": "Antiga Caserna dels Carrabiners",
-		"id": "5131e24de4b097f2c623ab9b"
+		"id": "5131e24de4b097f2c623ab9b",
+		"lat": 41.295829721333334,
+		"lng": 2.1217687615160865,
+		"address": "Camí del Segobal",
+		"city": "El Prat de Llobregat",
+		"country": "España",
+		"categories": [
+			"Historic Site",
+			"Scenic Lookout"
+		]
 	},
 	{
 		"date": "2019-02-28T15:47:09.000Z",
 		"name": "Mirador del Semàfor",
-		"id": "5131dedee4b02c445c9c1d4a"
+		"id": "5131dedee4b02c445c9c1d4a",
+		"lat": 41.293851640352706,
+		"lng": 2.119338642245571,
+		"address": "Camí del Sebogal",
+		"city": "El Prat de Llobregat",
+		"country": "España",
+		"categories": [
+			"Scenic Lookout"
+		]
 	},
 	{
 		"date": "2019-02-28T17:26:34.000Z",
 		"name": "Cachitos Rambla",
-		"id": "4da6280e1e722893cd1aa985"
+		"id": "4da6280e1e722893cd1aa985",
+		"lat": 41.38958824641757,
+		"lng": 2.1654692421478026,
+		"address": "Rambla de Catalunya, 33",
+		"postalCode": "08007",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Tapas Restaurant"
+		]
 	},
 	{
 		"date": "2019-02-28T19:09:40.000Z",
 		"name": "Pangea The Travel Store",
-		"id": "5adb71eac365883ff7591a4d"
+		"id": "5adb71eac365883ff7591a4d",
+		"lat": 41.388863,
+		"lng": 2.166219,
+		"address": "Rambla Catalunya 23",
+		"postalCode": "08007",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Travel Agency"
+		]
 	},
 	{
 		"date": "2019-02-28T19:28:23.000Z",
 		"name": "El Raval",
-		"id": "4ea9b2106c250fcc73dde593"
+		"id": "4ea9b2106c250fcc73dde593",
+		"lat": 41.38053858837123,
+		"lng": 2.1690072601037844,
+		"postalCode": "08001",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-02-28T19:31:29.000Z",
 		"name": "Negroni",
-		"id": "4b508129f964a5206b2527e3"
+		"id": "4b508129f964a5206b2527e3",
+		"lat": 41.382951678277855,
+		"lng": 2.1654096163500918,
+		"address": "Joaquín Costa, 46",
+		"postalCode": "08001",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Cocktail Bar"
+		]
 	},
 	{
 		"date": "2019-02-28T20:27:28.000Z",
 		"name": "Plaça de la Universitat",
-		"id": "4b9bcd2ff964a520dd2636e3"
+		"id": "4b9bcd2ff964a520dd2636e3",
+		"lat": 41.38585793748057,
+		"lng": 2.1641468370839263,
+		"address": "Plaça de la Universitat",
+		"postalCode": "08011",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-02-28T20:56:36.000Z",
 		"name": "L'Hospitalet de Llobregat",
-		"id": "4c4ee7a792b6a593a5f0af70"
+		"id": "4c4ee7a792b6a593a5f0af70",
+		"lat": 41.35859133485121,
+		"lng": 2.1226603175835512,
+		"postalCode": "08040",
+		"city": "Barcelona",
+		"country": "España",
+		"categories": [
+			"City"
+		]
 	}
 ]

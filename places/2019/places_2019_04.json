@@ -2,1041 +2,2810 @@
 	{
 		"date": "2019-04-01T07:08:52.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2019-04-01T09:45:06.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2019-04-01T18:16:38.000Z",
 		"name": "SCH lépcső",
-		"id": "4d9dc2a85c33a35da07f08a1"
+		"id": "4d9dc2a85c33a35da07f08a1",
+		"lat": 47.47319151910413,
+		"lng": 19.05258384675424,
+		"address": "Irinyi József utca 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall"
+		]
 	},
 	{
 		"date": "2019-04-01T18:19:24.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2019-04-01T18:33:43.000Z",
 		"name": "iCentre Allee APR",
-		"id": "4b87d0c1f964a5205acd31e3"
+		"id": "4b87d0c1f964a5205acd31e3",
+		"lat": 47.474691450759,
+		"lng": 19.048932922907568,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2019-04-01T18:56:44.000Z",
 		"name": "Deák Ferenc tér",
-		"id": "4d52c0d74015b1f7b1017ecf"
+		"id": "4d52c0d74015b1f7b1017ecf",
+		"lat": 47.49751050552186,
+		"lng": 19.054739042164343,
+		"address": "Deák Ferenc tér",
+		"postalCode": "1052",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-04-01T19:13:13.000Z",
 		"name": "Vapiano",
-		"id": "4b5b206af964a520fde428e3"
+		"id": "4b5b206af964a520fde428e3",
+		"lat": 47.496608,
+		"lng": 19.051056,
+		"address": "Vörösmarty tér 3.",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Italian Restaurant",
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2019-04-01T19:28:27.000Z",
 		"name": "Vörösmarty tér",
-		"id": "4b868fe8f964a520a08f31e3"
+		"id": "4b868fe8f964a520a08f31e3",
+		"lat": 47.49693901334056,
+		"lng": 19.0500568449404,
+		"address": "Vörösmarty tér",
+		"postalCode": "1055",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-04-01T19:43:33.000Z",
 		"name": "Padthai Wokbar",
-		"id": "4fc8e5c3e4b09a4f317bd3a1"
+		"id": "4fc8e5c3e4b09a4f317bd3a1",
+		"lat": 47.49990832823789,
+		"lng": 19.051109124294744,
+		"address": "Október 6. u. 4.",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Thai Restaurant",
+			"Asian Restaurant"
+		]
 	},
 	{
 		"date": "2019-04-01T19:48:59.000Z",
 		"name": "Deák Ferenc tér (M1, M2, M3)",
-		"id": "4d8850fb3acc6dcbbe0c051c"
+		"id": "4d8850fb3acc6dcbbe0c051c",
+		"lat": 47.49744617320211,
+		"lng": 19.054773040573462,
+		"address": "Deák Ferenc tér",
+		"postalCode": "1065",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Metro Station"
+		]
 	},
 	{
 		"date": "2019-04-01T20:15:14.000Z",
 		"name": "Expo Congress Hotel Budapest",
-		"id": "4bd1a6f95e0cce72efc8a184"
+		"id": "4bd1a6f95e0cce72efc8a184",
+		"lat": 47.4933973371665,
+		"lng": 19.1217436917344,
+		"address": "Expo tér 2.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-04-02T06:54:12.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2019-04-02T16:36:58.000Z",
 		"name": "Sky Bar",
-		"id": "51916349498e273e45276c0a"
+		"id": "51916349498e273e45276c0a",
+		"lat": 47.49344775855198,
+		"lng": 19.121729013477633,
+		"address": "Expo tér 2.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel Bar"
+		]
 	},
 	{
 		"date": "2019-04-02T16:57:36.000Z",
 		"name": "Expo Congress Hotel Budapest",
-		"id": "4bd1a6f95e0cce72efc8a184"
+		"id": "4bd1a6f95e0cce72efc8a184",
+		"lat": 47.4933973371665,
+		"lng": 19.1217436917344,
+		"address": "Expo tér 2.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-04-03T10:48:47.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2019-04-03T16:14:38.000Z",
 		"name": "Várna utca (80, 80A, 130)",
-		"id": "4ec3eab829c2f92bf618eb8c"
+		"id": "4ec3eab829c2f92bf618eb8c",
+		"lat": 47.501797936567016,
+		"lng": 19.115563342516253,
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2019-04-03T16:29:28.000Z",
 		"name": "Aréna Pláza (80, 80A, 908, 931, 956, 990)",
-		"id": "4e54d1e6483b764fba257f76"
+		"id": "4e54d1e6483b764fba257f76",
+		"lat": 47.49945441661535,
+		"lng": 19.09123883701714,
+		"address": "Kerepesi út",
+		"postalCode": "1087",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2019-04-03T16:31:38.000Z",
 		"name": "Arena Mall",
-		"id": "4b86a275f964a520649331e3"
+		"id": "4b86a275f964a520649331e3",
+		"lat": 47.49844483059031,
+		"lng": 19.09249868486114,
+		"address": "Kerepesi út 9.",
+		"postalCode": "1087",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2019-04-03T16:40:14.000Z",
 		"name": "Okay Italia",
-		"id": "4eae71a4be7bd46a7bdd1b7a"
+		"id": "4eae71a4be7bd46a7bdd1b7a",
+		"lat": 47.49808508145381,
+		"lng": 19.090947682272198,
+		"address": "Aréna Plaza",
+		"postalCode": "1087",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2019-04-03T17:42:51.000Z",
 		"name": "iCentre Arena APR",
-		"id": "4b81682ef964a52035a430e3"
+		"id": "4b81682ef964a52035a430e3",
+		"lat": 47.49849189428581,
+		"lng": 19.094150158703375,
+		"address": "Arena Plaza 1. em.",
+		"postalCode": "1087",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2019-04-03T18:17:32.000Z",
 		"name": "Expo Congress Hotel Budapest",
-		"id": "4bd1a6f95e0cce72efc8a184"
+		"id": "4bd1a6f95e0cce72efc8a184",
+		"lat": 47.4933973371665,
+		"lng": 19.1217436917344,
+		"address": "Expo tér 2.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-04-04T05:43:01.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2019-04-04T06:52:22.000Z",
 		"name": "Docler Holding Irodaház",
-		"id": "4b503f8af964a520171f27e3"
+		"id": "4b503f8af964a520171f27e3",
+		"lat": 47.49694118099851,
+		"lng": 19.117601577085395,
+		"address": "Expó tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2019-04-04T15:16:26.000Z",
 		"name": "Expo Congress Hotel Budapest",
-		"id": "4bd1a6f95e0cce72efc8a184"
+		"id": "4bd1a6f95e0cce72efc8a184",
+		"lat": 47.4933973371665,
+		"lng": 19.1217436917344,
+		"address": "Expo tér 2.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-04-04T16:18:14.000Z",
 		"name": "Feneketlen-tó",
-		"id": "4bc2569a920eb713591b1c2c"
+		"id": "4bc2569a920eb713591b1c2c",
+		"lat": 47.476868900803524,
+		"lng": 19.04159188270569,
+		"address": "Kosztolányi Dezső tér",
+		"postalCode": "1118",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Lake",
+			"Park"
+		]
 	},
 	{
 		"date": "2019-04-04T16:31:05.000Z",
 		"name": "Semmi Extra",
-		"id": "52459fdb11d2ff69a69ae8b9"
+		"id": "52459fdb11d2ff69a69ae8b9",
+		"lat": 47.47703690606585,
+		"lng": 19.045399561866216,
+		"address": "Bartók Béla út 62–64.",
+		"postalCode": "1114",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Gastropub",
+			"Bar",
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2019-04-04T16:42:44.000Z",
 		"name": "Tranzit Art Café",
-		"id": "4bd090a177b29c749b018b82"
+		"id": "4bd090a177b29c749b018b82",
+		"lat": 47.47414672187136,
+		"lng": 19.039949046776414,
+		"address": "Bukarest u. 3-9.",
+		"postalCode": "1116",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Café",
+			"Internet Cafe",
+			"Tea Room"
+		]
 	},
 	{
 		"date": "2019-04-04T19:02:10.000Z",
 		"name": "Kutyafuttató (Feneketlen-tó)",
-		"id": "595e6f240f013c71a8331aa5"
+		"id": "595e6f240f013c71a8331aa5",
+		"lat": 47.476522,
+		"lng": 19.042638,
+		"postalCode": "1113",
+		"city": "Budapest XI. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Dog Run"
+		]
 	},
 	{
 		"date": "2019-04-04T19:31:59.000Z",
 		"name": "Angyalföld",
-		"id": "4e7238b51520cc03b4d62c8f"
+		"id": "4e7238b51520cc03b4d62c8f",
+		"lat": 47.52952456282538,
+		"lng": 19.08202886581421,
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-04-04T23:22:42.000Z",
 		"name": "Expo Congress Hotel Budapest",
-		"id": "4bd1a6f95e0cce72efc8a184"
+		"id": "4bd1a6f95e0cce72efc8a184",
+		"lat": 47.4933973371665,
+		"lng": 19.1217436917344,
+		"address": "Expo tér 2.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-04-05T06:44:13.000Z",
 		"name": "Docler Cafeteria",
-		"id": "505847b7e4b0b9424ea6a1cf"
+		"id": "505847b7e4b0b9424ea6a1cf",
+		"lat": 47.49688493788501,
+		"lng": 19.11765951368387,
+		"address": "Expo tér 5-7.",
+		"postalCode": "1101",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Cafeteria"
+		]
 	},
 	{
 		"date": "2019-04-05T14:02:42.000Z",
 		"name": "Terminal 2A",
-		"id": "4c25aa535c5ca59357e044fe"
+		"id": "4c25aa535c5ca59357e044fe",
+		"lat": 47.433124251820495,
+		"lng": 19.262262161509078,
+		"address": "BUD Nemzetközi Repülőtér",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-05T14:03:01.000Z",
 		"name": "O'Learys",
-		"id": "571f5443498e2e6ddda2d3f5"
+		"id": "571f5443498e2e6ddda2d3f5",
+		"lat": 47.43320405736133,
+		"lng": 19.26125407218933,
+		"address": "Liszt Ferenc International Airport Terminal 2",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"American Restaurant"
+		]
 	},
 	{
 		"date": "2019-04-05T14:54:00.000Z",
 		"name": "Gate A10",
-		"id": "4dddc91dd16415421835d8b9"
+		"id": "4dddc91dd16415421835d8b9",
+		"lat": 47.433845067088285,
+		"lng": 19.262394589369762,
+		"address": "Terminal 2A",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-04-05T15:22:34.000Z",
 		"name": "Runway 13L/31R",
-		"id": "58a74179297c163b9452ffb1"
+		"id": "58a74179297c163b9452ffb1",
+		"lat": 47.43971,
+		"lng": 19.2671,
+		"address": "BUD Airport",
+		"postalCode": "2220",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Service"
+		]
 	},
 	{
 		"date": "2019-04-05T17:08:50.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-05T17:09:46.000Z",
 		"name": "Concourse D",
-		"id": "4b6cf91ef964a520fb602ce3"
+		"id": "4b6cf91ef964a520fb602ce3",
+		"lat": 52.308478623663355,
+		"lng": 4.767873287200928,
+		"address": "AMS Airport",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-05T17:09:57.000Z",
 		"name": "Gate D25",
-		"id": "4b6d3501f964a520866b2ce3"
+		"id": "4b6d3501f964a520866b2ce3",
+		"lat": 52.30755226706601,
+		"lng": 4.7717492640826995,
+		"address": "Concourse D",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-04-05T17:28:03.000Z",
 		"name": "Baggage Belts",
-		"id": "4cadb1a50e7bbfb737705b83"
+		"id": "4cadb1a50e7bbfb737705b83",
+		"lat": 52.30881082020925,
+		"lng": 4.764053471569788,
+		"address": "AMS Airport",
+		"postalCode": "1118 CP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Baggage Claim"
+		]
 	},
 	{
 		"date": "2019-04-05T17:28:37.000Z",
 		"name": "Arrivals 1",
-		"id": "4bee5a363686c9b63371246e"
+		"id": "4bee5a363686c9b63371246e",
+		"lat": 52.30855482689688,
+		"lng": 4.763492744708398,
+		"address": "AMS Airport",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-06T07:32:26.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-04-06T09:40:21.000Z",
 		"name": "Kinki kappers",
-		"id": "4b978e2af964a5209d0835e3"
+		"id": "4b978e2af964a5209d0835e3",
+		"lat": 52.3790113620109,
+		"lng": 4.636636460176722,
+		"address": "Kleine Houtstraat",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Salon / Barbershop",
+			"Cosmetics Shop"
+		]
 	},
 	{
 		"date": "2019-04-06T11:00:17.000Z",
 		"name": "HEMA",
-		"id": "4b210645f964a520213624e3"
+		"id": "4b210645f964a520213624e3",
+		"lat": 52.3830414,
+		"lng": 4.6354098,
+		"address": "Kruisstraat 51",
+		"postalCode": "2011 PW",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Department Store"
+		]
 	},
 	{
 		"date": "2019-04-06T11:07:23.000Z",
 		"name": "H&M",
-		"id": "4e710284922e8e01babb8713"
+		"id": "4e710284922e8e01babb8713",
+		"lat": 52.38239947147027,
+		"lng": 4.635337256949284,
+		"address": "Barteljorisstraat 13-17",
+		"postalCode": "2011 RA",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2019-04-06T11:39:20.000Z",
 		"name": "Grote Markt",
-		"id": "4b33f1aef964a520842225e3"
+		"id": "4b33f1aef964a520842225e3",
+		"lat": 52.381433191163424,
+		"lng": 4.6357020650218494,
+		"address": "Grote Markt",
+		"postalCode": "2011",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Plaza",
+			"Event Space"
+		]
 	},
 	{
 		"date": "2019-04-06T12:20:52.000Z",
 		"name": "Esprit",
-		"id": "4e749dcbe4cd325436eafd1a"
+		"id": "4e749dcbe4cd325436eafd1a",
+		"lat": 52.37819772023286,
+		"lng": 4.632483422756195,
+		"address": "Grote Houtstraat",
+		"postalCode": "2011 SJ",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2019-04-06T12:27:08.000Z",
 		"name": "Zara",
-		"id": "520a45ba11d25973ec7d9563"
+		"id": "520a45ba11d25973ec7d9563",
+		"lat": 52.37882571647906,
+		"lng": 4.633192845197722,
+		"country": "Nederland",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2019-04-06T13:48:32.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-04-07T12:00:58.000Z",
 		"name": "Havana House",
-		"id": "4da5a0451e726e49695feea6"
+		"id": "4da5a0451e726e49695feea6",
+		"lat": 52.38355105411946,
+		"lng": 4.635652474578298,
+		"address": "Kruisstraat 39",
+		"postalCode": "2011 PW",
+		"country": "Nederland",
+		"categories": [
+			"Smoke Shop"
+		]
 	},
 	{
 		"date": "2019-04-07T12:12:13.000Z",
 		"name": "Mr. Bing",
-		"id": "5b02a94f9d6a19002ccdd485"
+		"id": "5b02a94f9d6a19002ccdd485",
+		"lat": 52.383353,
+		"lng": 4.635424,
+		"address": "Kruisstraat 43",
+		"postalCode": "2011 PW",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Bubble Tea Shop",
+			"Deli / Bodega",
+			"Snack Place"
+		]
 	},
 	{
 		"date": "2019-04-07T16:36:15.000Z",
 		"name": "Jansbrug",
-		"id": "4e7cc07eb9934b432d065769"
+		"id": "4e7cc07eb9934b432d065769",
+		"lat": 52.38478723669128,
+		"lng": 4.638563664765195,
+		"country": "Nederland",
+		"categories": [
+			"Bridge"
+		]
 	},
 	{
 		"date": "2019-04-07T17:36:08.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-07T18:01:16.000Z",
 		"name": "Bushalte Toolenburg",
-		"id": "4bff607a369476b046c98d1f"
+		"id": "4bff607a369476b046c98d1f",
+		"lat": 52.3027922325208,
+		"lng": 4.669488082401088,
+		"address": "Van Heuven Goedhartlaan",
+		"postalCode": "2131",
+		"city": "Hoofddorp",
+		"country": "Nederland",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2019-04-07T18:06:27.000Z",
 		"name": "Hoofddorp",
-		"id": "51deedea498e47b233487c23"
+		"id": "51deedea498e47b233487c23",
+		"lat": 52.30036251243566,
+		"lng": 4.695367360002193,
+		"country": "Nederland",
+		"categories": [
+			"City"
+		]
 	},
 	{
 		"date": "2019-04-07T22:23:44.000Z",
 		"name": "Bushalte Toolenburg",
-		"id": "4bff607a369476b046c98d1f"
+		"id": "4bff607a369476b046c98d1f",
+		"lat": 52.3027922325208,
+		"lng": 4.669488082401088,
+		"address": "Van Heuven Goedhartlaan",
+		"postalCode": "2131",
+		"city": "Hoofddorp",
+		"country": "Nederland",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2019-04-08T07:03:07.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-04-08T12:16:40.000Z",
 		"name": "Timberland",
-		"id": "5cac94f9f8cbd4002c9b777b"
+		"id": "5cac94f9f8cbd4002c9b777b",
+		"lat": 52.380612,
+		"lng": 4.635574,
+		"address": "Grote Houtstraat 11",
+		"postalCode": "2011 SB",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Shoe Store"
+		]
 	},
 	{
 		"date": "2019-04-08T18:07:56.000Z",
 		"name": "Restaurant Delphi",
-		"id": "4d52c1d63062a1cd55d974a3"
+		"id": "4d52c1d63062a1cd55d974a3",
+		"lat": 52.378146178484805,
+		"lng": 4.636743725601006,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Greek Restaurant"
+		]
 	},
 	{
 		"date": "2019-04-09T14:30:56.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-04-09T16:26:39.000Z",
 		"name": "Starbucks",
-		"id": "50056329e4b0c7e958812543"
+		"id": "50056329e4b0c7e958812543",
+		"lat": 52.37679944948373,
+		"lng": 4.904433482987964,
+		"address": "Oosterdoksstraat 4",
+		"postalCode": "1001 RD",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2019-04-09T16:26:42.000Z",
 		"name": "Albert Heijn",
-		"id": "596b45f0f427de158f1eebc4"
+		"id": "596b45f0f427de158f1eebc4",
+		"lat": 52.37611409614319,
+		"lng": 4.906648742933078,
+		"address": "Oosterdokskade",
+		"postalCode": "1011 DL",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket",
+			"Food Service"
+		]
 	},
 	{
 		"date": "2019-04-09T16:34:47.000Z",
 		"name": "MediaMarkt",
-		"id": "4f85272ae4b0657ba76d7762"
+		"id": "4f85272ae4b0657ba76d7762",
+		"lat": 52.37609799833515,
+		"lng": 4.907226586015713,
+		"address": "Oosterdokskade 67",
+		"postalCode": "1011 DL",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2019-04-09T16:52:50.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-09T16:53:30.000Z",
 		"name": "Salsa Shop",
-		"id": "574f4d9c498efc56a240b8c2"
+		"id": "574f4d9c498efc56a240b8c2",
+		"lat": 52.37958465946948,
+		"lng": 4.900045992389015,
+		"address": "Stationsplein",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Burrito Place"
+		]
 	},
 	{
 		"date": "2019-04-09T17:23:13.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-09T18:58:47.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-04-10T05:04:07.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-10T05:25:49.000Z",
 		"name": "Concourse B",
-		"id": "4f58b3fae4b0db2050e0a11d"
+		"id": "4f58b3fae4b0db2050e0a11d",
+		"lat": 52.30465621747054,
+		"lng": 4.762043045940551,
+		"address": "AMS Airport",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-10T06:21:41.000Z",
 		"name": "ABN AMRO Exchange",
-		"id": "4bf4ff6d6a31d13ab85b962e"
+		"id": "4bf4ff6d6a31d13ab85b962e",
+		"lat": 52.30954387357522,
+		"lng": 4.763194853325763,
+		"address": "Vertrekpassage 221",
+		"postalCode": "1118 AV",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Bank"
+		]
 	},
 	{
 		"date": "2019-04-10T06:22:44.000Z",
 		"name": "Grand Café Het Paleis",
-		"id": "4c9bb4d29975a143f3a22bcf"
+		"id": "4c9bb4d29975a143f3a22bcf",
+		"lat": 52.308210946733915,
+		"lng": 4.765472099761802,
+		"address": "Lounge 1",
+		"postalCode": "1117 ZN",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Café",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2019-04-10T06:53:50.000Z",
 		"name": "Gate B13",
-		"id": "4bde7c1fffdec92894d7e8a1"
+		"id": "4bde7c1fffdec92894d7e8a1",
+		"lat": 52.30507646024628,
+		"lng": 4.761698140831336,
+		"address": "Concourse B",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-04-10T09:41:05.000Z",
 		"name": "Zurich Airport (ZRH) (Flughafen Zürich)",
-		"id": "4b03a460f964a520f34f22e3"
+		"id": "4b03a460f964a520f34f22e3",
+		"lat": 47.45322169582368,
+		"lng": 8.561077950289473,
+		"address": "Flughafenstrasse",
+		"postalCode": "8302",
+		"city": "Kloten",
+		"country": "Schweiz",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-10T10:19:10.000Z",
 		"name": "Gates E",
-		"id": "4bc2caca74a9a59344c0d3f6"
+		"id": "4bc2caca74a9a59344c0d3f6",
+		"lat": 47.46121485912536,
+		"lng": 8.55375614977139,
+		"address": "ZRH Airport",
+		"postalCode": "8302",
+		"city": "Kloten",
+		"country": "Schweiz",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-10T10:33:07.000Z",
 		"name": "Bakeside Cafe",
-		"id": "4d37d9c70f81b60c00c33a3a"
+		"id": "4d37d9c70f81b60c00c33a3a",
+		"lat": 47.46092675894969,
+		"lng": 8.557261002538352,
+		"address": "Gates E - Level 2",
+		"postalCode": "8302",
+		"city": "Kloten",
+		"country": "Schweiz",
+		"categories": [
+			"Café",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2019-04-10T21:28:49.000Z",
 		"name": "Terminal 3-E (三号航站楼E区)",
-		"id": "50bd3f1ce4b0b38c68de0ede"
+		"id": "50bd3f1ce4b0b38c68de0ede",
+		"lat": 40.07561302223617,
+		"lng": 116.60605476052896,
+		"address": "Beijing Capital Int'l Airport 北京首都国际机场",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-10T22:06:11.000Z",
 		"name": "Arrivals Immigration - T3-E Beijing Int'l Airport",
-		"id": "4bbd5fa9f57ba5935816aeb9"
+		"id": "4bbd5fa9f57ba5935816aeb9",
+		"lat": 40.07593441772094,
+		"lng": 116.60601413270628,
+		"address": "首都国际机场3号航站楼",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Government Building"
+		]
 	},
 	{
 		"date": "2019-04-10T22:17:35.000Z",
 		"name": "Terminal 3-E (三号航站楼E区)",
-		"id": "50bd3f1ce4b0b38c68de0ede"
+		"id": "50bd3f1ce4b0b38c68de0ede",
+		"lat": 40.07561302223617,
+		"lng": 116.60605476052896,
+		"address": "Beijing Capital Int'l Airport 北京首都国际机场",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-10T22:17:41.000Z",
 		"name": "Arrivals Immigration - T3-E Beijing Int'l Airport",
-		"id": "4bbd5fa9f57ba5935816aeb9"
+		"id": "4bbd5fa9f57ba5935816aeb9",
+		"lat": 40.07593441772094,
+		"lng": 116.60601413270628,
+		"address": "首都国际机场3号航站楼",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Government Building"
+		]
 	},
 	{
 		"date": "2019-04-10T22:22:27.000Z",
 		"name": "Tramway To T3-C (Arrivals) / T3-D (Domestic Transfers)",
-		"id": "50d3ec60e4b00956ec62270f"
+		"id": "50d3ec60e4b00956ec62270f",
+		"lat": 40.074850554265915,
+		"lng": 116.60616058678846,
+		"address": "T3-E Beijing Int'l Airport",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport Tram"
+		]
 	},
 	{
 		"date": "2019-04-10T22:44:44.000Z",
 		"name": "Terminal 3-C (三号航站楼C区)",
-		"id": "4b3095bbf964a5204ffa24e3"
+		"id": "4b3095bbf964a5204ffa24e3",
+		"lat": 40.054383295094105,
+		"lng": 116.60921049887791,
+		"address": "Beijing Capital Int'l Airport 北京首都国际机场",
+		"postalCode": "100621",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-10T22:48:14.000Z",
 		"name": "Beijing Capital International Airport (PEK) (北京首都国际机场)",
-		"id": "4b39b8edf964a520b65e25e3"
+		"id": "4b39b8edf964a520b65e25e3",
+		"lat": 40.06874495519652,
+		"lng": 116.60176277160646,
+		"address": "Airport Expressway | 机场高",
+		"postalCode": "100621",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-10T23:58:01.000Z",
 		"name": "CHAO三里屯",
-		"id": "575171c2498ed93cf826de27"
+		"id": "575171c2498ed93cf826de27",
+		"lat": 39.9316019554652,
+		"lng": 116.44509493214065,
+		"address": "朝阳区工体东路四号院",
+		"postalCode": "100027",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Hotel",
+			"Club House"
+		]
 	},
 	{
 		"date": "2019-04-11T00:03:43.000Z",
 		"name": "Beijing (北京)",
-		"id": "518fb546498eaadcd15435ce"
+		"id": "518fb546498eaadcd15435ce",
+		"lat": 39.922972415131525,
+		"lng": 116.42400250286477,
+		"postalCode": "100000",
+		"country": "中国",
+		"categories": [
+			"City",
+			"State"
+		]
 	},
 	{
 		"date": "2019-04-11T01:29:07.000Z",
 		"name": "Living Room @ CHAO三里屯",
-		"id": "5825e53ebcf73e19ea84f68d"
+		"id": "5825e53ebcf73e19ea84f68d",
+		"lat": 39.93172901540313,
+		"lng": 116.44549086905297,
+		"country": "中国",
+		"categories": [
+			"Bistro"
+		]
 	},
 	{
 		"date": "2019-04-11T03:06:35.000Z",
 		"name": "Zhengyang Gate (前门)",
-		"id": "4e0eb7b152b1b27c1b8a21c3"
+		"id": "4e0eb7b152b1b27c1b8a21c3",
+		"lat": 39.89876302253632,
+		"lng": 116.39172052091162,
+		"address": "Tian'anmen Square",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Monument / Landmark",
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-04-11T03:12:03.000Z",
 		"name": "Tian'anmen Square (天安门广场)",
-		"id": "4bcc3b9868f976b07a386283"
+		"id": "4bcc3b9868f976b07a386283",
+		"lat": 39.90484766609122,
+		"lng": 116.39130592346193,
+		"address": "Chang'an Ave",
+		"postalCode": "100010",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Plaza",
+			"Monument / Landmark",
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-04-11T03:39:36.000Z",
 		"name": "Zhongshan Park (Zhongshan Park 中山公园)",
-		"id": "4b9cbb98f964a520aa7836e3"
+		"id": "4b9cbb98f964a520aa7836e3",
+		"lat": 39.908765132544616,
+		"lng": 116.38860225677489,
+		"address": "West Chang'an St",
+		"city": "Dōngchéng",
+		"country": "中国",
+		"categories": [
+			"Park",
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-04-11T03:55:27.000Z",
 		"name": "社稷坛",
-		"id": "500b93f1e4b0baf2d78ed250"
+		"id": "500b93f1e4b0baf2d78ed250",
+		"lat": 39.908424314998534,
+		"lng": 116.38958783018397,
+		"country": "中国",
+		"categories": [
+			"Field"
+		]
 	},
 	{
 		"date": "2019-04-11T04:14:06.000Z",
 		"name": "婚姻包办交易市场 Arranged Marriage Market",
-		"id": "4ffe79ede4b0eb8e42fa0241"
+		"id": "4ffe79ede4b0eb8e42fa0241",
+		"lat": 39.911257326798506,
+		"lng": 116.38624465483858,
+		"address": "Chang'an BLVD",
+		"country": "中国",
+		"categories": [
+			"Flea Market"
+		]
 	},
 	{
 		"date": "2019-04-11T04:21:02.000Z",
 		"name": "Forbidden City (Palace Museum) (故宫（博物院）)",
-		"id": "4bd877965cf276b0ac539d00"
+		"id": "4bd877965cf276b0ac539d00",
+		"lat": 39.91770204306014,
+		"lng": 116.39066219329834,
+		"address": "4 Jingshan Front St",
+		"postalCode": "100009",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Historic Site",
+			"History Museum",
+			"Palace"
+		]
 	},
 	{
 		"date": "2019-04-11T04:33:03.000Z",
 		"name": "内金水桥 Inner Golden Water Bridge",
-		"id": "52ec6dc6498eb2e6a92c8d92"
+		"id": "52ec6dc6498eb2e6a92c8d92",
+		"lat": 39.91288839450359,
+		"lng": 116.39109656729336,
+		"address": "故宫 the Forbidden City",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-04-11T04:42:54.000Z",
 		"name": "Meridian Gate (午门)",
-		"id": "4d2bd48b849f370404679541"
+		"id": "4d2bd48b849f370404679541",
+		"lat": 39.91133514459632,
+		"lng": 116.39099425540887,
+		"address": "4 Jingshan Front St",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Historic Site",
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2019-04-11T04:51:11.000Z",
 		"name": "Hall of Supreme Harmony (太和殿)",
-		"id": "4da949274df01c19b16d9221"
+		"id": "4da949274df01c19b16d9221",
+		"lat": 39.915466461530265,
+		"lng": 116.39086168289484,
+		"address": "4 Jingshan Front St",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-04-11T05:00:32.000Z",
 		"name": "Hall of Preserving Harmony (保和殿)",
-		"id": "4f6ea9eee4b0541c629d920b"
+		"id": "4f6ea9eee4b0541c629d920b",
+		"lat": 39.91679870678914,
+		"lng": 116.39080883242923,
+		"address": "4 Jingshan Front St",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Historic Site",
+			"Monument / Landmark",
+			"History Museum"
+		]
 	},
 	{
 		"date": "2019-04-11T06:34:31.000Z",
 		"name": "Fuhuiciyuan Vegetarian Restaurant",
-		"id": "4f3cd92ae4b081122389f571"
+		"id": "4f3cd92ae4b081122389f571",
+		"lat": 39.914962875748934,
+		"lng": 116.40181883947326,
+		"country": "中国",
+		"categories": [
+			"Vegetarian / Vegan Restaurant"
+		]
 	},
 	{
 		"date": "2019-04-11T08:25:30.000Z",
 		"name": "H&M",
-		"id": "538809a8498e379b2c807b15"
+		"id": "538809a8498e379b2c807b15",
+		"lat": 39.93278795385739,
+		"lng": 116.44772813961002,
+		"address": "Sanlitun",
+		"country": "中国",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2019-04-11T08:53:35.000Z",
 		"name": "Koryo Tours",
-		"id": "4f9a4e85e4b04450395348f2"
+		"id": "4f9a4e85e4b04450395348f2",
+		"lat": 39.93289073797092,
+		"lng": 116.44636848547417,
+		"country": "中国",
+		"categories": [
+			"General Travel"
+		]
 	},
 	{
 		"date": "2019-04-12T01:00:28.000Z",
 		"name": "CHAO三里屯",
-		"id": "575171c2498ed93cf826de27"
+		"id": "575171c2498ed93cf826de27",
+		"lat": 39.9316019554652,
+		"lng": 116.44509493214065,
+		"address": "朝阳区工体东路四号院",
+		"postalCode": "100027",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Hotel",
+			"Club House"
+		]
 	},
 	{
 		"date": "2019-04-12T01:00:40.000Z",
 		"name": "Living Room @ CHAO三里屯",
-		"id": "5825e53ebcf73e19ea84f68d"
+		"id": "5825e53ebcf73e19ea84f68d",
+		"lat": 39.93172901540313,
+		"lng": 116.44549086905297,
+		"country": "中国",
+		"categories": [
+			"Bistro"
+		]
 	},
 	{
 		"date": "2019-04-12T02:10:36.000Z",
 		"name": "Beijing Capital International Airport (PEK) (北京首都国际机场)",
-		"id": "4b39b8edf964a520b65e25e3"
+		"id": "4b39b8edf964a520b65e25e3",
+		"lat": 40.06874495519652,
+		"lng": 116.60176277160646,
+		"address": "Airport Expressway | 机场高",
+		"postalCode": "100621",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-12T02:34:21.000Z",
 		"name": "Starbucks (星巴克)",
-		"id": "4bbd5b86593fef3bce720356"
+		"id": "4bbd5b86593fef3bce720356",
+		"lat": 40.05507444601717,
+		"lng": 116.60923147663932,
+		"address": "Terminal 3 Beijing Capital Int'l Airport",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2019-04-12T02:52:48.000Z",
 		"name": "Wagas",
-		"id": "5a8a3eae286fda4b97d70d48"
+		"id": "5a8a3eae286fda4b97d70d48",
+		"lat": 40.054833191789655,
+		"lng": 116.60983818613363,
+		"address": "A5E2-3, 2F, Public Area 5, T3, Beijing Capital International Airport",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"New American Restaurant",
+			"Salad Place"
+		]
 	},
 	{
 		"date": "2019-04-12T04:05:22.000Z",
 		"name": "Tramway To T3-C (Arrivals) / T3-D (Domestic Transfers)",
-		"id": "50d3ec60e4b00956ec62270f"
+		"id": "50d3ec60e4b00956ec62270f",
+		"lat": 40.074850554265915,
+		"lng": 116.60616058678846,
+		"address": "T3-E Beijing Int'l Airport",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport Tram"
+		]
 	},
 	{
 		"date": "2019-04-12T04:36:18.000Z",
 		"name": "Terminal 3-E (三号航站楼E区)",
-		"id": "50bd3f1ce4b0b38c68de0ede"
+		"id": "50bd3f1ce4b0b38c68de0ede",
+		"lat": 40.07561302223617,
+		"lng": 116.60605476052896,
+		"address": "Beijing Capital Int'l Airport 北京首都国际机场",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-12T04:36:29.000Z",
 		"name": "Gate E20",
-		"id": "4f86431fe4b0d85ee5ce9bd2"
+		"id": "4f86431fe4b0d85ee5ce9bd2",
+		"lat": 40.07696580502343,
+		"lng": 116.60425804320865,
+		"address": "Beijing Capital Int'l Airport T3",
+		"country": "中国",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-04-14T04:33:32.000Z",
 		"name": "Fatherland Liberation Museum (조국해방전쟁승리기념관)",
-		"id": "51f384b7498e55d9011516a4"
+		"id": "51f384b7498e55d9011516a4",
+		"lat": 39.03923445425513,
+		"lng": 125.73851546771573,
+		"country": "조선민주주의인민공화국",
+		"categories": [
+			"History Museum"
+		]
 	},
 	{
 		"date": "2019-04-14T12:49:43.000Z",
 		"name": "Kaesong Folk Hotel (개성민속려관)",
-		"id": "561ca3f3498ebf51ada86efc"
+		"id": "561ca3f3498ebf51ada86efc",
+		"lat": 37.97140261190124,
+		"lng": 126.55230760574341,
+		"city": "개성시",
+		"country": "조선민주주의인민공화국",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-04-15T01:42:06.000Z",
 		"name": "North Korean Demilitarized Zone (한반도 비무장지대 (DMZ))",
-		"id": "58f8bd0b6dcf0450680228f0"
+		"id": "58f8bd0b6dcf0450680228f0",
+		"lat": 37.960934,
+		"lng": 126.66447,
+		"address": "Unnamed Road",
+		"postalCode": "0",
+		"city": "Kaesŏng",
+		"country": "조선민주주의인민공화국",
+		"categories": [
+			"History Museum"
+		]
 	},
 	{
 		"date": "2019-04-15T02:04:11.000Z",
 		"name": "North Korean Side / JSA Meeting Room T2",
-		"id": "58ef1ee835f9836af3ae4791"
+		"id": "58ef1ee835f9836af3ae4791",
+		"lat": 37.956130585043184,
+		"lng": 126.67723953723907,
+		"country": "조선민주주의인민공화국",
+		"categories": [
+			"Border Crossing"
+		]
 	},
 	{
 		"date": "2019-04-15T07:28:57.000Z",
 		"name": "Koryo Hotel (고려 호텔)",
-		"id": "4c06f8a188ba952182f0e78f"
+		"id": "4c06f8a188ba952182f0e78f",
+		"lat": 39.03199396095325,
+		"lng": 125.75367263864484,
+		"address": "창광 거리 Changgwang St.",
+		"city": "평양직할시",
+		"country": "조선민주주의인민공화국",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-04-15T08:45:31.000Z",
 		"name": "Kwangbok Department Sotre",
-		"id": "5cbdc901005ac1002c1d3c5d"
+		"id": "5cbdc901005ac1002c1d3c5d",
+		"lat": 39.034208,
+		"lng": 125.692421,
+		"country": "조선민주주의인민공화국",
+		"categories": [
+			"Department Store"
+		]
 	},
 	{
 		"date": "2019-04-15T10:55:05.000Z",
 		"name": "Arch of Triumph (개선문)",
-		"id": "5175fc0ee4b0d4251ebef8c7"
+		"id": "5175fc0ee4b0d4251ebef8c7",
+		"lat": 39.044444,
+		"lng": 125.752778,
+		"address": "Sungri Street 승리거리",
+		"city": "평양직할시",
+		"country": "조선민주주의인민공화국",
+		"categories": [
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2019-04-16T01:52:47.000Z",
 		"name": "Beijing Capital International Airport (PEK) (北京首都国际机场)",
-		"id": "4b39b8edf964a520b65e25e3"
+		"id": "4b39b8edf964a520b65e25e3",
+		"lat": 40.06874495519652,
+		"lng": 116.60176277160646,
+		"address": "Airport Expressway | 机场高",
+		"postalCode": "100621",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-16T02:42:28.000Z",
 		"name": "Arrivals Immigration (中国海关)",
-		"id": "515af262e4b04ee400fda4ef"
+		"id": "515af262e4b04ee400fda4ef",
+		"lat": 40.07799959550686,
+		"lng": 116.58904641866684,
+		"address": "T2 Beijing Capital Int'l Airport",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Government Building"
+		]
 	},
 	{
 		"date": "2019-04-16T02:52:45.000Z",
 		"name": "Terminal 2 (二号航站楼)",
-		"id": "4bcbe3e4937ca5938f6aaa92"
+		"id": "4bcbe3e4937ca5938f6aaa92",
+		"lat": 40.07876654715534,
+		"lng": 116.58807543077886,
+		"address": "Beijing Capital Int'l Airport 北京首都国际机场",
+		"postalCode": "100621",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-16T03:12:04.000Z",
 		"name": "Hilton (北京首都机场希尔顿酒店)",
-		"id": "4bdf172e7ea362b5565243c4"
+		"id": "4bdf172e7ea362b5565243c4",
+		"lat": 40.04795830854769,
+		"lng": 116.6134860678028,
+		"address": "Terminal 3, Beijing Capital Intl Airport",
+		"postalCode": "100621",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-04-16T11:09:53.000Z",
 		"name": "Beijing (北京)",
-		"id": "518fb546498eaadcd15435ce"
+		"id": "518fb546498eaadcd15435ce",
+		"lat": 39.922972415131525,
+		"lng": 116.42400250286477,
+		"postalCode": "100000",
+		"country": "中国",
+		"categories": [
+			"City",
+			"State"
+		]
 	},
 	{
 		"date": "2019-04-16T11:12:27.000Z",
 		"name": "Silk Street Market (秀水街)",
-		"id": "4bc85bca2f94d13a1a65137f"
+		"id": "4bc85bca2f94d13a1a65137f",
+		"lat": 39.90811514892363,
+		"lng": 116.44390781285918,
+		"address": "8 Xiushui E St",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2019-04-16T11:54:49.000Z",
 		"name": "Silk Street Food Market",
-		"id": "547af736498edd0ef85fe9fe"
+		"id": "547af736498edd0ef85fe9fe",
+		"lat": 39.90716213507598,
+		"lng": 116.44601696239356,
+		"address": "Beijing China",
+		"country": "中国",
+		"categories": [
+			"Beijing Restaurant"
+		]
 	},
 	{
 		"date": "2019-04-16T11:55:39.000Z",
 		"name": "Pizza Hut (必胜客)",
-		"id": "4b59ae8af964a520839228e3"
+		"id": "4b59ae8af964a520839228e3",
+		"lat": 39.90714694154538,
+		"lng": 116.44468188285826,
+		"postalCode": "100022",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2019-04-16T12:52:30.000Z",
 		"name": "China World Office 1",
-		"id": "4ea64e347ee5bebc949a957c"
+		"id": "4ea64e347ee5bebc949a957c",
+		"lat": 39.90804325877879,
+		"lng": 116.4517910944869,
+		"country": "中国",
+		"categories": [
+			"Building"
+		]
 	},
 	{
 		"date": "2019-04-16T13:11:16.000Z",
 		"name": "CCTV Headquarters (中央电视台)",
-		"id": "4deecffbd164e99c7b2d6b39"
+		"id": "4deecffbd164e99c7b2d6b39",
+		"lat": 39.912668818045084,
+		"lng": 116.4561705809156,
+		"address": "32 East 3rd Ring M Rd",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"TV Station",
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2019-04-16T13:23:44.000Z",
 		"name": "China World Mall (国贸商城)",
-		"id": "4b7fa62df964a520433830e3"
+		"id": "4b7fa62df964a520433830e3",
+		"lat": 39.91092128950456,
+		"lng": 116.4525032043457,
+		"address": "1 Jianguomenwai Dajie | 建国门外大街1号",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2019-04-16T15:15:08.000Z",
 		"name": "Hilton (北京首都机场希尔顿酒店)",
-		"id": "4bdf172e7ea362b5565243c4"
+		"id": "4bdf172e7ea362b5565243c4",
+		"lat": 40.04795830854769,
+		"lng": 116.6134860678028,
+		"address": "Terminal 3, Beijing Capital Intl Airport",
+		"postalCode": "100621",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-04-16T21:23:12.000Z",
 		"name": "Beijing Capital International Airport (PEK) (北京首都国际机场)",
-		"id": "4b39b8edf964a520b65e25e3"
+		"id": "4b39b8edf964a520b65e25e3",
+		"lat": 40.06874495519652,
+		"lng": 116.60176277160646,
+		"address": "Airport Expressway | 机场高",
+		"postalCode": "100621",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-16T21:23:34.000Z",
 		"name": "Arrivals Immigration - T3-E Beijing Int'l Airport",
-		"id": "4bbd5fa9f57ba5935816aeb9"
+		"id": "4bbd5fa9f57ba5935816aeb9",
+		"lat": 40.07593441772094,
+		"lng": 116.60601413270628,
+		"address": "首都国际机场3号航站楼",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Government Building"
+		]
 	},
 	{
 		"date": "2019-04-16T21:36:02.000Z",
 		"name": "Starbucks (星巴克)",
-		"id": "4e87a9dcdab432e83dd0b366"
+		"id": "4e87a9dcdab432e83dd0b366",
+		"lat": 40.07648206107818,
+		"lng": 116.60667093916038,
+		"address": "T3-E Beijing Int'l Airport",
+		"postalCode": "100621",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2019-04-16T21:45:47.000Z",
 		"name": "Terminal 3-E (三号航站楼E区)",
-		"id": "50bd3f1ce4b0b38c68de0ede"
+		"id": "50bd3f1ce4b0b38c68de0ede",
+		"lat": 40.07561302223617,
+		"lng": 116.60605476052896,
+		"address": "Beijing Capital Int'l Airport 北京首都国际机场",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-16T21:46:12.000Z",
 		"name": "Gate E10",
-		"id": "4be887509a54a5931d160a11"
+		"id": "4be887509a54a5931d160a11",
+		"lat": 40.075532137538204,
+		"lng": 116.60650393764026,
+		"address": "Terminal 3",
+		"postalCode": "100621",
+		"city": "北京市",
+		"country": "中国",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-04-17T09:22:34.000Z",
 		"name": "Zurich Airport (ZRH) (Flughafen Zürich)",
-		"id": "4b03a460f964a520f34f22e3"
+		"id": "4b03a460f964a520f34f22e3",
+		"lat": 47.45322169582368,
+		"lng": 8.561077950289473,
+		"address": "Flughafenstrasse",
+		"postalCode": "8302",
+		"city": "Kloten",
+		"country": "Schweiz",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-17T09:44:22.000Z",
 		"name": "Passport Control (Passkontrolle)",
-		"id": "53143ac7498e8fd0b36281c2"
+		"id": "53143ac7498e8fd0b36281c2",
+		"lat": 47.45318093763968,
+		"lng": 8.561282941705413,
+		"address": "Gates A",
+		"city": "Kloten",
+		"country": "Schweiz",
+		"categories": [
+			"Border Crossing"
+		]
 	},
 	{
 		"date": "2019-04-17T09:45:53.000Z",
 		"name": "Gates A",
-		"id": "4b541ba0f964a52073b227e3"
+		"id": "4b541ba0f964a52073b227e3",
+		"lat": 47.453789594977756,
+		"lng": 8.558478355407715,
+		"address": "ZRH Airport",
+		"postalCode": "8302",
+		"city": "Kloten",
+		"country": "Schweiz",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-17T10:00:15.000Z",
 		"name": "Gate A82",
-		"id": "4c3ad5bb1a1cd13a5f65b50d"
+		"id": "4c3ad5bb1a1cd13a5f65b50d",
+		"lat": 47.45388660471014,
+		"lng": 8.556728451918428,
+		"address": "Gates A",
+		"postalCode": "8302",
+		"city": "Kloten",
+		"country": "Schweiz",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-04-17T12:25:29.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-17T12:29:30.000Z",
 		"name": "Gate B27",
-		"id": "4bf972565efe2d7fe23b6c34"
+		"id": "4bf972565efe2d7fe23b6c34",
+		"lat": 52.30375832769834,
+		"lng": 4.762921511121988,
+		"address": "Concourse B",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-04-17T12:51:48.000Z",
 		"name": "Baggage Belts",
-		"id": "4cadb1a50e7bbfb737705b83"
+		"id": "4cadb1a50e7bbfb737705b83",
+		"lat": 52.30881082020925,
+		"lng": 4.764053471569788,
+		"address": "AMS Airport",
+		"postalCode": "1118 CP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Baggage Claim"
+		]
 	},
 	{
 		"date": "2019-04-17T14:54:19.000Z",
 		"name": "Jansbrug",
-		"id": "4e7cc07eb9934b432d065769"
+		"id": "4e7cc07eb9934b432d065769",
+		"lat": 52.38478723669128,
+		"lng": 4.638563664765195,
+		"country": "Nederland",
+		"categories": [
+			"Bridge"
+		]
 	},
 	{
 		"date": "2019-04-17T15:05:28.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-04-19T09:11:19.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-19T09:30:28.000Z",
 		"name": "Leon",
-		"id": "59c1e488d8096e1f2b366ea6"
+		"id": "59c1e488d8096e1f2b366ea6",
+		"lat": 52.307600656706875,
+		"lng": 4.765158167210229,
+		"address": "Schiphol",
+		"postalCode": "1118 AP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Fast Food Restaurant",
+			"Coffee Shop",
+			"Breakfast Spot"
+		]
 	},
 	{
 		"date": "2019-04-19T10:34:15.000Z",
 		"name": "Concourse B",
-		"id": "4f58b3fae4b0db2050e0a11d"
+		"id": "4f58b3fae4b0db2050e0a11d",
+		"lat": 52.30465621747054,
+		"lng": 4.762043045940551,
+		"address": "AMS Airport",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-19T10:34:26.000Z",
 		"name": "Gate B18",
-		"id": "4e426a5f8877191939680b04"
+		"id": "4e426a5f8877191939680b04",
+		"lat": 52.30434324085227,
+		"lng": 4.7623559942156115,
+		"address": "Concourse B",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-04-19T10:50:10.000Z",
 		"name": "Kaagbaan (06 / 24)",
-		"id": "4cb5da6852edb1f70d606afe"
+		"id": "4cb5da6852edb1f70d606afe",
+		"lat": 52.29567220401313,
+		"lng": 4.753818511962891,
+		"address": "AMS Airport",
+		"postalCode": "1118 CP",
+		"city": "Luchthaven Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Service"
+		]
 	},
 	{
 		"date": "2019-04-19T11:59:03.000Z",
 		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
-		"id": "4ba14c55f964a52045aa37e3"
+		"id": "4ba14c55f964a52045aa37e3",
+		"lat": 49.634630283133625,
+		"lng": 6.216286980455832,
+		"address": "4 Rue de Trèves",
+		"postalCode": "2016",
+		"city": "Findel",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-19T12:30:06.000Z",
 		"name": "Terminal B",
-		"id": "59622833603d2a7c948972b5"
+		"id": "59622833603d2a7c948972b5",
+		"lat": 49.6324010456985,
+		"lng": 6.213888371399405,
+		"address": "LUX Airport",
+		"postalCode": "2016",
+		"city": "Findel",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-19T13:00:51.000Z",
 		"name": "Gate B06",
-		"id": "5c90c3211f8ed6002c58380a"
+		"id": "5c90c3211f8ed6002c58380a",
+		"lat": 49.63215,
+		"lng": 6.213901,
+		"address": "Terminal B",
+		"city": "Niederanven",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-04-19T15:35:32.000Z",
 		"name": "E Werk",
-		"id": "4c81503d2f1c236a99a72e43"
+		"id": "4c81503d2f1c236a99a72e43",
+		"lat": 49.23817321454234,
+		"lng": 6.956800117082172,
+		"address": "Dr.-Tietz-Straße 14",
+		"postalCode": "66115",
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Concert Hall"
+		]
 	},
 	{
 		"date": "2019-04-19T15:36:37.000Z",
 		"name": "Revision 2019",
-		"id": "5cb9df6660255e002c1ae9e9"
+		"id": "5cb9df6660255e002c1ae9e9",
+		"lat": 49.238277,
+		"lng": 6.956894,
+		"postalCode": "66115",
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Other Event"
+		]
 	},
 	{
 		"date": "2019-04-19T20:27:38.000Z",
 		"name": "Kirchberg Hotel Garni",
-		"id": "4bd5b70c9649ce72758f511d"
+		"id": "4bd5b70c9649ce72758f511d",
+		"lat": 49.24062335970133,
+		"lng": 6.973078250885009,
+		"address": "St.-Josef-Str. 18/19",
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-04-19T21:01:01.000Z",
 		"name": "E Werk",
-		"id": "4c81503d2f1c236a99a72e43"
+		"id": "4c81503d2f1c236a99a72e43",
+		"lat": 49.23817321454234,
+		"lng": 6.956800117082172,
+		"address": "Dr.-Tietz-Straße 14",
+		"postalCode": "66115",
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Concert Hall"
+		]
 	},
 	{
 		"date": "2019-04-20T06:18:48.000Z",
 		"name": "Kirchberg Hotel Garni",
-		"id": "4bd5b70c9649ce72758f511d"
+		"id": "4bd5b70c9649ce72758f511d",
+		"lat": 49.24062335970133,
+		"lng": 6.973078250885009,
+		"address": "St.-Josef-Str. 18/19",
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-04-20T06:58:04.000Z",
 		"name": "E Werk",
-		"id": "4c81503d2f1c236a99a72e43"
+		"id": "4c81503d2f1c236a99a72e43",
+		"lat": 49.23817321454234,
+		"lng": 6.956800117082172,
+		"address": "Dr.-Tietz-Straße 14",
+		"postalCode": "66115",
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Concert Hall"
+		]
 	},
 	{
 		"date": "2019-04-20T08:25:22.000Z",
 		"name": "Lidl",
-		"id": "4fcf610d3ac6d9ec99036cbe"
+		"id": "4fcf610d3ac6d9ec99036cbe",
+		"lat": 49.24012252236903,
+		"lng": 6.96670264005661,
+		"address": "Im Rotfeld 1",
+		"postalCode": "66115",
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Supermarket",
+			"Discount Store"
+		]
 	},
 	{
 		"date": "2019-04-20T11:22:55.000Z",
 		"name": "MediaMarkt",
-		"id": "4b928c4df964a5202b0334e3"
+		"id": "4b928c4df964a5202b0334e3",
+		"lat": 49.2370856314505,
+		"lng": 6.9574184486487045,
+		"address": "Dr.-Tietz-Str. 13",
+		"postalCode": "66115",
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Electronics Store"
+		]
 	},
 	{
 		"date": "2019-04-21T06:29:15.000Z",
 		"name": "Kirchberg Hotel Garni",
-		"id": "4bd5b70c9649ce72758f511d"
+		"id": "4bd5b70c9649ce72758f511d",
+		"lat": 49.24062335970133,
+		"lng": 6.973078250885009,
+		"address": "St.-Josef-Str. 18/19",
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-04-21T13:42:46.000Z",
 		"name": "E Werk",
-		"id": "4c81503d2f1c236a99a72e43"
+		"id": "4c81503d2f1c236a99a72e43",
+		"lat": 49.23817321454234,
+		"lng": 6.956800117082172,
+		"address": "Dr.-Tietz-Straße 14",
+		"postalCode": "66115",
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Concert Hall"
+		]
 	},
 	{
 		"date": "2019-04-22T05:00:39.000Z",
 		"name": "Aral",
-		"id": "4c9a42fe292a6dcba36ccd76"
+		"id": "4c9a42fe292a6dcba36ccd76",
+		"lat": 49.239022,
+		"lng": 6.976791,
+		"address": "St. Johanner Str. 105",
+		"postalCode": "66115",
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Gas Station",
+			"Convenience Store",
+			"Car Wash"
+		]
 	},
 	{
 		"date": "2019-04-22T05:14:49.000Z",
 		"name": "Saarbrücken Hauptbahnhof",
-		"id": "4b8e098ff964a520a81633e3"
+		"id": "4b8e098ff964a520a81633e3",
+		"lat": 49.24108916888521,
+		"lng": 6.9908881187438965,
+		"address": "Am Hauptbahnhof 8",
+		"postalCode": "66111",
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-22T05:15:13.000Z",
 		"name": "CFL Express Saarbrücken-Luxemburg",
-		"id": "4ec106412c5b252c1a2a7955"
+		"id": "4ec106412c5b252c1a2a7955",
+		"lat": 49.24072502614171,
+		"lng": 6.989609008531446,
+		"city": "Saarbrücken",
+		"country": "Deutschland",
+		"categories": [
+			"Bus Line"
+		]
 	},
 	{
 		"date": "2019-04-22T06:53:04.000Z",
 		"name": "Vallée de la Pétrusse",
-		"id": "4b811e8ff964a5206d9730e3"
+		"id": "4b811e8ff964a5206d9730e3",
+		"lat": 49.607003,
+		"lng": 6.130907,
+		"address": "Rue de la Semois",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-04-22T07:07:06.000Z",
 		"name": "Parc Fondation Pescatore",
-		"id": "4fe39ac4e4b0391ded93d435"
+		"id": "4fe39ac4e4b0391ded93d435",
+		"lat": 49.61506172384275,
+		"lng": 6.127817630767822,
+		"address": "13 Avenue Jean-Pierre Pescatore",
+		"postalCode": "2324",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-04-22T07:07:28.000Z",
 		"name": "Vallée de la Pétrusse",
-		"id": "4b811e8ff964a5206d9730e3"
+		"id": "4b811e8ff964a5206d9730e3",
+		"lat": 49.607003,
+		"lng": 6.130907,
+		"address": "Rue de la Semois",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-04-22T07:16:50.000Z",
 		"name": "Pont Grande Duchesse Charlotte",
-		"id": "4da16be7b1c937044344cea1"
+		"id": "4da16be7b1c937044344cea1",
+		"lat": 49.61818231443813,
+		"lng": 6.133428094847693,
+		"address": "Pont Grande-Duchesse Charlotte",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Bridge"
+		]
 	},
 	{
 		"date": "2019-04-22T07:28:28.000Z",
 		"name": "Funiculaire Pfaffenthal - Kirchberg",
-		"id": "5a2e966c59c4230751506ee7"
+		"id": "5a2e966c59c4230751506ee7",
+		"lat": 49.618929,
+		"lng": 6.132382,
+		"address": "Avenue J.-F. Kennedy",
+		"postalCode": "2138",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Cable Car",
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-22T07:28:42.000Z",
 		"name": "Gare CFL De Pfaffenthal-Kirchberg",
-		"id": "5ad2383c62845c26a70a8e2b"
+		"id": "5ad2383c62845c26a70a8e2b",
+		"lat": 49.618957,
+		"lng": 6.132986,
+		"postalCode": "2138",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-22T07:36:13.000Z",
 		"name": "Place de l'Europe",
-		"id": "505f01c1e4b066ef67e00011"
+		"id": "505f01c1e4b066ef67e00011",
+		"lat": 49.617990458577914,
+		"lng": 6.141745585137061,
+		"address": "Place de l’Europe",
+		"postalCode": "2449",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-04-22T07:36:22.000Z",
 		"name": "Quartier des Institutions Européennes",
-		"id": "4fe19eb2e4b0f9ff3ce9dd2f"
+		"id": "4fe19eb2e4b0f9ff3ce9dd2f",
+		"lat": 49.622217314128605,
+		"lng": 6.151551451828079,
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-04-22T07:45:04.000Z",
 		"name": "Fort Thüngen",
-		"id": "4da1731e63b5a35da8cae819"
+		"id": "4da1731e63b5a35da8cae819",
+		"lat": 49.616156731463676,
+		"lng": 6.139282860550619,
+		"address": "Park Drai Eechelen",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Castle",
+			"Scenic Lookout"
+		]
 	},
 	{
 		"date": "2019-04-22T08:19:36.000Z",
 		"name": "Mudam Café",
-		"id": "4b8a4b23f964a5204b6732e3"
+		"id": "4b8a4b23f964a5204b6732e3",
+		"lat": 49.6170972204751,
+		"lng": 6.1401406059157235,
+		"address": "3 Park Drai Eechelen",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Café",
+			"Gastropub"
+		]
 	},
 	{
 		"date": "2019-04-22T08:43:29.000Z",
 		"name": "Musée d'Art Moderne Grand-Duc Jean (Mudam Luxembourg)",
-		"id": "4b507179f964a5206a2327e3"
+		"id": "4b507179f964a5206a2327e3",
+		"lat": 49.617114140724844,
+		"lng": 6.140454877026687,
+		"address": "3, Park Dräi Eechelen",
+		"postalCode": "1499",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Art Museum"
+		]
 	},
 	{
 		"date": "2019-04-22T09:25:43.000Z",
 		"name": "Station De Tramway - Europaparlament",
-		"id": "5ab9f064acb00b74530fb76f"
+		"id": "5ab9f064acb00b74530fb76f",
+		"lat": 49.620466,
+		"lng": 6.1473,
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-04-22T09:44:35.000Z",
 		"name": "Axento",
-		"id": "4f8bc7f7e4b0e67b873a7fe9"
+		"id": "4f8bc7f7e4b0e67b873a7fe9",
+		"lat": 49.631671361079555,
+		"lng": 6.171258741285815,
+		"address": "44 avenue John F. Kennedy",
+		"postalCode": "1855",
+		"city": "Lëtzebuerg",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Office"
+		]
 	},
 	{
 		"date": "2019-04-22T10:11:23.000Z",
 		"name": "Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)",
-		"id": "4ba14c55f964a52045aa37e3"
+		"id": "4ba14c55f964a52045aa37e3",
+		"lat": 49.634630283133625,
+		"lng": 6.216286980455832,
+		"address": "4 Rue de Trèves",
+		"postalCode": "2016",
+		"city": "Findel",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-22T10:25:04.000Z",
 		"name": "Security Checkpoint - LUX",
-		"id": "5982e4bb9cadd91446982a4f"
+		"id": "5982e4bb9cadd91446982a4f",
+		"lat": 49.634216503005796,
+		"lng": 6.216335144872257,
+		"postalCode": "2633",
+		"city": "Niederanven",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport Service",
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-22T10:41:16.000Z",
 		"name": "Terminal B",
-		"id": "59622833603d2a7c948972b5"
+		"id": "59622833603d2a7c948972b5",
+		"lat": 49.6324010456985,
+		"lng": 6.213888371399405,
+		"address": "LUX Airport",
+		"postalCode": "2016",
+		"city": "Findel",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-22T11:07:55.000Z",
 		"name": "Gate A10",
-		"id": "51b07133498e8c64841f054d"
+		"id": "51b07133498e8c64841f054d",
+		"lat": 49.63378893189355,
+		"lng": 6.216594481561904,
+		"address": "Terminal A",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-04-22T12:20:48.000Z",
 		"name": "Gate B02",
-		"id": "5974c436da2e0076a0b44b2c"
+		"id": "5974c436da2e0076a0b44b2c",
+		"lat": 49.632467,
+		"lng": 6.213744,
+		"postalCode": "2633",
+		"city": "Niederanven",
+		"country": "Lëtzebuerg",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-04-22T13:26:58.000Z",
 		"name": "Gate B20",
-		"id": "4b74512bf964a520c1d42de3"
+		"id": "4b74512bf964a520c1d42de3",
+		"lat": 52.30412574300118,
+		"lng": 4.7625696213834035,
+		"address": "Concourse B",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-04-22T13:39:08.000Z",
 		"name": "Concourse B",
-		"id": "4f58b3fae4b0db2050e0a11d"
+		"id": "4f58b3fae4b0db2050e0a11d",
+		"lat": 52.30465621747054,
+		"lng": 4.762043045940551,
+		"address": "AMS Airport",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-04-22T13:39:22.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-04-23T15:45:16.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-04-26T14:01:07.000Z",
 		"name": "Leiden Central Railway station (Station Leiden Centraal)",
-		"id": "4ad44a63f964a5208be720e3"
+		"id": "4ad44a63f964a5208be720e3",
+		"lat": 52.166069721919676,
+		"lng": 4.482098314771528,
+		"address": "Stationsplein 3G",
+		"postalCode": "2312 AJ",
+		"city": "Leiden",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-26T14:13:02.000Z",
 		"name": "Den Haag Centraal Railway Station (Station Den Haag Centraal)",
-		"id": "4aeff0e3f964a52060da21e3"
+		"id": "4aeff0e3f964a52060da21e3",
+		"lat": 52.08121937964098,
+		"lng": 4.32461878275475,
+		"address": "Koningin Julianaplein 10",
+		"postalCode": "2595 AA",
+		"city": "Den Haag",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-26T14:41:01.000Z",
 		"name": "Gouda",
-		"id": "4d551b29e7f1a1cd4e4ef6a4"
+		"id": "4d551b29e7f1a1cd4e4ef6a4",
+		"lat": 52.01331675466769,
+		"lng": 4.711646230479567,
+		"postalCode": "2801 AA",
+		"country": "Nederland",
+		"categories": [
+			"City"
+		]
 	},
 	{
 		"date": "2019-04-26T14:43:13.000Z",
 		"name": "Station Gouda",
-		"id": "4aadeaabf964a520976120e3"
+		"id": "4aadeaabf964a520976120e3",
+		"lat": 52.017669394136405,
+		"lng": 4.706035844082813,
+		"address": "Stationsplein 11",
+		"postalCode": "2801 AK",
+		"city": "Gouda",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-26T15:04:16.000Z",
 		"name": "Station Capelle Schollevaar",
-		"id": "4b5da5b6f964a520f96429e3"
+		"id": "4b5da5b6f964a520f96429e3",
+		"lat": 51.95420348837987,
+		"lng": 4.583949112686097,
+		"address": "Stationsplein 1",
+		"postalCode": "2907MJ",
+		"city": "Capelle a/d IJssel",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-26T15:14:04.000Z",
 		"name": "Kamera Express",
-		"id": "4b39d563f964a520335f25e3"
+		"id": "4b39d563f964a520335f25e3",
+		"lat": 51.95806953066977,
+		"lng": 4.576963097179114,
+		"address": "Rietbaan 5",
+		"postalCode": "2908 LP",
+		"city": "Capelle a/d IJssel",
+		"country": "Nederland",
+		"categories": [
+			"Camera Store"
+		]
 	},
 	{
 		"date": "2019-04-26T15:57:28.000Z",
 		"name": "Station Capelle Schollevaar",
-		"id": "4b5da5b6f964a520f96429e3"
+		"id": "4b5da5b6f964a520f96429e3",
+		"lat": 51.95420348837987,
+		"lng": 4.583949112686097,
+		"address": "Stationsplein 1",
+		"postalCode": "2907MJ",
+		"city": "Capelle a/d IJssel",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-26T16:19:43.000Z",
 		"name": "Uncle Sam’s",
-		"id": "5b2e3129fe63bd002cf19f44"
+		"id": "5b2e3129fe63bd002cf19f44",
+		"lat": 51.954293,
+		"lng": 4.584261,
+		"postalCode": "2908 CC",
+		"city": "Capelle a/d IJssel",
+		"country": "Nederland",
+		"categories": [
+			"Snack Place"
+		]
 	},
 	{
 		"date": "2019-04-26T16:35:16.000Z",
 		"name": "Rotterdam Central Station (Station Rotterdam Centraal)",
-		"id": "4ae19cc4f964a520678621e3"
+		"id": "4ae19cc4f964a520678621e3",
+		"lat": 51.92536602394011,
+		"lng": 4.469021675569301,
+		"address": "Stationssingel 10",
+		"postalCode": "3013 HA",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-26T19:35:09.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-04-27T07:37:16.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-04-27T09:02:26.000Z",
 		"name": "Club Spaarne",
-		"id": "4c2ccd0b77cfe21e6c94b6f1"
+		"id": "4c2ccd0b77cfe21e6c94b6f1",
+		"lat": 52.382526,
+		"lng": 4.643365144729614,
+		"address": "koudenhorn",
+		"postalCode": "2011",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Boat or Ferry",
+			"Event Space"
+		]
 	},
 	{
 		"date": "2019-04-27T10:10:07.000Z",
 		"name": "Weiland",
-		"id": "4dfee597a809baedbd8ff6d9"
+		"id": "4dfee597a809baedbd8ff6d9",
+		"lat": 52.3468185,
+		"lng": 4.6425103,
+		"address": "lage kadijk",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Field"
+		]
 	},
 	{
 		"date": "2019-04-27T10:33:44.000Z",
 		"name": "Speelbos Meermond",
-		"id": "4ffb2beae8895184a88ee585"
+		"id": "4ffb2beae8895184a88ee585",
+		"lat": 52.342409527128254,
+		"lng": 4.638101256828613,
+		"address": "Cruquiusweg 49",
+		"postalCode": "2102 LS",
+		"city": "Heemstede",
+		"country": "Nederland",
+		"categories": [
+			"Playground"
+		]
 	},
 	{
 		"date": "2019-04-27T12:30:47.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-04-27T16:17:19.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-27T16:43:05.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-04-27T16:55:37.000Z",
 		"name": "Dam",
-		"id": "4b9ff646f964a520f44d37e3"
+		"id": "4b9ff646f964a520f44d37e3",
+		"lat": 52.37300539279099,
+		"lng": 4.892928600311278,
+		"address": "Dam",
+		"postalCode": "1012 NP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-04-27T17:12:56.000Z",
 		"name": "BeerTemple",
-		"id": "4ab13fe4f964a520b86820e3"
+		"id": "4ab13fe4f964a520b86820e3",
+		"lat": 52.371999118512846,
+		"lng": 4.890545158673645,
+		"address": "Nieuwezijds Voorburgwal 250",
+		"postalCode": "1012 RR",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Beer Bar",
+			"Pub"
+		]
 	},
 	{
 		"date": "2019-04-27T17:58:29.000Z",
 		"name": "Koningssluis (Brug 29)",
-		"id": "4e166201d4c0c7a8fbb222af"
+		"id": "4e166201d4c0c7a8fbb222af",
+		"lat": 52.366854,
+		"lng": 4.888399,
+		"address": "Koningsplein",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Bridge"
+		]
 	},
 	{
 		"date": "2019-04-27T18:34:28.000Z",
 		"name": "Leidseplein",
-		"id": "4a47d9d4f964a5202faa1fe3"
+		"id": "4a47d9d4f964a5202faa1fe3",
+		"lat": 52.36420906224259,
+		"lng": 4.882840965291386,
+		"address": "Leidseplein",
+		"postalCode": "1017",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-04-27T19:09:34.000Z",
 		"name": "Vondelpark",
-		"id": "4a27071df964a520f98c1fe3"
+		"id": "4a27071df964a520f98c1fe3",
+		"lat": 52.35814715043192,
+		"lng": 4.867072105407715,
+		"address": "Vondelpark",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-04-27T19:51:37.000Z",
 		"name": "Hoofddorppleinbuurt",
-		"id": "5314b1f3e4b0d805d373a23b"
+		"id": "5314b1f3e4b0d805d373a23b",
+		"lat": 52.35172846713251,
+		"lng": 4.849367528557429,
+		"country": "Nederland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-04-27T20:11:59.000Z",
 		"name": "Pizzarella",
-		"id": "5c707c7b27cbd1002562bf78"
+		"id": "5c707c7b27cbd1002562bf78",
+		"lat": 52.349749,
+		"lng": 4.84916,
+		"address": "Aalsmeerweg 39",
+		"postalCode": "1059 AK",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Italian Restaurant",
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2019-04-29T12:04:16.000Z",
 		"name": "Medidental",
-		"id": "4c73c3504bc4236af3a5ce7a"
+		"id": "4c73c3504bc4236af3a5ce7a",
+		"lat": 52.38542273425579,
+		"lng": 4.620555639266968,
+		"address": "Zijlweg 148C",
+		"postalCode": "2015 BJ",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Dentist's Office"
+		]
 	},
 	{
 		"date": "2019-04-30T18:47:58.000Z",
 		"name": "Claus Event Center",
-		"id": "4b59fdc9f964a5203ca628e3"
+		"id": "4b59fdc9f964a5203ca628e3",
+		"lat": 52.32197044578791,
+		"lng": 4.664238957437126,
+		"address": "Bosweg 19",
+		"postalCode": "2131 LX",
+		"city": "Hoofddorp",
+		"country": "Nederland",
+		"categories": [
+			"Bowling Alley"
+		]
 	},
 	{
 		"date": "2019-04-30T21:31:13.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	}
 ]

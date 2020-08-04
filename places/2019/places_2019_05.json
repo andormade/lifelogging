@@ -2,976 +2,2690 @@
 	{
 		"date": "2019-05-01T17:23:39.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-02T18:13:07.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-03T14:46:23.000Z",
 		"name": "Kamera Express",
-		"id": "5be5ac9b5c68380039e77c2c"
+		"id": "5be5ac9b5c68380039e77c2c",
+		"lat": 52.37985,
+		"lng": 4.636356,
+		"address": "Anegang 32",
+		"postalCode": "2011 HS",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Camera Store",
+			"Photography Lab"
+		]
 	},
 	{
 		"date": "2019-05-03T14:55:29.000Z",
 		"name": "Marqt",
-		"id": "4ae1d0e3f964a520aa8721e3"
+		"id": "4ae1d0e3f964a520aa8721e3",
+		"lat": 52.3802600023814,
+		"lng": 4.632357722477905,
+		"address": "Gedempte Oude Gracht 66",
+		"postalCode": "2011 TG",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Organic Grocery"
+		]
 	},
 	{
 		"date": "2019-05-04T14:27:10.000Z",
 		"name": "Marqt",
-		"id": "4ae1d0e3f964a520aa8721e3"
+		"id": "4ae1d0e3f964a520aa8721e3",
+		"lat": 52.3802600023814,
+		"lng": 4.632357722477905,
+		"address": "Gedempte Oude Gracht 66",
+		"postalCode": "2011 TG",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Organic Grocery"
+		]
 	},
 	{
 		"date": "2019-05-04T17:12:57.000Z",
 		"name": "Busstation Haarlem",
-		"id": "4bb04ff4f964a5209e403ce3"
+		"id": "4bb04ff4f964a5209e403ce3",
+		"lat": 52.387472209186306,
+		"lng": 4.637818403573609,
+		"address": "Stationsplein 1",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Bus Station"
+		]
 	},
 	{
 		"date": "2019-05-04T22:38:09.000Z",
 		"name": "Toolenburg",
-		"id": "513cd1b2e4b0178149e62b30"
+		"id": "513cd1b2e4b0178149e62b30",
+		"lat": 52.305416,
+		"lng": 4.6578827,
+		"city": "Hoofddorp",
+		"country": "Nederland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-05-05T17:34:23.000Z",
 		"name": "Albert Heijn to go",
-		"id": "4b862ee0f964a520038231e3"
+		"id": "4b862ee0f964a520038231e3",
+		"lat": 52.38851437453483,
+		"lng": 4.639542485412089,
+		"address": "Stationsplein 14",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store"
+		]
 	},
 	{
 		"date": "2019-05-06T06:58:54.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-05-08T17:38:51.000Z",
 		"name": "Vomar Voordeelmarkt",
-		"id": "4b72c969f964a52096882de3"
+		"id": "4b72c969f964a52096882de3",
+		"lat": 52.39127711020139,
+		"lng": 4.649005288257338,
+		"address": "Paul Krugerkade 22",
+		"postalCode": "2021 BN",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2019-05-09T10:09:39.000Z",
 		"name": "Kinki kappers",
-		"id": "4b978e2af964a5209d0835e3"
+		"id": "4b978e2af964a5209d0835e3",
+		"lat": 52.3790113620109,
+		"lng": 4.636636460176722,
+		"address": "Kleine Houtstraat",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Salon / Barbershop",
+			"Cosmetics Shop"
+		]
 	},
 	{
 		"date": "2019-05-09T11:12:17.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-09T18:04:13.000Z",
 		"name": "Karwei",
-		"id": "4b5b027ff964a520a9de28e3"
+		"id": "4b5b027ff964a520a9de28e3",
+		"lat": 52.39005961436961,
+		"lng": 4.626503810720334,
+		"address": "Verspronckweg 63",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Hardware Store"
+		]
 	},
 	{
 		"date": "2019-05-09T18:29:18.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-05-10T13:25:38.000Z",
 		"name": "Stationsplein",
-		"id": "4d9b27d55e52224b50293ce3"
+		"id": "4d9b27d55e52224b50293ce3",
+		"lat": 52.387322505020094,
+		"lng": 4.637520650266529,
+		"address": "Jansweg 40",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Parking"
+		]
 	},
 	{
 		"date": "2019-05-10T14:05:07.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-05-10T14:17:43.000Z",
 		"name": "Departures 3",
-		"id": "4ba5fcb4f964a520ea2c39e3"
+		"id": "4ba5fcb4f964a520ea2c39e3",
+		"lat": 52.3103491048693,
+		"lng": 4.760890553614383,
+		"address": "AMS Airport",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-05-10T14:27:21.000Z",
 		"name": "Concourse M",
-		"id": "4d29f1bcebacb1f7e831ff4f"
+		"id": "4d29f1bcebacb1f7e831ff4f",
+		"lat": 52.311115186975044,
+		"lng": 4.759755999999216,
+		"address": "AMS Airport",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-05-10T15:40:02.000Z",
 		"name": "Urban Food Market",
-		"id": "509d1f383d7c56bd1382b27e"
+		"id": "509d1f383d7c56bd1382b27e",
+		"lat": 52.31115426696539,
+		"lng": 4.759678866580808,
+		"address": "Lounge 4",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Sandwich Place",
+			"Restaurant",
+			"Food Court"
+		]
 	},
 	{
 		"date": "2019-05-10T15:54:04.000Z",
 		"name": "Gate M3",
-		"id": "4b628c88f964a520044b2ae3"
+		"id": "4b628c88f964a520044b2ae3",
+		"lat": 52.310247474115506,
+		"lng": 4.75490504581914,
+		"address": "Concourse M",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-05-10T18:22:08.000Z",
 		"name": "Berlin Schönefeld Airport (SXF) (Flughafen Berlin-Schönefeld)",
-		"id": "4adcda91f964a520ae4b21e3"
+		"id": "4adcda91f964a520ae4b21e3",
+		"lat": 52.38801578881554,
+		"lng": 13.518075942993164,
+		"address": "Flughafen 1",
+		"postalCode": "12529",
+		"city": "Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-05-10T18:31:36.000Z",
 		"name": "Terminal A",
-		"id": "4eee0d64e3002155942a87fb"
+		"id": "4eee0d64e3002155942a87fb",
+		"lat": 52.388591282311,
+		"lng": 13.518866228114348,
+		"address": "SXF Airport",
+		"postalCode": "12529",
+		"city": "Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-05-10T18:44:47.000Z",
 		"name": "InterCityHotel Berlin-Brandenburg Airport",
-		"id": "4bb22bbaf964a520d5bf3ce3"
+		"id": "4bb22bbaf964a520d5bf3ce3",
+		"lat": 52.3922004676859,
+		"lng": 13.518464380686055,
+		"address": "Am Seegraben 2",
+		"postalCode": "12529",
+		"city": "Berlin-Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-05-11T07:33:48.000Z",
 		"name": "Bahnhof Berlin-Schönefeld Flughafen",
-		"id": "4b5933fef964a520358128e3"
+		"id": "4b5933fef964a520358128e3",
+		"lat": 52.39144676830638,
+		"lng": 13.51292610168457,
+		"address": "Mittelstr. 20",
+		"postalCode": "12527",
+		"city": "Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Train Station",
+			"Light Rail Station"
+		]
 	},
 	{
 		"date": "2019-05-11T07:36:27.000Z",
 		"name": "Gleis 11/13",
-		"id": "4f9471bfe4b03828fe880138"
+		"id": "4f9471bfe4b03828fe880138",
+		"lat": 52.39107563181046,
+		"lng": 13.513779155519382,
+		"address": "Bahnhof Berlin-Schönefeld Flughafen",
+		"postalCode": "12527",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Platform"
+		]
 	},
 	{
 		"date": "2019-05-11T07:54:01.000Z",
 		"name": "Bahnhof Berlin Schöneweide",
-		"id": "4b20c85ff964a520973424e3"
+		"id": "4b20c85ff964a520973424e3",
+		"lat": 52.45483256664975,
+		"lng": 13.509793281555176,
+		"address": "Cajamarcaplatz 1",
+		"postalCode": "12439",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Train Station",
+			"Light Rail Station"
+		]
 	},
 	{
 		"date": "2019-05-11T08:00:25.000Z",
 		"name": "H S Schöneweide / Sterndamm",
-		"id": "5083d65de4b0d2d664742fbb"
+		"id": "5083d65de4b0d2d664742fbb",
+		"lat": 52.454879566961665,
+		"lng": 13.511905849211521,
+		"address": "Sterndamm",
+		"postalCode": "12487",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Tram Station",
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2019-05-11T08:11:29.000Z",
 		"name": "H Nixenstraße",
-		"id": "508c6dbbe4b017e578546018"
+		"id": "508c6dbbe4b017e578546018",
+		"lat": 52.456630482567626,
+		"lng": 13.550037145614624,
+		"address": "An der Wuhlheide",
+		"postalCode": "12555",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2019-05-11T08:13:13.000Z",
 		"name": "TSG Oberschöneweide",
-		"id": "4d28963b342d6dcb85f2f9ca"
+		"id": "4d28963b342d6dcb85f2f9ca",
+		"lat": 52.45641469,
+		"lng": 13.54954843,
+		"address": "Nixenstraße 3",
+		"postalCode": "12459",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Other Great Outdoors"
+		]
 	},
 	{
 		"date": "2019-05-11T08:17:54.000Z",
 		"name": "Eichgestell",
-		"id": "4dfe0682483b96a3aaab2870"
+		"id": "4dfe0682483b96a3aaab2870",
+		"lat": 52.45932159440945,
+		"lng": 13.551277550928438,
+		"address": "Eichgestell",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-05-11T08:25:22.000Z",
 		"name": "FEZ Wuhlheide",
-		"id": "4adcda7df964a520924721e3"
+		"id": "4adcda7df964a520924721e3",
+		"lat": 52.46184075513298,
+		"lng": 13.548460006713865,
+		"address": "An der Wulheide 197",
+		"postalCode": "12459",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Recreation Center",
+			"General Entertainment"
+		]
 	},
 	{
 		"date": "2019-05-11T08:53:49.000Z",
 		"name": "Superbooth",
-		"id": "5cd40d3a4acb19002cd8981b"
+		"id": "5cd40d3a4acb19002cd8981b",
+		"lat": 52.461171,
+		"lng": 13.549079,
+		"address": "Straße zum FEZ 2",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Event Space"
+		]
 	},
 	{
 		"date": "2019-05-11T09:11:14.000Z",
 		"name": "FEZ Dachrestaurant",
-		"id": "5364d04d498e286801c60058"
+		"id": "5364d04d498e286801c60058",
+		"lat": 52.461871,
+		"lng": 13.549752,
+		"address": "An der Wulheide 197",
+		"postalCode": "12459",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"German Restaurant",
+			"Roof Deck"
+		]
 	},
 	{
 		"date": "2019-05-11T12:36:58.000Z",
 		"name": "Café Alfons",
-		"id": "5072ed91e4b05fb6c4b8870b"
+		"id": "5072ed91e4b05fb6c4b8870b",
+		"lat": 52.461320965509856,
+		"lng": 13.548318039770415,
+		"address": "Straße zum FEZ 2",
+		"postalCode": "12459",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Café"
+		]
 	},
 	{
 		"date": "2019-05-11T14:22:39.000Z",
 		"name": "Bahnhof Berlin Schöneweide",
-		"id": "4b20c85ff964a520973424e3"
+		"id": "4b20c85ff964a520973424e3",
+		"lat": 52.45483256664975,
+		"lng": 13.509793281555176,
+		"address": "Cajamarcaplatz 1",
+		"postalCode": "12439",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Train Station",
+			"Light Rail Station"
+		]
 	},
 	{
 		"date": "2019-05-11T14:27:01.000Z",
 		"name": "Gleis 5/6",
-		"id": "59acf319112c6c22fec9c5aa"
+		"id": "59acf319112c6c22fec9c5aa",
+		"lat": 52.45487857170658,
+		"lng": 13.511882951734055,
+		"postalCode": "12439",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Platform"
+		]
 	},
 	{
 		"date": "2019-05-11T14:51:15.000Z",
 		"name": "S+U Hermannstraße",
-		"id": "4af43923f964a520b1f021e3"
+		"id": "4af43923f964a520b1f021e3",
+		"lat": 52.46752293645975,
+		"lng": 13.431306313150502,
+		"address": "Hermannstr. 160",
+		"postalCode": "12051",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Light Rail Station",
+			"Metro Station"
+		]
 	},
 	{
 		"date": "2019-05-11T14:55:34.000Z",
 		"name": "S+U Tempelhof",
-		"id": "4b05b648f964a5206ae122e3"
+		"id": "4b05b648f964a5206ae122e3",
+		"lat": 52.470651707494795,
+		"lng": 13.384737968444824,
+		"address": "Tempelhofer Damm",
+		"postalCode": "12101",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Light Rail Station",
+			"Metro Station"
+		]
 	},
 	{
 		"date": "2019-05-11T14:57:55.000Z",
 		"name": "U6",
-		"id": "5831b34efbe8ff780050a102"
+		"id": "5831b34efbe8ff780050a102",
+		"lat": 52.438854,
+		"lng": 13.387555,
+		"postalCode": "12107",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Train"
+		]
 	},
 	{
 		"date": "2019-05-11T15:05:49.000Z",
 		"name": "U Paradestraße",
-		"id": "4b05b5c0f964a52059e122e3"
+		"id": "4b05b5c0f964a52059e122e3",
+		"lat": 52.477961281112556,
+		"lng": 13.385738240980322,
+		"address": "Tempelhofer Damm",
+		"postalCode": "12101",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Metro Station"
+		]
 	},
 	{
 		"date": "2019-05-11T15:06:00.000Z",
 		"name": "Ankunftshalle Flughafen Tempelhof",
-		"id": "50643cd0e4b0512b928c2196"
+		"id": "50643cd0e4b0512b928c2196",
+		"lat": 52.48228364596003,
+		"lng": 13.389437198638916,
+		"address": "Platz der Luftbrücke",
+		"postalCode": "12101",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-05-11T15:25:24.000Z",
 		"name": "Platz der Luftbrücke",
-		"id": "4c80ed35d4e2370449885888"
+		"id": "4c80ed35d4e2370449885888",
+		"lat": 52.48477458178193,
+		"lng": 13.3858816656431,
+		"address": "Tempelhofer Damm",
+		"postalCode": "12101",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-05-11T15:26:46.000Z",
 		"name": "Berlin Airlift Memorial (Luftbrückendenkmal)",
-		"id": "4dd7c0092271c5d36d4235e6"
+		"id": "4dd7c0092271c5d36d4235e6",
+		"lat": 52.48412617652719,
+		"lng": 13.387393355369568,
+		"address": "Platz der Luftbrücke",
+		"postalCode": "12101",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2019-05-11T15:37:24.000Z",
 		"name": "U Platz der Luftbrücke",
-		"id": "4b0839edf964a520be0623e3"
+		"id": "4b0839edf964a520be0623e3",
+		"lat": 52.48567257074576,
+		"lng": 13.385847941207539,
+		"address": "Mehringdamm",
+		"postalCode": "10965",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Metro Station"
+		]
 	},
 	{
 		"date": "2019-05-11T15:47:20.000Z",
 		"name": "Mehringplatz",
-		"id": "4adcda7ef964a520df4721e3"
+		"id": "4adcda7ef964a520df4721e3",
+		"lat": 52.499608715537015,
+		"lng": 13.392690107439615,
+		"address": "Mehringplatz",
+		"postalCode": "10969",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-05-11T15:51:15.000Z",
 		"name": "Elektron Studio Berlin",
-		"id": "5cd30f10c876c8002cef772d"
+		"id": "5cd30f10c876c8002cef772d",
+		"lat": 52.502524,
+		"lng": 13.391254,
+		"country": "Deutschland",
+		"categories": [
+			"Music Store"
+		]
 	},
 	{
 		"date": "2019-05-11T15:58:31.000Z",
 		"name": "Checkpoint Charlie",
-		"id": "4adcda7ef964a520e04721e3"
+		"id": "4adcda7ef964a520e04721e3",
+		"lat": 52.50761778699864,
+		"lng": 13.390397163012407,
+		"address": "Friedrichstr.",
+		"postalCode": "10969",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-05-11T16:13:57.000Z",
 		"name": "Vapiano",
-		"id": "5bc4c75838f2160025ad5f72"
+		"id": "5bc4c75838f2160025ad5f72",
+		"lat": 52.50859093501225,
+		"lng": 13.390347287267327,
+		"address": "Friedrichstr. 50",
+		"postalCode": "10117",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-11T16:38:02.000Z",
 		"name": "Mitte",
-		"id": "4c042fe239d476b03b2931a7"
+		"id": "4c042fe239d476b03b2931a7",
+		"lat": 52.51823171651846,
+		"lng": 13.402333259582518,
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-05-11T16:45:36.000Z",
 		"name": "Unter den Linden",
-		"id": "4bb5e38d6edc76b00d1d301c"
+		"id": "4bb5e38d6edc76b00d1d301c",
+		"lat": 52.51718712925783,
+		"lng": 13.391733169555664,
+		"address": "Unter den Linden",
+		"postalCode": "10117",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Road"
+		]
 	},
 	{
 		"date": "2019-05-11T16:51:39.000Z",
 		"name": "Brandenburg Gate (Brandenburger Tor)",
-		"id": "4adcda7cf964a520524721e3"
+		"id": "4adcda7cf964a520524721e3",
+		"lat": 52.516246979489246,
+		"lng": 13.377785682678223,
+		"address": "Pariser Platz",
+		"postalCode": "10117",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Monument / Landmark",
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-05-11T16:59:00.000Z",
 		"name": "Pariser Platz",
-		"id": "4adcda7ff964a520f34721e3"
+		"id": "4adcda7ff964a520f34721e3",
+		"lat": 52.515292486801656,
+		"lng": 13.38004243120501,
+		"address": "Unter den Linden",
+		"postalCode": "10117",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-05-11T17:23:12.000Z",
 		"name": "Kaskadenbrunnen am Fernsehturm",
-		"id": "4e7f28d36c258cabb8f98e54"
+		"id": "4e7f28d36c258cabb8f98e54",
+		"lat": 52.52017066578495,
+		"lng": 13.40806245803833,
+		"address": "Alexanderplatz",
+		"postalCode": "10178",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Fountain"
+		]
 	},
 	{
 		"date": "2019-05-11T17:23:30.000Z",
 		"name": "Berlin TV Tower (Berliner Fernsehturm)",
-		"id": "4adcda7cf964a520504721e3"
+		"id": "4adcda7cf964a520504721e3",
+		"lat": 52.52071736861009,
+		"lng": 13.410885975427497,
+		"address": "Panoramastr. 1",
+		"postalCode": "10178",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Scenic Lookout",
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2019-05-11T18:31:56.000Z",
 		"name": "Vapiano",
-		"id": "53d916b3498ee8ce23096e52"
+		"id": "53d916b3498ee8ce23096e52",
+		"lat": 52.520445,
+		"lng": 13.410962,
+		"address": "Rathhausstr. 6",
+		"postalCode": "10178",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-11T18:56:00.000Z",
 		"name": "Hackescher Markt",
-		"id": "4adcda7df964a520664721e3"
+		"id": "4adcda7df964a520664721e3",
+		"lat": 52.52299349801406,
+		"lng": 13.40237760464655,
+		"address": "Neue Promenade",
+		"postalCode": "10178",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-05-11T18:56:10.000Z",
 		"name": "H S Hackescher Markt",
-		"id": "4b8bfefff964a52048b732e3"
+		"id": "4b8bfefff964a52048b732e3",
+		"lat": 52.52378719769318,
+		"lng": 13.402601480484009,
+		"address": "Rosenthaler Str.",
+		"postalCode": "10178",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Tram Station",
+			"Bus Stop"
+		]
 	},
 	{
 		"date": "2019-05-11T18:58:06.000Z",
 		"name": "S Hackescher Markt",
-		"id": "4af5421ef964a520acf821e3"
+		"id": "4af5421ef964a520acf821e3",
+		"lat": 52.52270376285392,
+		"lng": 13.401862292837192,
+		"address": "Am Zwirngraben",
+		"postalCode": "10178",
+		"city": "Berlin",
+		"country": "Deutschland",
+		"categories": [
+			"Light Rail Station"
+		]
 	},
 	{
 		"date": "2019-05-11T20:02:41.000Z",
 		"name": "InterCityHotel Berlin-Brandenburg Airport",
-		"id": "4bb22bbaf964a520d5bf3ce3"
+		"id": "4bb22bbaf964a520d5bf3ce3",
+		"lat": 52.3922004676859,
+		"lng": 13.518464380686055,
+		"address": "Am Seegraben 2",
+		"postalCode": "12529",
+		"city": "Berlin-Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-05-12T03:08:28.000Z",
 		"name": "Berlin Schönefeld Airport (SXF) (Flughafen Berlin-Schönefeld)",
-		"id": "4adcda91f964a520ae4b21e3"
+		"id": "4adcda91f964a520ae4b21e3",
+		"lat": 52.38801578881554,
+		"lng": 13.518075942993164,
+		"address": "Flughafen 1",
+		"postalCode": "12529",
+		"city": "Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-05-12T03:16:14.000Z",
 		"name": "Terminal A",
-		"id": "4eee0d64e3002155942a87fb"
+		"id": "4eee0d64e3002155942a87fb",
+		"lat": 52.388591282311,
+		"lng": 13.518866228114348,
+		"address": "SXF Airport",
+		"postalCode": "12529",
+		"city": "Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-05-12T03:29:23.000Z",
 		"name": "Security Check Terminal A",
-		"id": "4f4328eae4b0a2bdc711a9a7"
+		"id": "4f4328eae4b0a2bdc711a9a7",
+		"lat": 52.38860217584216,
+		"lng": 13.51878526339245,
+		"address": "Terminal A",
+		"postalCode": "12529",
+		"city": "Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Airport Service"
+		]
 	},
 	{
 		"date": "2019-05-12T03:52:04.000Z",
 		"name": "Gate 59",
-		"id": "4db4e99bf7b121c29f5524b1"
+		"id": "4db4e99bf7b121c29f5524b1",
+		"lat": 52.38874093880734,
+		"lng": 13.521061120499683,
+		"address": "Terminal B",
+		"postalCode": "12521",
+		"city": "Schönefeld",
+		"country": "Deutschland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-05-12T05:59:55.000Z",
 		"name": "Gate M1",
-		"id": "4b69279ff964a520849a2be3"
+		"id": "4b69279ff964a520849a2be3",
+		"lat": 52.3105973023824,
+		"lng": 4.75595888148702,
+		"address": "Concourse M",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-05-12T06:00:11.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-05-12T06:06:12.000Z",
 		"name": "Baggage Belts",
-		"id": "4cadb1a50e7bbfb737705b83"
+		"id": "4cadb1a50e7bbfb737705b83",
+		"lat": 52.30881082020925,
+		"lng": 4.764053471569788,
+		"address": "AMS Airport",
+		"postalCode": "1118 CP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Baggage Claim"
+		]
 	},
 	{
 		"date": "2019-05-12T19:00:08.000Z",
 		"name": "De Ruimte",
-		"id": "568ec9f9498e5178aadaa516"
+		"id": "568ec9f9498e5178aadaa516",
+		"lat": 52.39231040713604,
+		"lng": 4.905668358534406,
+		"address": "Distelweg 83",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Bar",
+			"Bistro",
+			"Music Venue"
+		]
 	},
 	{
 		"date": "2019-05-12T22:31:54.000Z",
 		"name": "Hendriks",
-		"id": "4c1baf0bb9f876b0ffa47a46"
+		"id": "4c1baf0bb9f876b0ffa47a46",
+		"lat": 52.385741699163546,
+		"lng": 4.645278994237289,
+		"address": "Friese varkenmarkt 2-12",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2019-05-12T22:57:57.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-13T17:34:17.000Z",
 		"name": "Prinsen Bolwerk Park",
-		"id": "4e04bb19e4cd92cb899e6705"
+		"id": "4e04bb19e4cd92cb899e6705",
+		"lat": 52.389006563359246,
+		"lng": 4.639282269040078,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-05-13T18:52:31.000Z",
 		"name": "Sumo Sushi & Noodle Bar",
-		"id": "57128a7f498e83b7c0c72fee"
+		"id": "57128a7f498e83b7c0c72fee",
+		"lat": 52.38442613959124,
+		"lng": 4.636003751140443,
+		"address": "Kruisstraat 9",
+		"postalCode": "2011 PV",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Sushi Restaurant",
+			"Noodle House"
+		]
 	},
 	{
 		"date": "2019-05-13T20:05:28.000Z",
 		"name": "Café de Vijfhoek",
-		"id": "4a7b53d1f964a520b1ea1fe3"
+		"id": "4a7b53d1f964a520b1ea1fe3",
+		"lat": 52.37887462473104,
+		"lng": 4.6301965984374895,
+		"address": "Wolstraat 20",
+		"postalCode": "2011ZA",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Bar"
+		]
 	},
 	{
 		"date": "2019-05-13T21:03:42.000Z",
 		"name": "Molen De Adriaan",
-		"id": "4bd40566462cb71341a8df07"
+		"id": "4bd40566462cb71341a8df07",
+		"lat": 52.383579118468994,
+		"lng": 4.642454697500154,
+		"address": "Scheepmakersdijk",
+		"postalCode": "2011",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Monument / Landmark",
+			"Museum"
+		]
 	},
 	{
 		"date": "2019-05-14T09:56:25.000Z",
 		"name": "Vomar Voordeelmarkt",
-		"id": "4b72c969f964a52096882de3"
+		"id": "4b72c969f964a52096882de3",
+		"lat": 52.39127711020139,
+		"lng": 4.649005288257338,
+		"address": "Paul Krugerkade 22",
+		"postalCode": "2021 BN",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2019-05-14T16:31:55.000Z",
 		"name": "Splendor",
-		"id": "5254b924498eb2b2983186b9"
+		"id": "5254b924498eb2b2983186b9",
+		"lat": 52.36982517969973,
+		"lng": 4.903061985969543,
+		"address": "Nieuwe Uilenburgerstraat 116",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Music Venue"
+		]
 	},
 	{
 		"date": "2019-05-15T09:50:12.000Z",
 		"name": "Kamera Express",
-		"id": "5be5ac9b5c68380039e77c2c"
+		"id": "5be5ac9b5c68380039e77c2c",
+		"lat": 52.37985,
+		"lng": 4.636356,
+		"address": "Anegang 32",
+		"postalCode": "2011 HS",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Camera Store",
+			"Photography Lab"
+		]
 	},
 	{
 		"date": "2019-05-15T09:57:49.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-15T11:39:37.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-15T21:12:36.000Z",
 		"name": "Aan de (Nieuwe)Gracht",
-		"id": "4dadb3a9fa8cf64d804e00af"
+		"id": "4dadb3a9fa8cf64d804e00af",
+		"lat": 52.385038012286394,
+		"lng": 4.638014586966368,
+		"address": "Nieuwe Gracht",
+		"postalCode": "2011NM",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Other Great Outdoors"
+		]
 	},
 	{
 		"date": "2019-05-16T16:31:05.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-16T17:15:43.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-05-16T17:36:55.000Z",
 		"name": "Albert Heijn to go",
-		"id": "4b862ee0f964a520038231e3"
+		"id": "4b862ee0f964a520038231e3",
+		"lat": 52.38851437453483,
+		"lng": 4.639542485412089,
+		"address": "Stationsplein 14",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store"
+		]
 	},
 	{
 		"date": "2019-05-16T18:02:31.000Z",
 		"name": "Station Zandvoort aan Zee",
-		"id": "4b235a53f964a5205c5524e3"
+		"id": "4b235a53f964a5205c5524e3",
+		"lat": 52.3757860855875,
+		"lng": 4.531738906725922,
+		"address": "Stationsplein 6",
+		"postalCode": "2041AB",
+		"city": "Zandvoort",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-16T18:02:41.000Z",
 		"name": "Passage, Zandvoort",
-		"id": "5049ff43e4b0e6163543006d"
+		"id": "5049ff43e4b0e6163543006d",
+		"lat": 52.37494091701734,
+		"lng": 4.528991312184849,
+		"address": "Passage",
+		"city": "Zandvoort",
+		"country": "Nederland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-05-16T18:17:55.000Z",
 		"name": "Strand Zandvoort aan Zee",
-		"id": "4c2f344b3896e21e3978e390"
+		"id": "4c2f344b3896e21e3978e390",
+		"lat": 52.375486156134436,
+		"lng": 4.525765926071059,
+		"address": "Boulevard de Favauge",
+		"city": "Zandvoort",
+		"country": "Nederland",
+		"categories": [
+			"Beach"
+		]
 	},
 	{
 		"date": "2019-05-16T18:37:26.000Z",
 		"name": "Passage, Zandvoort",
-		"id": "5049ff43e4b0e6163543006d"
+		"id": "5049ff43e4b0e6163543006d",
+		"lat": 52.37494091701734,
+		"lng": 4.528991312184849,
+		"address": "Passage",
+		"city": "Zandvoort",
+		"country": "Nederland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-05-16T19:12:45.000Z",
 		"name": "Vooges",
-		"id": "4a7c684ff964a52086ec1fe3"
+		"id": "4a7c684ff964a52086ec1fe3",
+		"lat": 52.363960984843395,
+		"lng": 4.518526576479045,
+		"address": "Boulevard Paulus Loot 1a",
+		"postalCode": "2042 AD",
+		"city": "Zandvoort",
+		"country": "Nederland",
+		"categories": [
+			"Seafood Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-16T21:00:35.000Z",
 		"name": "Station Zandvoort aan Zee",
-		"id": "4b235a53f964a5205c5524e3"
+		"id": "4b235a53f964a5205c5524e3",
+		"lat": 52.3757860855875,
+		"lng": 4.531738906725922,
+		"address": "Stationsplein 6",
+		"postalCode": "2041AB",
+		"city": "Zandvoort",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-16T21:20:18.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-16T22:31:41.000Z",
 		"name": "Bierlokaal Uiver",
-		"id": "5b4a4fc9b8fd9d002cd70d96"
+		"id": "5b4a4fc9b8fd9d002cd70d96",
+		"lat": 52.381971,
+		"lng": 4.63892,
+		"address": "Lange Begijnestraat 10",
+		"postalCode": "2011 HH",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Beer Bar"
+		]
 	},
 	{
 		"date": "2019-05-17T10:44:50.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-05-17T13:10:47.000Z",
 		"name": "Amsterdam Centraal Ferry",
-		"id": "4f7f3484e4b0683814707e6c"
+		"id": "4f7f3484e4b0683814707e6c",
+		"lat": 52.37970102939873,
+		"lng": 4.901447538361027,
+		"country": "Nederland",
+		"categories": [
+			"Boat or Ferry"
+		]
 	},
 	{
 		"date": "2019-05-17T13:31:25.000Z",
 		"name": "EXKi",
-		"id": "55bcab58498e40dc86611d61"
+		"id": "55bcab58498e40dc86611d61",
+		"lat": 52.38012820199767,
+		"lng": 4.900088066696967,
+		"address": "De Ruiterkade 48",
+		"postalCode": "1012 AA",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Vegetarian / Vegan Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-17T14:12:24.000Z",
 		"name": "Stadsdeel Noord",
-		"id": "4e48cbd7fa76a07fde784d3b"
+		"id": "4e48cbd7fa76a07fde784d3b",
+		"lat": 52.39182616784679,
+		"lng": 4.913245433384497,
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-05-17T14:46:15.000Z",
 		"name": "Noorderlicht",
-		"id": "4a2703d9f964a5209d851fe3"
+		"id": "4a2703d9f964a5209d851fe3",
+		"lat": 52.399570226754,
+		"lng": 4.8966890483948715,
+		"address": "NDSM Plein 102",
+		"postalCode": "1033 WB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Café",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-17T15:19:18.000Z",
 		"name": "NDSM wharf (NDSM werf)",
-		"id": "4c11d1448559ef3b9cd06a53"
+		"id": "4c11d1448559ef3b9cd06a53",
+		"lat": 52.40019324972672,
+		"lng": 4.893293380737305,
+		"address": "Tt. Neveritaweg 61",
+		"postalCode": "1033 WB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Harbor / Marina",
+			"Historic Site",
+			"Event Space"
+		]
 	},
 	{
 		"date": "2019-05-17T16:06:05.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-17T16:29:48.000Z",
 		"name": "Dam",
-		"id": "4b9ff646f964a520f44d37e3"
+		"id": "4b9ff646f964a520f44d37e3",
+		"lat": 52.37300539279099,
+		"lng": 4.892928600311278,
+		"address": "Dam",
+		"postalCode": "1012 NP",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-05-17T16:40:12.000Z",
 		"name": "Red Light District (De Wallen)",
-		"id": "4c78d269df08a1cdf5b6d85d"
+		"id": "4c78d269df08a1cdf5b6d85d",
+		"lat": 52.37371828211508,
+		"lng": 4.898543964274661,
+		"postalCode": "1012",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-05-17T17:18:32.000Z",
 		"name": "Pancakes Amsterdam Centraal",
-		"id": "5645f97c498e3872860c1852"
+		"id": "5645f97c498e3872860c1852",
+		"lat": 52.376600886242194,
+		"lng": 4.89913968007647,
+		"address": "Prins Hendrikkade 48",
+		"postalCode": "1012AC",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Creperie"
+		]
 	},
 	{
 		"date": "2019-05-17T22:14:51.000Z",
 		"name": "Vondelpark",
-		"id": "4a27071df964a520f98c1fe3"
+		"id": "4a27071df964a520f98c1fe3",
+		"lat": 52.35814715043192,
+		"lng": 4.867072105407715,
+		"address": "Vondelpark",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-05-17T22:35:51.000Z",
 		"name": "Momo Bar",
-		"id": "52a5f10011d2df415bc3fc21"
+		"id": "52a5f10011d2df415bc3fc21",
+		"lat": 52.3616716505778,
+		"lng": 4.882481569190376,
+		"address": "Hobbemastraat 1",
+		"postalCode": "1071 XZ",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Cocktail Bar"
+		]
 	},
 	{
 		"date": "2019-05-18T06:47:24.000Z",
 		"name": "Den Haag Centraal Railway Station (Station Den Haag Centraal)",
-		"id": "4aeff0e3f964a52060da21e3"
+		"id": "4aeff0e3f964a52060da21e3",
+		"lat": 52.08121937964098,
+		"lng": 4.32461878275475,
+		"address": "Koningin Julianaplein 10",
+		"postalCode": "2595 AA",
+		"city": "Den Haag",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-18T07:29:06.000Z",
 		"name": "Rotterdam Central Station (Station Rotterdam Centraal)",
-		"id": "4ae19cc4f964a520678621e3"
+		"id": "4ae19cc4f964a520678621e3",
+		"lat": 51.92536602394011,
+		"lng": 4.469021675569301,
+		"address": "Stationssingel 10",
+		"postalCode": "3013 HA",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-18T07:44:10.000Z",
 		"name": "Heilige Boontjes",
-		"id": "57cc2af0498e011eaf3c7880"
+		"id": "57cc2af0498e011eaf3c7880",
+		"lat": 51.91666490441856,
+		"lng": 4.473258823188538,
+		"address": "Eendrachtsplein",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2019-05-18T09:12:00.000Z",
 		"name": "WORM",
-		"id": "4c30915aed37a593ae046903"
+		"id": "4c30915aed37a593ae046903",
+		"lat": 51.91564622542384,
+		"lng": 4.476397066924331,
+		"address": "Boomgaardsstraat 71",
+		"postalCode": "3012 XA",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Music Venue",
+			"Movie Theater",
+			"Performing Arts Venue"
+		]
 	},
 	{
 		"date": "2019-05-18T09:14:10.000Z",
 		"name": "Waveform Research Centre",
-		"id": "5cdfcccfaa6c950039c5222a"
+		"id": "5cdfcccfaa6c950039c5222a",
+		"lat": 51.916078,
+		"lng": 4.476419,
+		"address": "Boomgaardsstraat 71",
+		"postalCode": "3012 XD",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Recording Studio"
+		]
 	},
 	{
 		"date": "2019-05-18T12:15:11.000Z",
 		"name": "Hamburg",
-		"id": "51379249e4b05751c284c403"
+		"id": "51379249e4b05751c284c403",
+		"lat": 51.915062,
+		"lng": 4.475522,
+		"address": "Witte de Withstraat 94B",
+		"postalCode": "3012 BT",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Burger Joint",
+			"American Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-18T15:10:19.000Z",
 		"name": "Erasmus bridge (Erasmusbrug)",
-		"id": "4bb4cd38f1b976b0af541f20"
+		"id": "4bb4cd38f1b976b0af541f20",
+		"lat": 51.909135466826044,
+		"lng": 4.485829814949875,
+		"address": "Erasmusbrug",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Bridge"
+		]
 	},
 	{
 		"date": "2019-05-18T16:04:47.000Z",
 		"name": "Den Haag Centraal Railway Station (Station Den Haag Centraal)",
-		"id": "4aeff0e3f964a52060da21e3"
+		"id": "4aeff0e3f964a52060da21e3",
+		"lat": 52.08121937964098,
+		"lng": 4.32461878275475,
+		"address": "Koningin Julianaplein 10",
+		"postalCode": "2595 AA",
+		"city": "Den Haag",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-18T16:21:23.000Z",
 		"name": "New Babylon: Park Tower",
-		"id": "518be92babd8b973bc5a9640"
+		"id": "518be92babd8b973bc5a9640",
+		"lat": 52.082050722914815,
+		"lng": 4.324694475643511,
+		"address": "New Babylon Complex",
+		"city": "Den Haag",
+		"country": "Nederland",
+		"categories": [
+			"Building"
+		]
 	},
 	{
 		"date": "2019-05-18T16:32:41.000Z",
 		"name": "Den Haag Centrum",
-		"id": "4aea0098f964a52064b821e3"
+		"id": "4aea0098f964a52064b821e3",
+		"lat": 52.07733274710456,
+		"lng": 4.31276731707468,
+		"city": "Den Haag",
+		"country": "Nederland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-05-18T16:47:47.000Z",
 		"name": "Albert Heijn to go",
-		"id": "4b86351af964a520b08231e3"
+		"id": "4b86351af964a520b08231e3",
+		"lat": 52.08144278766952,
+		"lng": 4.324597811586194,
+		"address": "Station Den Haag Centraal",
+		"postalCode": "2595 AA",
+		"city": "Den Haag",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store"
+		]
 	},
 	{
 		"date": "2019-05-18T17:23:45.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-18T17:28:38.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-05-19T07:41:19.000Z",
 		"name": "McDonald's",
-		"id": "52dd1c0b498ee46b70aeecf4"
+		"id": "52dd1c0b498ee46b70aeecf4",
+		"lat": 51.91832694964592,
+		"lng": 4.480003273123732,
+		"address": "Coolsingel 207",
+		"postalCode": "3012 AG",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Fast Food Restaurant",
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2019-05-19T08:49:26.000Z",
 		"name": "Waveform Research Centre",
-		"id": "5cdfcccfaa6c950039c5222a"
+		"id": "5cdfcccfaa6c950039c5222a",
+		"lat": 51.916078,
+		"lng": 4.476419,
+		"address": "Boomgaardsstraat 71",
+		"postalCode": "3012 XD",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Recording Studio"
+		]
 	},
 	{
 		"date": "2019-05-19T09:53:33.000Z",
 		"name": "Cool",
-		"id": "512330a5e4b0c9ac9e0ae242"
+		"id": "512330a5e4b0c9ac9e0ae242",
+		"lat": 51.9206334519741,
+		"lng": 4.47738977671277,
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-05-19T13:29:03.000Z",
 		"name": "Lunchroom van Nes",
-		"id": "4d569354fb65236a5e3307b4"
+		"id": "4d569354fb65236a5e3307b4",
+		"lat": 51.921000862921716,
+		"lng": 4.477577789058346,
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Bakery",
+			"Deli / Bodega"
+		]
 	},
 	{
 		"date": "2019-05-19T13:57:26.000Z",
 		"name": "Waveform Research Centre",
-		"id": "5cdfcccfaa6c950039c5222a"
+		"id": "5cdfcccfaa6c950039c5222a",
+		"lat": 51.916078,
+		"lng": 4.476419,
+		"address": "Boomgaardsstraat 71",
+		"postalCode": "3012 XD",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Recording Studio"
+		]
 	},
 	{
 		"date": "2019-05-19T14:03:18.000Z",
 		"name": "Markthal",
-		"id": "4d61143db6b9a1cd8b2b8351"
+		"id": "4d61143db6b9a1cd8b2b8351",
+		"lat": 51.920137480908274,
+		"lng": 4.48725882417661,
+		"address": "Ds. Jan Scharpstraat 298",
+		"postalCode": "3011 GZ",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Market"
+		]
 	},
 	{
 		"date": "2019-05-19T14:16:54.000Z",
 		"name": "Oude Haven",
-		"id": "4c1dd927c09ed13aeee4828e"
+		"id": "4c1dd927c09ed13aeee4828e",
+		"lat": 51.919674850901615,
+		"lng": 4.491448486586028,
+		"address": "Geldersekade",
+		"postalCode": "3011",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Harbor / Marina",
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-05-19T14:26:58.000Z",
 		"name": "Laurenskerk",
-		"id": "4af5d560f964a52084fd21e3"
+		"id": "4af5d560f964a52084fd21e3",
+		"lat": 51.92174,
+		"lng": 4.48513,
+		"address": "Grotekerkplein 27",
+		"postalCode": "3011 GC",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Church"
+		]
 	},
 	{
 		"date": "2019-05-19T15:22:15.000Z",
 		"name": "SPAR city Corandewal",
-		"id": "4cc6c6d182388cfac2db7d35"
+		"id": "4cc6c6d182388cfac2db7d35",
+		"lat": 51.91585210790247,
+		"lng": 4.478003895372021,
+		"address": "Witte de Withstraat 32 - 34",
+		"postalCode": "3012 BP",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store",
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2019-05-19T17:53:11.000Z",
 		"name": "Station Rotterdam Blaak",
-		"id": "4b0a965bf964a520622523e3"
+		"id": "4b0a965bf964a520622523e3",
+		"lat": 51.92005359573271,
+		"lng": 4.4891380218563866,
+		"address": "Blaak 11",
+		"postalCode": "3011 GA",
+		"city": "Rotterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-19T19:08:46.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-20T10:51:06.000Z",
 		"name": "Kamera Express",
-		"id": "5be5ac9b5c68380039e77c2c"
+		"id": "5be5ac9b5c68380039e77c2c",
+		"lat": 52.37985,
+		"lng": 4.636356,
+		"address": "Anegang 32",
+		"postalCode": "2011 HS",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Camera Store",
+			"Photography Lab"
+		]
 	},
 	{
 		"date": "2019-05-20T11:12:40.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-21T10:43:52.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-05-21T17:01:57.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-22T16:20:20.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-22T16:56:09.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-05-22T18:51:46.000Z",
 		"name": "Pathé Haarlem",
-		"id": "4e148b7ac65bedaeefbe2709"
+		"id": "4e148b7ac65bedaeefbe2709",
+		"lat": 52.381759575266265,
+		"lng": 4.6295865068192885,
+		"address": "Zijlvest 41-43",
+		"postalCode": "2011 VB",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Multiplex"
+		]
 	},
 	{
 		"date": "2019-05-23T10:33:30.000Z",
 		"name": "HEMA",
-		"id": "4b210645f964a520213624e3"
+		"id": "4b210645f964a520213624e3",
+		"lat": 52.3830414,
+		"lng": 4.6354098,
+		"address": "Kruisstraat 51",
+		"postalCode": "2011 PW",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Department Store"
+		]
 	},
 	{
 		"date": "2019-05-23T10:43:50.000Z",
 		"name": "SUBWAY",
-		"id": "4e899f5e9a52f9bbd0e654b4"
+		"id": "4e899f5e9a52f9bbd0e654b4",
+		"lat": 52.382863727754575,
+		"lng": 4.635100972590294,
+		"address": "Krocht 12",
+		"postalCode": "2011 PT",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Sandwich Place",
+			"Fast Food Restaurant",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-23T11:07:18.000Z",
 		"name": "Albert Heijn to go",
-		"id": "4b862ee0f964a520038231e3"
+		"id": "4b862ee0f964a520038231e3",
+		"lat": 52.38851437453483,
+		"lng": 4.639542485412089,
+		"address": "Stationsplein 14",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store"
+		]
 	},
 	{
 		"date": "2019-05-23T17:07:06.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-24T09:50:35.000Z",
 		"name": "Kamera Express",
-		"id": "5be5ac9b5c68380039e77c2c"
+		"id": "5be5ac9b5c68380039e77c2c",
+		"lat": 52.37985,
+		"lng": 4.636356,
+		"address": "Anegang 32",
+		"postalCode": "2011 HS",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Camera Store",
+			"Photography Lab"
+		]
 	},
 	{
 		"date": "2019-05-24T09:52:25.000Z",
 		"name": "Chickpea",
-		"id": "595f634520795548e35d02f7"
+		"id": "595f634520795548e35d02f7",
+		"lat": 52.379471,
+		"lng": 4.637003,
+		"postalCode": "2011 DM",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Falafel Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-24T10:03:53.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-24T17:13:45.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-24T17:37:17.000Z",
 		"name": "Metrostation Amsterdam Centraal",
-		"id": "4aa604b9f964a520a94920e3"
+		"id": "4aa604b9f964a520a94920e3",
+		"lat": 52.37808230124436,
+		"lng": 4.899694753343226,
+		"address": "Stationsplein",
+		"postalCode": "1021 BX",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Metro Station"
+		]
 	},
 	{
 		"date": "2019-05-24T17:40:41.000Z",
 		"name": "Weesperplein",
-		"id": "5048b887e4b0b821a93354de"
+		"id": "5048b887e4b0b821a93354de",
+		"lat": 52.361252254801904,
+		"lng": 4.907920962891243,
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-05-24T17:55:37.000Z",
 		"name": "D&A Hummus Bistro",
-		"id": "59f5c6fa81635b6a6315e838"
+		"id": "59f5c6fa81635b6a6315e838",
+		"lat": 52.36756123231274,
+		"lng": 4.925378812803362,
+		"address": "Oostenburgergracht 185",
+		"postalCode": "1018ND",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Middle Eastern Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-24T22:18:41.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-25T04:44:28.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-25T05:54:52.000Z",
 		"name": "Total",
-		"id": "4c43438eaf052d7f0c1f8079"
+		"id": "4c43438eaf052d7f0c1f8079",
+		"lat": 52.16316486,
+		"lng": 5.53377403,
+		"address": "A1 11",
+		"postalCode": "3784 WJ",
+		"city": "Terschuur",
+		"country": "Nederland",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2019-05-25T07:30:31.000Z",
 		"name": "Landschaftspark Duisburg-Nord",
-		"id": "4b4cd470f964a5209ec026e3"
+		"id": "4b4cd470f964a5209ec026e3",
+		"lat": 51.481810515561335,
+		"lng": 6.7844438552856445,
+		"address": "Emscherstr.",
+		"postalCode": "47137",
+		"city": "Duisburg",
+		"country": "Deutschland",
+		"categories": [
+			"Park",
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-05-25T08:03:18.000Z",
 		"name": "Hochofen 5 (Aussichtsplattform)",
-		"id": "4d45836ebf61a1cd3be913ac"
+		"id": "4d45836ebf61a1cd3be913ac",
+		"lat": 51.480295164028334,
+		"lng": 6.7800997664041,
+		"address": "Emscherstr. 71",
+		"postalCode": "47137",
+		"city": "Duisburg",
+		"country": "Deutschland",
+		"categories": [
+			"Scenic Lookout",
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-05-25T08:22:56.000Z",
 		"name": "Landschaftspark Duisburg-Nord",
-		"id": "4b4cd470f964a5209ec026e3"
+		"id": "4b4cd470f964a5209ec026e3",
+		"lat": 51.481810515561335,
+		"lng": 6.7844438552856445,
+		"address": "Emscherstr.",
+		"postalCode": "47137",
+		"city": "Duisburg",
+		"country": "Deutschland",
+		"categories": [
+			"Park",
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-05-25T09:50:23.000Z",
 		"name": "Dornaper Röschen",
-		"id": "4cb195bcdb32f04d2e6ec94d"
+		"id": "4cb195bcdb32f04d2e6ec94d",
+		"lat": 51.25206417929893,
+		"lng": 7.063620885741907,
+		"address": "Düsseldorfer Straße 377",
+		"postalCode": "42327",
+		"city": "Wuppertal",
+		"country": "Deutschland",
+		"categories": [
+			"Flower Shop"
+		]
 	},
 	{
 		"date": "2019-05-25T10:10:47.000Z",
 		"name": "Edeka Billstein",
-		"id": "4d03600f26adb1f7cdf4cb70"
+		"id": "4d03600f26adb1f7cdf4cb70",
+		"lat": 51.26905883720005,
+		"lng": 7.209157719602961,
+		"address": "Albertstr. 42-45",
+		"postalCode": "42289",
+		"city": "Wuppertal",
+		"country": "Deutschland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-25T11:03:36.000Z",
 		"name": "Getränke Billstein",
-		"id": "5a1c15f0db1d81317758029c"
+		"id": "5a1c15f0db1d81317758029c",
+		"lat": 51.269141,
+		"lng": 7.209361,
+		"country": "Deutschland",
+		"categories": [
+			"Food & Drink Shop",
+			"Beer Store"
+		]
 	},
 	{
 		"date": "2019-05-25T11:22:22.000Z",
 		"name": "Toelleturm",
-		"id": "4f770e5ce4b0d69368c07853"
+		"id": "4f770e5ce4b0d69368c07853",
+		"lat": 51.25266128819591,
+		"lng": 7.196393340579684,
+		"address": "Hohenzollernstraße",
+		"postalCode": "42287",
+		"city": "Wuppertal",
+		"country": "Deutschland",
+		"categories": [
+			"Scenic Lookout",
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2019-05-25T12:11:22.000Z",
 		"name": "Vorwerk Park",
-		"id": "4fafe9c5e4b0815908653ed2"
+		"id": "4fafe9c5e4b0815908653ed2",
+		"lat": 51.253899666694224,
+		"lng": 7.206724542013289,
+		"country": "Deutschland",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-05-25T14:51:19.000Z",
 		"name": "Kettwig",
-		"id": "4c0c8d8d7189c92888b7d5b6"
+		"id": "4c0c8d8d7189c92888b7d5b6",
+		"lat": 51.36251770528137,
+		"lng": 6.934402416111273,
+		"postalCode": "45219",
+		"city": "Essen",
+		"country": "Deutschland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-05-25T14:55:02.000Z",
 		"name": "Kettwig Altstadt",
-		"id": "52bb640b498e02dd5cbc0142"
+		"id": "52bb640b498e02dd5cbc0142",
+		"lat": 51.36322007036567,
+		"lng": 6.937378985234651,
+		"country": "Deutschland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-05-25T15:16:55.000Z",
 		"name": "Brücke Am Mühlengraben",
-		"id": "56f2a6e3498e7e4f34e6635b"
+		"id": "56f2a6e3498e7e4f34e6635b",
+		"lat": 51.36086360389017,
+		"lng": 6.937993840616111,
+		"country": "Deutschland",
+		"categories": [
+			"Bridge"
+		]
 	},
 	{
 		"date": "2019-05-25T15:17:13.000Z",
 		"name": "Brücken-Cafe",
-		"id": "51cec10e498ecb344b2bdbf9"
+		"id": "51cec10e498ecb344b2bdbf9",
+		"lat": 51.36180569162916,
+		"lng": 6.937890886738526,
+		"city": "Essen",
+		"country": "Deutschland",
+		"categories": [
+			"Café"
+		]
 	},
 	{
 		"date": "2019-05-25T16:19:52.000Z",
 		"name": "Ruhrufer Kettwig",
-		"id": "4df4bef6483bdb5e13789993"
+		"id": "4df4bef6483bdb5e13789993",
+		"lat": 51.36202522162867,
+		"lng": 6.937139181999669,
+		"address": "Leinpfad",
+		"postalCode": "45219",
+		"city": "Essen",
+		"country": "Deutschland",
+		"categories": [
+			"River"
+		]
 	},
 	{
 		"date": "2019-05-25T19:15:58.000Z",
 		"name": "Havixbeck",
-		"id": "5341b896498ef9e00e70560d"
+		"id": "5341b896498ef9e00e70560d",
+		"lat": 51.96993542818683,
+		"lng": 7.422584883268376,
+		"city": "Havixbeck",
+		"country": "Deutschland",
+		"categories": [
+			"Village"
+		]
 	},
 	{
 		"date": "2019-05-25T22:50:02.000Z",
 		"name": "Alte Mühle",
-		"id": "5ce9c691a6031c002c6dc0ae"
+		"id": "5ce9c691a6031c002c6dc0ae",
+		"lat": 51.947943,
+		"lng": 7.435216,
+		"address": "Natrup 20",
+		"city": "Havixbeck",
+		"country": "Deutschland",
+		"categories": [
+			"Vacation Rental"
+		]
 	},
 	{
 		"date": "2019-05-26T09:45:00.000Z",
 		"name": "Klute's Historisches Brauhaus",
-		"id": "4c5eb4ef85a1e21ed1d35c11"
+		"id": "4c5eb4ef85a1e21ed1d35c11",
+		"lat": 51.989185,
+		"lng": 7.393369,
+		"address": "Poppenbeck 28",
+		"city": "Havixbeck",
+		"country": "Deutschland",
+		"categories": [
+			"German Restaurant",
+			"Brewery"
+		]
 	},
 	{
 		"date": "2019-05-26T10:45:37.000Z",
 		"name": "Stadtgarten",
-		"id": "521d8c6111d24bd4f2bba2b3"
+		"id": "521d8c6111d24bd4f2bba2b3",
+		"lat": 51.51084464223155,
+		"lng": 7.464816525398224,
+		"address": "Hansastr.",
+		"postalCode": "44137",
+		"city": "Dortmund",
+		"country": "Deutschland",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-05-26T10:49:02.000Z",
 		"name": "Hansaplatz",
-		"id": "4c3c7f127d00d13a39f33850"
+		"id": "4c3c7f127d00d13a39f33850",
+		"lat": 51.51302859425153,
+		"lng": 7.464374787372988,
+		"address": "Hansaplatz",
+		"postalCode": "44137",
+		"city": "Dortmund",
+		"country": "Deutschland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-05-26T11:45:30.000Z",
 		"name": "Stadthaus",
-		"id": "4b501b5bf964a520ca1c27e3"
+		"id": "4b501b5bf964a520ca1c27e3",
+		"lat": 51.51095771728004,
+		"lng": 7.4672704495495195,
+		"address": "Südwall 2-4",
+		"postalCode": "44137",
+		"city": "Dortmund",
+		"country": "Deutschland",
+		"categories": [
+			"City Hall"
+		]
 	},
 	{
 		"date": "2019-05-26T12:01:27.000Z",
 		"name": "Parken am Friedensplatz",
-		"id": "4bd8686ce914a593c72253fa"
+		"id": "4bd8686ce914a593c72253fa",
+		"lat": 51.510385112942764,
+		"lng": 7.467055320739746,
+		"address": "Südwall 2",
+		"postalCode": "44137",
+		"city": "Dortmund",
+		"country": "Deutschland",
+		"categories": [
+			"Parking"
+		]
 	},
 	{
 		"date": "2019-05-26T12:18:53.000Z",
 		"name": "Vincketurm",
-		"id": "4d8f62d11d06b1f7acbc5d3b"
+		"id": "4d8f62d11d06b1f7acbc5d3b",
+		"lat": 51.42002817321514,
+		"lng": 7.487140139782686,
+		"city": "Dortmund",
+		"country": "Deutschland",
+		"categories": [
+			"Scenic Lookout"
+		]
 	},
 	{
 		"date": "2019-05-26T12:38:08.000Z",
 		"name": "Hohensyburg",
-		"id": "4d8f640fd00a6ea824f3cd4f"
+		"id": "4d8f640fd00a6ea824f3cd4f",
+		"lat": 51.420165,
+		"lng": 7.486835,
+		"address": "Hohensyburgstr.",
+		"postalCode": "44265",
+		"city": "Dortmund",
+		"country": "Deutschland",
+		"categories": [
+			"Historic Site",
+			"Scenic Lookout"
+		]
 	},
 	{
 		"date": "2019-05-26T13:25:04.000Z",
 		"name": "Hörde",
-		"id": "50c450c9e4b092542ce6731b"
+		"id": "50c450c9e4b092542ce6731b",
+		"lat": 51.485740207899624,
+		"lng": 7.503467562020253,
+		"city": "Dortmund",
+		"country": "Deutschland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-05-26T14:07:02.000Z",
 		"name": "Rüttenscheid",
-		"id": "4e3a49a6483b3f951fc50cff"
+		"id": "4e3a49a6483b3f951fc50cff",
+		"lat": 51.43557769037158,
+		"lng": 7.006680965423583,
+		"postalCode": "45131",
+		"city": "Essen",
+		"country": "Deutschland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-05-26T14:18:43.000Z",
 		"name": "Hufergasse",
-		"id": "51471e08e4b086fe116ebcfa"
+		"id": "51471e08e4b086fe116ebcfa",
+		"lat": 51.38866750431162,
+		"lng": 7.001484886175872,
+		"country": "Deutschland",
+		"categories": [
+			"Historic Site"
+		]
 	},
 	{
 		"date": "2019-05-26T14:32:22.000Z",
 		"name": "Komma' Essen",
-		"id": "4c1e0a9eb306c928f46b66b7"
+		"id": "4c1e0a9eb306c928f46b66b7",
+		"lat": 51.388553,
+		"lng": 7.001568,
+		"address": "Hufergasse 7",
+		"postalCode": "45239",
+		"city": "Essen",
+		"country": "Deutschland",
+		"categories": [
+			"French Restaurant",
+			"Café"
+		]
 	},
 	{
 		"date": "2019-05-26T15:45:34.000Z",
 		"name": "Sorelli's Frozen Yogurt & Eisbar",
-		"id": "50290b79e4b0ca628aca79f7"
+		"id": "50290b79e4b0ca628aca79f7",
+		"lat": 51.3876338386744,
+		"lng": 7.000303349235133,
+		"address": "Brückstr. 7",
+		"postalCode": "45239",
+		"city": "Essen",
+		"country": "Deutschland",
+		"categories": [
+			"Ice Cream Shop"
+		]
 	},
 	{
 		"date": "2019-05-26T16:21:17.000Z",
 		"name": "Werden",
-		"id": "50447d47e4b03ccc17ea06ff"
+		"id": "50447d47e4b03ccc17ea06ff",
+		"lat": 51.38845443950808,
+		"lng": 7.002925872802734,
+		"postalCode": "45239",
+		"city": "Essen",
+		"country": "Deutschland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-05-26T17:32:27.000Z",
 		"name": "Shell",
-		"id": "4bae7ee9f964a52067b93be3"
+		"id": "4bae7ee9f964a52067b93be3",
+		"lat": 51.906013,
+		"lng": 6.157921,
+		"address": "Rijksweg A12 5",
+		"postalCode": "6909 DL",
+		"city": "Babberich",
+		"country": "Nederland",
+		"categories": [
+			"Gas Station"
+		]
 	},
 	{
 		"date": "2019-05-26T19:24:24.000Z",
 		"name": "McDonald's",
-		"id": "4b78064ef964a52081b22ee3"
+		"id": "4b78064ef964a52081b22ee3",
+		"lat": 52.35751194490133,
+		"lng": 4.653410657795234,
+		"address": "Rivièraplein 9",
+		"postalCode": "2037 AS",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Fast Food Restaurant",
+			"Burger Joint",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-27T12:26:02.000Z",
 		"name": "Albert Heijn to go",
-		"id": "4b862ee0f964a520038231e3"
+		"id": "4b862ee0f964a520038231e3",
+		"lat": 52.38851437453483,
+		"lng": 4.639542485412089,
+		"address": "Stationsplein 14",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store"
+		]
 	},
 	{
 		"date": "2019-05-27T12:26:10.000Z",
 		"name": "The Döner Company",
-		"id": "4d790928a56e37040e5d7567"
+		"id": "4d790928a56e37040e5d7567",
+		"lat": 52.38817372624091,
+		"lng": 4.63927902305991,
+		"address": "Station Haarlem",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Doner Restaurant",
+			"Falafel Restaurant",
+			"Kebab Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-27T17:06:27.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-28T16:33:31.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-30T09:14:02.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-30T09:35:21.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-30T10:10:56.000Z",
 		"name": "Utrecht Central Station (Station Utrecht Centraal)",
-		"id": "4a7856a9f964a5206be51fe3"
+		"id": "4a7856a9f964a5206be51fe3",
+		"lat": 52.08943583950154,
+		"lng": 5.109792711510547,
+		"address": "Jaarbeursplein 6",
+		"postalCode": "3521 AL",
+		"city": "Utrecht",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-30T10:18:56.000Z",
 		"name": "Poortgebouw Hoog Catharijne",
-		"id": "58e4aac93e88350383189828"
+		"id": "58e4aac93e88350383189828",
+		"lat": 52.09158,
+		"lng": 5.113007,
+		"postalCode": "3511 GB",
+		"city": "Utrecht",
+		"country": "Nederland",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2019-05-30T10:21:59.000Z",
 		"name": "Utrecht Binnenstad",
-		"id": "4dce96a6d22deadedd555d9e"
+		"id": "4dce96a6d22deadedd555d9e",
+		"lat": 52.09344471206198,
+		"lng": 5.1183343506957435,
+		"city": "Utrecht",
+		"country": "Nederland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-05-30T10:28:01.000Z",
 		"name": "Salsa Shop",
-		"id": "5cc877d63b8307002c44d350"
+		"id": "5cc877d63b8307002c44d350",
+		"lat": 52.092457,
+		"lng": 5.118127,
+		"postalCode": "3512 AA",
+		"city": "Utrecht",
+		"country": "Nederland",
+		"categories": [
+			"Burrito Place",
+			"Mexican Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-30T11:26:47.000Z",
 		"name": "Utrecht Central Station (Station Utrecht Centraal)",
-		"id": "4a7856a9f964a5206be51fe3"
+		"id": "4a7856a9f964a5206be51fe3",
+		"lat": 52.08943583950154,
+		"lng": 5.109792711510547,
+		"address": "Jaarbeursplein 6",
+		"postalCode": "3521 AL",
+		"city": "Utrecht",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-30T11:56:42.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-05-30T12:33:58.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-05-30T17:03:05.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-05-31T09:37:29.000Z",
 		"name": "Kamera Express",
-		"id": "5be5ac9b5c68380039e77c2c"
+		"id": "5be5ac9b5c68380039e77c2c",
+		"lat": 52.37985,
+		"lng": 4.636356,
+		"address": "Anegang 32",
+		"postalCode": "2011 HS",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Camera Store",
+			"Photography Lab"
+		]
 	},
 	{
 		"date": "2019-05-31T09:48:37.000Z",
 		"name": "SUBWAY",
-		"id": "4e899f5e9a52f9bbd0e654b4"
+		"id": "4e899f5e9a52f9bbd0e654b4",
+		"lat": 52.382863727754575,
+		"lng": 4.635100972590294,
+		"address": "Krocht 12",
+		"postalCode": "2011 PT",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Sandwich Place",
+			"Fast Food Restaurant",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-31T19:14:14.000Z",
 		"name": "La Picoletta",
-		"id": "4c0d3449d64c0f47825b265d"
+		"id": "4c0d3449d64c0f47825b265d",
+		"lat": 52.37992550407478,
+		"lng": 4.637610470369821,
+		"address": "Lange Veerstraat 26",
+		"postalCode": "2011 DB",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Italian Restaurant"
+		]
 	},
 	{
 		"date": "2019-05-31T20:02:37.000Z",
 		"name": "Chocolaterie Pierre",
-		"id": "599dd84f625a66012f54203e"
+		"id": "599dd84f625a66012f54203e",
+		"lat": 52.37958,
+		"lng": 4.637172,
+		"address": "Kleine Houtstraat 1",
+		"postalCode": "2011 DD",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Chocolate Shop"
+		]
 	}
 ]
