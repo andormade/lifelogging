@@ -2,656 +2,1799 @@
 	{
 		"date": "2019-09-01T12:08:51.000Z",
 		"name": "Rataplan",
-		"id": "524beb0f11d267080c7ef797"
+		"id": "524beb0f11d267080c7ef797",
+		"lat": 52.382982736338725,
+		"lng": 4.630430189758111,
+		"address": "Zijlstraat 12",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Thrift / Vintage Store"
+		]
 	},
 	{
 		"date": "2019-09-01T12:28:52.000Z",
 		"name": "Het Broodjes Huis",
-		"id": "59392ab2e55d8b5bd0c68cf1"
+		"id": "59392ab2e55d8b5bd0c68cf1",
+		"lat": 52.38141715830097,
+		"lng": 4.6325768433196775,
+		"postalCode": "2011 TG",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Sandwich Place"
+		]
 	},
 	{
 		"date": "2019-09-02T15:56:19.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-09-04T18:27:00.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-09-06T13:47:05.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-06T13:55:20.000Z",
 		"name": "Station Halfweg-Zwanenburg",
-		"id": "506447fee4b09fd7484d80cd"
+		"id": "506447fee4b09fd7484d80cd",
+		"lat": 52.385837053513505,
+		"lng": 4.746642703683236,
+		"address": "Haarlemmerstraatweg",
+		"city": "Halfweg",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-06T17:07:00.000Z",
 		"name": "Pizzicotto",
-		"id": "5cc45e0f12f0a9002c0a87bd"
+		"id": "5cc45e0f12f0a9002c0a87bd",
+		"lat": 52.383008,
+		"lng": 4.638007,
+		"postalCode": "2011 RX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2019-09-07T09:45:51.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-07T10:04:33.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-07T10:10:55.000Z",
 		"name": "Tram stops Amsterdam Central Station (Tramhalte Centraal Station)",
-		"id": "4be7b508d837c9b63282a406"
+		"id": "4be7b508d837c9b63282a406",
+		"lat": 52.37814088917658,
+		"lng": 4.899249533729517,
+		"address": "Stationsplein",
+		"postalCode": "1012",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-09-07T10:47:01.000Z",
 		"name": "Midi Amsterdam",
-		"id": "4dc15e53d4c07bbdf7732543"
+		"id": "4dc15e53d4c07bbdf7732543",
+		"lat": 52.36089421144778,
+		"lng": 4.868581880302388,
+		"address": "Overtoom 431",
+		"postalCode": "1054 KE",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Music Store"
+		]
 	},
 	{
 		"date": "2019-09-07T11:07:06.000Z",
 		"name": "Tram stops Amsterdam Central Station (Tramhalte Centraal Station)",
-		"id": "4be7b508d837c9b63282a406"
+		"id": "4be7b508d837c9b63282a406",
+		"lat": 52.37814088917658,
+		"lng": 4.899249533729517,
+		"address": "Stationsplein",
+		"postalCode": "1012",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-09-07T11:12:34.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-09T16:28:25.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-09-10T15:58:49.000Z",
 		"name": "DekaMarkt",
-		"id": "4b2fa935f964a520a1ed24e3"
+		"id": "4b2fa935f964a520a1ed24e3",
+		"lat": 52.38065978130429,
+		"lng": 4.632187862853243,
+		"address": "Gedempte Oude Gracht 56-58",
+		"postalCode": "2011 GS",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-09-11T08:28:33.000Z",
 		"name": "Station Zandvoort aan Zee",
-		"id": "4b235a53f964a5205c5524e3"
+		"id": "4b235a53f964a5205c5524e3",
+		"lat": 52.3757860855875,
+		"lng": 4.531738906725922,
+		"address": "Stationsplein 6",
+		"postalCode": "2041AB",
+		"city": "Zandvoort",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-11T09:33:19.000Z",
 		"name": "Zandvoort",
-		"id": "4bd7eaee5cf276b0be389c00"
+		"id": "4bd7eaee5cf276b0be389c00",
+		"lat": 52.37675671369625,
+		"lng": 4.529515655631464,
+		"country": "Nederland",
+		"categories": [
+			"City"
+		]
 	},
 	{
 		"date": "2019-09-11T09:46:50.000Z",
 		"name": "The Döner Company",
-		"id": "4d790928a56e37040e5d7567"
+		"id": "4d790928a56e37040e5d7567",
+		"lat": 52.38817372624091,
+		"lng": 4.63927902305991,
+		"address": "Station Haarlem",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Doner Restaurant",
+			"Falafel Restaurant",
+			"Kebab Restaurant"
+		]
 	},
 	{
 		"date": "2019-09-12T16:26:36.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-12T17:02:05.000Z",
 		"name": "De Compagnon",
-		"id": "4a2703ddf964a520ab851fe3"
+		"id": "4a2703ddf964a520ab851fe3",
+		"lat": 52.37596,
+		"lng": 4.898455,
+		"address": "Guldehandsteeg 17",
+		"postalCode": "1012 RA",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2019-09-12T21:11:28.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-13T07:29:30.000Z",
 		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
-		"id": "4a56245ff964a52085b41fe3"
+		"id": "4a56245ff964a52085b41fe3",
+		"lat": 52.38899431620469,
+		"lng": 4.837957990409058,
+		"address": "Orlyplein 105",
+		"postalCode": "1043 DT",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-13T07:52:56.000Z",
 		"name": "Schiphol Airport Railway Station (Station Schiphol Airport)",
-		"id": "4b14bf25f964a5203fa623e3"
+		"id": "4b14bf25f964a5203fa623e3",
+		"lat": 52.30920799537486,
+		"lng": 4.761746493019994,
+		"address": "Aankomstpassage 18",
+		"postalCode": "1118 AX",
+		"city": "Hoofddorp",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-13T07:53:06.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-09-13T08:16:52.000Z",
 		"name": "Concourse C (Pier C)",
-		"id": "4f285964e4b0c67a18fb8f80"
+		"id": "4f285964e4b0c67a18fb8f80",
+		"lat": 52.30612139312824,
+		"lng": 4.765459151165231,
+		"address": "AMS Airport",
+		"city": "Hoofddorp",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-09-13T08:20:30.000Z",
 		"name": "Leon",
-		"id": "59c1e488d8096e1f2b366ea6"
+		"id": "59c1e488d8096e1f2b366ea6",
+		"lat": 52.307600656706875,
+		"lng": 4.765158167210229,
+		"address": "Schiphol",
+		"postalCode": "1118 AP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Fast Food Restaurant",
+			"Coffee Shop",
+			"Breakfast Spot"
+		]
 	},
 	{
 		"date": "2019-09-13T08:38:33.000Z",
 		"name": "Gate C15",
-		"id": "4bf1734a408ec928c5e76600"
+		"id": "4bf1734a408ec928c5e76600",
+		"lat": 52.305248033363135,
+		"lng": 4.766808748378186,
+		"address": "Concourse C",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-09-13T11:30:12.000Z",
 		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
-		"id": "4b61c2daf964a5200f212ae3"
+		"id": "4b61c2daf964a5200f212ae3",
+		"lat": 47.43090022934757,
+		"lng": 19.260798463708202,
+		"address": "Budapest Airport",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-09-13T14:05:50.000Z",
 		"name": "Belváros",
-		"id": "53150d40e4b0e72a36eb4e42"
+		"id": "53150d40e4b0e72a36eb4e42",
+		"lat": 47.49667278284767,
+		"lng": 19.050743820023595,
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-09-13T14:23:17.000Z",
 		"name": "Fővám tér M (2)",
-		"id": "4ed32a880cd62a61dd77ef47"
+		"id": "4ed32a880cd62a61dd77ef47",
+		"lat": 47.48669737533618,
+		"lng": 19.05680537223816,
+		"address": "Fővám tér",
+		"postalCode": "1093",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-09-13T14:29:50.000Z",
 		"name": "Boráros tér H (4, 6)",
-		"id": "4d656d67b470a143da5d26fe"
+		"id": "4d656d67b470a143da5d26fe",
+		"lat": 47.48014441949659,
+		"lng": 19.066539680424036,
+		"address": "Boráros tér",
+		"postalCode": "1097",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-09-13T14:40:36.000Z",
 		"name": "Schönherz Zoltán Kollégium",
-		"id": "4b70505ff964a520f8112de3"
+		"id": "4b70505ff964a520f8112de3",
+		"lat": 47.47289320855564,
+		"lng": 19.053094108014353,
+		"address": "Irinyi József u. 42.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"College Residence Hall",
+			"College Engineering Building",
+			"Student Center"
+		]
 	},
 	{
 		"date": "2019-09-13T17:59:50.000Z",
 		"name": "Allee Food Court (Allee Ételudvar)",
-		"id": "4ffad6a9e4b0903669c8ea14"
+		"id": "4ffad6a9e4b0903669c8ea14",
+		"lat": 47.47428188512463,
+		"lng": 19.048664356551182,
+		"address": "Október huszonharmadika utca 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Food Court"
+		]
 	},
 	{
 		"date": "2019-09-13T18:15:23.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2019-09-13T23:46:05.000Z",
 		"name": "Belváros",
-		"id": "53150d40e4b0e72a36eb4e42"
+		"id": "53150d40e4b0e72a36eb4e42",
+		"lat": 47.49667278284767,
+		"lng": 19.050743820023595,
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-09-14T08:33:55.000Z",
 		"name": "Fővám tér M (2)",
-		"id": "4ed32a880cd62a61dd77ef47"
+		"id": "4ed32a880cd62a61dd77ef47",
+		"lat": 47.48669737533618,
+		"lng": 19.05680537223816,
+		"address": "Fővám tér",
+		"postalCode": "1093",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-09-14T08:56:44.000Z",
 		"name": "Bokréta utca (51, 51A)",
-		"id": "4e9f28a04fc679d8a715bdf6"
+		"id": "4e9f28a04fc679d8a715bdf6",
+		"lat": 47.47928359129362,
+		"lng": 19.072469472885132,
+		"address": "Mester u.",
+		"postalCode": "1096",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-09-14T09:17:44.000Z",
 		"name": "Bakelit Multi Art Center",
-		"id": "4bc33550f8219c74cfb8b510"
+		"id": "4bc33550f8219c74cfb8b510",
+		"lat": 47.44671890511608,
+		"lng": 19.09430967916436,
+		"address": "Soroksári út 164.",
+		"postalCode": "1095",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Dance Studio",
+			"Music Venue"
+		]
 	},
 	{
 		"date": "2019-09-14T09:35:10.000Z",
 		"name": "Function 2019",
-		"id": "5d7cb4482b61ba000706657a"
+		"id": "5d7cb4482b61ba000706657a",
+		"lat": 47.446613,
+		"lng": 19.094305,
+		"postalCode": "1097",
+		"city": "Budapest IX. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Other Event"
+		]
 	},
 	{
 		"date": "2019-09-14T18:09:40.000Z",
 		"name": "Lidl",
-		"id": "4c87ace3b231b60c015c1bec"
+		"id": "4c87ace3b231b60c015c1bec",
+		"lat": 47.445242010548796,
+		"lng": 19.0968029122995,
+		"address": "Gubacsi út 34",
+		"postalCode": "1097",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Discount Store"
+		]
 	},
 	{
 		"date": "2019-09-15T00:53:58.000Z",
 		"name": "Belváros",
-		"id": "53150d40e4b0e72a36eb4e42"
+		"id": "53150d40e4b0e72a36eb4e42",
+		"lat": 47.49667278284767,
+		"lng": 19.050743820023595,
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-09-15T09:28:29.000Z",
 		"name": "Ferenciek tere",
-		"id": "4bddaa1d0ee3a593ee212eb0"
+		"id": "4bddaa1d0ee3a593ee212eb0",
+		"lat": 47.49305898169077,
+		"lng": 19.055346250534054,
+		"address": "Ferenciek tere",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-09-15T10:54:57.000Z",
 		"name": "Hummus bar",
-		"id": "598c376da87921282aea69db"
+		"id": "598c376da87921282aea69db",
+		"lat": 47.48818895318334,
+		"lng": 19.05726382476573,
+		"address": "82 Váci utca",
+		"postalCode": "1056",
+		"city": "Budapest V. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Falafel Restaurant",
+			"Mediterranean Restaurant"
+		]
 	},
 	{
 		"date": "2019-09-15T11:26:38.000Z",
 		"name": "Allee Bevásárlóközpont",
-		"id": "4ba35913f964a520883638e3"
+		"id": "4ba35913f964a520883638e3",
+		"lat": 47.47540787650971,
+		"lng": 19.048983750822984,
+		"address": "Október huszonharmadika u. 8-10.",
+		"postalCode": "1117",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Shopping Mall"
+		]
 	},
 	{
 		"date": "2019-09-15T17:27:44.000Z",
 		"name": "Napfényes Étterem és Cukrászda",
-		"id": "55170a79498eeca2fd28cd41"
+		"id": "55170a79498eeca2fd28cd41",
+		"lat": 47.492317,
+		"lng": 19.055124,
+		"address": "Ferenciek tere 2.",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Vegetarian / Vegan Restaurant",
+			"Hungarian Restaurant"
+		]
 	},
 	{
 		"date": "2019-09-15T18:08:21.000Z",
 		"name": "Ferenciek tere",
-		"id": "4bddaa1d0ee3a593ee212eb0"
+		"id": "4bddaa1d0ee3a593ee212eb0",
+		"lat": 47.49305898169077,
+		"lng": 19.055346250534054,
+		"address": "Ferenciek tere",
+		"postalCode": "1051",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-09-15T18:27:27.000Z",
 		"name": "Erzsébet tér",
-		"id": "4bb1a92af964a520ff9d3ce3"
+		"id": "4bb1a92af964a520ff9d3ce3",
+		"lat": 47.49843040475713,
+		"lng": 19.053243398666382,
+		"address": "Erzsébet tér",
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Park",
+			"Plaza",
+			"Playground"
+		]
 	},
 	{
 		"date": "2019-09-15T20:05:54.000Z",
 		"name": "Publicum",
-		"id": "58e813be375c4a70bfc5046b"
+		"id": "58e813be375c4a70bfc5046b",
+		"lat": 47.49894470287072,
+		"lng": 19.059869181592862,
+		"address": "Hollo st. 11",
+		"postalCode": "1075",
+		"city": "Budapest VII. kerület",
+		"country": "Magyarország",
+		"categories": [
+			"Beer Bar",
+			"Bistro",
+			"Cocktail Bar"
+		]
 	},
 	{
 		"date": "2019-09-15T22:00:56.000Z",
 		"name": "Fővám tér",
-		"id": "4bd88e5d03979c74c120bdd2"
+		"id": "4bd88e5d03979c74c120bdd2",
+		"lat": 47.48687500329229,
+		"lng": 19.05703067779541,
+		"address": "Fővám tér",
+		"postalCode": "1083",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-09-15T22:04:22.000Z",
 		"name": "Fővám tér (47, 48, 49)",
-		"id": "4cdac65dd4ecb1f77cbc7548"
+		"id": "4cdac65dd4ecb1f77cbc7548",
+		"lat": 47.487142823775564,
+		"lng": 19.057693574806972,
+		"address": "Fővám tér",
+		"postalCode": "1093",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-09-15T22:04:31.000Z",
 		"name": "Liberty Bridge (Szabadság híd)",
-		"id": "4ba79ddef964a520c4a239e3"
+		"id": "4ba79ddef964a520c4a239e3",
+		"lat": 47.48572947367426,
+		"lng": 19.054960012435913,
+		"address": "Szabadság híd",
+		"postalCode": "1114",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Bridge"
+		]
 	},
 	{
 		"date": "2019-09-15T22:19:16.000Z",
 		"name": "Belváros",
-		"id": "53150d40e4b0e72a36eb4e42"
+		"id": "53150d40e4b0e72a36eb4e42",
+		"lat": 47.49667278284767,
+		"lng": 19.050743820023595,
+		"postalCode": "1053",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-09-16T01:25:00.000Z",
 		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
-		"id": "4b61c2daf964a5200f212ae3"
+		"id": "4b61c2daf964a5200f212ae3",
+		"lat": 47.43090022934757,
+		"lng": 19.260798463708202,
+		"address": "Budapest Airport",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-09-16T02:10:09.000Z",
 		"name": "Security Check",
-		"id": "4b4abd26f964a520bf8d26e3"
+		"id": "4b4abd26f964a520bf8d26e3",
+		"lat": 47.43322883247197,
+		"lng": 19.261298428877534,
+		"address": "Budapest Airport",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Service"
+		]
 	},
 	{
 		"date": "2019-09-16T02:54:28.000Z",
 		"name": "Costa Coffee",
-		"id": "4d8618df0a0d1456f8e111cc"
+		"id": "4d8618df0a0d1456f8e111cc",
+		"lat": 47.433247602423435,
+		"lng": 19.26125407218933,
+		"address": "SkyCourt",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Coffee Shop"
+		]
 	},
 	{
 		"date": "2019-09-16T02:55:18.000Z",
 		"name": "DR. JUICE",
-		"id": "4e782973c65b409c46a8c02c"
+		"id": "4e782973c65b409c46a8c02c",
+		"lat": 47.432892707628326,
+		"lng": 19.261371062347862,
+		"address": "SkyCourt",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Juice Bar",
+			"Breakfast Spot",
+			"Ice Cream Shop"
+		]
 	},
 	{
 		"date": "2019-09-16T06:55:30.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-09-16T07:03:30.000Z",
 		"name": "Gate C15",
-		"id": "4bf1734a408ec928c5e76600"
+		"id": "4bf1734a408ec928c5e76600",
+		"lat": 52.305248033363135,
+		"lng": 4.766808748378186,
+		"address": "Concourse C",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-09-16T07:04:02.000Z",
 		"name": "Concourse C (Pier C)",
-		"id": "4f285964e4b0c67a18fb8f80"
+		"id": "4f285964e4b0c67a18fb8f80",
+		"lat": 52.30612139312824,
+		"lng": 4.765459151165231,
+		"address": "AMS Airport",
+		"city": "Hoofddorp",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-09-16T09:54:52.000Z",
 		"name": "Kamera Express",
-		"id": "5be5ac9b5c68380039e77c2c"
+		"id": "5be5ac9b5c68380039e77c2c",
+		"lat": 52.37985,
+		"lng": 4.636356,
+		"address": "Anegang 32",
+		"postalCode": "2011 HS",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Camera Store",
+			"Photography Lab"
+		]
 	},
 	{
 		"date": "2019-09-16T17:29:16.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-09-16T17:38:20.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-09-18T17:15:25.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-18T17:36:11.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-18T17:52:59.000Z",
 		"name": "Tolhuistuin",
-		"id": "4a9a8794f964a520ce3120e3"
+		"id": "4a9a8794f964a520ce3120e3",
+		"lat": 52.382995127470096,
+		"lng": 4.9030293267039395,
+		"address": "Tolhuisweg 5",
+		"postalCode": "1031 CL",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Performing Arts Venue",
+			"Concert Hall"
+		]
 	},
 	{
 		"date": "2019-09-18T17:58:59.000Z",
 		"name": "Paradiso Noord",
-		"id": "5036b577582f27a4893d19a6"
+		"id": "5036b577582f27a4893d19a6",
+		"lat": 52.38326956278614,
+		"lng": 4.9033005499945,
+		"address": "IJpromenade 2",
+		"postalCode": "1031 KT",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Concert Hall",
+			"Music Venue"
+		]
 	},
 	{
 		"date": "2019-09-18T19:27:43.000Z",
 		"name": "GVB Veer - Buiksloterweg → Centraal Station",
-		"id": "4e022465fa764068a36ec1f0"
+		"id": "4e022465fa764068a36ec1f0",
+		"lat": 52.3821802322401,
+		"lng": 4.903001515601313,
+		"address": "Buiksloterweg",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Boat or Ferry"
+		]
 	},
 	{
 		"date": "2019-09-18T19:55:02.000Z",
 		"name": "Salsa Shop",
-		"id": "574f4d9c498efc56a240b8c2"
+		"id": "574f4d9c498efc56a240b8c2",
+		"lat": 52.37958465946948,
+		"lng": 4.900045992389015,
+		"address": "Stationsplein",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Burrito Place"
+		]
 	},
 	{
 		"date": "2019-09-19T10:29:16.000Z",
 		"name": "Domino's Pizza Haarlem 3 - Station",
-		"id": "5c266634b9b37b002cd9d5fb"
+		"id": "5c266634b9b37b002cd9d5fb",
+		"lat": 52.3884359,
+		"lng": 4.6393777,
+		"address": "Kennemerplein 12",
+		"postalCode": "2011 MJ",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Pizza Place",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2019-09-19T10:41:34.000Z",
 		"name": "Albert Heijn to go",
-		"id": "4b862ee0f964a520038231e3"
+		"id": "4b862ee0f964a520038231e3",
+		"lat": 52.38851437453483,
+		"lng": 4.639542485412089,
+		"address": "Stationsplein 14",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store"
+		]
 	},
 	{
 		"date": "2019-09-20T09:56:20.000Z",
 		"name": "Kamera Express",
-		"id": "5be5ac9b5c68380039e77c2c"
+		"id": "5be5ac9b5c68380039e77c2c",
+		"lat": 52.37985,
+		"lng": 4.636356,
+		"address": "Anegang 32",
+		"postalCode": "2011 HS",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Camera Store",
+			"Photography Lab"
+		]
 	},
 	{
 		"date": "2019-09-21T09:00:05.000Z",
 		"name": "Kinki kappers",
-		"id": "4b978e2af964a5209d0835e3"
+		"id": "4b978e2af964a5209d0835e3",
+		"lat": 52.3790113620109,
+		"lng": 4.636636460176722,
+		"address": "Kleine Houtstraat",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Salon / Barbershop",
+			"Cosmetics Shop"
+		]
 	},
 	{
 		"date": "2019-09-21T10:12:48.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-21T10:35:20.000Z",
 		"name": "Amsterdam Central Railway Station (Station Amsterdam Centraal)",
-		"id": "4a688ba1f964a52088ca1fe3"
+		"id": "4a688ba1f964a52088ca1fe3",
+		"lat": 52.37878224866535,
+		"lng": 4.900374412536621,
+		"address": "Stationsplein 15",
+		"postalCode": "1012 AB",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-21T11:11:18.000Z",
 		"name": "Binnenstad",
-		"id": "5314b372e4b0d805d3745a8b"
+		"id": "5314b372e4b0d805d3745a8b",
+		"lat": 52.372687742204285,
+		"lng": 4.892588338216,
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-09-21T11:21:34.000Z",
 		"name": "Vapiano",
-		"id": "4fb28f2be4b0e2be9a5f1f6f"
+		"id": "4fb28f2be4b0e2be9a5f1f6f",
+		"lat": 52.36612800819601,
+		"lng": 4.897454374802111,
+		"address": "Amstelstraat 2-4",
+		"postalCode": "1017 DA",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Italian Restaurant",
+			"Pizza Place"
+		]
 	},
 	{
 		"date": "2019-09-21T12:17:20.000Z",
 		"name": "Midi Amsterdam",
-		"id": "4dc15e53d4c07bbdf7732543"
+		"id": "4dc15e53d4c07bbdf7732543",
+		"lat": 52.36089421144778,
+		"lng": 4.868581880302388,
+		"address": "Overtoom 431",
+		"postalCode": "1054 KE",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Music Store"
+		]
 	},
 	{
 		"date": "2019-09-21T12:29:17.000Z",
 		"name": "Vondelpark",
-		"id": "4a27071df964a520f98c1fe3"
+		"id": "4a27071df964a520f98c1fe3",
+		"lat": 52.35814715043192,
+		"lng": 4.867072105407715,
+		"address": "Vondelpark",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Park"
+		]
 	},
 	{
 		"date": "2019-09-21T13:09:45.000Z",
 		"name": "Tramhalte Ten Katestraat",
-		"id": "5a2a4bf382a75054d21ac074"
+		"id": "5a2a4bf382a75054d21ac074",
+		"lat": 52.36610999672944,
+		"lng": 4.867935179271979,
+		"postalCode": "1053 EJ",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-09-21T13:32:23.000Z",
 		"name": "Herengracht",
-		"id": "4bb0a456f964a520a8513ce3"
+		"id": "4bb0a456f964a520a8513ce3",
+		"lat": 52.37161673882133,
+		"lng": 4.886963367462158,
+		"address": "Herengracht",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Canal"
+		]
 	},
 	{
 		"date": "2019-09-21T14:13:47.000Z",
 		"name": "Kamera Express Spui Citystore",
-		"id": "5c24f5645455b2002c7b7bdb"
+		"id": "5c24f5645455b2002c7b7bdb",
+		"lat": 52.369078,
+		"lng": 4.891601,
+		"address": "Spui 4",
+		"postalCode": "1012 WZ",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Camera Store"
+		]
 	},
 	{
 		"date": "2019-09-21T14:51:02.000Z",
 		"name": "De Jordaan",
-		"id": "4cc5d8dc4935bfb79c0cd1d8"
+		"id": "4cc5d8dc4935bfb79c0cd1d8",
+		"lat": 52.377248863400816,
+		"lng": 4.883105215150998,
+		"postalCode": "1015",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Neighborhood"
+		]
 	},
 	{
 		"date": "2019-09-21T15:59:11.000Z",
 		"name": "The Cold Pressed Juicery",
-		"id": "572670dc498ee138c18b2773"
+		"id": "572670dc498ee138c18b2773",
+		"lat": 52.37507302505723,
+		"lng": 4.883178475662585,
+		"address": "Prinsengracht 154",
+		"postalCode": "1016 HA",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Juice Bar"
+		]
 	},
 	{
 		"date": "2019-09-21T16:03:57.000Z",
 		"name": "Homomonument",
-		"id": "4bd573f26798ef3bc750638d"
+		"id": "4bd573f26798ef3bc750638d",
+		"lat": 52.374384249107,
+		"lng": 4.8845579089249,
+		"address": "Westermarkt",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Monument / Landmark"
+		]
 	},
 	{
 		"date": "2019-09-21T16:04:16.000Z",
 		"name": "Westermarkt",
-		"id": "4bd9f81b3904a5937d78449e"
+		"id": "4bd9f81b3904a5937d78449e",
+		"lat": 52.374101854587074,
+		"lng": 4.883861604892192,
+		"address": "Westermarkt",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Plaza"
+		]
 	},
 	{
 		"date": "2019-09-21T16:04:23.000Z",
 		"name": "Tram- en Bushalte Westermarkt",
-		"id": "4b8a69b5f964a520cf6b32e3"
+		"id": "4b8a69b5f964a520cf6b32e3",
+		"lat": 52.37401996135071,
+		"lng": 4.884074446928135,
+		"address": "Westermarkt",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Tram Station"
+		]
 	},
 	{
 		"date": "2019-09-21T16:48:02.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-21T16:48:12.000Z",
 		"name": "Albert Heijn to go",
-		"id": "4b862ee0f964a520038231e3"
+		"id": "4b862ee0f964a520038231e3",
+		"lat": 52.38851437453483,
+		"lng": 4.639542485412089,
+		"address": "Stationsplein 14",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store"
+		]
 	},
 	{
 		"date": "2019-09-22T11:21:41.000Z",
 		"name": "Kamera Express",
-		"id": "5be5ac9b5c68380039e77c2c"
+		"id": "5be5ac9b5c68380039e77c2c",
+		"lat": 52.37985,
+		"lng": 4.636356,
+		"address": "Anegang 32",
+		"postalCode": "2011 HS",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Camera Store",
+			"Photography Lab"
+		]
 	},
 	{
 		"date": "2019-09-22T11:33:48.000Z",
 		"name": "Shuz By Vollaerts",
-		"id": "4db9b80c4df0ded98bd886c5"
+		"id": "4db9b80c4df0ded98bd886c5",
+		"lat": 52.38028243968315,
+		"lng": 4.635131027752825,
+		"address": "Grote Houtstraat 31",
+		"postalCode": "2011 SC",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Shoe Store"
+		]
 	},
 	{
 		"date": "2019-09-22T11:34:12.000Z",
 		"name": "Clarks",
-		"id": "56dac1b5498e597070061abf"
+		"id": "56dac1b5498e597070061abf",
+		"lat": 52.380245,
+		"lng": 4.6350307,
+		"address": "Grote Houtstraat 32",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Shoe Store"
+		]
 	},
 	{
 		"date": "2019-09-22T11:38:39.000Z",
 		"name": "McDonald's",
-		"id": "4cbf1ced021ca143a7c2590c"
+		"id": "4cbf1ced021ca143a7c2590c",
+		"lat": 52.379173,
+		"lng": 4.633436999999958,
+		"address": "Grote Houtstraat 75",
+		"postalCode": "2011 SG",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Fast Food Restaurant",
+			"Burger Joint"
+		]
 	},
 	{
 		"date": "2019-09-22T11:58:34.000Z",
 		"name": "Zara",
-		"id": "520a45ba11d25973ec7d9563"
+		"id": "520a45ba11d25973ec7d9563",
+		"lat": 52.37882571647906,
+		"lng": 4.633192845197722,
+		"country": "Nederland",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2019-09-25T11:07:03.000Z",
 		"name": "Albert Heijn to go",
-		"id": "4b862ee0f964a520038231e3"
+		"id": "4b862ee0f964a520038231e3",
+		"lat": 52.38851437453483,
+		"lng": 4.639542485412089,
+		"address": "Stationsplein 14",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Convenience Store"
+		]
 	},
 	{
 		"date": "2019-09-26T12:48:58.000Z",
 		"name": "SUBWAY",
-		"id": "4e899f5e9a52f9bbd0e654b4"
+		"id": "4e899f5e9a52f9bbd0e654b4",
+		"lat": 52.382863727754575,
+		"lng": 4.635100972590294,
+		"address": "Krocht 12",
+		"postalCode": "2011 PT",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Sandwich Place",
+			"Fast Food Restaurant",
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2019-09-26T17:45:09.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	},
 	{
 		"date": "2019-09-27T09:18:24.000Z",
 		"name": "Cotton Candy Residence 10",
-		"id": "58cd4fe316f000799f4cf4f4"
+		"id": "58cd4fe316f000799f4cf4f4",
+		"lat": 52.392946926098126,
+		"lng": 4.640537129468235,
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-09-27T09:51:30.000Z",
 		"name": "Station Haarlem",
-		"id": "4a8c3036f964a5203a0d20e3"
+		"id": "4a8c3036f964a5203a0d20e3",
+		"lat": 52.38801057573046,
+		"lng": 4.638713550666082,
+		"address": "Stationsplein 11 L",
+		"postalCode": "2011 LR",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-27T10:06:17.000Z",
 		"name": "Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)",
-		"id": "4a56245ff964a52085b41fe3"
+		"id": "4a56245ff964a52085b41fe3",
+		"lat": 52.38899431620469,
+		"lng": 4.837957990409058,
+		"address": "Orlyplein 105",
+		"postalCode": "1043 DT",
+		"city": "Amsterdam",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-27T10:18:56.000Z",
 		"name": "Schiphol Airport Railway Station (Station Schiphol Airport)",
-		"id": "4b14bf25f964a5203fa623e3"
+		"id": "4b14bf25f964a5203fa623e3",
+		"lat": 52.30920799537486,
+		"lng": 4.761746493019994,
+		"address": "Aankomstpassage 18",
+		"postalCode": "1118 AX",
+		"city": "Hoofddorp",
+		"country": "Nederland",
+		"categories": [
+			"Train Station"
+		]
 	},
 	{
 		"date": "2019-09-27T10:20:34.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-09-27T10:24:34.000Z",
 		"name": "Departures 1",
-		"id": "4ba43205f964a520fa8a38e3"
+		"id": "4ba43205f964a520fa8a38e3",
+		"lat": 52.308713925302165,
+		"lng": 4.763812952542547,
+		"address": "AMS Airport",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-09-27T10:34:52.000Z",
 		"name": "Concourse B",
-		"id": "4f58b3fae4b0db2050e0a11d"
+		"id": "4f58b3fae4b0db2050e0a11d",
+		"lat": 52.30465621747054,
+		"lng": 4.762043045940551,
+		"address": "AMS Airport",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-09-27T10:41:52.000Z",
 		"name": "KLM Crown Lounge 25 (Schengen)",
-		"id": "4bd6bfa06f6495213b3f71ec"
+		"id": "4bd6bfa06f6495213b3f71ec",
+		"lat": 52.30859648518195,
+		"lng": 4.764506075829721,
+		"address": "Concourse D",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Lounge"
+		]
 	},
 	{
 		"date": "2019-09-27T12:09:25.000Z",
 		"name": "Concourse C (Pier C)",
-		"id": "4f285964e4b0c67a18fb8f80"
+		"id": "4f285964e4b0c67a18fb8f80",
+		"lat": 52.30612139312824,
+		"lng": 4.765459151165231,
+		"address": "AMS Airport",
+		"city": "Hoofddorp",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-09-27T12:09:37.000Z",
 		"name": "Gate C16",
-		"id": "4b5dcc6df964a520406c29e3"
+		"id": "4b5dcc6df964a520406c29e3",
+		"lat": 52.30496366977331,
+		"lng": 4.766308396435579,
+		"address": "Concourse C",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-09-27T14:24:53.000Z",
 		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
-		"id": "4b61c2daf964a5200f212ae3"
+		"id": "4b61c2daf964a5200f212ae3",
+		"lat": 47.43090022934757,
+		"lng": 19.260798463708202,
+		"address": "Budapest Airport",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-09-27T14:36:28.000Z",
 		"name": "Victoria's Secret",
-		"id": "54a64c9f498eca72324e0a38"
+		"id": "54a64c9f498eca72324e0a38",
+		"lat": 47.43373491135966,
+		"lng": 19.261902218939962,
+		"address": "Terminal 2A",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Lingerie Store"
+		]
 	},
 	{
 		"date": "2019-09-27T15:06:51.000Z",
 		"name": "Euro Family",
-		"id": "56bdbb63498e4006003082a7"
+		"id": "56bdbb63498e4006003082a7",
+		"lat": 47.41617567557406,
+		"lng": 19.249553157492386,
+		"country": "Magyarország",
+		"categories": [
+			"Miscellaneous Shop"
+		]
 	},
 	{
 		"date": "2019-09-27T15:07:05.000Z",
 		"name": "H&M",
-		"id": "5051ba0fe4b0253ca5155787"
+		"id": "5051ba0fe4b0253ca5155787",
+		"lat": 47.4160807984129,
+		"lng": 19.2492699623107,
+		"address": "Fő út 246-248",
+		"postalCode": "2200",
+		"city": "Vecsés",
+		"country": "Magyarország",
+		"categories": [
+			"Clothing Store"
+		]
 	},
 	{
 		"date": "2019-09-27T17:16:50.000Z",
 		"name": "TESCO Hipermarket",
-		"id": "4cf0fb0e6c29236abaca62a2"
+		"id": "4cf0fb0e6c29236abaca62a2",
+		"lat": 47.570816976634646,
+		"lng": 18.410846504392712,
+		"address": "Bláthy Ottó u. 1.",
+		"postalCode": "2800",
+		"city": "Tatabánya",
+		"country": "Magyarország",
+		"categories": [
+			"Supermarket",
+			"Grocery Store"
+		]
 	},
 	{
 		"date": "2019-09-27T21:27:13.000Z",
 		"name": "Kömlőd",
-		"id": "503b8c5ae4b0d21c218fe9eb"
+		"id": "503b8c5ae4b0d21c218fe9eb",
+		"lat": 47.546862852392515,
+		"lng": 18.26221506721866,
+		"postalCode": "2853",
+		"city": "Kömlőd",
+		"country": "Magyarország",
+		"categories": [
+			"Farm"
+		]
 	},
 	{
 		"date": "2019-09-27T21:28:02.000Z",
 		"name": "Mordor",
-		"id": "4e3ac625b0fbca6e84b89938"
+		"id": "4e3ac625b0fbca6e84b89938",
+		"lat": 47.54498888001689,
+		"lng": 18.264753297830538,
+		"city": "Császár",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-09-28T08:36:11.000Z",
 		"name": "Környe",
-		"id": "4da9ca0a8154abafc29c9b02"
+		"id": "4da9ca0a8154abafc29c9b02",
+		"lat": 47.55106474634838,
+		"lng": 18.33654870010322,
+		"postalCode": "2851",
+		"city": "Környe",
+		"country": "Magyarország",
+		"categories": [
+			"Village"
+		]
 	},
 	{
 		"date": "2019-09-28T09:03:18.000Z",
 		"name": "Ferencmajor Pikant Pajta",
-		"id": "59870e24b9a5a866d53f348c"
+		"id": "59870e24b9a5a866d53f348c",
+		"lat": 47.69377,
+		"lng": 18.306015,
+		"postalCode": "2896",
+		"city": "Szomód",
+		"country": "Magyarország",
+		"categories": [
+			"Wedding Hall"
+		]
 	},
 	{
 		"date": "2019-09-28T11:01:52.000Z",
 		"name": "Baj",
-		"id": "53615278498e260f81ce7338"
+		"id": "53615278498e260f81ce7338",
+		"lat": 47.648042608739594,
+		"lng": 18.365143365734305,
+		"country": "Magyarország",
+		"categories": [
+			"City"
+		]
 	},
 	{
 		"date": "2019-09-28T11:34:47.000Z",
 		"name": "Assisi Szent Ferec Templom",
-		"id": "5d8f45500190cd0008788a15"
+		"id": "5d8f45500190cd0008788a15",
+		"lat": 47.649177,
+		"lng": 18.364781,
+		"postalCode": "2836",
+		"city": "Baj",
+		"country": "Magyarország",
+		"categories": [
+			"Church"
+		]
 	},
 	{
 		"date": "2019-09-28T16:15:27.000Z",
 		"name": "Ferencmajor Pikant Pajta",
-		"id": "59870e24b9a5a866d53f348c"
+		"id": "59870e24b9a5a866d53f348c",
+		"lat": 47.69377,
+		"lng": 18.306015,
+		"postalCode": "2896",
+		"city": "Szomód",
+		"country": "Magyarország",
+		"categories": [
+			"Wedding Hall"
+		]
 	},
 	{
 		"date": "2019-09-29T12:34:19.000Z",
 		"name": "Kömlőd",
-		"id": "503b8c5ae4b0d21c218fe9eb"
+		"id": "503b8c5ae4b0d21c218fe9eb",
+		"lat": 47.546862852392515,
+		"lng": 18.26221506721866,
+		"postalCode": "2853",
+		"city": "Kömlőd",
+		"country": "Magyarország",
+		"categories": [
+			"Farm"
+		]
 	},
 	{
 		"date": "2019-09-29T12:44:18.000Z",
 		"name": "Mordor",
-		"id": "4e3ac625b0fbca6e84b89938"
+		"id": "4e3ac625b0fbca6e84b89938",
+		"lat": 47.54498888001689,
+		"lng": 18.264753297830538,
+		"city": "Császár",
+		"country": "Magyarország",
+		"categories": [
+			"Home (private)"
+		]
 	},
 	{
 		"date": "2019-09-29T16:26:20.000Z",
 		"name": "McDonald's and McCafé",
-		"id": "4b9e33b5f964a52077d136e3"
+		"id": "4b9e33b5f964a52077d136e3",
+		"lat": 47.45297463010812,
+		"lng": 18.958168710184033,
+		"address": "Garibaldi út 2.",
+		"postalCode": "2040",
+		"city": "Budaörs",
+		"country": "Magyarország",
+		"categories": [
+			"Fast Food Restaurant"
+		]
 	},
 	{
 		"date": "2019-09-29T17:51:33.000Z",
 		"name": "Ibis Styles Budapest Airport Hotel",
-		"id": "59abf95c86bc494d39c32db6"
+		"id": "59abf95c86bc494d39c32db6",
+		"lat": 47.43012609084536,
+		"lng": 19.262115245579707,
+		"address": "Hrsz. 07312, Liszt Ferenc, International Airport, Terminal2",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Hotel"
+		]
 	},
 	{
 		"date": "2019-09-29T17:59:32.000Z",
 		"name": "Mirage Etterem",
-		"id": "5bc638fbc62b49002c240045"
+		"id": "5bc638fbc62b49002c240045",
+		"lat": 47.43036,
+		"lng": 19.262331,
+		"postalCode": "2220",
+		"city": "Vecsés",
+		"country": "Magyarország",
+		"categories": [
+			"Restaurant"
+		]
 	},
 	{
 		"date": "2019-09-30T02:54:59.000Z",
 		"name": "Terminal 2A",
-		"id": "4c25aa535c5ca59357e044fe"
+		"id": "4c25aa535c5ca59357e044fe",
+		"lat": 47.433124251820495,
+		"lng": 19.262262161509078,
+		"address": "BUD Nemzetközi Repülőtér",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-09-30T02:55:27.000Z",
 		"name": "Budapest Liszt Ferenc International Airport (BUD) (Budapest Liszt Ferenc nemzetközi repülőtér)",
-		"id": "4b61c2daf964a5200f212ae3"
+		"id": "4b61c2daf964a5200f212ae3",
+		"lat": 47.43090022934757,
+		"lng": 19.260798463708202,
+		"address": "Budapest Airport",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-09-30T03:03:57.000Z",
 		"name": "Security Check",
-		"id": "4b4abd26f964a520bf8d26e3"
+		"id": "4b4abd26f964a520bf8d26e3",
+		"lat": 47.43322883247197,
+		"lng": 19.261298428877534,
+		"address": "Budapest Airport",
+		"postalCode": "1185",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Service"
+		]
 	},
 	{
 		"date": "2019-09-30T03:14:37.000Z",
 		"name": "Gate A7",
-		"id": "4deb4538d22da22d4eea03ca"
+		"id": "4deb4538d22da22d4eea03ca",
+		"lat": 47.43384240412671,
+		"lng": 19.2620437334669,
+		"address": "Terminal 2A",
+		"city": "Budapest",
+		"country": "Magyarország",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-09-30T06:52:07.000Z",
 		"name": "Amsterdam Airport Schiphol (AMS)",
-		"id": "4a84e798f964a520defd1fe3"
+		"id": "4a84e798f964a520defd1fe3",
+		"lat": 52.3085704596075,
+		"lng": 4.762122631072998,
+		"address": "Aankomstpassage",
+		"postalCode": "1118 CP",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport"
+		]
 	},
 	{
 		"date": "2019-09-30T07:07:31.000Z",
 		"name": "Gate C15",
-		"id": "4bf1734a408ec928c5e76600"
+		"id": "4bf1734a408ec928c5e76600",
+		"lat": 52.305248033363135,
+		"lng": 4.766808748378186,
+		"address": "Concourse C",
+		"city": "Schiphol",
+		"country": "Nederland",
+		"categories": [
+			"Airport Gate"
+		]
 	},
 	{
 		"date": "2019-09-30T07:09:38.000Z",
 		"name": "Concourse C (Pier C)",
-		"id": "4f285964e4b0c67a18fb8f80"
+		"id": "4f285964e4b0c67a18fb8f80",
+		"lat": 52.30612139312824,
+		"lng": 4.765459151165231,
+		"address": "AMS Airport",
+		"city": "Hoofddorp",
+		"country": "Nederland",
+		"categories": [
+			"Airport Terminal"
+		]
 	},
 	{
 		"date": "2019-09-30T16:33:43.000Z",
 		"name": "Albert Heijn",
-		"id": "4b9a4b64f964a52066aa35e3"
+		"id": "4b9a4b64f964a52066aa35e3",
+		"lat": 52.38445463709139,
+		"lng": 4.635787640721933,
+		"address": "Kruisstraat 10",
+		"postalCode": "2011 PX",
+		"city": "Haarlem",
+		"country": "Nederland",
+		"categories": [
+			"Supermarket"
+		]
 	}
 ]
