@@ -1,6 +1,6 @@
 [
 	{
-		"timestamp": "2016-11-20T14:49:00-08:00",
+		"requestTime": "2016-11-20T14:49:00-08:00",
 		"from": {
 			"address": "512 Jenny Ave",
 			"city": "Los Angeles",
@@ -24,7 +24,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-20T15:53:00-08:00",
+		"requestTime": "2016-11-20T15:53:00-08:00",
 		"from": {
 			"address": "1501-1599 N El Centro Ave",
 			"city": "Los Angeles",
@@ -48,7 +48,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-22T11:18:00-08:00",
+		"requestTime": "2016-11-22T11:18:00-08:00",
 		"from": {
 			"address": "2011 N Brighton St",
 			"city": "Burbank",
@@ -72,7 +72,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-23T11:21:00-08:00",
+		"requestTime": "2016-11-23T11:21:00-08:00",
 		"from": {
 			"address": "733 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -96,7 +96,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-23T21:09:00-08:00",
+		"requestTime": "2016-11-23T21:09:00-08:00",
 		"from": {
 			"address": "720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -120,7 +120,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-25T11:34:00-08:00",
+		"requestTime": "2016-11-25T11:34:00-08:00",
 		"from": {
 			"address": "5800 Harold Way",
 			"city": "Los Angeles",
@@ -144,7 +144,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-25T12:00:00-08:00",
+		"requestTime": "2016-11-25T12:00:00-08:00",
 		"from": {
 			"address": "5101-5115 W Maplewood Ave",
 			"city": "Los Angeles",
@@ -159,7 +159,7 @@
 			"zip": 90028,
 			"country": "US"
 		},
-		"price": 3.30,
+		"price": 3.3,
 		"currency": "USD",
 		"car": {
 			"manufacturer": "Honda",
@@ -168,7 +168,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-25T15:14:00-08:00",
+		"requestTime": "2016-11-25T15:14:00-08:00",
 		"from": {
 			"address": "1459 N bronson Ave",
 			"city": "Los Angeles",
@@ -192,7 +192,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-25T16:32:00-08:00",
+		"requestTime": "2016-11-25T16:32:00-08:00",
 		"from": {
 			"address": "7100-7118 Santa Monica Blvd",
 			"city": "Los Angeles",
@@ -216,7 +216,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-26T17:59:00-08:00",
+		"requestTime": "2016-11-26T17:59:00-08:00",
 		"from": {
 			"address": "5800 Harold Way",
 			"city": "Los Angeles",
@@ -240,7 +240,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-26T21:41:00-08:00",
+		"requestTime": "2016-11-26T21:41:00-08:00",
 		"from": {
 			"address": "516 S Main St",
 			"city": "Los Angeles",
@@ -264,7 +264,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-27T11:44:00-08:00",
+		"requestTime": "2016-11-27T11:44:00-08:00",
 		"from": {
 			"address": "1477-1495 Vine St",
 			"city": "Los Angeles",
@@ -288,7 +288,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-27T11:57:00-08:00",
+		"requestTime": "2016-11-27T11:57:00-08:00",
 		"from": {
 			"address": "Windsor Blvd",
 			"city": "Los Angeles",
@@ -312,7 +312,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-27T14:21:00-08:00",
+		"requestTime": "2016-11-27T14:21:00-08:00",
 		"from": {
 			"address": "629 N Vista St",
 			"city": "Los Angeles",
@@ -336,7 +336,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-28T18:43:00-08:00",
+		"requestTime": "2016-11-28T18:43:00-08:00",
 		"from": {
 			"address": "712-720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -360,7 +360,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-29T08:35:00-08:00",
+		"requestTime": "2016-11-29T08:35:00-08:00",
 		"from": {
 			"address": "5812 Harold Way",
 			"city": "Los Angeles",
@@ -384,7 +384,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-11-30T12:06:00-08:00",
+		"requestTime": "2016-11-30T12:06:00-08:00",
 		"from": {
 			"address": "5800 Harold Way",
 			"city": "Los Angeles",

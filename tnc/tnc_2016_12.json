@@ -1,6 +1,6 @@
 [
 	{
-		"timestamp": "2016-12-01T08:31:00-08:00",
+		"requestTime": "2016-12-01T08:31:00-08:00",
 		"from": {
 			"address": "5851 Harold Way",
 			"city": "Los Angeles",
@@ -24,7 +24,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-01T18:06:00-08:00",
+		"requestTime": "2016-12-01T18:06:00-08:00",
 		"from": {
 			"address": "720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -48,7 +48,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-01T18:49:00-08:00",
+		"requestTime": "2016-12-01T18:49:00-08:00",
 		"from": {
 			"address": "5807-5811 Harold Way",
 			"city": "Los Angeles",
@@ -72,7 +72,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-01T23:21:00-08:00",
+		"requestTime": "2016-12-01T23:21:00-08:00",
 		"from": {
 			"address": "6329-6333 W 3rd St",
 			"city": "Los Angeles",
@@ -96,7 +96,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-02T07:32:00-08:00",
+		"requestTime": "2016-12-02T07:32:00-08:00",
 		"from": {
 			"address": "5807-5811 Harold Way",
 			"city": "Los Angeles",
@@ -120,7 +120,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-03T10:31:00-08:00",
+		"requestTime": "2016-12-03T10:31:00-08:00",
 		"from": {
 			"address": "5761-5799 Sunset Blvd",
 			"city": "Los Angeles",
@@ -144,7 +144,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-03T17:16:00-08:00",
+		"requestTime": "2016-12-03T17:16:00-08:00",
 		"from": {
 			"address": "111 S Oxford Ave",
 			"city": "Los Angeles",
@@ -168,7 +168,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-04T12:20:00-08:00",
+		"requestTime": "2016-12-04T12:20:00-08:00",
 		"from": {
 			"address": "1415 N Bronson Ave",
 			"city": "Los Angeles",
@@ -192,7 +192,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-04T14:32:00-08:00",
+		"requestTime": "2016-12-04T14:32:00-08:00",
 		"from": {
 			"address": "7100 Santa Monica Blvd",
 			"city": "Los Angeles",
@@ -216,7 +216,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-05T08:40:00-08:00",
+		"requestTime": "2016-12-05T08:40:00-08:00",
 		"from": {
 			"address": "1415 N Bronson Ave",
 			"city": "Los Angeles",
@@ -240,7 +240,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-06T18:18:00-08:00",
+		"requestTime": "2016-12-06T18:18:00-08:00",
 		"from": {
 			"address": "712-720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -264,7 +264,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-08T19:59:00-08:00",
+		"requestTime": "2016-12-08T19:59:00-08:00",
 		"from": {
 			"address": "712-720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -288,7 +288,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-09T13:32:00-08:00",
+		"requestTime": "2016-12-09T13:32:00-08:00",
 		"from": {
 			"address": "1477-1495 Vine St",
 			"city": "Los Angeles",
@@ -312,7 +312,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-09T18:40:00-08:00",
+		"requestTime": "2016-12-09T18:40:00-08:00",
 		"from": {
 			"address": "720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -336,7 +336,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-10T17:52:00-08:00",
+		"requestTime": "2016-12-10T17:52:00-08:00",
 		"from": {
 			"address": "753-755 Lillian way",
 			"city": "Los Angeles",
@@ -360,7 +360,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-10T20:13:00-08:00",
+		"requestTime": "2016-12-10T20:13:00-08:00",
 		"from": {
 			"address": "1421 N Bronson Ave",
 			"city": "Los Angeles",
@@ -384,7 +384,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-11T02:17:00-08:00",
+		"requestTime": "2016-12-11T02:17:00-08:00",
 		"from": {
 			"address": "1720 N McCadden Pl",
 			"city": "Los Angeles",
@@ -408,7 +408,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-11T15:37:00-08:00",
+		"requestTime": "2016-12-11T15:37:00-08:00",
 		"from": {
 			"address": "1417 N Bronson Ave",
 			"city": "Los Angeles",
@@ -432,7 +432,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-11T17:00:00-08:00",
+		"requestTime": "2016-12-11T17:00:00-08:00",
 		"from": {
 			"address": "2001-2021 N Brighton St",
 			"city": "Burbank",
@@ -456,7 +456,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-12T17:04:00-08:00",
+		"requestTime": "2016-12-12T17:04:00-08:00",
 		"from": {
 			"address": "712-720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -480,7 +480,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-13T18:25:00-08:00",
+		"requestTime": "2016-12-13T18:25:00-08:00",
 		"from": {
 			"address": "720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -504,7 +504,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-14T18:22:00-08:00",
+		"requestTime": "2016-12-14T18:22:00-08:00",
 		"from": {
 			"address": "720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -528,7 +528,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-15T08:49:00-08:00",
+		"requestTime": "2016-12-15T08:49:00-08:00",
 		"from": {
 			"address": "1415 N Bronson Ave",
 			"city": "Los Angeles",
@@ -552,7 +552,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-15T18:38:00-08:00",
+		"requestTime": "2016-12-15T18:38:00-08:00",
 		"from": {
 			"address": "712-720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -576,7 +576,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-16T18:39:00-08:00",
+		"requestTime": "2016-12-16T18:39:00-08:00",
 		"from": {
 			"address": "1421 N Bronson Ave",
 			"city": "Los Angeles",
@@ -600,7 +600,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-18T08:50:00-08:00",
+		"requestTime": "2016-12-18T08:50:00-08:00",
 		"from": {
 			"address": "1415 N Bronson Ave",
 			"city": "Los Angeles",
@@ -624,7 +624,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-18T09:55:00-08:00",
+		"requestTime": "2016-12-18T09:55:00-08:00",
 		"from": {
 			"address": "8477-8491 Santa Monica Blvd",
 			"city": "Los Angeles",
@@ -648,7 +648,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-19T08:02:00-08:00",
+		"requestTime": "2016-12-19T08:02:00-08:00",
 		"from": {
 			"address": "1417 N Bronson Ave",
 			"city": "Los Angeles",
@@ -672,7 +672,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-20T08:38:00-08:00",
+		"requestTime": "2016-12-20T08:38:00-08:00",
 		"from": {
 			"address": "1417 N Bronson Ave",
 			"city": "Los Angeles",
@@ -696,7 +696,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-20T18:55:00-08:00",
+		"requestTime": "2016-12-20T18:55:00-08:00",
 		"from": {
 			"address": "730 Lilian Way",
 			"city": "Los Angeles",
@@ -720,7 +720,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-21T12:24:00-08:00",
+		"requestTime": "2016-12-21T12:24:00-08:00",
 		"from": {
 			"address": "1427 N Bronson Ave",
 			"city": "Los Angeles",
@@ -744,7 +744,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-21T13:05:00-08:00",
+		"requestTime": "2016-12-21T13:05:00-08:00",
 		"from": {
 			"address": "712-720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -768,7 +768,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-22T12:31:00-08:00",
+		"requestTime": "2016-12-22T12:31:00-08:00",
 		"from": {
 			"address": "1416-1482 N Bronson Ave",
 			"city": "Los Angeles",
@@ -792,7 +792,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-22T12:31:00-08:00",
+		"requestTime": "2016-12-22T12:31:00-08:00",
 		"from": {
 			"address": "1416-1482 N Bronson Ave",
 			"city": "Los Angeles",
@@ -816,7 +816,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-22T13:57:00-08:00",
+		"requestTime": "2016-12-22T13:57:00-08:00",
 		"from": {
 			"address": "800-836 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -840,7 +840,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-22T14:38:00-08:00",
+		"requestTime": "2016-12-22T14:38:00-08:00",
 		"from": {
 			"address": "1401-1415 N McCadden Pl",
 			"city": "Los Angeles",
@@ -864,7 +864,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-22T15:58:00-08:00",
+		"requestTime": "2016-12-22T15:58:00-08:00",
 		"from": {
 			"address": "1421 N Bronson Ave",
 			"city": "Los Angeles",
@@ -888,7 +888,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-22T17:17:00-08:00",
+		"requestTime": "2016-12-22T17:17:00-08:00",
 		"from": {
 			"address": "1253 N La Brea Ave",
 			"city": "Los Angeles",
@@ -912,7 +912,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-23T14:08:00-08:00",
+		"requestTime": "2016-12-23T14:08:00-08:00",
 		"from": {
 			"address": "5420 Sunset Blvd",
 			"city": "Los Angeles",
@@ -936,7 +936,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-26T19:00:00-08:00",
+		"requestTime": "2016-12-26T19:00:00-08:00",
 		"from": {
 			"address": "1253 N La Brea Ave",
 			"city": "Los Angeles",
@@ -960,7 +960,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-27T12:10:00-08:00",
+		"requestTime": "2016-12-27T12:10:00-08:00",
 		"from": {
 			"address": "6010 Fountain Ave",
 			"city": "Los Angeles",
@@ -984,7 +984,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-28T16:58:00-08:00",
+		"requestTime": "2016-12-28T16:58:00-08:00",
 		"from": {
 			"address": "1417 N Bronson Ave",
 			"city": "Los Angeles",
@@ -1008,7 +1008,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-28T16:58:00-08:00",
+		"requestTime": "2016-12-28T16:58:00-08:00",
 		"from": {
 			"address": "1417 N Bronson Ave",
 			"city": "Los Angeles",
@@ -1032,7 +1032,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-28T22:49:00-08:00",
+		"requestTime": "2016-12-28T22:49:00-08:00",
 		"from": {
 			"address": "1527 5th St",
 			"city": "Santa Monica",
@@ -1056,7 +1056,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-29T14:37:00-08:00",
+		"requestTime": "2016-12-29T14:37:00-08:00",
 		"from": {
 			"address": "1417 N Bronson Ace",
 			"city": "Los Angeles",
@@ -1080,7 +1080,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-29T17:52:00-08:00",
+		"requestTime": "2016-12-29T17:52:00-08:00",
 		"from": {
 			"address": "1000 W Jefferson Blvd",
 			"city": "Los Angeles",
@@ -1104,7 +1104,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-31T20:40:00-08:00",
+		"requestTime": "2016-12-31T20:40:00-08:00",
 		"from": {
 			"address": "1415 N Bronson Ave",
 			"city": "Los Angeles",
@@ -1128,7 +1128,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-12-31T20:40:00-08:00",
+		"requestTime": "2016-12-31T20:40:00-08:00",
 		"from": {
 			"address": "700-730 Lillian Way",
 			"city": "Los Angeles",

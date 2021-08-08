@@ -1,6 +1,6 @@
 [
 	{
-		"timestamp": "2017-03-03T12:14:00-01:00",
+		"requestTime": "2017-03-03T12:14:00-01:00",
 		"from": {
 			"address": "Weesperstraat 65",
 			"city": "Amsterdam",
@@ -24,7 +24,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2017-03-03T13:50:00-01:00",
+		"requestTime": "2017-03-03T13:50:00-01:00",
 		"from": {
 			"address": "Beethovenstraat 190IV",
 			"city": "Amsterdam",
@@ -48,7 +48,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2017-03-05T02:15:00-01:00",
+		"requestTime": "2017-03-05T02:15:00-01:00",
 		"from": {
 			"address": "Nieuwe Binnenweg 31-15",
 			"city": "Rotterdam",
@@ -63,7 +63,7 @@
 			"zip": "3036 AC",
 			"country": "NL"
 		},
-		"price": 10.40,
+		"price": 10.4,
 		"currency": "EUR",
 		"car": {
 			"manufacturer": "Mercedes-Benz",

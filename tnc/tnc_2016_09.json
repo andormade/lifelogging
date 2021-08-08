@@ -1,6 +1,6 @@
 [
 	{
-		"timestamp": "2016-09-02T20:41:00-07:00",
+		"requestTime": "2016-09-02T20:41:00-07:00",
 		"from": {
 			"address": "6908 Melrose Ave",
 			"city": "Los Angeles",
@@ -24,7 +24,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-09-02T20:54:00-07:00",
+		"requestTime": "2016-09-02T20:54:00-07:00",
 		"from": {
 			"address": "1421 N Bronson Ave",
 			"city": "Los Angeles",
@@ -48,7 +48,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-09-03T02:31:00-07:00",
+		"requestTime": "2016-09-03T02:31:00-07:00",
 		"from": {
 			"address": "1417 N Bronson Ave",
 			"city": "Los Angeles",
@@ -72,7 +72,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-09-05T16:42:00-07:00",
+		"requestTime": "2016-09-05T16:42:00-07:00",
 		"from": {
 			"address": "701 N Orange Dr",
 			"city": "Los Angeles",
@@ -96,7 +96,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-09-05T20:57:00-07:00",
+		"requestTime": "2016-09-05T20:57:00-07:00",
 		"from": {
 			"address": "730 Lillian Way",
 			"city": "Los Angeles",
@@ -120,7 +120,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-09-08T10:21:00-07:00",
+		"requestTime": "2016-09-08T10:21:00-07:00",
 		"from": {
 			"address": "6912 Melrose Ave",
 			"city": "Los Angeles",
@@ -144,7 +144,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-09-09T09:48:00-07:00",
+		"requestTime": "2016-09-09T09:48:00-07:00",
 		"from": {
 			"address": "6912 Melrose Ave",
 			"city": "Los Angeles",
@@ -168,7 +168,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-09-09T21:09:00-07:00",
+		"requestTime": "2016-09-09T21:09:00-07:00",
 		"from": {
 			"address": "720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -192,7 +192,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-09-14T19:22:00-07:00",
+		"requestTime": "2016-09-14T19:22:00-07:00",
 		"from": {
 			"address": "6992 W Melrose Ave",
 			"city": "Los Angeles",
@@ -207,12 +207,12 @@
 			"zip": 90045,
 			"country": "US"
 		},
-		"price": 23.90,
+		"price": 23.9,
 		"currency": "USD",
 		"tnc": "lyft"
 	},
 	{
-		"timestamp": "2016-09-14T20:55:00-07:00",
+		"requestTime": "2016-09-14T20:55:00-07:00",
 		"from": {
 			"address": "Jenny Ave",
 			"city": "Los Angeles",
@@ -227,12 +227,12 @@
 			"zip": 90038,
 			"country": "US"
 		},
-		"price": 15.80,
+		"price": 15.8,
 		"currency": "USD",
 		"tnc": "lyft"
 	},
 	{
-		"timestamp": "2016-09-17T09:58:00-07:00",
+		"requestTime": "2016-09-17T09:58:00-07:00",
 		"from": {
 			"address": "7082 Willoughby Ave",
 			"city": "Los Angeles",
@@ -252,7 +252,7 @@
 		"tnc": "lyft"
 	},
 	{
-		"timestamp": "2016-09-17T14:21:00-07:00",
+		"requestTime": "2016-09-17T14:21:00-07:00",
 		"from": {
 			"address": "Admiralty Way",
 			"city": "Marina Del Rey",
@@ -267,12 +267,12 @@
 			"zip": 90292,
 			"country": "US"
 		},
-		"price": 2.00,
+		"price": 2.0,
 		"currency": "USD",
 		"tnc": "lyft"
 	},
 	{
-		"timestamp": "2016-09-17T17:58:00-07:00",
+		"requestTime": "2016-09-17T17:58:00-07:00",
 		"from": {
 			"address": "3179 Pacific Ave",
 			"city": "Marina Del Rey",

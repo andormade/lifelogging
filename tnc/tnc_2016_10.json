@@ -1,6 +1,6 @@
 [
 	{
-		"timestamp": "2016-10-30T11:37:00+01:00",
+		"requestTime": "2016-10-30T11:37:00+01:00",
 		"from": {
 			"address": "Karl-Liebknecht-Sr. 8",
 			"city": "Berlin",
@@ -15,7 +15,7 @@
 			"zip": 10117,
 			"country": "DE"
 		},
-		"price": 12.90,
+		"price": 12.9,
 		"currency": "EUR",
 		"car": {
 			"manufacturer": "Toyota",

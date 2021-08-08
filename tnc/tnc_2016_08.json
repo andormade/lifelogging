@@ -1,6 +1,6 @@
 [
 	{
-		"timestamp": "2016-08-01T21:56:00-07:00",
+		"requestTime": "2016-08-01T21:56:00-07:00",
 		"from": {
 			"address": "9800-9998 Vickburgs Ave",
 			"city": "Los Angeles",
@@ -24,7 +24,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-05T18:37:00-07:00",
+		"requestTime": "2016-08-05T18:37:00-07:00",
 		"from": {
 			"address": "712-720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -39,7 +39,7 @@
 			"zip": 90028,
 			"country": "US"
 		},
-		"price": 2.50,
+		"price": 2.5,
 		"currency": "USD",
 		"car": {
 			"manufacturer": "Kia",
@@ -48,7 +48,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-06T00:49:00-07:00",
+		"requestTime": "2016-08-06T00:49:00-07:00",
 		"from": {
 			"address": "6857-6867 Hollywood Blvd",
 			"city": "Los Angeles",
@@ -72,7 +72,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-07T13:06:00-07:00",
+		"requestTime": "2016-08-07T13:06:00-07:00",
 		"from": {
 			"address": "6906 Melrose Ave",
 			"city": "Los Angeles",
@@ -96,7 +96,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-07T16:01:00-07:00",
+		"requestTime": "2016-08-07T16:01:00-07:00",
 		"from": {
 			"address": "205-231 E Magnolia Blvd",
 			"city": "Burbank",
@@ -120,7 +120,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-07T20:57:00-07:00",
+		"requestTime": "2016-08-07T20:57:00-07:00",
 		"from": {
 			"address": "534 S Alexandria Ave",
 			"city": "Los Angeles",
@@ -135,7 +135,7 @@
 			"zip": 90038,
 			"country": "US"
 		},
-		"price": 9.90,
+		"price": 9.9,
 		"currency": "USD",
 		"car": {
 			"manufacturer": "Toyota",
@@ -144,7 +144,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-11T20:26:00-07:00",
+		"requestTime": "2016-08-11T20:26:00-07:00",
 		"from": {
 			"address": "712 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -159,7 +159,7 @@
 			"zip": 90038,
 			"country": "US"
 		},
-		"price": 4.00,
+		"price": 4.0,
 		"currency": "USD",
 		"car": {
 			"manufacturer": "Toyota",
@@ -168,7 +168,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-11T20:37:00-07:00",
+		"requestTime": "2016-08-11T20:37:00-07:00",
 		"from": {
 			"address": "6906 Melrose Ave",
 			"city": "Los Angeles",
@@ -183,7 +183,7 @@
 			"zip": 90038,
 			"country": "US"
 		},
-		"price": 4.00,
+		"price": 4.0,
 		"currency": "USD",
 		"car": {
 			"manufacturer": "Toyota",
@@ -192,7 +192,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-13T16:24:00-07:00",
+		"requestTime": "2016-08-13T16:24:00-07:00",
 		"from": {
 			"address": "6906 Melrose Ave",
 			"city": "Los Angeles",
@@ -216,7 +216,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-13T17:12:00-07:00",
+		"requestTime": "2016-08-13T17:12:00-07:00",
 		"from": {
 			"address": "3470 W 6th St",
 			"city": "Los Angeles",
@@ -240,7 +240,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-14T02:10:00-07:00",
+		"requestTime": "2016-08-14T02:10:00-07:00",
 		"from": {
 			"address": "1336 S Grand Ave",
 			"city": "Los Angeles",
@@ -264,7 +264,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-19T17:02:00-07:00",
+		"requestTime": "2016-08-19T17:02:00-07:00",
 		"from": {
 			"address": "712-720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -288,7 +288,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-20T00:19:00-07:00",
+		"requestTime": "2016-08-20T00:19:00-07:00",
 		"from": {
 			"address": "820 N Hill St",
 			"city": "Los Angeles",
@@ -312,7 +312,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-22T22:36:00-07:00",
+		"requestTime": "2016-08-22T22:36:00-07:00",
 		"from": {
 			"address": "730 Lillian Way",
 			"city": "Los Angeles",
@@ -336,7 +336,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-26T22:26:00-07:00",
+		"requestTime": "2016-08-26T22:26:00-07:00",
 		"from": {
 			"address": "1233 Vine St",
 			"city": "Los Angeles",
@@ -360,7 +360,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-27T12:06:00-07:00",
+		"requestTime": "2016-08-27T12:06:00-07:00",
 		"from": {
 			"address": "6906 Melrose Ave",
 			"city": "Los Angeles",
@@ -384,7 +384,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-27T18:23:00-07:00",
+		"requestTime": "2016-08-27T18:23:00-07:00",
 		"from": {
 			"address": "1453-1465 Ivar Ave",
 			"city": "Los Angeles",
@@ -408,7 +408,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-28T14:10:00-07:00",
+		"requestTime": "2016-08-28T14:10:00-07:00",
 		"from": {
 			"address": "6908 Melrose Ave",
 			"city": "Los Angeles",
@@ -432,7 +432,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-28T22:32:00-07:00",
+		"requestTime": "2016-08-28T22:32:00-07:00",
 		"from": {
 			"address": "700-750 Lillian Way",
 			"city": "Los Angeles",
@@ -456,7 +456,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2016-08-30T22:46:00-07:00",
+		"requestTime": "2016-08-30T22:46:00-07:00",
 		"from": {
 			"address": "6441-6479 Yucca St",
 			"city": "Los Angeles",
