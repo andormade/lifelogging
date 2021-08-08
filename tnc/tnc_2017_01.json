@@ -1,6 +1,6 @@
 [
 	{
-		"timestamp": "2017-01-01T01:48:00-08:00",
+		"requestTime": "2017-01-01T01:48:00-08:00",
 		"from": {
 			"address": "923 N Oxford Ave",
 			"city": "Los Angeles",
@@ -24,7 +24,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2017-01-02T17:48:00-08:00",
+		"requestTime": "2017-01-02T17:48:00-08:00",
 		"from": {
 			"address": "1253 N La Brea Ave",
 			"city": "Los Angeles",
@@ -48,7 +48,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2017-01-03T18:19:00-08:00",
+		"requestTime": "2017-01-03T18:19:00-08:00",
 		"from": {
 			"address": "726-738 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -72,7 +72,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2017-01-04T17:36:00-08:00",
+		"requestTime": "2017-01-04T17:36:00-08:00",
 		"from": {
 			"address": "712-720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -96,7 +96,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2017-01-05T08:31:00-08:00",
+		"requestTime": "2017-01-05T08:31:00-08:00",
 		"from": {
 			"address": "1417 N Bronson Ave",
 			"city": "Los Angeles",
@@ -120,7 +120,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2017-01-05T18:28:00-08:00",
+		"requestTime": "2017-01-05T18:28:00-08:00",
 		"from": {
 			"address": "712-720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -144,7 +144,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2017-01-06T08:33:00-08:00",
+		"requestTime": "2017-01-06T08:33:00-08:00",
 		"from": {
 			"address": "1421 N Bronson Ave",
 			"city": "Los Angeles",
@@ -168,7 +168,7 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2017-01-06T17:57:00-08:00",
+		"requestTime": "2017-01-06T17:57:00-08:00",
 		"from": {
 			"address": " 720 N Cahuenga Blvd",
 			"city": "Los Angeles",
@@ -192,9 +192,9 @@
 		"tnc": "uber"
 	},
 	{
-		"timestamp": "2017-01-07T20:31:00-08:00",
+		"requestTime": "2017-01-07T20:31:00-08:00",
 		"from": {
-			"address": " 1253 N La Brea Ave",
+			"address": "1253 N La Brea Ave",
 			"city": "Los Angeles",
 			"state": "California",
 			"zip": 90038,
@@ -213,6 +213,48 @@
 			"manufacturer": "Lexus",
 			"model": "HS"
 		},
+		"tnc": "uber"
+	},
+	{
+		"requestTime": "2017-01-08T21:24:55.000Z",
+		"dropoffTime": "2017-01-08T22:03:36.000Z",
+		"from": {
+			"address": "6061 W Sunset Blvd",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"to": {
+			"address": "4414 rosewood ave apt 3",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90004",
+			"country": "US"
+		},
+		"price": 3.49,
+		"currency": "USD",
+		"tnc": "uber"
+	},
+	{
+		"requestTime": "2017-01-09T01:04:07.000Z",
+		"dropoffTime": "2017-01-09T01:26:48.000Z",
+		"from": {
+			"address": "639 N Broadway",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90012",
+			"country": "US"
+		},
+		"to": {
+			"address": "1417 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"price": 4.9,
+		"currency": "USD",
 		"tnc": "uber"
 	}
 ]
