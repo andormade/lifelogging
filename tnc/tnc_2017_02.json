@@ -1,0 +1,233 @@
+[
+	{
+		"requestTime": "2017-02-01T02:26:36.000Z",
+		"dropoffTime": "2017-02-01T02:51:17.000Z",
+		"from": {
+			"address": "720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90038",
+			"country": "US"
+		},
+		"to": {
+			"address": "1415 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"price": 4.18,
+		"currency": "USD",
+		"tnc": "uber"
+	},
+	{
+		"requestTime": "2017-02-02T02:24:37.000Z",
+		"dropoffTime": "2017-02-02T02:44:36.000Z",
+		"from": {
+			"address": "726 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90038",
+			"country": "US"
+		},
+		"to": {
+			"address": "1417 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"price": 3.68,
+		"currency": "USD",
+		"tnc": "uber"
+	},
+	{
+		"requestTime": "2017-02-03T05:31:24.000Z",
+		"dropoffTime": "2017-02-03T05:38:47.000Z",
+		"from": {
+			"address": "1158 N Highland Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90038",
+			"country": "US"
+		},
+		"to": {
+			"address": "5800 W Sunset Blvd",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"price": 3.49,
+		"currency": "USD",
+		"tnc": "uber"
+	},
+	{
+		"requestTime": "2017-02-04T05:46:58.000Z",
+		"dropoffTime": "2017-02-04T05:55:25.000Z",
+		"from": {
+			"address": "726 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90038",
+			"country": "US"
+		},
+		"to": {
+			"address": "1421 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"price": 4.24,
+		"currency": "USD",
+		"tnc": "uber"
+	},
+	{
+		"requestTime": "2017-02-06T16:35:35.000Z",
+		"dropoffTime": "2017-02-06T16:47:54.000Z",
+		"from": {
+			"address": "1417 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"to": {
+			"address": "720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90038",
+			"country": "US"
+		},
+		"price": 6.09,
+		"currency": "USD",
+		"tnc": "uber"
+	},
+	{
+		"requestTime": "2017-02-07T17:10:34.000Z",
+		"dropoffTime": "2017-02-07T17:22:39.000Z",
+		"from": {
+			"address": "1421 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"to": {
+			"address": "721 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90038",
+			"country": "US"
+		},
+		"price": 2.99,
+		"currency": "USD",
+		"tnc": "uber"
+	},
+	{
+		"requestTime": "2017-02-08T16:32:19.000Z",
+		"dropoffTime": "2017-02-08T16:43:38.000Z",
+		"from": {
+			"address": "1417 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"to": {
+			"address": "720 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90038",
+			"country": "US"
+		},
+		"price": 3.49,
+		"currency": "USD",
+		"tnc": "uber"
+	},
+	{
+		"requestTime": "2017-02-09T06:38:08.000Z",
+		"dropoffTime": "2017-02-09T06:47:58.000Z",
+		"from": {
+			"address": "920 N Oxford Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90029",
+			"country": "US"
+		},
+		"to": {
+			"address": "1417 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"price": 3.49,
+		"currency": "USD",
+		"tnc": "uber"
+	},
+	{
+		"requestTime": "2017-02-10T16:42:29.000Z",
+		"dropoffTime": "2017-02-10T16:52:05.000Z",
+		"from": {
+			"address": "5800 W Sunset Blvd",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"to": {
+			"address": "726 N Cahuenga Blvd",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90038",
+			"country": "US"
+		},
+		"price": 3.49,
+		"currency": "USD",
+		"tnc": "uber"
+	},
+	{
+		"requestTime": "2017-02-11T02:44:31.000Z",
+		"dropoffTime": "2017-02-11T03:07:02.000Z",
+		"from": {
+			"address": "5901 Melrose Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90038",
+			"country": "US"
+		},
+		"to": {
+			"address": "5800 W Sunset Blvd",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"price": 5.99,
+		"currency": "USD",
+		"tnc": "uber"
+	},
+	{
+		"requestTime": "2017-02-11T04:31:55.000Z",
+		"dropoffTime": "2017-02-11T04:47:37.000Z",
+		"from": {
+			"address": "1528 N Bronson Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90028",
+			"country": "US"
+		},
+		"to": {
+			"address": "924 N Oxford Ave",
+			"city": "Los Angeles",
+			"state": "Calforinia",
+			"zip": "90029",
+			"country": "US"
+		},
+		"price": 3.74,
+		"currency": "USD",
+		"tnc": "uber"
+	}
+]
