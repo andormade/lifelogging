@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/andormade/lifelogging#readme",
   "dependencies": {
-    "ajv": "^6.5.4",
+    "ajv": "^6.12.3",
     "ajv-cli": "^3.0.0"
   }
 }
